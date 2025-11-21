@@ -1,0 +1,1558 @@
+{
+  "resource_metadata": {
+    "aquifer_type": "Bible",
+    "resource_type": "Bible",
+    "title": "Berean Standard Bible",
+    "aquifer_name": "Berean Standard Bible",
+    "version": "1.0.2",
+    "collection_title": "Berean Standard Bible",
+    "short_name": "BSB",
+    "license_info": {
+      "title": "Berean Standard Bible",
+      "copyright": {
+        "dates": null,
+        "holder": {
+          "name": "Berean Standard Bible",
+          "url": "https://berean.bible"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "Public Domain CC0",
+            "url": "https://creativecommons.org/public-domain/cc0/"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": false
+    },
+    "adaptation_notice": "",
+    "resource_code": "BereanStandardBible",
+    "date_created": "2025-11-20",
+    "language": "eng",
+    "localizations": [],
+    "order": "canonical",
+    "content_type": "Bible"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2025-11-20T13:40:40.049625"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "BereanStandardBible": {
+            "timestamp": "2025-11-20T13:40:40.049625"
+          }
+        }
+      },
+      "name": {
+        "en": "Berean Standard Bible"
+      },
+      "abbreviation": {
+        "en": "BSB"
+      }
+    },
+    "languages": [
+      {
+        "tag": "en",
+        "name": {
+          "en": "English"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "scripture",
+        "flavor": {
+          "name": "textTranslation",
+          "audience": "common"
+        },
+        "currentScope": {
+          "GEN": [],
+          "EXO": [],
+          "LEV": [],
+          "NUM": [],
+          "DEU": [],
+          "JOS": [],
+          "JDG": [],
+          "RUT": [],
+          "1SA": [],
+          "2SA": [],
+          "1KI": [],
+          "2KI": [],
+          "1CH": [],
+          "2CH": [],
+          "EZR": [],
+          "NEH": [],
+          "EST": [],
+          "JOB": [],
+          "PSA": [],
+          "PRO": [],
+          "ECC": [],
+          "SNG": [],
+          "ISA": [],
+          "JER": [],
+          "LAM": [],
+          "EZK": [],
+          "DAN": [],
+          "HOS": [],
+          "JOL": [],
+          "AMO": [],
+          "OBA": [],
+          "JON": [],
+          "MIC": [],
+          "NAM": [],
+          "HAB": [],
+          "ZEP": [],
+          "HAG": [],
+          "ZEC": [],
+          "MAL": [],
+          "MAT": [],
+          "MRK": [],
+          "LUK": [],
+          "JHN": [],
+          "ACT": [],
+          "ROM": [],
+          "1CO": [],
+          "2CO": [],
+          "GAL": [],
+          "EPH": [],
+          "PHP": [],
+          "COL": [],
+          "1TH": [],
+          "2TH": [],
+          "1TI": [],
+          "2TI": [],
+          "TIT": [],
+          "PHM": [],
+          "HEB": [],
+          "JAS": [],
+          "1PE": [],
+          "2PE": [],
+          "1JN": [],
+          "2JN": [],
+          "3JN": [],
+          "JUD": [],
+          "REV": []
+        }
+      }
+    },
+    "ingredients": {
+      "usx/01GENBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 333215,
+        "scope": {
+          "GEN": []
+        }
+      },
+      "usx/02EXOBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 268914,
+        "scope": {
+          "EXO": []
+        }
+      },
+      "usx/03LEVBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 196357,
+        "scope": {
+          "LEV": []
+        }
+      },
+      "usx/04NUMBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 277112,
+        "scope": {
+          "NUM": []
+        }
+      },
+      "usx/05DEUBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 224608,
+        "scope": {
+          "DEU": []
+        }
+      },
+      "usx/06JOSBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 152310,
+        "scope": {
+          "JOS": []
+        }
+      },
+      "usx/07JDGBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 149147,
+        "scope": {
+          "JDG": []
+        }
+      },
+      "usx/08RUTBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 21059,
+        "scope": {
+          "RUT": []
+        }
+      },
+      "usx/091SABSB.usx": {
+        "mimeType": "application/xml",
+        "size": 198130,
+        "scope": {
+          "1SA": []
+        }
+      },
+      "usx/102SABSB.usx": {
+        "mimeType": "application/xml",
+        "size": 166280,
+        "scope": {
+          "2SA": []
+        }
+      },
+      "usx/111KIBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 196827,
+        "scope": {
+          "1KI": []
+        }
+      },
+      "usx/122KIBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 184961,
+        "scope": {
+          "2KI": []
+        }
+      },
+      "usx/131CHBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 193314,
+        "scope": {
+          "1CH": []
+        }
+      },
+      "usx/142CHBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 209914,
+        "scope": {
+          "2CH": []
+        }
+      },
+      "usx/15EZRBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 63088,
+        "scope": {
+          "EZR": []
+        }
+      },
+      "usx/16NEHBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 91671,
+        "scope": {
+          "NEH": []
+        }
+      },
+      "usx/17ESTBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 44232,
+        "scope": {
+          "EST": []
+        }
+      },
+      "usx/18JOBBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 189053,
+        "scope": {
+          "JOB": []
+        }
+      },
+      "usx/19PSABSB.usx": {
+        "mimeType": "application/xml",
+        "size": 463943,
+        "scope": {
+          "PSA": []
+        }
+      },
+      "usx/20PROBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 162232,
+        "scope": {
+          "PRO": []
+        }
+      },
+      "usx/21ECCBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 47785,
+        "scope": {
+          "ECC": []
+        }
+      },
+      "usx/22SNGBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 24640,
+        "scope": {
+          "SNG": []
+        }
+      },
+      "usx/23ISABSB.usx": {
+        "mimeType": "application/xml",
+        "size": 304595,
+        "scope": {
+          "ISA": []
+        }
+      },
+      "usx/24JERBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 341971,
+        "scope": {
+          "JER": []
+        }
+      },
+      "usx/25LAMBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 31750,
+        "scope": {
+          "LAM": []
+        }
+      },
+      "usx/26EZKBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 311642,
+        "scope": {
+          "EZK": []
+        }
+      },
+      "usx/27DANBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 91189,
+        "scope": {
+          "DAN": []
+        }
+      },
+      "usx/28HOSBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 45238,
+        "scope": {
+          "HOS": []
+        }
+      },
+      "usx/29JOLBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 17143,
+        "scope": {
+          "JOL": []
+        }
+      },
+      "usx/30AMOBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 34685,
+        "scope": {
+          "AMO": []
+        }
+      },
+      "usx/31OBABSB.usx": {
+        "mimeType": "application/xml",
+        "size": 5516,
+        "scope": {
+          "OBA": []
+        }
+      },
+      "usx/32JONBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 11227,
+        "scope": {
+          "JON": []
+        }
+      },
+      "usx/33MICBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 25485,
+        "scope": {
+          "MIC": []
+        }
+      },
+      "usx/34NAMBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 11048,
+        "scope": {
+          "NAM": []
+        }
+      },
+      "usx/35HABBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 12864,
+        "scope": {
+          "HAB": []
+        }
+      },
+      "usx/36ZEPBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 13292,
+        "scope": {
+          "ZEP": []
+        }
+      },
+      "usx/37HAGBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 9452,
+        "scope": {
+          "HAG": []
+        }
+      },
+      "usx/38ZECBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 50932,
+        "scope": {
+          "ZEC": []
+        }
+      },
+      "usx/39MALBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 14621,
+        "scope": {
+          "MAL": []
+        }
+      },
+      "usx/40MATBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 220003,
+        "scope": {
+          "MAT": []
+        }
+      },
+      "usx/41MRKBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 138581,
+        "scope": {
+          "MRK": []
+        }
+      },
+      "usx/42LUKBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 236163,
+        "scope": {
+          "LUK": []
+        }
+      },
+      "usx/43JHNBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 179059,
+        "scope": {
+          "JHN": []
+        }
+      },
+      "usx/44ACTBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 217979,
+        "scope": {
+          "ACT": []
+        }
+      },
+      "usx/45ROMBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 91223,
+        "scope": {
+          "ROM": []
+        }
+      },
+      "usx/461COBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 89878,
+        "scope": {
+          "1CO": []
+        }
+      },
+      "usx/472COBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 55960,
+        "scope": {
+          "2CO": []
+        }
+      },
+      "usx/48GALBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 30502,
+        "scope": {
+          "GAL": []
+        }
+      },
+      "usx/49EPHBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 30761,
+        "scope": {
+          "EPH": []
+        }
+      },
+      "usx/50PHPBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 21338,
+        "scope": {
+          "PHP": []
+        }
+      },
+      "usx/51COLBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 19873,
+        "scope": {
+          "COL": []
+        }
+      },
+      "usx/521THBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 18351,
+        "scope": {
+          "1TH": []
+        }
+      },
+      "usx/532THBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 10259,
+        "scope": {
+          "2TH": []
+        }
+      },
+      "usx/541TIBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 23978,
+        "scope": {
+          "1TI": []
+        }
+      },
+      "usx/552TIBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 17135,
+        "scope": {
+          "2TI": []
+        }
+      },
+      "usx/56TITBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 9859,
+        "scope": {
+          "TIT": []
+        }
+      },
+      "usx/57PHMBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 4910,
+        "scope": {
+          "PHM": []
+        }
+      },
+      "usx/58HEBBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 65637,
+        "scope": {
+          "HEB": []
+        }
+      },
+      "usx/59JASBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 22392,
+        "scope": {
+          "JAS": []
+        }
+      },
+      "usx/601PEBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 23103,
+        "scope": {
+          "1PE": []
+        }
+      },
+      "usx/612PEBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 14599,
+        "scope": {
+          "2PE": []
+        }
+      },
+      "usx/621JNBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 22811,
+        "scope": {
+          "1JN": []
+        }
+      },
+      "usx/632JNBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 3022,
+        "scope": {
+          "2JN": []
+        }
+      },
+      "usx/643JNBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 3194,
+        "scope": {
+          "3JN": []
+        }
+      },
+      "usx/65JUDBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 6080,
+        "scope": {
+          "JUD": []
+        }
+      },
+      "usx/66REVBSB.usx": {
+        "mimeType": "application/xml",
+        "size": 97806,
+        "scope": {
+          "REV": []
+        }
+      },
+      "usfm/01GENBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 205469,
+        "scope": {
+          "GEN": []
+        }
+      },
+      "usfm/02EXOBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 167898,
+        "scope": {
+          "EXO": []
+        }
+      },
+      "usfm/03LEVBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 124952,
+        "scope": {
+          "LEV": []
+        }
+      },
+      "usfm/04NUMBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 170412,
+        "scope": {
+          "NUM": []
+        }
+      },
+      "usfm/05DEUBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 144800,
+        "scope": {
+          "DEU": []
+        }
+      },
+      "usfm/06JOSBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 97492,
+        "scope": {
+          "JOS": []
+        }
+      },
+      "usfm/07JDGBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 97928,
+        "scope": {
+          "JDG": []
+        }
+      },
+      "usfm/08RUTBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 13901,
+        "scope": {
+          "RUT": []
+        }
+      },
+      "usfm/091SABSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 130505,
+        "scope": {
+          "1SA": []
+        }
+      },
+      "usfm/102SABSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 108438,
+        "scope": {
+          "2SA": []
+        }
+      },
+      "usfm/111KIBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 129445,
+        "scope": {
+          "1KI": []
+        }
+      },
+      "usfm/122KIBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 125188,
+        "scope": {
+          "2KI": []
+        }
+      },
+      "usfm/131CHBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 115359,
+        "scope": {
+          "1CH": []
+        }
+      },
+      "usfm/142CHBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 141060,
+        "scope": {
+          "2CH": []
+        }
+      },
+      "usfm/15EZRBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 39970,
+        "scope": {
+          "EZR": []
+        }
+      },
+      "usfm/16NEHBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 58114,
+        "scope": {
+          "NEH": []
+        }
+      },
+      "usfm/17ESTBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 30224,
+        "scope": {
+          "EST": []
+        }
+      },
+      "usfm/18JOBBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 99607,
+        "scope": {
+          "JOB": []
+        }
+      },
+      "usfm/19PSABSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 243555,
+        "scope": {
+          "PSA": []
+        }
+      },
+      "usfm/20PROBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 86097,
+        "scope": {
+          "PRO": []
+        }
+      },
+      "usfm/21ECCBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 29213,
+        "scope": {
+          "ECC": []
+        }
+      },
+      "usfm/22SNGBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 14742,
+        "scope": {
+          "SNG": []
+        }
+      },
+      "usfm/23ISABSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 195757,
+        "scope": {
+          "ISA": []
+        }
+      },
+      "usfm/24JERBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 228017,
+        "scope": {
+          "JER": []
+        }
+      },
+      "usfm/25LAMBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 19027,
+        "scope": {
+          "LAM": []
+        }
+      },
+      "usfm/26EZKBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 205176,
+        "scope": {
+          "EZK": []
+        }
+      },
+      "usfm/27DANBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 61747,
+        "scope": {
+          "DAN": []
+        }
+      },
+      "usfm/28HOSBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 28520,
+        "scope": {
+          "HOS": []
+        }
+      },
+      "usfm/29JOLBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 10990,
+        "scope": {
+          "JOL": []
+        }
+      },
+      "usfm/30AMOBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 22422,
+        "scope": {
+          "AMO": []
+        }
+      },
+      "usfm/31OBABSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 3613,
+        "scope": {
+          "OBA": []
+        }
+      },
+      "usfm/32JONBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 7029,
+        "scope": {
+          "JON": []
+        }
+      },
+      "usfm/33MICBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 16592,
+        "scope": {
+          "MIC": []
+        }
+      },
+      "usfm/34NAMBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 6975,
+        "scope": {
+          "NAM": []
+        }
+      },
+      "usfm/35HABBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 8071,
+        "scope": {
+          "HAB": []
+        }
+      },
+      "usfm/36ZEPBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 8739,
+        "scope": {
+          "ZEP": []
+        }
+      },
+      "usfm/37HAGBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 6144,
+        "scope": {
+          "HAG": []
+        }
+      },
+      "usfm/38ZECBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 33088,
+        "scope": {
+          "ZEC": []
+        }
+      },
+      "usfm/39MALBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 9857,
+        "scope": {
+          "MAL": []
+        }
+      },
+      "usfm/40MATBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 131497,
+        "scope": {
+          "MAT": []
+        }
+      },
+      "usfm/41MRKBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 83223,
+        "scope": {
+          "MRK": []
+        }
+      },
+      "usfm/42LUKBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 141597,
+        "scope": {
+          "LUK": []
+        }
+      },
+      "usfm/43JHNBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 106786,
+        "scope": {
+          "JHN": []
+        }
+      },
+      "usfm/44ACTBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 134925,
+        "scope": {
+          "ACT": []
+        }
+      },
+      "usfm/45ROMBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 55403,
+        "scope": {
+          "ROM": []
+        }
+      },
+      "usfm/461COBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 53540,
+        "scope": {
+          "1CO": []
+        }
+      },
+      "usfm/472COBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 34457,
+        "scope": {
+          "2CO": []
+        }
+      },
+      "usfm/48GALBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 18134,
+        "scope": {
+          "GAL": []
+        }
+      },
+      "usfm/49EPHBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 17913,
+        "scope": {
+          "EPH": []
+        }
+      },
+      "usfm/50PHPBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 12660,
+        "scope": {
+          "PHP": []
+        }
+      },
+      "usfm/51COLBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 11915,
+        "scope": {
+          "COL": []
+        }
+      },
+      "usfm/521THBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 10828,
+        "scope": {
+          "1TH": []
+        }
+      },
+      "usfm/532THBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 6186,
+        "scope": {
+          "2TH": []
+        }
+      },
+      "usfm/541TIBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 14490,
+        "scope": {
+          "1TI": []
+        }
+      },
+      "usfm/552TIBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 10137,
+        "scope": {
+          "2TI": []
+        }
+      },
+      "usfm/56TITBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 5866,
+        "scope": {
+          "TIT": []
+        }
+      },
+      "usfm/57PHMBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 2687,
+        "scope": {
+          "PHM": []
+        }
+      },
+      "usfm/58HEBBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 40360,
+        "scope": {
+          "HEB": []
+        }
+      },
+      "usfm/59JASBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 13349,
+        "scope": {
+          "JAS": []
+        }
+      },
+      "usfm/601PEBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 14300,
+        "scope": {
+          "1PE": []
+        }
+      },
+      "usfm/612PEBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 9406,
+        "scope": {
+          "2PE": []
+        }
+      },
+      "usfm/621JNBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 14008,
+        "scope": {
+          "1JN": []
+        }
+      },
+      "usfm/632JNBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 1759,
+        "scope": {
+          "2JN": []
+        }
+      },
+      "usfm/643JNBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 1851,
+        "scope": {
+          "3JN": []
+        }
+      },
+      "usfm/65JUDBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 3857,
+        "scope": {
+          "JUD": []
+        }
+      },
+      "usfm/66REVBSB.SFM": {
+        "mimeType": "text/plain",
+        "size": 63810,
+        "scope": {
+          "REV": []
+        }
+      },
+      "audio/01GENBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 320974,
+        "scope": {
+          "GEN": []
+        }
+      },
+      "audio/02EXOBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 254074,
+        "scope": {
+          "EXO": []
+        }
+      },
+      "audio/03LEVBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 179531,
+        "scope": {
+          "LEV": []
+        }
+      },
+      "audio/04NUMBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 267779,
+        "scope": {
+          "NUM": []
+        }
+      },
+      "audio/05DEUBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 201491,
+        "scope": {
+          "DEU": []
+        }
+      },
+      "audio/06JOSBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 138482,
+        "scope": {
+          "JOS": []
+        }
+      },
+      "audio/07JDGBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 129526,
+        "scope": {
+          "JDG": []
+        }
+      },
+      "audio/08RUTBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 18230,
+        "scope": {
+          "RUT": []
+        }
+      },
+      "audio/091SABSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 170912,
+        "scope": {
+          "1SA": []
+        }
+      },
+      "audio/102SABSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 145877,
+        "scope": {
+          "2SA": []
+        }
+      },
+      "audio/111KIBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 169355,
+        "scope": {
+          "1KI": []
+        }
+      },
+      "audio/122KIBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 150924,
+        "scope": {
+          "2KI": []
+        }
+      },
+      "audio/131CHBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 196534,
+        "scope": {
+          "1CH": []
+        }
+      },
+      "audio/142CHBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 174762,
+        "scope": {
+          "2CH": []
+        }
+      },
+      "audio/15EZRBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 58813,
+        "scope": {
+          "EZR": []
+        }
+      },
+      "audio/16NEHBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 84863,
+        "scope": {
+          "NEH": []
+        }
+      },
+      "audio/17ESTBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 36291,
+        "scope": {
+          "EST": []
+        }
+      },
+      "audio/18JOBBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 226083,
+        "scope": {
+          "JOB": []
+        }
+      },
+      "audio/19PSABSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 536683,
+        "scope": {
+          "PSA": []
+        }
+      },
+      "audio/20PROBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 191862,
+        "scope": {
+          "PRO": []
+        }
+      },
+      "audio/21ECCBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 47849,
+        "scope": {
+          "ECC": []
+        }
+      },
+      "audio/22SNGBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 25754,
+        "scope": {
+          "SNG": []
+        }
+      },
+      "audio/23ISABSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 277449,
+        "scope": {
+          "ISA": []
+        }
+      },
+      "audio/24JERBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 287738,
+        "scope": {
+          "JER": []
+        }
+      },
+      "audio/25LAMBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 32250,
+        "scope": {
+          "LAM": []
+        }
+      },
+      "audio/26EZKBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 268463,
+        "scope": {
+          "EZK": []
+        }
+      },
+      "audio/27DANBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 74749,
+        "scope": {
+          "DAN": []
+        }
+      },
+      "audio/28HOSBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 43478,
+        "scope": {
+          "HOS": []
+        }
+      },
+      "audio/29JOLBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 15553,
+        "scope": {
+          "JOL": []
+        }
+      },
+      "audio/30AMOBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 31814,
+        "scope": {
+          "AMO": []
+        }
+      },
+      "audio/31OBABSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 4627,
+        "scope": {
+          "OBA": []
+        }
+      },
+      "audio/32JONBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 10867,
+        "scope": {
+          "JON": []
+        }
+      },
+      "audio/33MICBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 23077,
+        "scope": {
+          "MIC": []
+        }
+      },
+      "audio/34NAMBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 10379,
+        "scope": {
+          "NAM": []
+        }
+      },
+      "audio/35HABBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 12170,
+        "scope": {
+          "HAB": []
+        }
+      },
+      "audio/36ZEPBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 11573,
+        "scope": {
+          "ZEP": []
+        }
+      },
+      "audio/37HAGBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 8299,
+        "scope": {
+          "HAG": []
+        }
+      },
+      "audio/38ZECBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 46267,
+        "scope": {
+          "ZEC": []
+        }
+      },
+      "audio/39MALBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 12263,
+        "scope": {
+          "MAL": []
+        }
+      },
+      "audio/40MATBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 221578,
+        "scope": {
+          "MAT": []
+        }
+      },
+      "audio/41MRKBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 139013,
+        "scope": {
+          "MRK": []
+        }
+      },
+      "audio/42LUKBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 236425,
+        "scope": {
+          "LUK": []
+        }
+      },
+      "audio/43JHNBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 181393,
+        "scope": {
+          "JHN": []
+        }
+      },
+      "audio/44ACTBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 208517,
+        "scope": {
+          "ACT": []
+        }
+      },
+      "audio/45ROMBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 90925,
+        "scope": {
+          "ROM": []
+        }
+      },
+      "audio/461COBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 91979,
+        "scope": {
+          "1CO": []
+        }
+      },
+      "audio/472COBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 55145,
+        "scope": {
+          "2CO": []
+        }
+      },
+      "audio/48GALBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 31544,
+        "scope": {
+          "GAL": []
+        }
+      },
+      "audio/49EPHBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 32738,
+        "scope": {
+          "EPH": []
+        }
+      },
+      "audio/50PHPBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 22011,
+        "scope": {
+          "PHP": []
+        }
+      },
+      "audio/51COLBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 20220,
+        "scope": {
+          "COL": []
+        }
+      },
+      "audio/521THBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 19315,
+        "scope": {
+          "1TH": []
+        }
+      },
+      "audio/532THBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 10379,
+        "scope": {
+          "2TH": []
+        }
+      },
+      "audio/541TIBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 24380,
+        "scope": {
+          "1TI": []
+        }
+      },
+      "audio/552TIBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 17832,
+        "scope": {
+          "2TI": []
+        }
+      },
+      "audio/56TITBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 10180,
+        "scope": {
+          "TIT": []
+        }
+      },
+      "audio/57PHMBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 5423,
+        "scope": {
+          "PHM": []
+        }
+      },
+      "audio/58HEBBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 64346,
+        "scope": {
+          "HEB": []
+        }
+      },
+      "audio/59JASBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 23096,
+        "scope": {
+          "JAS": []
+        }
+      },
+      "audio/601PEBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 22499,
+        "scope": {
+          "1PE": []
+        }
+      },
+      "audio/612PEBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 13165,
+        "scope": {
+          "2PE": []
+        }
+      },
+      "audio/621JNBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 22499,
+        "scope": {
+          "1JN": []
+        }
+      },
+      "audio/632JNBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 3035,
+        "scope": {
+          "2JN": []
+        }
+      },
+      "audio/643JNBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 3234,
+        "scope": {
+          "3JN": []
+        }
+      },
+      "audio/65JUDBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 5423,
+        "scope": {
+          "JUD": []
+        }
+      },
+      "audio/66REVBSB.timing.json": {
+        "mimeType": "text/json",
+        "size": 86954,
+        "scope": {
+          "REV": []
+        }
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/public-domain/cc0/"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>The Berean Standard Bible is in the Public Domain</p>",
+          "mimetype": "text/html",
+          "lang": "en"
+        }
+      ]
+    }
+  },
+  "article_metadata": {}
+}
