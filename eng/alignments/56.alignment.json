@@ -159,8 +159,7 @@
         "n56001001011|θεοῦ"
       ],
       "target": [
-        "56001001016|of",
-        "56001001017|God’s"
+        "56001001016|of"
       ],
       "meta": {
         "id": "56001001.011",
@@ -1301,8 +1300,7 @@
       "target": [
         "56001007009|above",
         "56001007010|reproach",
-        "56001007012|not",
-        "56001007013|self-willed"
+        "56001007012|not"
       ],
       "meta": {
         "id": "56001007.005",
@@ -1338,19 +1336,6 @@
     },
     {
       "source": [
-        "n56001007008|θεοῦ"
-      ],
-      "target": [
-        "56001007002|God’s"
-      ],
-      "meta": {
-        "id": "56001007.008",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
         "n56001007009|οἰκονόμον"
       ],
       "target": [
@@ -1371,19 +1356,6 @@
       ],
       "meta": {
         "id": "56001007.010",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
-        "n56001007011|αὐθάδη"
-      ],
-      "target": [
-        "56001007016|quick-tempered"
-      ],
-      "meta": {
-        "id": "56001007.011",
         "origin": "manual",
         "status": "created"
       }
@@ -1535,19 +1507,6 @@
       ],
       "meta": {
         "id": "56001008.003",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
-        "n56001008004|σώφρονα"
-      ],
-      "target": [
-        "56001008013|self-controlled"
-      ],
-      "meta": {
-        "id": "56001008.004",
         "origin": "manual",
         "status": "created"
       }
@@ -3269,19 +3228,6 @@
     },
     {
       "source": [
-        "n56002002005|σώφρονας"
-      ],
-      "target": [
-        "56002002010|self-controlled"
-      ],
-      "meta": {
-        "id": "56002002.005",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
         "n56002002006|ὑγιαίνοντας"
       ],
       "target": [
@@ -3617,8 +3563,7 @@
       ],
       "target": [
         "56002005001|to",
-        "56002005002|be",
-        "56002005003|self-controlled"
+        "56002005002|be"
       ],
       "meta": {
         "id": "56002005.001",
@@ -3855,8 +3800,7 @@
       ],
       "target": [
         "56002006010|to",
-        "56002006011|be",
-        "56002006012|self-controlled"
+        "56002006011|be"
       ],
       "meta": {
         "id": "56002006.005",
@@ -4295,19 +4239,6 @@
       ],
       "meta": {
         "id": "56002009.006",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
-        "n56002009007|εὐαρέστους"
-      ],
-      "target": [
-        "56002009014|well-pleasing"
-      ],
-      "meta": {
-        "id": "56002009.007",
         "origin": "manual",
         "status": "created"
       }
@@ -7439,19 +7370,6 @@
       ],
       "meta": {
         "id": "56003011.008",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
-        "n56003011009|αὐτοκατάκριτος"
-      ],
-      "target": [
-        "56003011013|self-condemned"
-      ],
-      "meta": {
-        "id": "56003011.009",
         "origin": "manual",
         "status": "created"
       }

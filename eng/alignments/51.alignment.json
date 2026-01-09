@@ -4304,19 +4304,6 @@
     },
     {
       "source": [
-        "n51001022009|αὐτοῦ"
-      ],
-      "target": [
-        "51001022008|Christ’s"
-      ],
-      "meta": {
-        "id": "51001022.008",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
         "n51001022010|διὰ"
       ],
       "target": [
@@ -4958,19 +4945,6 @@
       ],
       "meta": {
         "id": "51001024.012",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
-        "n51001024015|Χριστοῦ"
-      ],
-      "target": [
-        "51001024023|Christ’s"
-      ],
-      "meta": {
-        "id": "51001024.014",
         "origin": "manual",
         "status": "created"
       }
@@ -10459,7 +10433,6 @@
         "n51002023008|ἐθελοθρησκίᾳ"
       ],
       "target": [
-        "51002023012|self-prescribed",
         "51002023013|worship"
       ],
       "meta": {

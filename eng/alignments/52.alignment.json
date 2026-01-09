@@ -9692,19 +9692,6 @@
     },
     {
       "source": [
-        "n52004003006|θεοῦ"
-      ],
-      "target": [
-        "52004003004|God’s"
-      ],
-      "meta": {
-        "id": "52004003.006",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
         "n52004003008|ἁγιασμὸς"
       ],
       "target": [
@@ -15498,19 +15485,6 @@
       ],
       "meta": {
         "id": "52005018.006",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
-        "n52005018007|θεοῦ"
-      ],
-      "target": [
-        "52005018010|God’s"
-      ],
-      "meta": {
-        "id": "52005018.007",
         "origin": "manual",
         "status": "created"
       }

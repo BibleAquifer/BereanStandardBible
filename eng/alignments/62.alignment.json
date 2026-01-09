@@ -10981,19 +10981,6 @@
     },
     {
       "source": [
-        "n62003009012|αὐτοῦ"
-      ],
-      "target": [
-        "62003009011|God’s"
-      ],
-      "meta": {
-        "id": "62003009.011",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
         "n62003009013|ἐν"
       ],
       "target": [
@@ -15614,19 +15601,6 @@
     },
     {
       "source": [
-        "n62004005010|κόσμου"
-      ],
-      "target": [
-        "62004005014|world’s"
-      ],
-      "meta": {
-        "id": "62004005.009",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
         "n62004005011|λαλοῦσιν"
       ],
       "target": [
@@ -16416,19 +16390,6 @@
       ],
       "meta": {
         "id": "62004009.004",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
-        "n62004009007|θεοῦ"
-      ],
-      "target": [
-        "62004009004|God’s"
-      ],
-      "meta": {
-        "id": "62004009.006",
         "origin": "manual",
         "status": "created"
       }
