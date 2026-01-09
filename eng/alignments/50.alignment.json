@@ -6230,8 +6230,7 @@
       ],
       "target": [
         "50002002006|by",
-        "50002002007|being",
-        "50002002008|like-minded"
+        "50002002007|being"
       ],
       "meta": {
         "id": "50002002.006",
@@ -9329,19 +9328,6 @@
       ],
       "meta": {
         "id": "50002022.003",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
-        "n50002022004|αὐτοῦ"
-      ],
-      "target": [
-        "50002022004|Timothy’s"
-      ],
-      "meta": {
-        "id": "50002022.004",
         "origin": "manual",
         "status": "created"
       }
@@ -13539,19 +13525,6 @@
       ],
       "meta": {
         "id": "50003014.009",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
-        "n50003014011|θεοῦ"
-      ],
-      "target": [
-        "50003014012|God’s"
-      ],
-      "meta": {
-        "id": "50003014.011",
         "origin": "manual",
         "status": "created"
       }
@@ -18185,19 +18158,6 @@
       ],
       "meta": {
         "id": "50004018.014",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
-        "n50004018017|εὐάρεστον"
-      ],
-      "target": [
-        "50004018029|well-pleasing"
-      ],
-      "meta": {
-        "id": "50004018.015",
         "origin": "manual",
         "status": "created"
       }

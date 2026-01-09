@@ -776,7 +776,6 @@
       ],
       "target": [
         "54001004017|of",
-        "54001004018|God’s",
         "54001004019|work"
       ],
       "meta": {
@@ -5238,8 +5237,7 @@
         "n54002009010|σωφροσύνης"
       ],
       "target": [
-        "54002009018|with",
-        "54002009019|self-control"
+        "54002009018|with"
       ],
       "meta": {
         "id": "54002009.010",
@@ -6117,19 +6115,6 @@
     },
     {
       "source": [
-        "n54002015015|σωφροσύνης"
-      ],
-      "target": [
-        "54002015023|self-control"
-      ],
-      "meta": {
-        "id": "54002015.014",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
         "n54003001001|Πιστὸς"
       ],
       "target": [
@@ -6383,19 +6368,6 @@
       ],
       "meta": {
         "id": "54003002.010",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
-        "n54003002011|σώφρονα"
-      ],
-      "target": [
-        "54003002020|self-controlled"
-      ],
-      "meta": {
-        "id": "54003002.011",
         "origin": "manual",
         "status": "created"
       }
@@ -7255,19 +7227,6 @@
       ],
       "meta": {
         "id": "54003008.004",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
-        "n54003008005|διλόγους"
-      ],
-      "target": [
-        "54003008008|double-tongued"
-      ],
-      "meta": {
-        "id": "54003008.005",
         "origin": "manual",
         "status": "created"
       }
@@ -8304,19 +8263,6 @@
       ],
       "meta": {
         "id": "54003015.009",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
-        "n54003015010|θεοῦ"
-      ],
-      "target": [
-        "54003015019|God’s"
-      ],
-      "meta": {
-        "id": "54003015.010",
         "origin": "manual",
         "status": "created"
       }
@@ -15807,19 +15753,6 @@
     },
     {
       "source": [
-        "n54006001018|θεοῦ"
-      ],
-      "target": [
-        "54006001021|God’s"
-      ],
-      "meta": {
-        "id": "54006001.016",
-        "origin": "manual",
-        "status": "created"
-      }
-    },
-    {
-      "source": [
         "n54006001019|καὶ"
       ],
       "target": [
@@ -19746,8 +19679,7 @@
         "n54006020013|ψευδωνύμου"
       ],
       "target": [
-        "54006020021|of",
-        "54006020022|so-called"
+        "54006020021|of"
       ],
       "meta": {
         "id": "54006020.013",
