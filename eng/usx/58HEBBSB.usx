@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="HEB" style="id">- Berean Standard Bible -</book>
+<book code="HEB" style="id">- Hebrews -</book>
 <para style="h">Hebrews</para>
 <para style="toc1">Hebrews</para>
 <para style="toc2">Hebrews</para>
 <para style="mt1">Hebrews</para>
-<chapter number="1" style="c" sid="HEB 1"/>
+<chapter number="1" style="c" sid="HEB 1" />
 <para style="p"><verse number="1" style="v" sid="HEB 1:1"/>On many past occasions and in many different ways, God spoke to our fathers through the prophets.<verse eid="HEB 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="HEB 1:2"/>But in these last days He has spoken to us by His Son, whom He appointed heir of all things, and through whom He made the universe.<verse eid="HEB 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="HEB 1:3"/>The Son is the radiance of God’s glory and the exact representation of His nature, upholding all things by His powerful word. After He had provided purification for sins, He sat down at the right hand of the Majesty on high.<verse eid="HEB 1:3"/></para>
@@ -20,8 +20,8 @@
 <para style="p"><verse number="12" style="v" sid="HEB 1:12"/>You will roll them up like a robe; like a garment they will be changed; but You remain the same, and Your years will never end.”<verse eid="HEB 1:12"/></para>
 <para style="p"><verse number="13" style="v" sid="HEB 1:13"/>Yet to which of the angels did God ever say: “Sit at My right hand until I make Your enemies a footstool for Your feet”?<verse eid="HEB 1:13"/></para>
 <para style="p"><verse number="14" style="v" sid="HEB 1:14"/>Are not the angels ministering spirits sent to serve those who will inherit salvation?<verse eid="HEB 1:14"/></para>
-<chapter eid="HEB 1"/>
-<chapter number="2" style="c" sid="HEB 2"/>
+<chapter eid="HEB 1" />
+<chapter number="2" style="c" sid="HEB 2" />
 <para style="p"><verse number="1" style="v" sid="HEB 2:1"/>We must pay closer attention, therefore, to what we have heard, so that we do not drift away.<verse eid="HEB 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="HEB 2:2"/>For if the message spoken by angels was binding, and every transgression and disobedience received its just punishment,<verse eid="HEB 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="HEB 2:3"/>how shall we escape if we neglect such a great salvation? This salvation was first announced by the Lord, was confirmed to us by those who heard Him,<verse eid="HEB 2:3"/></para>
@@ -40,8 +40,8 @@
 <para style="p"><verse number="16" style="v" sid="HEB 2:16"/>For surely it is not the angels He helps, but the descendants of Abraham.<verse eid="HEB 2:16"/></para>
 <para style="p"><verse number="17" style="v" sid="HEB 2:17"/>For this reason He had to be made like His brothers in every way, so that He might become a merciful and faithful high priest in service to God, in order to make atonement for the sins of the people.<verse eid="HEB 2:17"/></para>
 <para style="p"><verse number="18" style="v" sid="HEB 2:18"/>Because He Himself suffered when He was tempted, He is able to help those who are being tempted.<verse eid="HEB 2:18"/></para>
-<chapter eid="HEB 2"/>
-<chapter number="3" style="c" sid="HEB 3"/>
+<chapter eid="HEB 2" />
+<chapter number="3" style="c" sid="HEB 3" />
 <para style="p"><verse number="1" style="v" sid="HEB 3:1"/>Therefore, holy brothers, who share in the heavenly calling, set your focus on Jesus, the apostle and high priest whom we confess.<verse eid="HEB 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="HEB 3:2"/>He was faithful to the One who appointed Him, just as Moses was faithful in all God’s house.<verse eid="HEB 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="HEB 3:3"/>For Jesus has been counted worthy of greater glory than Moses, just as the builder of a house has greater honor than the house itself.<verse eid="HEB 3:3"/></para>
@@ -61,8 +61,8 @@
 <para style="p"><verse number="17" style="v" sid="HEB 3:17"/>And with whom was God angry for forty years? Was it not with those who sinned, whose bodies fell in the wilderness?<verse eid="HEB 3:17"/></para>
 <para style="p"><verse number="18" style="v" sid="HEB 3:18"/>And to whom did He swear that they would never enter His rest? Was it not to those who disobeyed?<verse eid="HEB 3:18"/></para>
 <para style="p"><verse number="19" style="v" sid="HEB 3:19"/>So we see that it was because of their unbelief that they were unable to enter.<verse eid="HEB 3:19"/></para>
-<chapter eid="HEB 3"/>
-<chapter number="4" style="c" sid="HEB 4"/>
+<chapter eid="HEB 3" />
+<chapter number="4" style="c" sid="HEB 4" />
 <para style="p"><verse number="1" style="v" sid="HEB 4:1"/>Therefore, while the promise of entering His rest still stands, let us be careful that none of you be deemed to have fallen short of it.<verse eid="HEB 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="HEB 4:2"/>For we also received the good news just as they did; but the message they heard was of no value to them, since they did not share the faith of those who comprehended it.<verse eid="HEB 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="HEB 4:3"/>Now we who have believed enter that rest. As for the others, it is just as God has said: “So I swore on oath in My anger, ‘They shall never enter My rest.’” And yet His works have been finished since the foundation of the world.<verse eid="HEB 4:3"/></para>
@@ -79,8 +79,8 @@
 <para style="p"><verse number="14" style="v" sid="HEB 4:14"/>Therefore, since we have a great high priest who has passed through the heavens, Jesus the Son of God, let us hold firmly to what we profess.<verse eid="HEB 4:14"/></para>
 <para style="p"><verse number="15" style="v" sid="HEB 4:15"/>For we do not have a high priest who is unable to sympathize with our weaknesses, but we have one who was tempted in every way that we are, yet was without sin.<verse eid="HEB 4:15"/></para>
 <para style="p"><verse number="16" style="v" sid="HEB 4:16"/>Let us then approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.<verse eid="HEB 4:16"/></para>
-<chapter eid="HEB 4"/>
-<chapter number="5" style="c" sid="HEB 5"/>
+<chapter eid="HEB 4" />
+<chapter number="5" style="c" sid="HEB 5" />
 <para style="p"><verse number="1" style="v" sid="HEB 5:1"/>Every high priest is appointed from among men to represent them in matters relating to God, to offer gifts and sacrifices for sins.<verse eid="HEB 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="HEB 5:2"/>He is able to deal gently with those who are ignorant and misguided, since he himself is subject to weakness.<verse eid="HEB 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="HEB 5:3"/>That is why he is obligated to offer sacrifices for his own sins, as well as for the sins of the people.<verse eid="HEB 5:3"/></para>
@@ -95,8 +95,8 @@
 <para style="p"><verse number="12" style="v" sid="HEB 5:12"/>Although by this time you ought to be teachers, you need someone to reteach you the basic principles of God’s word. You need milk, not solid food!<verse eid="HEB 5:12"/></para>
 <para style="p"><verse number="13" style="v" sid="HEB 5:13"/>For everyone who lives on milk is still an infant, inexperienced in the message of righteousness.<verse eid="HEB 5:13"/></para>
 <para style="p"><verse number="14" style="v" sid="HEB 5:14"/>But solid food is for the mature, who by constant use have trained their senses to distinguish good from evil.<verse eid="HEB 5:14"/></para>
-<chapter eid="HEB 5"/>
-<chapter number="6" style="c" sid="HEB 6"/>
+<chapter eid="HEB 5" />
+<chapter number="6" style="c" sid="HEB 6" />
 <para style="p"><verse number="1" style="v" sid="HEB 6:1"/>Therefore let us leave the elementary teachings about Christ and go on to maturity, not laying again the foundation of repentance from dead works, and of faith in God,<verse eid="HEB 6:1"/></para>
 <para style="p"><verse number="2" style="v" sid="HEB 6:2"/>instruction about baptisms, the laying on of hands, the resurrection of the dead, and eternal judgment.<verse eid="HEB 6:2"/></para>
 <para style="p"><verse number="3" style="v" sid="HEB 6:3"/>And this we will do, if God permits.<verse eid="HEB 6:3"/></para>
@@ -117,8 +117,8 @@
 <para style="p"><verse number="18" style="v" sid="HEB 6:18"/>Thus by two unchangeable things in which it is impossible for God to lie, we who have fled to take hold of the hope set before us may be strongly encouraged.<verse eid="HEB 6:18"/></para>
 <para style="p"><verse number="19" style="v" sid="HEB 6:19"/>We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain,<verse eid="HEB 6:19"/></para>
 <para style="p"><verse number="20" style="v" sid="HEB 6:20"/>where Jesus our forerunner has entered on our behalf. He has become a high priest forever in the order of Melchizedek.<verse eid="HEB 6:20"/></para>
-<chapter eid="HEB 6"/>
-<chapter number="7" style="c" sid="HEB 7"/>
+<chapter eid="HEB 6" />
+<chapter number="7" style="c" sid="HEB 7" />
 <para style="p"><verse number="1" style="v" sid="HEB 7:1"/>This Melchizedek was king of Salem and priest of God Most High. He met Abraham returning from the slaughter of the kings and blessed him,<verse eid="HEB 7:1"/></para>
 <para style="p"><verse number="2" style="v" sid="HEB 7:2"/>and Abraham apportioned to him a tenth of everything. First, his name means “king of righteousness.” Then also, “king of Salem” means “king of peace.”<verse eid="HEB 7:2"/></para>
 <para style="p"><verse number="3" style="v" sid="HEB 7:3"/>Without father or mother or genealogy, without beginning of days or end of life, like the Son of God, he remains a priest for all time.<verse eid="HEB 7:3"/></para>
@@ -147,8 +147,8 @@
 <para style="p"><verse number="26" style="v" sid="HEB 7:26"/>Such a high priest truly befits us—One who is holy, innocent, undefiled, set apart from sinners, and exalted above the heavens.<verse eid="HEB 7:26"/></para>
 <para style="p"><verse number="27" style="v" sid="HEB 7:27"/>Unlike the other high priests, He does not need to offer daily sacrifices, first for His own sins and then for the sins of the people; He sacrificed for sin once for all when He offered up Himself.<verse eid="HEB 7:27"/></para>
 <para style="p"><verse number="28" style="v" sid="HEB 7:28"/>For the law appoints as high priests men who are weak; but the oath, which came after the law, appointed the Son, who has been made perfect forever.<verse eid="HEB 7:28"/></para>
-<chapter eid="HEB 7"/>
-<chapter number="8" style="c" sid="HEB 8"/>
+<chapter eid="HEB 7" />
+<chapter number="8" style="c" sid="HEB 8" />
 <para style="p"><verse number="1" style="v" sid="HEB 8:1"/>The point of what we are saying is this: We do have such a high priest, who sat down at the right hand of the throne of the Majesty in heaven,<verse eid="HEB 8:1"/></para>
 <para style="p"><verse number="2" style="v" sid="HEB 8:2"/>and who ministers in the sanctuary and true tabernacle set up by the Lord, not by man.<verse eid="HEB 8:2"/></para>
 <para style="p"><verse number="3" style="v" sid="HEB 8:3"/>And since every high priest is appointed to offer both gifts and sacrifices, it was necessary for this One also to have something to offer.<verse eid="HEB 8:3"/></para>
@@ -162,8 +162,8 @@
 <para style="p"><verse number="11" style="v" sid="HEB 8:11"/>No longer will each one teach his neighbor or his brother, saying, ‘Know the Lord,’ because they will all know Me, from the least of them to the greatest.<verse eid="HEB 8:11"/></para>
 <para style="p"><verse number="12" style="v" sid="HEB 8:12"/>For I will forgive their iniquities and will remember their sins no more.”<verse eid="HEB 8:12"/></para>
 <para style="p"><verse number="13" style="v" sid="HEB 8:13"/>By speaking of a new covenant, He has made the first one obsolete; and what is obsolete and aging will soon disappear.<verse eid="HEB 8:13"/></para>
-<chapter eid="HEB 8"/>
-<chapter number="9" style="c" sid="HEB 9"/>
+<chapter eid="HEB 8" />
+<chapter number="9" style="c" sid="HEB 9" />
 <para style="p"><verse number="1" style="v" sid="HEB 9:1"/>Now the first covenant had regulations for worship and also an earthly sanctuary.<verse eid="HEB 9:1"/></para>
 <para style="p"><verse number="2" style="v" sid="HEB 9:2"/>A tabernacle was prepared. In its first room were the lampstand, the table, and the consecrated bread. This was called the Holy Place.<verse eid="HEB 9:2"/></para>
 <para style="p"><verse number="3" style="v" sid="HEB 9:3"/>Behind the second curtain was a room called the Most Holy Place,<verse eid="HEB 9:3"/></para>
@@ -192,8 +192,8 @@
 <para style="p"><verse number="26" style="v" sid="HEB 9:26"/>Otherwise, Christ would have had to suffer repeatedly since the foundation of the world. But now He has appeared once for all at the end of the ages to do away with sin by the sacrifice of Himself.<verse eid="HEB 9:26"/></para>
 <para style="p"><verse number="27" style="v" sid="HEB 9:27"/>Just as man is appointed to die once, and after that to face judgment,<verse eid="HEB 9:27"/></para>
 <para style="p"><verse number="28" style="v" sid="HEB 9:28"/>so also Christ was offered once to bear the sins of many; and He will appear a second time, not to bear sin, but to bring salvation to those who eagerly await Him.<verse eid="HEB 9:28"/></para>
-<chapter eid="HEB 9"/>
-<chapter number="10" style="c" sid="HEB 10"/>
+<chapter eid="HEB 9" />
+<chapter number="10" style="c" sid="HEB 10" />
 <para style="p"><verse number="1" style="v" sid="HEB 10:1"/>For the law is only a shadow of the good things to come, not the realities themselves. It can never, by the same sacrifices offered year after year, make perfect those who draw near to worship.<verse eid="HEB 10:1"/></para>
 <para style="p"><verse number="2" style="v" sid="HEB 10:2"/>If it could, would not the offerings have ceased? For the worshipers would have been cleansed once for all, and would no longer have felt the guilt of their sins.<verse eid="HEB 10:2"/></para>
 <para style="p"><verse number="3" style="v" sid="HEB 10:3"/>Instead, those sacrifices are an annual reminder of sins,<verse eid="HEB 10:3"/></para>
@@ -233,8 +233,8 @@
 <para style="p"><verse number="37" style="v" sid="HEB 10:37"/>For, “In just a little while, He who is coming will come and will not delay.<verse eid="HEB 10:37"/></para>
 <para style="p"><verse number="38" style="v" sid="HEB 10:38"/>But My righteous one will live by faith; and if he shrinks back, I will take no pleasure in him.”<verse eid="HEB 10:38"/></para>
 <para style="p"><verse number="39" style="v" sid="HEB 10:39"/>But we are not of those who shrink back and are destroyed, but of those who have faith and preserve their souls.<verse eid="HEB 10:39"/></para>
-<chapter eid="HEB 10"/>
-<chapter number="11" style="c" sid="HEB 11"/>
+<chapter eid="HEB 10" />
+<chapter number="11" style="c" sid="HEB 11" />
 <para style="p"><verse number="1" style="v" sid="HEB 11:1"/>Now faith is the assurance of what we hope for and the certainty of what we do not see.<verse eid="HEB 11:1"/></para>
 <para style="p"><verse number="2" style="v" sid="HEB 11:2"/>This is why the ancients were commended.<verse eid="HEB 11:2"/></para>
 <para style="p"><verse number="3" style="v" sid="HEB 11:3"/>By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.<verse eid="HEB 11:3"/></para>
@@ -275,8 +275,8 @@
 <para style="p"><verse number="38" style="v" sid="HEB 11:38"/>The world was not worthy of them. They wandered in deserts and mountains, and hid in caves and holes in the ground.<verse eid="HEB 11:38"/></para>
 <para style="p"><verse number="39" style="v" sid="HEB 11:39"/>These were all commended for their faith, yet they did not receive what was promised.<verse eid="HEB 11:39"/></para>
 <para style="p"><verse number="40" style="v" sid="HEB 11:40"/>God had planned something better for us, so that together with us they would be made perfect.<verse eid="HEB 11:40"/></para>
-<chapter eid="HEB 11"/>
-<chapter number="12" style="c" sid="HEB 12"/>
+<chapter eid="HEB 11" />
+<chapter number="12" style="c" sid="HEB 12" />
 <para style="p"><verse number="1" style="v" sid="HEB 12:1"/>Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off every encumbrance and the sin that so easily entangles, and let us run with endurance the race set out for us.<verse eid="HEB 12:1"/></para>
 <para style="p"><verse number="2" style="v" sid="HEB 12:2"/>Let us fix our eyes on Jesus, the author and perfecter of our faith, who for the joy set before Him endured the cross, scorning its shame, and sat down at the right hand of the throne of God.<verse eid="HEB 12:2"/></para>
 <para style="p"><verse number="3" style="v" sid="HEB 12:3"/>Consider Him who endured such hostility from sinners, so that you will not grow weary and lose heart.<verse eid="HEB 12:3"/></para>
@@ -306,8 +306,8 @@
 <para style="p"><verse number="27" style="v" sid="HEB 12:27"/>The words “Once more” signify the removal of what can be shaken—that is, created things—so that the unshakable may remain.<verse eid="HEB 12:27"/></para>
 <para style="p"><verse number="28" style="v" sid="HEB 12:28"/>Therefore, since we are receiving an unshakable kingdom, let us be filled with gratitude, and so worship God acceptably with reverence and awe.<verse eid="HEB 12:28"/></para>
 <para style="p"><verse number="29" style="v" sid="HEB 12:29"/>“For our God is a consuming fire.”<verse eid="HEB 12:29"/></para>
-<chapter eid="HEB 12"/>
-<chapter number="13" style="c" sid="HEB 13"/>
+<chapter eid="HEB 12" />
+<chapter number="13" style="c" sid="HEB 13" />
 <para style="p"><verse number="1" style="v" sid="HEB 13:1"/>Continue in brotherly love.<verse eid="HEB 13:1"/></para>
 <para style="p"><verse number="2" style="v" sid="HEB 13:2"/>Do not neglect to show hospitality to strangers, for by so doing some people have entertained angels without knowing it.<verse eid="HEB 13:2"/></para>
 <para style="p"><verse number="3" style="v" sid="HEB 13:3"/>Remember those in prison as if you were bound with them, and those who are mistreated as if you were suffering with them.<verse eid="HEB 13:3"/></para>
@@ -333,5 +333,5 @@
 <para style="p"><verse number="23" style="v" sid="HEB 13:23"/>Be aware that our brother Timothy has been released. If he arrives soon, I will come with him to see you.<verse eid="HEB 13:23"/></para>
 <para style="p"><verse number="24" style="v" sid="HEB 13:24"/>Greet all your leaders and all the saints. Those from Italy send you greetings.<verse eid="HEB 13:24"/></para>
 <para style="p"><verse number="25" style="v" sid="HEB 13:25"/>Grace be with all of you.<verse eid="HEB 13:25"/></para>
-<chapter eid="HEB 13"/>
+<chapter eid="HEB 13" />
 </usx>

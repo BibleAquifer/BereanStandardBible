@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="REV" style="id">- Berean Standard Bible -</book>
+<book code="REV" style="id">- Revelation -</book>
 <para style="h">Revelation</para>
 <para style="toc1">Revelation</para>
 <para style="toc2">Revelation</para>
 <para style="mt1">Revelation</para>
-<chapter number="1" style="c" sid="REV 1"/>
+<chapter number="1" style="c" sid="REV 1" />
 <para style="p"><verse number="1" style="v" sid="REV 1:1"/>This is the revelation of Jesus Christ, which God gave Him to show His servants what must soon come to pass. He made it known by sending His angel to His servant John,<verse eid="REV 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 1:2"/>who testifies to everything he saw. This is the word of God and the testimony of Jesus Christ.<verse eid="REV 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 1:3"/>Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear and obey what is written in it, because the time is near.<verse eid="REV 1:3"/></para>
@@ -26,8 +26,8 @@
 <para style="p"><verse number="18" style="v" sid="REV 1:18"/>the Living One. I was dead, and behold, now I am alive forever and ever! And I hold the keys of Death and of Hades.<verse eid="REV 1:18"/></para>
 <para style="p"><verse number="19" style="v" sid="REV 1:19"/>Therefore write down the things you have seen, the things that are, and the things that will happen after this.<verse eid="REV 1:19"/></para>
 <para style="p"><verse number="20" style="v" sid="REV 1:20"/>This is the mystery of the seven stars you saw in My right hand and of the seven golden lampstands: The seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.<verse eid="REV 1:20"/></para>
-<chapter eid="REV 1"/>
-<chapter number="2" style="c" sid="REV 2"/>
+<chapter eid="REV 1" />
+<chapter number="2" style="c" sid="REV 2" />
 <para style="p"><verse number="1" style="v" sid="REV 2:1"/>“To the angel of the church in Ephesus write: These are the words of Him who holds the seven stars in His right hand and walks among the seven golden lampstands.<verse eid="REV 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 2:2"/>I know your deeds, your labor, and your perseverance. I know that you cannot tolerate those who are evil, and you have tested and exposed as liars those who falsely claim to be apostles.<verse eid="REV 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 2:3"/>Without growing weary, you have persevered and endured many things for the sake of My name.<verse eid="REV 2:3"/></para>
@@ -57,8 +57,8 @@
 <para style="p"><verse number="27" style="v" sid="REV 2:27"/>He will rule them with an iron scepter and shatter them like pottery—just as I have received authority from My Father.<verse eid="REV 2:27"/></para>
 <para style="p"><verse number="28" style="v" sid="REV 2:28"/>And I will give him the morning star.<verse eid="REV 2:28"/></para>
 <para style="p"><verse number="29" style="v" sid="REV 2:29"/>He who has an ear, let him hear what the Spirit says to the churches.<verse eid="REV 2:29"/></para>
-<chapter eid="REV 2"/>
-<chapter number="3" style="c" sid="REV 3"/>
+<chapter eid="REV 2" />
+<chapter number="3" style="c" sid="REV 3" />
 <para style="p"><verse number="1" style="v" sid="REV 3:1"/>“To the angel of the church in Sardis write: These are the words of the One who holds the seven spirits of God and the seven stars. I know your deeds; you have a reputation for being alive, yet you are dead.<verse eid="REV 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 3:2"/>Wake up and strengthen what remains, which is about to die; for I have found your deeds incomplete in the sight of My God.<verse eid="REV 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 3:3"/>Remember, then, what you have received and heard. Keep it and repent. If you do not wake up, I will come like a thief, and you will not know the hour when I will come upon you.<verse eid="REV 3:3"/></para>
@@ -81,8 +81,8 @@
 <para style="p"><verse number="20" style="v" sid="REV 3:20"/>Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in and dine with him, and he with Me.<verse eid="REV 3:20"/></para>
 <para style="p"><verse number="21" style="v" sid="REV 3:21"/>To the one who overcomes, I will grant the right to sit with Me on My throne, just as I overcame and sat down with My Father on His throne.<verse eid="REV 3:21"/></para>
 <para style="p"><verse number="22" style="v" sid="REV 3:22"/>He who has an ear, let him hear what the Spirit says to the churches.”<verse eid="REV 3:22"/></para>
-<chapter eid="REV 3"/>
-<chapter number="4" style="c" sid="REV 4"/>
+<chapter eid="REV 3" />
+<chapter number="4" style="c" sid="REV 4" />
 <para style="p"><verse number="1" style="v" sid="REV 4:1"/>After this I looked and saw a door standing open in heaven. And the voice I had previously heard speak to me like a trumpet was saying, “Come up here, and I will show you what must happen after these things.”<verse eid="REV 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 4:2"/>At once I was in the Spirit, and I saw a throne standing in heaven, with someone seated on it.<verse eid="REV 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 4:3"/>The One seated there looked like jasper and carnelian, and a rainbow that gleamed like an emerald encircled the throne.<verse eid="REV 4:3"/></para>
@@ -94,8 +94,8 @@
 <para style="p"><verse number="9" style="v" sid="REV 4:9"/>And whenever the living creatures give glory, honor, and thanks to the One seated on the throne, who lives forever and ever,<verse eid="REV 4:9"/></para>
 <para style="p"><verse number="10" style="v" sid="REV 4:10"/>the twenty-four elders fall down before the One seated on the throne, and they worship Him who lives forever and ever. They cast their crowns before the throne, saying:<verse eid="REV 4:10"/></para>
 <para style="p"><verse number="11" style="v" sid="REV 4:11"/>“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”<verse eid="REV 4:11"/></para>
-<chapter eid="REV 4"/>
-<chapter number="5" style="c" sid="REV 5"/>
+<chapter eid="REV 4" />
+<chapter number="5" style="c" sid="REV 5" />
 <para style="p"><verse number="1" style="v" sid="REV 5:1"/>Then I saw a scroll in the right hand of the One seated on the throne. It had writing on both sides and was sealed with seven seals.<verse eid="REV 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 5:2"/>And I saw a mighty angel proclaiming in a loud voice, “Who is worthy to break the seals and open the scroll?”<verse eid="REV 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 5:3"/>But no one in heaven or on earth or under the earth was able to open the scroll or look inside it.<verse eid="REV 5:3"/></para>
@@ -110,8 +110,8 @@
 <para style="p"><verse number="12" style="v" sid="REV 5:12"/>In a loud voice they were saying: “Worthy is the Lamb who was slain, to receive power and riches and wisdom and strength and honor and glory and blessing!”<verse eid="REV 5:12"/></para>
 <para style="p"><verse number="13" style="v" sid="REV 5:13"/>And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying: “To Him who sits on the throne and to the Lamb be praise and honor and glory and power forever and ever!”<verse eid="REV 5:13"/></para>
 <para style="p"><verse number="14" style="v" sid="REV 5:14"/>And the four living creatures said, “Amen,” and the elders fell down and worshiped.<verse eid="REV 5:14"/></para>
-<chapter eid="REV 5"/>
-<chapter number="6" style="c" sid="REV 6"/>
+<chapter eid="REV 5" />
+<chapter number="6" style="c" sid="REV 6" />
 <para style="p"><verse number="1" style="v" sid="REV 6:1"/>Then I watched as the Lamb opened one of the seven seals, and I heard one of the four living creatures say in a voice like thunder, “Come!”<verse eid="REV 6:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 6:2"/>So I looked and saw a white horse, and its rider held a bow. And he was given a crown, and he rode out to overcome and conquer.<verse eid="REV 6:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 6:3"/>And when the Lamb opened the second seal, I heard the second living creature say, “Come!”<verse eid="REV 6:3"/></para>
@@ -129,8 +129,8 @@
 <para style="p"><verse number="15" style="v" sid="REV 6:15"/>Then the kings of the earth, the nobles, the commanders, the rich, the mighty, and every slave and free man hid in the caves and among the rocks of the mountains.<verse eid="REV 6:15"/></para>
 <para style="p"><verse number="16" style="v" sid="REV 6:16"/>And they said to the mountains and the rocks, “Fall on us and hide us from the face of the One seated on the throne, and from the wrath of the Lamb.<verse eid="REV 6:16"/></para>
 <para style="p"><verse number="17" style="v" sid="REV 6:17"/>For the great day of Their wrath has come, and who is able to withstand it?”<verse eid="REV 6:17"/></para>
-<chapter eid="REV 6"/>
-<chapter number="7" style="c" sid="REV 7"/>
+<chapter eid="REV 6" />
+<chapter number="7" style="c" sid="REV 7" />
 <para style="p"><verse number="1" style="v" sid="REV 7:1"/>After this I saw four angels standing at the four corners of the earth, holding back its four winds so that no wind would blow on land or sea or on any tree.<verse eid="REV 7:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 7:2"/>And I saw another angel ascending from the east, with the seal of the living God. And he called out in a loud voice to the four angels who had been given power to harm the land and the sea:<verse eid="REV 7:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 7:3"/>“Do not harm the land or sea or trees until we have placed a seal on the foreheads of the servants of our God.”<verse eid="REV 7:3"/></para>
@@ -148,8 +148,8 @@
 <para style="p"><verse number="15" style="v" sid="REV 7:15"/>For this reason, they are before the throne of God and serve Him day and night in His temple; and the One seated on the throne will spread His tabernacle over them.<verse eid="REV 7:15"/></para>
 <para style="p"><verse number="16" style="v" sid="REV 7:16"/>‘Never again will they hunger, and never will they thirst; nor will the sun beat down upon them, nor any scorching heat.’<verse eid="REV 7:16"/></para>
 <para style="p"><verse number="17" style="v" sid="REV 7:17"/>For the Lamb in the center of the throne will be their shepherd. ‘He will lead them to springs of living water,’ and ‘God will wipe away every tear from their eyes.’”<verse eid="REV 7:17"/></para>
-<chapter eid="REV 7"/>
-<chapter number="8" style="c" sid="REV 8"/>
+<chapter eid="REV 7" />
+<chapter number="8" style="c" sid="REV 8" />
 <para style="p"><verse number="1" style="v" sid="REV 8:1"/>When the Lamb opened the seventh seal, there was silence in heaven for about half an hour.<verse eid="REV 8:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 8:2"/>And I saw the seven angels who stand before God, and they were given seven trumpets.<verse eid="REV 8:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 8:3"/>Then another angel, who had a golden censer, came and stood at the altar. He was given much incense to offer, along with the prayers of all the saints, on the golden altar before the throne.<verse eid="REV 8:3"/></para>
@@ -163,8 +163,8 @@
 <para style="p"><verse number="11" style="v" sid="REV 8:11"/>The name of the star is Wormwood. A third of the waters turned bitter like wormwood oil, and many people died from the bitter waters.<verse eid="REV 8:11"/></para>
 <para style="p"><verse number="12" style="v" sid="REV 8:12"/>Then the fourth angel sounded his trumpet, and a third of the sun and moon and stars were struck. A third of the stars were darkened, a third of the day was without light, and a third of the night as well.<verse eid="REV 8:12"/></para>
 <para style="p"><verse number="13" style="v" sid="REV 8:13"/>And as I observed, I heard an eagle flying overhead, calling in a loud voice, “Woe! Woe! Woe to those who dwell on the earth, because of the trumpet blasts about to be sounded by the remaining three angels!”<verse eid="REV 8:13"/></para>
-<chapter eid="REV 8"/>
-<chapter number="9" style="c" sid="REV 9"/>
+<chapter eid="REV 8" />
+<chapter number="9" style="c" sid="REV 9" />
 <para style="p"><verse number="1" style="v" sid="REV 9:1"/>Then the fifth angel sounded his trumpet, and I saw a star that had fallen from heaven to earth, and it was given the key to the pit of the Abyss.<verse eid="REV 9:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 9:2"/>The star opened the pit of the Abyss, and smoke rose out of it like the smoke of a great furnace, and the sun and the air were darkened by the smoke from the pit.<verse eid="REV 9:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 9:3"/>And out of the smoke, locusts descended on the earth, and they were given power like that of the scorpions of the earth.<verse eid="REV 9:3"/></para>
@@ -186,8 +186,8 @@
 <para style="p"><verse number="19" style="v" sid="REV 9:19"/>For the power of the horses was in their mouths and in their tails; indeed, their tails were like snakes, having heads with which to inflict harm.<verse eid="REV 9:19"/></para>
 <para style="p"><verse number="20" style="v" sid="REV 9:20"/>Now the rest of mankind who were not killed by these plagues still did not repent of the works of their hands. They did not stop worshiping demons and idols of gold, silver, bronze, stone, and wood, which cannot see or hear or walk.<verse eid="REV 9:20"/></para>
 <para style="p"><verse number="21" style="v" sid="REV 9:21"/>Furthermore, they did not repent of their murder, sorcery, sexual immorality, and theft.<verse eid="REV 9:21"/></para>
-<chapter eid="REV 9"/>
-<chapter number="10" style="c" sid="REV 10"/>
+<chapter eid="REV 9" />
+<chapter number="10" style="c" sid="REV 10" />
 <para style="p"><verse number="1" style="v" sid="REV 10:1"/>Then I saw another mighty angel coming down from heaven, wrapped in a cloud, with a rainbow above his head. His face was like the sun, and his legs were like pillars of fire.<verse eid="REV 10:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 10:2"/>He held in his hand a small scroll, which lay open. He placed his right foot on the sea and his left foot on the land.<verse eid="REV 10:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 10:3"/>Then he cried out in a loud voice like the roar of a lion. And when he cried out, the seven thunders sounded their voices.<verse eid="REV 10:3"/></para>
@@ -199,8 +199,8 @@
 <para style="p"><verse number="9" style="v" sid="REV 10:9"/>And I went to the angel and said, “Give me the small scroll.” “Take it and eat it,” he said. “It will make your stomach bitter, but in your mouth it will be as sweet as honey.”<verse eid="REV 10:9"/></para>
 <para style="p"><verse number="10" style="v" sid="REV 10:10"/>So I took the small scroll from the angel’s hand and ate it, and it was as sweet as honey in my mouth. But when I had eaten it, my stomach turned bitter.<verse eid="REV 10:10"/></para>
 <para style="p"><verse number="11" style="v" sid="REV 10:11"/>And they told me, “You must prophesy again about many peoples and nations and tongues and kings.”<verse eid="REV 10:11"/></para>
-<chapter eid="REV 10"/>
-<chapter number="11" style="c" sid="REV 11"/>
+<chapter eid="REV 10" />
+<chapter number="11" style="c" sid="REV 11" />
 <para style="p"><verse number="1" style="v" sid="REV 11:1"/>Then I was given a measuring rod like a staff and was told, “Go and measure the temple of God and the altar, and count the number of worshipers there.<verse eid="REV 11:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 11:2"/>But exclude the courtyard outside the temple. Do not measure it, because it has been given over to the nations, and they will trample the holy city for 42 months.<verse eid="REV 11:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 11:3"/>And I will empower my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.”<verse eid="REV 11:3"/></para>
@@ -220,8 +220,8 @@
 <para style="p"><verse number="17" style="v" sid="REV 11:17"/>saying: “We give thanks to You, O Lord God Almighty, the One who is and who was, because You have taken Your great power and have begun to reign.<verse eid="REV 11:17"/></para>
 <para style="p"><verse number="18" style="v" sid="REV 11:18"/>The nations were enraged, and Your wrath has come. The time has come to judge the dead and to reward Your servants the prophets, as well as the saints and those who fear Your name, both small and great—and to destroy those who destroy the earth.”<verse eid="REV 11:18"/></para>
 <para style="p"><verse number="19" style="v" sid="REV 11:19"/>Then the temple of God in heaven was opened, and the ark of His covenant appeared in His temple. And there were flashes of lightning, rumblings, peals of thunder, an earthquake, and a great hailstorm.<verse eid="REV 11:19"/></para>
-<chapter eid="REV 11"/>
-<chapter number="12" style="c" sid="REV 12"/>
+<chapter eid="REV 11" />
+<chapter number="12" style="c" sid="REV 12" />
 <para style="p"><verse number="1" style="v" sid="REV 12:1"/>And a great sign appeared in heaven: a woman clothed in the sun, with the moon under her feet and a crown of twelve stars on her head.<verse eid="REV 12:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 12:2"/>She was pregnant and crying out in the pain and agony of giving birth.<verse eid="REV 12:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 12:3"/>Then another sign appeared in heaven: a huge red dragon with seven heads, ten horns, and seven royal crowns on his heads.<verse eid="REV 12:3"/></para>
@@ -239,8 +239,8 @@
 <para style="p"><verse number="15" style="v" sid="REV 12:15"/>Then from his mouth the serpent spewed water like a river to overtake the woman and sweep her away in the torrent.<verse eid="REV 12:15"/></para>
 <para style="p"><verse number="16" style="v" sid="REV 12:16"/>But the earth helped the woman and opened its mouth to swallow up the river that the dragon had poured from his mouth.<verse eid="REV 12:16"/></para>
 <para style="p"><verse number="17" style="v" sid="REV 12:17"/>And the dragon was enraged at the woman and went to make war with the rest of her children, who keep the commandments of God and hold to the testimony of Jesus. And the dragon stood on the shore of the sea.<verse eid="REV 12:17"/></para>
-<chapter eid="REV 12"/>
-<chapter number="13" style="c" sid="REV 13"/>
+<chapter eid="REV 12" />
+<chapter number="13" style="c" sid="REV 13" />
 <para style="p"><verse number="1" style="v" sid="REV 13:1"/>Then I saw a beast with ten horns and seven heads rising out of the sea. There were ten royal crowns on its horns and blasphemous names on its heads.<verse eid="REV 13:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 13:2"/>The beast I saw was like a leopard, with the feet of a bear and the mouth of a lion. And the dragon gave the beast his power and his throne and great authority.<verse eid="REV 13:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 13:3"/>One of the heads of the beast appeared to have been mortally wounded. But the mortal wound was healed, and the whole world marveled and followed the beast.<verse eid="REV 13:3"/></para>
@@ -259,8 +259,8 @@
 <para style="p"><verse number="16" style="v" sid="REV 13:16"/>And the second beast required all people, small and great, rich and poor, free and slave, to receive a mark on their right hand or on their forehead,<verse eid="REV 13:16"/></para>
 <para style="p"><verse number="17" style="v" sid="REV 13:17"/>so that no one could buy or sell unless he had the mark—the name of the beast or the number of its name.<verse eid="REV 13:17"/></para>
 <para style="p"><verse number="18" style="v" sid="REV 13:18"/>Here is a call for wisdom: Let the one who has insight calculate the number of the beast, for it is the number of a man, and that number is 666.<verse eid="REV 13:18"/></para>
-<chapter eid="REV 13"/>
-<chapter number="14" style="c" sid="REV 14"/>
+<chapter eid="REV 13" />
+<chapter number="14" style="c" sid="REV 14" />
 <para style="p"><verse number="1" style="v" sid="REV 14:1"/>Then I looked and saw the Lamb standing on Mount Zion, and with Him 144,000 who had His name and His Father’s name written on their foreheads.<verse eid="REV 14:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 14:2"/>And I heard a sound from heaven like the roar of many waters and the loud rumbling of thunder. And the sound I heard was like harpists strumming their harps.<verse eid="REV 14:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 14:3"/>And they sang a new song before the throne and before the four living creatures and the elders. And no one could learn the song except the 144,000 who had been redeemed from the earth.<verse eid="REV 14:3"/></para>
@@ -281,8 +281,8 @@
 <para style="p"><verse number="18" style="v" sid="REV 14:18"/>Still another angel, with authority over the fire, came from the altar and called out in a loud voice to the angel with the sharp sickle, “Swing your sharp sickle and gather the clusters of grapes from the vine of the earth, because its grapes are ripe.”<verse eid="REV 14:18"/></para>
 <para style="p"><verse number="19" style="v" sid="REV 14:19"/>So the angel swung his sickle over the earth and gathered the grapes of the earth, and he threw them into the great winepress of God’s wrath.<verse eid="REV 14:19"/></para>
 <para style="p"><verse number="20" style="v" sid="REV 14:20"/>And the winepress was trodden outside the city, and the blood that flowed from it rose as high as the bridles of the horses for a distance of 1,600 stadia.<verse eid="REV 14:20"/></para>
-<chapter eid="REV 14"/>
-<chapter number="15" style="c" sid="REV 15"/>
+<chapter eid="REV 14" />
+<chapter number="15" style="c" sid="REV 15" />
 <para style="p"><verse number="1" style="v" sid="REV 15:1"/>Then I saw another great and marvelous sign in heaven: seven angels with the seven final plagues, with which the wrath of God is completed.<verse eid="REV 15:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 15:2"/>And I saw something like a sea of glass mixed with fire, beside which stood those who had conquered the beast and its image and the number of its name. They were holding harps from God,<verse eid="REV 15:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 15:3"/>and they sang the song of God’s servant Moses and of the Lamb: “Great and wonderful are Your works, O Lord God Almighty! Just and true are Your ways, O King of the nations!<verse eid="REV 15:3"/></para>
@@ -291,8 +291,8 @@
 <para style="p"><verse number="6" style="v" sid="REV 15:6"/>And out of the temple came the seven angels with the seven plagues, dressed in clean and bright linen and girded with golden sashes around their chests.<verse eid="REV 15:6"/></para>
 <para style="p"><verse number="7" style="v" sid="REV 15:7"/>Then one of the four living creatures gave the seven angels seven golden bowls full of the wrath of God, who lives forever and ever.<verse eid="REV 15:7"/></para>
 <para style="p"><verse number="8" style="v" sid="REV 15:8"/>And the temple was filled with smoke from the glory of God and from His power; and no one could enter the temple until the seven plagues of the seven angels were completed.<verse eid="REV 15:8"/></para>
-<chapter eid="REV 15"/>
-<chapter number="16" style="c" sid="REV 16"/>
+<chapter eid="REV 15" />
+<chapter number="16" style="c" sid="REV 16" />
 <para style="p"><verse number="1" style="v" sid="REV 16:1"/>Then I heard a loud voice from the temple saying to the seven angels, “Go, pour out on the earth the seven bowls of God’s wrath.”<verse eid="REV 16:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 16:2"/>So the first angel went and poured out his bowl on the earth, and loathsome, malignant sores broke out on those who had the mark of the beast and worshiped its image.<verse eid="REV 16:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 16:3"/>And the second angel poured out his bowl into the sea, and it turned to blood like that of the dead, and every living thing in the sea died.<verse eid="REV 16:3"/></para>
@@ -314,8 +314,8 @@
 <para style="p"><verse number="19" style="v" sid="REV 16:19"/>The great city was split into three parts, and the cities of the nations collapsed. And God remembered Babylon the great and gave her the cup of the wine of the fury of His wrath.<verse eid="REV 16:19"/></para>
 <para style="p"><verse number="20" style="v" sid="REV 16:20"/>Then every island fled, and no mountain could be found.<verse eid="REV 16:20"/></para>
 <para style="p"><verse number="21" style="v" sid="REV 16:21"/>And great hailstones weighing almost a hundred pounds each rained down on them from above. And men cursed God for the plague of hail, because it was so horrendous.<verse eid="REV 16:21"/></para>
-<chapter eid="REV 16"/>
-<chapter number="17" style="c" sid="REV 17"/>
+<chapter eid="REV 16" />
+<chapter number="17" style="c" sid="REV 17" />
 <para style="p"><verse number="1" style="v" sid="REV 17:1"/>Then one of the seven angels with the seven bowls came and said to me, “Come, I will show you the punishment of the great prostitute, who sits on many waters.<verse eid="REV 17:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 17:2"/>The kings of the earth were immoral with her, and those who dwell on the earth were intoxicated with the wine of her immorality.”<verse eid="REV 17:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 17:3"/>And the angel carried me away in the Spirit into a wilderness, where I saw a woman sitting on a scarlet beast that was covered with blasphemous names and had seven heads and ten horns.<verse eid="REV 17:3"/></para>
@@ -334,8 +334,8 @@
 <para style="p"><verse number="16" style="v" sid="REV 17:16"/>And the ten horns and the beast that you saw will hate the prostitute. They will leave her desolate and naked, and they will eat her flesh and burn her with fire.<verse eid="REV 17:16"/></para>
 <para style="p"><verse number="17" style="v" sid="REV 17:17"/>For God has put it into their hearts to carry out His purpose by uniting to give their kingdom to the beast, until the words of God are fulfilled.<verse eid="REV 17:17"/></para>
 <para style="p"><verse number="18" style="v" sid="REV 17:18"/>And the woman you saw is the great city that rules over the kings of the earth.”<verse eid="REV 17:18"/></para>
-<chapter eid="REV 17"/>
-<chapter number="18" style="c" sid="REV 18"/>
+<chapter eid="REV 17" />
+<chapter number="18" style="c" sid="REV 18" />
 <para style="p"><verse number="1" style="v" sid="REV 18:1"/>After this I saw another angel descending from heaven with great authority, and the earth was illuminated by his glory.<verse eid="REV 18:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 18:2"/>And he cried out in a mighty voice: “Fallen, fallen is Babylon the great! She has become a lair for demons and a haunt for every unclean spirit, every unclean bird, and every detestable beast.<verse eid="REV 18:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 18:3"/>All the nations have drunk the wine of the passion of her immorality. The kings of the earth were immoral with her, and the merchants of the earth have grown wealthy from the extravagance of her luxury.”<verse eid="REV 18:3"/></para>
@@ -360,8 +360,8 @@
 <para style="p"><verse number="22" style="v" sid="REV 18:22"/>And the sound of harpists and musicians, of flute players and trumpeters, will never ring out in you again. Nor will any craftsmen of any trade be found in you again, nor the sound of a millstone be heard in you again.<verse eid="REV 18:22"/></para>
 <para style="p"><verse number="23" style="v" sid="REV 18:23"/>The light of a lamp will never shine in you again, and the voices of a bride and bridegroom will never call out in you again. For your merchants were the great ones of the earth, because all the nations were deceived by your sorcery.”<verse eid="REV 18:23"/></para>
 <para style="p"><verse number="24" style="v" sid="REV 18:24"/>And there was found in her the blood of prophets and saints, and of all who had been slain on the earth.<verse eid="REV 18:24"/></para>
-<chapter eid="REV 18"/>
-<chapter number="19" style="c" sid="REV 19"/>
+<chapter eid="REV 18" />
+<chapter number="19" style="c" sid="REV 19" />
 <para style="p"><verse number="1" style="v" sid="REV 19:1"/>After this I heard a sound like the roar of a great multitude in heaven, shouting: “Hallelujah! Salvation and glory and power belong to our God!<verse eid="REV 19:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 19:2"/>For His judgments are true and just. He has judged the great prostitute who corrupted the earth with her immorality. He has avenged the blood of His servants that was poured out by her hand.”<verse eid="REV 19:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 19:3"/>And a second time they called out: “Hallelujah! Her smoke rises forever and ever.”<verse eid="REV 19:3"/></para>
@@ -383,8 +383,8 @@
 <para style="p"><verse number="19" style="v" sid="REV 19:19"/>Then I saw the beast and the kings of the earth with their armies assembled to wage war against the One seated on the horse, and against His army.<verse eid="REV 19:19"/></para>
 <para style="p"><verse number="20" style="v" sid="REV 19:20"/>But the beast was captured along with the false prophet, who on its behalf had performed signs deceiving those who had the mark of the beast and worshiped its image. Both the beast and the false prophet were thrown alive into the fiery lake of burning sulfur.<verse eid="REV 19:20"/></para>
 <para style="p"><verse number="21" style="v" sid="REV 19:21"/>And the rest were killed with the sword that proceeded from the mouth of the One seated on the horse. And all the birds gorged themselves on their flesh.<verse eid="REV 19:21"/></para>
-<chapter eid="REV 19"/>
-<chapter number="20" style="c" sid="REV 20"/>
+<chapter eid="REV 19" />
+<chapter number="20" style="c" sid="REV 20" />
 <para style="p"><verse number="1" style="v" sid="REV 20:1"/>Then I saw an angel coming down from heaven with the key to the Abyss, holding in his hand a great chain.<verse eid="REV 20:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 20:2"/>He seized the dragon, that ancient serpent who is the devil and Satan, and bound him for a thousand years.<verse eid="REV 20:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 20:3"/>And he threw him into the Abyss, shut it, and sealed it over him, so that he could not deceive the nations until the thousand years were complete. After that, he must be released for a brief period of time.<verse eid="REV 20:3"/></para>
@@ -400,8 +400,8 @@
 <para style="p"><verse number="13" style="v" sid="REV 20:13"/>The sea gave up its dead, and Death and Hades gave up their dead, and each one was judged according to his deeds.<verse eid="REV 20:13"/></para>
 <para style="p"><verse number="14" style="v" sid="REV 20:14"/>Then Death and Hades were thrown into the lake of fire. This is the second death—the lake of fire.<verse eid="REV 20:14"/></para>
 <para style="p"><verse number="15" style="v" sid="REV 20:15"/>And if anyone was found whose name was not written in the Book of Life, he was thrown into the lake of fire.<verse eid="REV 20:15"/></para>
-<chapter eid="REV 20"/>
-<chapter number="21" style="c" sid="REV 21"/>
+<chapter eid="REV 20" />
+<chapter number="21" style="c" sid="REV 21" />
 <para style="p"><verse number="1" style="v" sid="REV 21:1"/>Then I saw a new heaven and a new earth, for the first heaven and earth had passed away, and the sea was no more.<verse eid="REV 21:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 21:2"/>I saw the holy city, the new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.<verse eid="REV 21:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 21:3"/>And I heard a loud voice from the throne saying: “Behold, the dwelling place of God is with man, and He will dwell with them. They will be His people, and God Himself will be with them as their God.<verse eid="REV 21:3"/></para>
@@ -429,8 +429,8 @@
 <para style="p"><verse number="25" style="v" sid="REV 21:25"/>Its gates will never be shut at the end of the day, because there will be no night there.<verse eid="REV 21:25"/></para>
 <para style="p"><verse number="26" style="v" sid="REV 21:26"/>And into the city will be brought the glory and honor of the nations.<verse eid="REV 21:26"/></para>
 <para style="p"><verse number="27" style="v" sid="REV 21:27"/>But nothing unclean will ever enter it, nor anyone who practices an abomination or a lie, but only those whose names are written in the Lamb’s Book of Life.<verse eid="REV 21:27"/></para>
-<chapter eid="REV 21"/>
-<chapter number="22" style="c" sid="REV 22"/>
+<chapter eid="REV 21" />
+<chapter number="22" style="c" sid="REV 22" />
 <para style="p"><verse number="1" style="v" sid="REV 22:1"/>Then the angel showed me a river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb<verse eid="REV 22:1"/></para>
 <para style="p"><verse number="2" style="v" sid="REV 22:2"/>down the middle of the main street of the city. On either side of the river stood a tree of life, bearing twelve kinds of fruit and yielding a fresh crop for each month. And the leaves of the tree are for the healing of the nations.<verse eid="REV 22:2"/></para>
 <para style="p"><verse number="3" style="v" sid="REV 22:3"/>No longer will there be any curse. The throne of God and of the Lamb will be within the city, and His servants will worship Him.<verse eid="REV 22:3"/></para>
@@ -452,5 +452,5 @@
 <para style="p"><verse number="19" style="v" sid="REV 22:19"/>And if anyone takes away from the words of this book of prophecy, God will take away his share in the tree of life and the holy city, which are described in this book.<verse eid="REV 22:19"/></para>
 <para style="p"><verse number="20" style="v" sid="REV 22:20"/>He who testifies to these things says, “Yes, I am coming soon.” Amen. Come, Lord Jesus!<verse eid="REV 22:20"/></para>
 <para style="p"><verse number="21" style="v" sid="REV 22:21"/>The grace of the Lord Jesus be with all the saints. Amen.<verse eid="REV 22:21"/></para>
-<chapter eid="REV 22"/>
+<chapter eid="REV 22" />
 </usx>

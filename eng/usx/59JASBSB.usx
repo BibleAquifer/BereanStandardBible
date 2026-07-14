@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="JAS" style="id">- Berean Standard Bible -</book>
+<book code="JAS" style="id">- James -</book>
 <para style="h">James</para>
 <para style="toc1">James</para>
 <para style="toc2">James</para>
 <para style="mt1">James</para>
-<chapter number="1" style="c" sid="JAS 1"/>
+<chapter number="1" style="c" sid="JAS 1" />
 <para style="p"><verse number="1" style="v" sid="JAS 1:1"/>James, a servant of God and of the Lord Jesus Christ, To the twelve tribes of the Dispersion: Greetings.<verse eid="JAS 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JAS 1:2"/>Consider it pure joy, my brothers, when you encounter trials of many kinds,<verse eid="JAS 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JAS 1:3"/>because you know that the testing of your faith develops perseverance.<verse eid="JAS 1:3"/></para>
@@ -33,8 +33,8 @@
 <para style="p"><verse number="25" style="v" sid="JAS 1:25"/>But the one who looks intently into the perfect law of freedom, and continues to do so—not being a forgetful hearer, but an effective doer—he will be blessed in what he does.<verse eid="JAS 1:25"/></para>
 <para style="p"><verse number="26" style="v" sid="JAS 1:26"/>If anyone considers himself religious and yet does not bridle his tongue, he deceives his heart and his religion is worthless.<verse eid="JAS 1:26"/></para>
 <para style="p"><verse number="27" style="v" sid="JAS 1:27"/>Pure and undefiled religion before our God and Father is this: to care for orphans and widows in their distress, and to keep oneself from being polluted by the world.<verse eid="JAS 1:27"/></para>
-<chapter eid="JAS 1"/>
-<chapter number="2" style="c" sid="JAS 2"/>
+<chapter eid="JAS 1" />
+<chapter number="2" style="c" sid="JAS 2" />
 <para style="p"><verse number="1" style="v" sid="JAS 2:1"/>My brothers, as you hold out your faith in our glorious Lord Jesus Christ, do not show favoritism.<verse eid="JAS 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JAS 2:2"/>Suppose a man comes into your meeting wearing a gold ring and fine clothes, and a poor man in shabby clothes also comes in.<verse eid="JAS 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JAS 2:3"/>If you lavish attention on the man in fine clothes and say, “Here is a seat of honor,” but say to the poor man, “You must stand” or “Sit at my feet,”<verse eid="JAS 2:3"/></para>
@@ -61,8 +61,8 @@
 <para style="p"><verse number="24" style="v" sid="JAS 2:24"/>As you can see, a man is justified by his deeds and not by faith alone.<verse eid="JAS 2:24"/></para>
 <para style="p"><verse number="25" style="v" sid="JAS 2:25"/>In the same way, was not even Rahab the prostitute justified by her actions when she welcomed the spies and sent them off on another route?<verse eid="JAS 2:25"/></para>
 <para style="p"><verse number="26" style="v" sid="JAS 2:26"/>As the body without the spirit is dead, so faith without deeds is dead.<verse eid="JAS 2:26"/></para>
-<chapter eid="JAS 2"/>
-<chapter number="3" style="c" sid="JAS 3"/>
+<chapter eid="JAS 2" />
+<chapter number="3" style="c" sid="JAS 3" />
 <para style="p"><verse number="1" style="v" sid="JAS 3:1"/>Not many of you should become teachers, my brothers, because you know that we who teach will be judged more strictly.<verse eid="JAS 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JAS 3:2"/>We all stumble in many ways. If anyone is never at fault in what he says, he is a perfect man, able to control his whole body.<verse eid="JAS 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JAS 3:3"/>When we put bits into the mouths of horses to make them obey us, we can guide the whole animal.<verse eid="JAS 3:3"/></para>
@@ -81,8 +81,8 @@
 <para style="p"><verse number="16" style="v" sid="JAS 3:16"/>For where jealousy and selfish ambition exist, there will be disorder and every evil practice.<verse eid="JAS 3:16"/></para>
 <para style="p"><verse number="17" style="v" sid="JAS 3:17"/>But the wisdom from above is first of all pure, then peace-loving, gentle, accommodating, full of mercy and good fruit, impartial, and sincere.<verse eid="JAS 3:17"/></para>
 <para style="p"><verse number="18" style="v" sid="JAS 3:18"/>Peacemakers who sow in peace reap the fruit of righteousness.<verse eid="JAS 3:18"/></para>
-<chapter eid="JAS 3"/>
-<chapter number="4" style="c" sid="JAS 4"/>
+<chapter eid="JAS 3" />
+<chapter number="4" style="c" sid="JAS 4" />
 <para style="p"><verse number="1" style="v" sid="JAS 4:1"/>What causes conflicts and quarrels among you? Don’t they come from the passions at war within you?<verse eid="JAS 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JAS 4:2"/>You crave what you do not have; you kill and covet, but are unable to obtain it. You quarrel and fight. You do not have, because you do not ask.<verse eid="JAS 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JAS 4:3"/>And when you do ask, you do not receive, because you ask with wrong motives, that you may squander it on your pleasures.<verse eid="JAS 4:3"/></para>
@@ -100,8 +100,8 @@
 <para style="p"><verse number="15" style="v" sid="JAS 4:15"/>Instead, you ought to say, “If the Lord is willing, we will live and do this or that.”<verse eid="JAS 4:15"/></para>
 <para style="p"><verse number="16" style="v" sid="JAS 4:16"/>As it is, you boast in your proud intentions. All such boasting is evil.<verse eid="JAS 4:16"/></para>
 <para style="p"><verse number="17" style="v" sid="JAS 4:17"/>Anyone, then, who knows the right thing to do, yet fails to do it, is guilty of sin.<verse eid="JAS 4:17"/></para>
-<chapter eid="JAS 4"/>
-<chapter number="5" style="c" sid="JAS 5"/>
+<chapter eid="JAS 4" />
+<chapter number="5" style="c" sid="JAS 5" />
 <para style="p"><verse number="1" style="v" sid="JAS 5:1"/>Come now, you who are rich, weep and wail over the misery to come upon you.<verse eid="JAS 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JAS 5:2"/>Your riches have rotted and moths have eaten your clothes.<verse eid="JAS 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JAS 5:3"/>Your gold and silver are corroded. Their corrosion will testify against you and consume your flesh like fire. You have hoarded treasure in the last days.<verse eid="JAS 5:3"/></para>
@@ -122,5 +122,5 @@
 <para style="p"><verse number="18" style="v" sid="JAS 5:18"/>Again he prayed, and the heavens gave rain, and the earth yielded its crops.<verse eid="JAS 5:18"/></para>
 <para style="p"><verse number="19" style="v" sid="JAS 5:19"/>My brothers, if one of you should wander from the truth and someone should bring him back,<verse eid="JAS 5:19"/></para>
 <para style="p"><verse number="20" style="v" sid="JAS 5:20"/>consider this: Whoever turns a sinner from the error of his way will save his soul from death and cover over a multitude of sins.<verse eid="JAS 5:20"/></para>
-<chapter eid="JAS 5"/>
+<chapter eid="JAS 5" />
 </usx>

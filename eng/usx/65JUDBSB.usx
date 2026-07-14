@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="JUD" style="id">- Berean Standard Bible -</book>
+<book code="JUD" style="id">- Jude -</book>
 <para style="h">Jude</para>
 <para style="toc1">Jude</para>
 <para style="toc2">Jude</para>
 <para style="mt1">Jude</para>
-<chapter number="1" style="c" sid="JUD 1"/>
+<chapter number="1" style="c" sid="JUD 1" />
 <para style="p"><verse number="1" style="v" sid="JUD 1:1"/>Jude, a servant of Jesus Christ and a brother of James, To those who are called, loved by God the Father, and kept in Jesus Christ:<verse eid="JUD 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JUD 1:2"/>Mercy, peace, and love be multiplied to you.<verse eid="JUD 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JUD 1:3"/>Beloved, although I made every effort to write to you about the salvation we share, I felt it necessary to write and urge you to contend earnestly for the faith entrusted once for all to the saints.<verse eid="JUD 1:3"/></para>
@@ -31,5 +31,5 @@
 <para style="p"><verse number="23" style="v" sid="JUD 1:23"/>save others by snatching them from the fire; and to still others show mercy tempered with fear, hating even the clothing stained by the flesh.<verse eid="JUD 1:23"/></para>
 <para style="p"><verse number="24" style="v" sid="JUD 1:24"/>Now to Him who is able to keep you from stumbling and to present you unblemished in His glorious presence, with great joy—<verse eid="JUD 1:24"/></para>
 <para style="p"><verse number="25" style="v" sid="JUD 1:25"/>to the only God our Savior be glory, majesty, dominion, and authority through Jesus Christ our Lord before all time, and now, and for all eternity. Amen.<verse eid="JUD 1:25"/></para>
-<chapter eid="JUD 1"/>
+<chapter eid="JUD 1" />
 </usx>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="ECC" style="id">- Berean Standard Bible -</book>
+<book code="ECC" style="id">- Ecclesiastes -</book>
 <para style="h">Ecclesiastes</para>
 <para style="toc1">Ecclesiastes</para>
 <para style="toc2">Ecclesiastes</para>
 <para style="mt1">Ecclesiastes</para>
-<chapter number="1" style="c" sid="ECC 1"/>
+<chapter number="1" style="c" sid="ECC 1" />
 <para style="p"><verse number="1" style="v" sid="ECC 1:1"/>These are the words of the Teacher, the son of David, king in Jerusalem:<verse eid="ECC 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ECC 1:2"/>“Futility of futilities,” says the Teacher, “futility of futilities! Everything is futile!”<verse eid="ECC 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ECC 1:3"/>What does a man gain from all his labor, at which he toils under the sun?<verse eid="ECC 1:3"/></para>
@@ -24,8 +24,8 @@
 <para style="p"><verse number="16" style="v" sid="ECC 1:16"/>I said to myself, “Behold, I have grown and increased in wisdom beyond all those before me who were over Jerusalem, and my mind has observed a wealth of wisdom and knowledge.”<verse eid="ECC 1:16"/></para>
 <para style="p"><verse number="17" style="v" sid="ECC 1:17"/>So I set my mind to know wisdom and madness and folly; I learned that this, too, is a pursuit of the wind.<verse eid="ECC 1:17"/></para>
 <para style="p"><verse number="18" style="v" sid="ECC 1:18"/>For with much wisdom comes much sorrow, and as knowledge grows, grief increases.<verse eid="ECC 1:18"/></para>
-<chapter eid="ECC 1"/>
-<chapter number="2" style="c" sid="ECC 2"/>
+<chapter eid="ECC 1" />
+<chapter number="2" style="c" sid="ECC 2" />
 <para style="p"><verse number="1" style="v" sid="ECC 2:1"/>I said to myself, “Come now, I will test you with pleasure; enjoy what is good!” But it proved to be futile.<verse eid="ECC 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ECC 2:2"/>I said of laughter, “It is folly,” and of pleasure, “What does it accomplish?”<verse eid="ECC 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ECC 2:3"/>I sought to cheer my body with wine and to embrace folly—my mind still guiding me with wisdom—until I could see what was worthwhile for men to do under heaven during the few days of their lives.<verse eid="ECC 2:3"/></para>
@@ -52,8 +52,8 @@
 <para style="p"><verse number="24" style="v" sid="ECC 2:24"/>Nothing is better for a man than to eat and drink and enjoy his work. I have also seen that this is from the hand of God.<verse eid="ECC 2:24"/></para>
 <para style="p"><verse number="25" style="v" sid="ECC 2:25"/>For apart from Him, who can eat and who can find enjoyment?<verse eid="ECC 2:25"/></para>
 <para style="p"><verse number="26" style="v" sid="ECC 2:26"/>To the man who is pleasing in His sight, He gives wisdom and knowledge and joy, but to the sinner He assigns the task of gathering and accumulating that which he will hand over to one who pleases God. This too is futile and a pursuit of the wind.<verse eid="ECC 2:26"/></para>
-<chapter eid="ECC 2"/>
-<chapter number="3" style="c" sid="ECC 3"/>
+<chapter eid="ECC 2" />
+<chapter number="3" style="c" sid="ECC 3" />
 <para style="p"><verse number="1" style="v" sid="ECC 3:1"/>To everything there is a season, and a time for every purpose under heaven:<verse eid="ECC 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ECC 3:2"/>a time to be born and a time to die, a time to plant and a time to uproot,<verse eid="ECC 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ECC 3:3"/>a time to kill and a time to heal, a time to break down and a time to build,<verse eid="ECC 3:3"/></para>
@@ -76,8 +76,8 @@
 <para style="p"><verse number="20" style="v" sid="ECC 3:20"/>All go to one place; all come from dust, and all return to dust.<verse eid="ECC 3:20"/></para>
 <para style="p"><verse number="21" style="v" sid="ECC 3:21"/>Who knows if the spirit of man rises upward and the spirit of the animal descends into the earth?<verse eid="ECC 3:21"/></para>
 <para style="p"><verse number="22" style="v" sid="ECC 3:22"/>I have seen that there is nothing better for a man than to enjoy his work, because that is his lot. For who can bring him to see what will come after him?<verse eid="ECC 3:22"/></para>
-<chapter eid="ECC 3"/>
-<chapter number="4" style="c" sid="ECC 4"/>
+<chapter eid="ECC 3" />
+<chapter number="4" style="c" sid="ECC 4" />
 <para style="p"><verse number="1" style="v" sid="ECC 4:1"/>Again I looked, and I considered all the oppression taking place under the sun. I saw the tears of the oppressed, and they had no comforter; the power lay in the hands of their oppressors, and there was no comforter.<verse eid="ECC 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ECC 4:2"/>So I admired the dead, who had already died, above the living, who are still alive.<verse eid="ECC 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ECC 4:3"/>But better than both is he who has not yet existed, who has not seen the evil that is done under the sun.<verse eid="ECC 4:3"/></para>
@@ -94,8 +94,8 @@
 <para style="p"><verse number="14" style="v" sid="ECC 4:14"/>For the youth has come from the prison to the kingship, though he was born poor in his own kingdom.<verse eid="ECC 4:14"/></para>
 <para style="p"><verse number="15" style="v" sid="ECC 4:15"/>I saw that all who lived and walked under the sun followed this second one, the youth who succeeded the king.<verse eid="ECC 4:15"/></para>
 <para style="p"><verse number="16" style="v" sid="ECC 4:16"/>There is no limit to all the people who were before them. Yet the successor will not be celebrated by those who come even later. This too is futile and a pursuit of the wind.<verse eid="ECC 4:16"/></para>
-<chapter eid="ECC 4"/>
-<chapter number="5" style="c" sid="ECC 5"/>
+<chapter eid="ECC 4" />
+<chapter number="5" style="c" sid="ECC 5" />
 <para style="p"><verse number="1" style="v" sid="ECC 5:1"/>Guard your steps when you go to the house of God. Draw near to listen rather than to offer the sacrifice of fools, who do not know that they do wrong.<verse eid="ECC 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ECC 5:2"/>Do not be quick to speak, and do not be hasty in your heart to utter a word before God. For God is in heaven and you are on earth. So let your words be few.<verse eid="ECC 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ECC 5:3"/>As a dream comes through many cares, so the speech of a fool comes with many words.<verse eid="ECC 5:3"/></para>
@@ -116,8 +116,8 @@
 <para style="p"><verse number="18" style="v" sid="ECC 5:18"/>Here is what I have seen to be good and fitting: to eat and drink, and to find satisfaction in all the labor one does under the sun during the few days of life that God has given him—for this is his lot.<verse eid="ECC 5:18"/></para>
 <para style="p"><verse number="19" style="v" sid="ECC 5:19"/>Furthermore, God has given riches and wealth to every man, and He has enabled him to enjoy them, to accept his lot, and to rejoice in his labor. This is a gift from God.<verse eid="ECC 5:19"/></para>
 <para style="p"><verse number="20" style="v" sid="ECC 5:20"/>For a man seldom considers the days of his life, because God keeps him occupied with the joy of his heart.<verse eid="ECC 5:20"/></para>
-<chapter eid="ECC 5"/>
-<chapter number="6" style="c" sid="ECC 6"/>
+<chapter eid="ECC 5" />
+<chapter number="6" style="c" sid="ECC 6" />
 <para style="p"><verse number="1" style="v" sid="ECC 6:1"/>There is another evil I have seen under the sun, and it weighs heavily upon mankind:<verse eid="ECC 6:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ECC 6:2"/>God gives a man riches, wealth, and honor, so that he lacks nothing his heart desires; but God does not allow him to enjoy them. Instead, a stranger will enjoy them. This is futile and a grievous affliction.<verse eid="ECC 6:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ECC 6:3"/>A man may father a hundred children and live for many years; yet no matter how long he lives, if he is unsatisfied with his prosperity and does not even receive a proper burial, I say that a stillborn child is better off than he.<verse eid="ECC 6:3"/></para>
@@ -130,8 +130,8 @@
 <para style="p"><verse number="10" style="v" sid="ECC 6:10"/>Whatever exists was named long ago, and it is known what man is; but he cannot contend with one stronger than he.<verse eid="ECC 6:10"/></para>
 <para style="p"><verse number="11" style="v" sid="ECC 6:11"/>For the more words, the more futility—and how does that profit anyone?<verse eid="ECC 6:11"/></para>
 <para style="p"><verse number="12" style="v" sid="ECC 6:12"/>For who knows what is good for a man during the few days in which he passes through his fleeting life like a shadow? Who can tell a man what will come after him under the sun?<verse eid="ECC 6:12"/></para>
-<chapter eid="ECC 6"/>
-<chapter number="7" style="c" sid="ECC 7"/>
+<chapter eid="ECC 6" />
+<chapter number="7" style="c" sid="ECC 7" />
 <para style="p"><verse number="1" style="v" sid="ECC 7:1"/>A good name is better than fine perfume, and one’s day of death is better than his day of birth.<verse eid="ECC 7:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ECC 7:2"/>It is better to enter a house of mourning than a house of feasting, since death is the end of every man, and the living should take this to heart.<verse eid="ECC 7:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ECC 7:3"/>Sorrow is better than laughter, for a sad countenance is good for the heart.<verse eid="ECC 7:3"/></para>
@@ -161,8 +161,8 @@
 <para style="p"><verse number="27" style="v" sid="ECC 7:27"/>“Behold,” says the Teacher, “I have discovered this by adding one thing to another to find an explanation.<verse eid="ECC 7:27"/></para>
 <para style="p"><verse number="28" style="v" sid="ECC 7:28"/>While my soul was still searching but not finding, among a thousand I have found one upright man, but among all these I have not found one such woman.<verse eid="ECC 7:28"/></para>
 <para style="p"><verse number="29" style="v" sid="ECC 7:29"/>Only this have I found: I have discovered that God made mankind upright, but they have sought out many schemes.”<verse eid="ECC 7:29"/></para>
-<chapter eid="ECC 7"/>
-<chapter number="8" style="c" sid="ECC 8"/>
+<chapter eid="ECC 7" />
+<chapter number="8" style="c" sid="ECC 8" />
 <para style="p"><verse number="1" style="v" sid="ECC 8:1"/>Who is like the wise man? Who knows the interpretation of a matter? A man’s wisdom brightens his face, and the sternness of his face is changed.<verse eid="ECC 8:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ECC 8:2"/>Keep the king’s command, I say, because of your oath before God.<verse eid="ECC 8:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ECC 8:3"/>Do not hasten to leave his presence, and do not persist in a bad cause, for he will do whatever he pleases.<verse eid="ECC 8:3"/></para>
@@ -180,8 +180,8 @@
 <para style="p"><verse number="15" style="v" sid="ECC 8:15"/>So I commended the enjoyment of life, because there is nothing better for a man under the sun than to eat and drink and be merry. For this joy will accompany him in his labor during the days of his life that God gives him under the sun.<verse eid="ECC 8:15"/></para>
 <para style="p"><verse number="16" style="v" sid="ECC 8:16"/>When I applied my mind to know wisdom and to observe the task that one performs on the earth—though his eyes do not see sleep in the day or even in the night—<verse eid="ECC 8:16"/></para>
 <para style="p"><verse number="17" style="v" sid="ECC 8:17"/>I saw every work of God, and that a man is unable to comprehend the work that is done under the sun. Despite his efforts to search it out, he cannot find its meaning; even if the wise man claims to know, he is unable to comprehend.<verse eid="ECC 8:17"/></para>
-<chapter eid="ECC 8"/>
-<chapter number="9" style="c" sid="ECC 9"/>
+<chapter eid="ECC 8" />
+<chapter number="9" style="c" sid="ECC 9" />
 <para style="p"><verse number="1" style="v" sid="ECC 9:1"/>So I took all this to heart and concluded that the righteous and the wise, as well as their deeds, are in God’s hands. Man does not know what lies ahead, whether love or hate.<verse eid="ECC 9:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ECC 9:2"/>It is the same for all: There is a common fate for the righteous and the wicked, for the good and the bad, for the clean and the unclean, for the one who sacrifices and the one who does not. As it is for the good, so it is for the sinner; as it is for the one who makes a vow, so it is for the one who refuses to take a vow.<verse eid="ECC 9:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ECC 9:3"/>This is an evil in everything that is done under the sun: There is one fate for everyone. Furthermore, the hearts of men are full of evil and madness while they are alive, and afterward they join the dead.<verse eid="ECC 9:3"/></para>
@@ -200,8 +200,8 @@
 <para style="p"><verse number="16" style="v" sid="ECC 9:16"/>And I said, “Wisdom is better than strength, but the wisdom of the poor man is despised, and his words are not heeded.”<verse eid="ECC 9:16"/></para>
 <para style="p"><verse number="17" style="v" sid="ECC 9:17"/>The calm words of the wise are heeded over the shouts of a ruler among fools.<verse eid="ECC 9:17"/></para>
 <para style="p"><verse number="18" style="v" sid="ECC 9:18"/>Wisdom is better than weapons of war, but one sinner destroys much good.<verse eid="ECC 9:18"/></para>
-<chapter eid="ECC 9"/>
-<chapter number="10" style="c" sid="ECC 10"/>
+<chapter eid="ECC 9" />
+<chapter number="10" style="c" sid="ECC 10" />
 <para style="p"><verse number="1" style="v" sid="ECC 10:1"/>As dead flies bring a stench to the perfumer’s oil, so a little folly outweighs wisdom and honor.<verse eid="ECC 10:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ECC 10:2"/>A wise man’s heart inclines to the right, but the heart of a fool to the left.<verse eid="ECC 10:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ECC 10:3"/>Even as the fool walks along the road, his sense is lacking, and he shows everyone that he is a fool.<verse eid="ECC 10:3"/></para>
@@ -222,8 +222,8 @@
 <para style="p"><verse number="18" style="v" sid="ECC 10:18"/>Through laziness the roof caves in, and in the hands of the idle, the house leaks.<verse eid="ECC 10:18"/></para>
 <para style="p"><verse number="19" style="v" sid="ECC 10:19"/>A feast is prepared for laughter, and wine makes life merry, but money is the answer for everything.<verse eid="ECC 10:19"/></para>
 <para style="p"><verse number="20" style="v" sid="ECC 10:20"/>Do not curse the king even in your thoughts, or curse the rich even in your bedroom, for a bird of the air may carry your words, and a winged creature may report your speech.<verse eid="ECC 10:20"/></para>
-<chapter eid="ECC 10"/>
-<chapter number="11" style="c" sid="ECC 11"/>
+<chapter eid="ECC 10" />
+<chapter number="11" style="c" sid="ECC 11" />
 <para style="p"><verse number="1" style="v" sid="ECC 11:1"/>Cast your bread upon the waters, for after many days you will find it again.<verse eid="ECC 11:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ECC 11:2"/>Divide your portion among seven, or even eight, for you do not know what disaster may befall the land.<verse eid="ECC 11:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ECC 11:3"/>If the clouds are full, they will pour out rain upon the earth; whether a tree falls to the south or to the north, in the place where it falls, there it will lie.<verse eid="ECC 11:3"/></para>
@@ -234,8 +234,8 @@
 <para style="p"><verse number="8" style="v" sid="ECC 11:8"/>So if a man lives many years, let him rejoice in them all. But let him remember the days of darkness, for they will be many. Everything to come is futile.<verse eid="ECC 11:8"/></para>
 <para style="p"><verse number="9" style="v" sid="ECC 11:9"/>Rejoice, O young man, while you are young, and let your heart be glad in the days of your youth. Walk in the ways of your heart and in the sight of your eyes, but know that for all these things God will bring you to judgment.<verse eid="ECC 11:9"/></para>
 <para style="p"><verse number="10" style="v" sid="ECC 11:10"/>So banish sorrow from your heart, and cast off pain from your body, for youth and vigor are fleeting.<verse eid="ECC 11:10"/></para>
-<chapter eid="ECC 11"/>
-<chapter number="12" style="c" sid="ECC 12"/>
+<chapter eid="ECC 11" />
+<chapter number="12" style="c" sid="ECC 12" />
 <para style="p"><verse number="1" style="v" sid="ECC 12:1"/>Remember your Creator in the days of your youth, before the days of adversity come and the years approach of which you will say, “I find no pleasure in them,”<verse eid="ECC 12:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ECC 12:2"/>before the light of the sun, moon, and stars is darkened, and the clouds return after the rain,<verse eid="ECC 12:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ECC 12:3"/>on the day the keepers of the house tremble and the strong men stoop, when those grinding cease because they are few and those watching through windows see dimly,<verse eid="ECC 12:3"/></para>
@@ -250,5 +250,5 @@
 <para style="p"><verse number="12" style="v" sid="ECC 12:12"/>And by these, my son, be further warned: There is no end to the making of many books, and much study wearies the body.<verse eid="ECC 12:12"/></para>
 <para style="p"><verse number="13" style="v" sid="ECC 12:13"/>When all has been heard, the conclusion of the matter is this: Fear God and keep His commandments, because this is the whole duty of man.<verse eid="ECC 12:13"/></para>
 <para style="p"><verse number="14" style="v" sid="ECC 12:14"/>For God will bring every deed into judgment, along with every hidden thing, whether good or evil.<verse eid="ECC 12:14"/></para>
-<chapter eid="ECC 12"/>
+<chapter eid="ECC 12" />
 </usx>

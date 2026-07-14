@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="DEU" style="id">- Berean Standard Bible -</book>
+<book code="DEU" style="id">- Deuteronomy -</book>
 <para style="h">Deuteronomy</para>
 <para style="toc1">Deuteronomy</para>
 <para style="toc2">Deuteronomy</para>
 <para style="mt1">Deuteronomy</para>
-<chapter number="1" style="c" sid="DEU 1"/>
+<chapter number="1" style="c" sid="DEU 1" />
 <para style="p"><verse number="1" style="v" sid="DEU 1:1"/>These are the words that Moses spoke to all Israel in the wilderness east of the Jordan—in the Arabah opposite Suph—between Paran and Tophel, Laban, Hazeroth, and Dizahab.<verse eid="DEU 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 1:2"/>It is an eleven-day journey from Horeb to Kadesh-barnea by way of Mount Seir.<verse eid="DEU 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 1:3"/>In the fortieth year, on the first day of the eleventh month, Moses proclaimed to the Israelites all that the LORD had commanded him concerning them.<verse eid="DEU 1:3"/></para>
@@ -52,8 +52,8 @@
 <para style="p"><verse number="44" style="v" sid="DEU 1:44"/>Then the Amorites who lived in the hills came out against you and chased you like a swarm of bees. They routed you from Seir all the way to Hormah.<verse eid="DEU 1:44"/></para>
 <para style="p"><verse number="45" style="v" sid="DEU 1:45"/>And you returned and wept before the LORD, but He would not listen to your voice or give ear to you.<verse eid="DEU 1:45"/></para>
 <para style="p"><verse number="46" style="v" sid="DEU 1:46"/>For this reason you stayed in Kadesh for a long time—a very long time.<verse eid="DEU 1:46"/></para>
-<chapter eid="DEU 1"/>
-<chapter number="2" style="c" sid="DEU 2"/>
+<chapter eid="DEU 1" />
+<chapter number="2" style="c" sid="DEU 2" />
 <para style="p"><verse number="1" style="v" sid="DEU 2:1"/>Then we turned back and headed for the wilderness by way of the Red Sea, as the LORD had instructed me, and for many days we wandered around Mount Seir.<verse eid="DEU 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 2:2"/>At this time the LORD said to me,<verse eid="DEU 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 2:3"/>“You have been wandering around this hill country long enough; turn to the north<verse eid="DEU 2:3"/></para>
@@ -91,8 +91,8 @@
 <para style="p"><verse number="35" style="v" sid="DEU 2:35"/>We carried off for ourselves only the livestock and the plunder from the cities we captured.<verse eid="DEU 2:35"/></para>
 <para style="p"><verse number="36" style="v" sid="DEU 2:36"/>From Aroer on the rim of the Arnon Valley, along with the city in the valley, even as far as Gilead, not one city had walls too high for us. The LORD our God gave us all of them.<verse eid="DEU 2:36"/></para>
 <para style="p"><verse number="37" style="v" sid="DEU 2:37"/>But you did not go near the land of the Ammonites, or the land along the banks of the Jabbok River, or the cities of the hill country, or any place that the LORD our God had forbidden.<verse eid="DEU 2:37"/></para>
-<chapter eid="DEU 2"/>
-<chapter number="3" style="c" sid="DEU 3"/>
+<chapter eid="DEU 2" />
+<chapter number="3" style="c" sid="DEU 3" />
 <para style="p"><verse number="1" style="v" sid="DEU 3:1"/>Then we turned and went up the road to Bashan, and Og king of Bashan and his whole army came out to meet us in battle at Edrei.<verse eid="DEU 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 3:2"/>But the LORD said to me, “Do not fear him, for I have delivered him into your hand, along with all his people and his land. Do to him as you did to Sihon king of the Amorites, who lived in Heshbon.”<verse eid="DEU 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 3:3"/>So the LORD our God also delivered Og king of Bashan and his whole army into our hands. We struck them down until no survivor was left.<verse eid="DEU 3:3"/></para>
@@ -122,8 +122,8 @@
 <para style="p"><verse number="27" style="v" sid="DEU 3:27"/>Go to the top of Pisgah and look to the west and north and south and east. See the land with your own eyes, for you will not cross this Jordan.<verse eid="DEU 3:27"/></para>
 <para style="p"><verse number="28" style="v" sid="DEU 3:28"/>But commission Joshua, encourage him, and strengthen him, for he will cross over ahead of the people and enable them to inherit the land that you will see.”<verse eid="DEU 3:28"/></para>
 <para style="p"><verse number="29" style="v" sid="DEU 3:29"/>So we stayed in the valley opposite Beth-peor.<verse eid="DEU 3:29"/></para>
-<chapter eid="DEU 3"/>
-<chapter number="4" style="c" sid="DEU 4"/>
+<chapter eid="DEU 3" />
+<chapter number="4" style="c" sid="DEU 4" />
 <para style="p"><verse number="1" style="v" sid="DEU 4:1"/>Hear now, O Israel, the statutes and ordinances I am teaching you to follow, so that you may live and may enter and take possession of the land that the LORD, the God of your fathers, is giving you.<verse eid="DEU 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 4:2"/>You must not add to or subtract from what I command you, so that you may keep the commandments of the LORD your God that I am giving you.<verse eid="DEU 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 4:3"/>Your eyes have seen what the LORD did at Baal-peor, for the LORD your God destroyed from among you all who followed Baal of Peor.<verse eid="DEU 4:3"/></para>
@@ -173,8 +173,8 @@
 <para style="p"><verse number="47" style="v" sid="DEU 4:47"/>They took possession of the land belonging to Sihon and to Og king of Bashan—the two Amorite kings across the Jordan to the east—<verse eid="DEU 4:47"/></para>
 <para style="p"><verse number="48" style="v" sid="DEU 4:48"/>extending from Aroer on the rim of the Arnon Valley as far as Mount Siyon (that is, Hermon),<verse eid="DEU 4:48"/></para>
 <para style="p"><verse number="49" style="v" sid="DEU 4:49"/>including all the Arabah on the east side of the Jordan and as far as the Sea of the Arabah, below the slopes of Pisgah.<verse eid="DEU 4:49"/></para>
-<chapter eid="DEU 4"/>
-<chapter number="5" style="c" sid="DEU 5"/>
+<chapter eid="DEU 4" />
+<chapter number="5" style="c" sid="DEU 5" />
 <para style="p"><verse number="1" style="v" sid="DEU 5:1"/>Then Moses summoned all Israel and said to them: Hear, O Israel, the statutes and ordinances that I declare in your hearing this day. Learn them and observe them carefully.<verse eid="DEU 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 5:2"/>The LORD our God made a covenant with us at Horeb.<verse eid="DEU 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 5:3"/>He did not make this covenant with our fathers, but with all of us who are alive here today.<verse eid="DEU 5:3"/></para>
@@ -208,8 +208,8 @@
 <para style="p"><verse number="31" style="v" sid="DEU 5:31"/>But you stand here with Me, that I may speak to you all the commandments and statutes and ordinances you are to teach them to follow in the land that I am giving them to possess.”<verse eid="DEU 5:31"/></para>
 <para style="p"><verse number="32" style="v" sid="DEU 5:32"/>So be careful to do as the LORD your God has commanded you; you are not to turn aside to the right or to the left.<verse eid="DEU 5:32"/></para>
 <para style="p"><verse number="33" style="v" sid="DEU 5:33"/>You must walk in all the ways that the LORD your God has commanded you, so that you may live and prosper and prolong your days in the land that you will possess.<verse eid="DEU 5:33"/></para>
-<chapter eid="DEU 5"/>
-<chapter number="6" style="c" sid="DEU 6"/>
+<chapter eid="DEU 5" />
+<chapter number="6" style="c" sid="DEU 6" />
 <para style="p"><verse number="1" style="v" sid="DEU 6:1"/>These are the commandments and statutes and ordinances that the LORD your God has instructed me to teach you to follow in the land that you are about to enter and possess,<verse eid="DEU 6:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 6:2"/>so that you and your children and grandchildren may fear the LORD your God all the days of your lives by keeping all His statutes and commandments that I give you, and so that your days may be prolonged.<verse eid="DEU 6:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 6:3"/>Hear, O Israel, and be careful to observe them, so that you may prosper and multiply greatly in a land flowing with milk and honey, just as the LORD, the God of your fathers, has promised you.<verse eid="DEU 6:3"/></para>
@@ -235,8 +235,8 @@
 <para style="p"><verse number="23" style="v" sid="DEU 6:23"/>But He brought us out from there to lead us in and give us the land that He had sworn to our fathers.<verse eid="DEU 6:23"/></para>
 <para style="p"><verse number="24" style="v" sid="DEU 6:24"/>And the LORD commanded us to observe all these statutes and to fear the LORD our God, that we may always be prosperous and preserved, as we are to this day.<verse eid="DEU 6:24"/></para>
 <para style="p"><verse number="25" style="v" sid="DEU 6:25"/>And if we are careful to observe every one of these commandments before the LORD our God, as He has commanded us, then that will be our righteousness.”<verse eid="DEU 6:25"/></para>
-<chapter eid="DEU 6"/>
-<chapter number="7" style="c" sid="DEU 7"/>
+<chapter eid="DEU 6" />
+<chapter number="7" style="c" sid="DEU 7" />
 <para style="p"><verse number="1" style="v" sid="DEU 7:1"/>When the LORD your God brings you into the land that you are entering to possess, and He drives out before you many nations—the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites, seven nations larger and stronger than you—<verse eid="DEU 7:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 7:2"/>and when the LORD your God has delivered them over to you to defeat them, then you must devote them to complete destruction. Make no treaty with them and show them no mercy.<verse eid="DEU 7:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 7:3"/>Do not intermarry with them. Do not give your daughters to their sons or take their daughters for your sons,<verse eid="DEU 7:3"/></para>
@@ -263,8 +263,8 @@
 <para style="p"><verse number="24" style="v" sid="DEU 7:24"/>He will hand their kings over to you, and you will wipe out their names from under heaven. No one will be able to stand against you; you will annihilate them.<verse eid="DEU 7:24"/></para>
 <para style="p"><verse number="25" style="v" sid="DEU 7:25"/>You must burn up the images of their gods; do not covet the silver and gold that is on them or take it for yourselves, or you will be ensnared by it; for it is detestable to the LORD your God.<verse eid="DEU 7:25"/></para>
 <para style="p"><verse number="26" style="v" sid="DEU 7:26"/>And you must not bring any detestable thing into your house, or you, like it, will be set apart for destruction. You are to utterly detest and abhor it, because it is set apart for destruction.<verse eid="DEU 7:26"/></para>
-<chapter eid="DEU 7"/>
-<chapter number="8" style="c" sid="DEU 8"/>
+<chapter eid="DEU 7" />
+<chapter number="8" style="c" sid="DEU 8" />
 <para style="p"><verse number="1" style="v" sid="DEU 8:1"/>You must carefully follow every commandment I am giving you today, so that you may live and multiply, and enter and possess the land that the LORD swore to give your fathers.<verse eid="DEU 8:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 8:2"/>Remember that these forty years the LORD your God led you all the way in the wilderness, so that He might humble you and test you in order to know what was in your heart, whether or not you would keep His commandments.<verse eid="DEU 8:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 8:3"/>He humbled you, and in your hunger He gave you manna to eat, which neither you nor your fathers had known, so that you might understand that man does not live on bread alone, but on every word that comes from the mouth of the LORD.<verse eid="DEU 8:3"/></para>
@@ -285,8 +285,8 @@
 <para style="p"><verse number="18" style="v" sid="DEU 8:18"/>But remember that it is the LORD your God who gives you the power to gain wealth, in order to confirm His covenant that He swore to your fathers even to this day.<verse eid="DEU 8:18"/></para>
 <para style="p"><verse number="19" style="v" sid="DEU 8:19"/>If you ever forget the LORD your God and go after other gods to worship and bow down to them, I testify against you today that you will surely perish.<verse eid="DEU 8:19"/></para>
 <para style="p"><verse number="20" style="v" sid="DEU 8:20"/>Like the nations that the LORD has destroyed before you, so you will perish if you do not obey the LORD your God.<verse eid="DEU 8:20"/></para>
-<chapter eid="DEU 8"/>
-<chapter number="9" style="c" sid="DEU 9"/>
+<chapter eid="DEU 8" />
+<chapter number="9" style="c" sid="DEU 9" />
 <para style="p"><verse number="1" style="v" sid="DEU 9:1"/>Hear, O Israel: Today you are about to cross the Jordan to go in and dispossess nations greater and stronger than you, with large cities fortified to the heavens.<verse eid="DEU 9:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 9:2"/>The people are strong and tall, the descendants of the Anakim. You know about them, and you have heard it said, “Who can stand up to the sons of Anak?”<verse eid="DEU 9:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 9:3"/>But understand that today the LORD your God goes across ahead of you as a consuming fire; He will destroy them and subdue them before you. And you will drive them out and annihilate them swiftly, as the LORD has promised you.<verse eid="DEU 9:3"/></para>
@@ -316,8 +316,8 @@
 <para style="p"><verse number="27" style="v" sid="DEU 9:27"/>Remember Your servants Abraham, Isaac, and Jacob. Overlook the stubbornness of this people and the wickedness of their sin.<verse eid="DEU 9:27"/></para>
 <para style="p"><verse number="28" style="v" sid="DEU 9:28"/>Otherwise, those in the land from which You brought us out will say, ‘Because the LORD was not able to bring them into the land He had promised them, and because He hated them, He has brought them out to kill them in the wilderness.’<verse eid="DEU 9:28"/></para>
 <para style="p"><verse number="29" style="v" sid="DEU 9:29"/>But they are Your people, Your inheritance, whom You brought out by Your great power and outstretched arm.”<verse eid="DEU 9:29"/></para>
-<chapter eid="DEU 9"/>
-<chapter number="10" style="c" sid="DEU 10"/>
+<chapter eid="DEU 9" />
+<chapter number="10" style="c" sid="DEU 10" />
 <para style="p"><verse number="1" style="v" sid="DEU 10:1"/>At that time the LORD said to me, “Chisel out two stone tablets like the originals, come up to Me on the mountain, and make an ark of wood.<verse eid="DEU 10:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 10:2"/>And I will write on the tablets the words that were on the first tablets, which you broke; and you are to place them in the ark.”<verse eid="DEU 10:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 10:3"/>So I made an ark of acacia wood, chiseled out two stone tablets like the originals, and went up the mountain with the two tablets in my hands.<verse eid="DEU 10:3"/></para>
@@ -340,8 +340,8 @@
 <para style="p"><verse number="20" style="v" sid="DEU 10:20"/>You are to fear the LORD your God and serve Him. Hold fast to Him and take your oaths in His name.<verse eid="DEU 10:20"/></para>
 <para style="p"><verse number="21" style="v" sid="DEU 10:21"/>He is your praise and He is your God, who has done for you these great and awesome wonders that your eyes have seen.<verse eid="DEU 10:21"/></para>
 <para style="p"><verse number="22" style="v" sid="DEU 10:22"/>Your fathers went down to Egypt, seventy in all, and now the LORD your God has made you as numerous as the stars in the sky.<verse eid="DEU 10:22"/></para>
-<chapter eid="DEU 10"/>
-<chapter number="11" style="c" sid="DEU 11"/>
+<chapter eid="DEU 10" />
+<chapter number="11" style="c" sid="DEU 11" />
 <para style="p"><verse number="1" style="v" sid="DEU 11:1"/>You shall therefore love the LORD your God and always keep His charge, His statutes, His ordinances, and His commandments.<verse eid="DEU 11:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 11:2"/>Know this day that it is not your children who have known and seen the discipline of the LORD your God: His greatness, His mighty hand, and His outstretched arm;<verse eid="DEU 11:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 11:3"/>the signs and works He did in Egypt to Pharaoh king of Egypt and all his land;<verse eid="DEU 11:3"/></para>
@@ -374,8 +374,8 @@
 <para style="p"><verse number="30" style="v" sid="DEU 11:30"/>Are not these mountains across the Jordan, west of the road toward the sunset, in the land of the Canaanites who live in the Arabah opposite Gilgal near the Oak of Moreh?<verse eid="DEU 11:30"/></para>
 <para style="p"><verse number="31" style="v" sid="DEU 11:31"/>For you are about to cross the Jordan to enter and possess the land that the LORD your God is giving you. When you take possession of it and settle in it,<verse eid="DEU 11:31"/></para>
 <para style="p"><verse number="32" style="v" sid="DEU 11:32"/>be careful to follow all the statutes and ordinances that I am setting before you today.<verse eid="DEU 11:32"/></para>
-<chapter eid="DEU 11"/>
-<chapter number="12" style="c" sid="DEU 12"/>
+<chapter eid="DEU 11" />
+<chapter number="12" style="c" sid="DEU 12" />
 <para style="p"><verse number="1" style="v" sid="DEU 12:1"/>These are the statutes and ordinances you must be careful to follow all the days you live in the land that the LORD, the God of your fathers, has given you to possess.<verse eid="DEU 12:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 12:2"/>Destroy completely all the places where the nations you are dispossessing have served their gods—atop the high mountains, on the hills, and under every green tree.<verse eid="DEU 12:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 12:3"/>Tear down their altars, smash their sacred pillars, burn up their Asherah poles, cut down the idols of their gods, and wipe out their names from every place.<verse eid="DEU 12:3"/></para>
@@ -408,8 +408,8 @@
 <para style="p"><verse number="30" style="v" sid="DEU 12:30"/>be careful not to be ensnared by their ways after they have been destroyed before you. Do not inquire about their gods, asking, “How do these nations serve their gods? I will do likewise.”<verse eid="DEU 12:30"/></para>
 <para style="p"><verse number="31" style="v" sid="DEU 12:31"/>You must not worship the LORD your God in this way, because they practice for their gods every abomination which the LORD hates. They even burn their sons and daughters in the fire as sacrifices to their gods.<verse eid="DEU 12:31"/></para>
 <para style="p"><verse number="32" style="v" sid="DEU 12:32"/>See that you do everything I command you; do not add to it or subtract from it.<verse eid="DEU 12:32"/></para>
-<chapter eid="DEU 12"/>
-<chapter number="13" style="c" sid="DEU 13"/>
+<chapter eid="DEU 12" />
+<chapter number="13" style="c" sid="DEU 13" />
 <para style="p"><verse number="1" style="v" sid="DEU 13:1"/>If a prophet or dreamer of dreams arises among you and proclaims a sign or wonder to you,<verse eid="DEU 13:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 13:2"/>and if the sign or wonder he has spoken to you comes about, but he says, “Let us follow other gods (which you have not known) and let us worship them,”<verse eid="DEU 13:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 13:3"/>you must not listen to the words of that prophet or dreamer. For the LORD your God is testing you to find out whether you love Him with all your heart and with all your soul.<verse eid="DEU 13:3"/></para>
@@ -428,8 +428,8 @@
 <para style="p"><verse number="16" style="v" sid="DEU 13:16"/>And you are to gather all its plunder in the middle of the public square, and completely burn the city and all its plunder as a whole burnt offering to the LORD your God. The city must remain a mound of ruins forever, never to be rebuilt.<verse eid="DEU 13:16"/></para>
 <para style="p"><verse number="17" style="v" sid="DEU 13:17"/>Nothing devoted to destruction shall cling to your hands, so that the LORD will turn from His fierce anger, grant you mercy, show you compassion, and multiply you as He swore to your fathers,<verse eid="DEU 13:17"/></para>
 <para style="p"><verse number="18" style="v" sid="DEU 13:18"/>because you obey the LORD your God, keeping all His commandments I am giving you today and doing what is right in the eyes of the LORD your God.<verse eid="DEU 13:18"/></para>
-<chapter eid="DEU 13"/>
-<chapter number="14" style="c" sid="DEU 14"/>
+<chapter eid="DEU 13" />
+<chapter number="14" style="c" sid="DEU 14" />
 <para style="p"><verse number="1" style="v" sid="DEU 14:1"/>You are sons of the LORD your God; do not cut yourselves or shave your foreheads on behalf of the dead,<verse eid="DEU 14:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 14:2"/>for you are a people holy to the LORD your God. The LORD has chosen you to be a people for His prized possession out of all the peoples on the face of the earth.<verse eid="DEU 14:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 14:3"/>You must not eat any detestable thing.<verse eid="DEU 14:3"/></para>
@@ -459,8 +459,8 @@
 <para style="p"><verse number="27" style="v" sid="DEU 14:27"/>And do not neglect the Levite within your gates, since he has no portion or inheritance among you.<verse eid="DEU 14:27"/></para>
 <para style="p"><verse number="28" style="v" sid="DEU 14:28"/>At the end of every three years, bring a tenth of all your produce for that year and lay it up within your gates.<verse eid="DEU 14:28"/></para>
 <para style="p"><verse number="29" style="v" sid="DEU 14:29"/>Then the Levite (because he has no portion or inheritance among you), the foreigner, the fatherless, and the widow within your gates may come and eat and be satisfied. And the LORD your God will bless you in all the work of your hands.<verse eid="DEU 14:29"/></para>
-<chapter eid="DEU 14"/>
-<chapter number="15" style="c" sid="DEU 15"/>
+<chapter eid="DEU 14" />
+<chapter number="15" style="c" sid="DEU 15" />
 <para style="p"><verse number="1" style="v" sid="DEU 15:1"/>At the end of every seven years you must cancel debts.<verse eid="DEU 15:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 15:2"/>This is the manner of remission: Every creditor shall cancel what he has loaned to his neighbor. He is not to collect anything from his neighbor or brother, because the LORD’s time of release has been proclaimed.<verse eid="DEU 15:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 15:3"/>You may collect something from a foreigner, but you must forgive whatever your brother owes you.<verse eid="DEU 15:3"/></para>
@@ -484,8 +484,8 @@
 <para style="p"><verse number="21" style="v" sid="DEU 15:21"/>But if an animal has a defect, is lame or blind, or has any serious flaw, you must not sacrifice it to the LORD your God.<verse eid="DEU 15:21"/></para>
 <para style="p"><verse number="22" style="v" sid="DEU 15:22"/>Eat it within your gates; both the ceremonially unclean and clean may eat it as they would a gazelle or a deer.<verse eid="DEU 15:22"/></para>
 <para style="p"><verse number="23" style="v" sid="DEU 15:23"/>But you must not eat the blood; pour it on the ground like water.<verse eid="DEU 15:23"/></para>
-<chapter eid="DEU 15"/>
-<chapter number="16" style="c" sid="DEU 16"/>
+<chapter eid="DEU 15" />
+<chapter number="16" style="c" sid="DEU 16" />
 <para style="p"><verse number="1" style="v" sid="DEU 16:1"/>Observe the month of Abib and celebrate the Passover to the LORD your God, because in the month of Abib the LORD your God brought you out of Egypt by night.<verse eid="DEU 16:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 16:2"/>You are to offer to the LORD your God the Passover sacrifice from the herd or flock in the place the LORD will choose as a dwelling for His Name.<verse eid="DEU 16:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 16:3"/>You must not eat leavened bread with it; for seven days you are to eat with it unleavened bread, the bread of affliction, because you left the land of Egypt in haste—so that you may remember for the rest of your life the day you left the land of Egypt.<verse eid="DEU 16:3"/></para>
@@ -508,8 +508,8 @@
 <para style="p"><verse number="20" style="v" sid="DEU 16:20"/>Pursue justice, and justice alone, so that you may live, and you may possess the land that the LORD your God is giving you.<verse eid="DEU 16:20"/></para>
 <para style="p"><verse number="21" style="v" sid="DEU 16:21"/>Do not set up any wooden Asherah pole next to the altar you will build for the LORD your God,<verse eid="DEU 16:21"/></para>
 <para style="p"><verse number="22" style="v" sid="DEU 16:22"/>and do not set up for yourselves a sacred pillar, which the LORD your God hates.<verse eid="DEU 16:22"/></para>
-<chapter eid="DEU 16"/>
-<chapter number="17" style="c" sid="DEU 17"/>
+<chapter eid="DEU 16" />
+<chapter number="17" style="c" sid="DEU 17" />
 <para style="p"><verse number="1" style="v" sid="DEU 17:1"/>You shall not sacrifice to the LORD your God an ox or a sheep with any defect or serious flaw, for that is detestable to the LORD your God.<verse eid="DEU 17:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 17:2"/>If a man or woman among you in one of the towns that the LORD your God gives you is found doing evil in the sight of the LORD your God by transgressing His covenant<verse eid="DEU 17:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 17:3"/>and going to worship other gods, bowing down to them or to the sun or moon or any of the host of heaven—which I have forbidden—<verse eid="DEU 17:3"/></para>
@@ -530,8 +530,8 @@
 <para style="p"><verse number="18" style="v" sid="DEU 17:18"/>When he is seated on his royal throne, he must write for himself a copy of this instruction on a scroll in the presence of the Levitical priests.<verse eid="DEU 17:18"/></para>
 <para style="p"><verse number="19" style="v" sid="DEU 17:19"/>It is to remain with him, and he is to read from it all the days of his life, so that he may learn to fear the LORD his God by carefully observing all the words of this instruction and these statutes.<verse eid="DEU 17:19"/></para>
 <para style="p"><verse number="20" style="v" sid="DEU 17:20"/>Then his heart will not be exalted above his countrymen, and he will not turn aside from the commandment, to the right or to the left, in order that he and his sons may reign many years over his kingdom in Israel.<verse eid="DEU 17:20"/></para>
-<chapter eid="DEU 17"/>
-<chapter number="18" style="c" sid="DEU 18"/>
+<chapter eid="DEU 17" />
+<chapter number="18" style="c" sid="DEU 18" />
 <para style="p"><verse number="1" style="v" sid="DEU 18:1"/>The Levitical priests—indeed the whole tribe of Levi—shall have no portion or inheritance with Israel. They are to eat the food offerings to the LORD; that is their inheritance.<verse eid="DEU 18:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 18:2"/>Although they have no inheritance among their brothers, the LORD is their inheritance, as He promised them.<verse eid="DEU 18:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 18:3"/>This shall be the priests’ share from the people who offer a sacrifice, whether a bull or a sheep: the priests are to be given the shoulder, the jowls, and the stomach.<verse eid="DEU 18:3"/></para>
@@ -554,8 +554,8 @@
 <para style="p"><verse number="20" style="v" sid="DEU 18:20"/>But if any prophet dares to speak a message in My name that I have not commanded him to speak, or to speak in the name of other gods, that prophet must be put to death.”<verse eid="DEU 18:20"/></para>
 <para style="p"><verse number="21" style="v" sid="DEU 18:21"/>You may ask in your heart, “How can we recognize a message that the LORD has not spoken?”<verse eid="DEU 18:21"/></para>
 <para style="p"><verse number="22" style="v" sid="DEU 18:22"/>When a prophet speaks in the name of the LORD and the message does not come to pass or come true, that is a message the LORD has not spoken. The prophet has spoken presumptuously. Do not be afraid of him.<verse eid="DEU 18:22"/></para>
-<chapter eid="DEU 18"/>
-<chapter number="19" style="c" sid="DEU 19"/>
+<chapter eid="DEU 18" />
+<chapter number="19" style="c" sid="DEU 19" />
 <para style="p"><verse number="1" style="v" sid="DEU 19:1"/>When the LORD your God has cut off the nations whose land He is giving you, and when you have driven them out and settled in their cities and houses,<verse eid="DEU 19:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 19:2"/>then you are to set apart for yourselves three cities within the land that the LORD your God is giving you to possess.<verse eid="DEU 19:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 19:3"/>You are to build roads for yourselves and divide into three regions the land that the LORD your God is giving you as an inheritance, so that any manslayer can flee to these cities.<verse eid="DEU 19:3"/></para>
@@ -577,8 +577,8 @@
 <para style="p"><verse number="19" style="v" sid="DEU 19:19"/>you must do to him as he intended to do to his brother. So you must purge the evil from among you.<verse eid="DEU 19:19"/></para>
 <para style="p"><verse number="20" style="v" sid="DEU 19:20"/>Then the rest of the people will hear and be afraid, and they will never again do anything so evil among you.<verse eid="DEU 19:20"/></para>
 <para style="p"><verse number="21" style="v" sid="DEU 19:21"/>You must show no pity: life for life, eye for eye, tooth for tooth, hand for hand, and foot for foot.<verse eid="DEU 19:21"/></para>
-<chapter eid="DEU 19"/>
-<chapter number="20" style="c" sid="DEU 20"/>
+<chapter eid="DEU 19" />
+<chapter number="20" style="c" sid="DEU 20" />
 <para style="p"><verse number="1" style="v" sid="DEU 20:1"/>When you go out to war against your enemies and see horses, chariots, and an army larger than yours, do not be afraid of them; for the LORD your God, who brought you out of the land of Egypt, is with you.<verse eid="DEU 20:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 20:2"/>When you are about to go into battle, the priest is to come forward and address the army,<verse eid="DEU 20:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 20:3"/>saying to them, “Hear, O Israel, today you are going into battle with your enemies. Do not be fainthearted or afraid; do not be alarmed or terrified because of them.<verse eid="DEU 20:3"/></para>
@@ -599,8 +599,8 @@
 <para style="p"><verse number="18" style="v" sid="DEU 20:18"/>so that they cannot teach you to do all the detestable things they do for their gods, and so cause you to sin against the LORD your God.<verse eid="DEU 20:18"/></para>
 <para style="p"><verse number="19" style="v" sid="DEU 20:19"/>When you lay siege to a city for an extended time while fighting against it to capture it, you must not destroy its trees by putting an axe to them, because you can eat their fruit. You must not cut them down. Are the trees of the field human, that you should besiege them?<verse eid="DEU 20:19"/></para>
 <para style="p"><verse number="20" style="v" sid="DEU 20:20"/>But you may destroy the trees that you know do not produce fruit. Use them to build siege works against the city that is waging war against you, until it falls.<verse eid="DEU 20:20"/></para>
-<chapter eid="DEU 20"/>
-<chapter number="21" style="c" sid="DEU 21"/>
+<chapter eid="DEU 20" />
+<chapter number="21" style="c" sid="DEU 21" />
 <para style="p"><verse number="1" style="v" sid="DEU 21:1"/>If one is found slain, lying in a field in the land that the LORD your God is giving you to possess, and it is not known who killed him,<verse eid="DEU 21:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 21:2"/>your elders and judges must come out and measure the distance from the victim to the neighboring cities.<verse eid="DEU 21:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 21:3"/>Then the elders of the city nearest the victim shall take a heifer that has never been yoked or used for work,<verse eid="DEU 21:3"/></para>
@@ -624,8 +624,8 @@
 <para style="p"><verse number="21" style="v" sid="DEU 21:21"/>Then all the men of his city will stone him to death. So you must purge the evil from among you, and all Israel will hear and be afraid.<verse eid="DEU 21:21"/></para>
 <para style="p"><verse number="22" style="v" sid="DEU 21:22"/>If a man has committed a sin worthy of death, and he is executed, and you hang his body on a tree,<verse eid="DEU 21:22"/></para>
 <para style="p"><verse number="23" style="v" sid="DEU 21:23"/>you must not leave the body on the tree overnight, but you must be sure to bury him that day, because anyone who is hung on a tree is under God’s curse. You must not defile the land that the LORD your God is giving you as an inheritance.<verse eid="DEU 21:23"/></para>
-<chapter eid="DEU 21"/>
-<chapter number="22" style="c" sid="DEU 22"/>
+<chapter eid="DEU 21" />
+<chapter number="22" style="c" sid="DEU 22" />
 <para style="p"><verse number="1" style="v" sid="DEU 22:1"/>If you see your brother’s ox or sheep straying, you must not ignore it; be sure to return it to your brother.<verse eid="DEU 22:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 22:2"/>If your brother does not live near you, or if you do not know who he is, you are to take the animal home to remain with you until your brother comes seeking it; then you can return it to him.<verse eid="DEU 22:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 22:3"/>And you shall do the same for his donkey, his cloak, or anything your brother has lost and you have found. You must not ignore it.<verse eid="DEU 22:3"/></para>
@@ -656,8 +656,8 @@
 <para style="p"><verse number="28" style="v" sid="DEU 22:28"/>If a man encounters a virgin who is not pledged in marriage, and he seizes her and lies with her, and they are discovered,<verse eid="DEU 22:28"/></para>
 <para style="p"><verse number="29" style="v" sid="DEU 22:29"/>then the man who lay with her must pay the young woman’s father fifty shekels of silver, and she must become his wife because he has violated her. He must not divorce her as long as he lives.<verse eid="DEU 22:29"/></para>
 <para style="p"><verse number="30" style="v" sid="DEU 22:30"/>A man is not to marry his father’s wife, so that he will not dishonor his father’s marriage bed.<verse eid="DEU 22:30"/></para>
-<chapter eid="DEU 22"/>
-<chapter number="23" style="c" sid="DEU 23"/>
+<chapter eid="DEU 22" />
+<chapter number="23" style="c" sid="DEU 23" />
 <para style="p"><verse number="1" style="v" sid="DEU 23:1"/>No man with crushed or severed genitals may enter the assembly of the LORD.<verse eid="DEU 23:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 23:2"/>No one of illegitimate birth may enter the assembly of the LORD, nor may any of his descendants, even to the tenth generation.<verse eid="DEU 23:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 23:3"/>No Ammonite or Moabite or any of their descendants may enter the assembly of the LORD, even to the tenth generation.<verse eid="DEU 23:3"/></para>
@@ -683,8 +683,8 @@
 <para style="p"><verse number="23" style="v" sid="DEU 23:23"/>Be careful to follow through on what comes from your lips, because you have freely vowed to the LORD your God with your own mouth.<verse eid="DEU 23:23"/></para>
 <para style="p"><verse number="24" style="v" sid="DEU 23:24"/>When you enter your neighbor’s vineyard, you may eat your fill of grapes, but you must not put any in your basket.<verse eid="DEU 23:24"/></para>
 <para style="p"><verse number="25" style="v" sid="DEU 23:25"/>When you enter your neighbor’s grainfield, you may pluck the heads of grain with your hand, but you must not put a sickle to your neighbor’s grain.<verse eid="DEU 23:25"/></para>
-<chapter eid="DEU 23"/>
-<chapter number="24" style="c" sid="DEU 24"/>
+<chapter eid="DEU 23" />
+<chapter number="24" style="c" sid="DEU 24" />
 <para style="p"><verse number="1" style="v" sid="DEU 24:1"/>If a man marries a woman, but she becomes displeasing to him because he finds some indecency in her, he may write her a certificate of divorce, hand it to her, and send her away from his house.<verse eid="DEU 24:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 24:2"/>If, after leaving his house, she goes and becomes another man’s wife,<verse eid="DEU 24:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 24:3"/>and the second man hates her, writes her a certificate of divorce, hands it to her, and sends her away from his house, or if he dies,<verse eid="DEU 24:3"/></para>
@@ -707,8 +707,8 @@
 <para style="p"><verse number="20" style="v" sid="DEU 24:20"/>When you beat the olives from your trees, you must not go over the branches again. What remains will be for the foreigner, the fatherless, and the widow.<verse eid="DEU 24:20"/></para>
 <para style="p"><verse number="21" style="v" sid="DEU 24:21"/>When you gather the grapes of your vineyard, you must not go over the vines again. What remains will be for the foreigner, the fatherless, and the widow.<verse eid="DEU 24:21"/></para>
 <para style="p"><verse number="22" style="v" sid="DEU 24:22"/>Remember that you were slaves in the land of Egypt. Therefore I am commanding you to do this.<verse eid="DEU 24:22"/></para>
-<chapter eid="DEU 24"/>
-<chapter number="25" style="c" sid="DEU 25"/>
+<chapter eid="DEU 24" />
+<chapter number="25" style="c" sid="DEU 25" />
 <para style="p"><verse number="1" style="v" sid="DEU 25:1"/>If there is a dispute between men, they are to go to court to be judged, so that the innocent may be acquitted and the guilty condemned.<verse eid="DEU 25:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 25:2"/>If the guilty man deserves to be beaten, the judge shall have him lie down and be flogged in his presence with the number of lashes his crime warrants.<verse eid="DEU 25:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 25:3"/>He may receive no more than forty lashes, lest your brother be beaten any more than that and be degraded in your sight.<verse eid="DEU 25:3"/></para>
@@ -728,8 +728,8 @@
 <para style="p"><verse number="17" style="v" sid="DEU 25:17"/>Remember what the Amalekites did to you along your way from Egypt,<verse eid="DEU 25:17"/></para>
 <para style="p"><verse number="18" style="v" sid="DEU 25:18"/>how they met you on your journey when you were tired and weary, and they attacked all your stragglers; they had no fear of God.<verse eid="DEU 25:18"/></para>
 <para style="p"><verse number="19" style="v" sid="DEU 25:19"/>When the LORD your God gives you rest from the enemies around you in the land that He is giving you to possess as an inheritance, you are to blot out the memory of Amalek from under heaven. Do not forget!<verse eid="DEU 25:19"/></para>
-<chapter eid="DEU 25"/>
-<chapter number="26" style="c" sid="DEU 26"/>
+<chapter eid="DEU 25" />
+<chapter number="26" style="c" sid="DEU 26" />
 <para style="p"><verse number="1" style="v" sid="DEU 26:1"/>When you enter the land that the LORD your God is giving you as an inheritance, and you take possession of it and settle in it,<verse eid="DEU 26:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 26:2"/>you are to take some of the firstfruits of all your produce from the soil of the land that the LORD your God is giving you and put them in a basket. Then go to the place the LORD your God will choose as a dwelling for His Name,<verse eid="DEU 26:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 26:3"/>to the priest who is serving at that time, and say to him, “I declare today to the LORD your God that I have entered the land that the LORD swore to our fathers to give us.”<verse eid="DEU 26:3"/></para>
@@ -749,8 +749,8 @@
 <para style="p"><verse number="17" style="v" sid="DEU 26:17"/>Today you have proclaimed that the LORD is your God and that you will walk in His ways, keep His statutes and commandments and ordinances, and listen to His voice.<verse eid="DEU 26:17"/></para>
 <para style="p"><verse number="18" style="v" sid="DEU 26:18"/>And today the LORD has proclaimed that you are His people and treasured possession as He promised, that you are to keep all His commandments,<verse eid="DEU 26:18"/></para>
 <para style="p"><verse number="19" style="v" sid="DEU 26:19"/>that He will set you high in praise and name and honor above all the nations He has made, and that you will be a holy people to the LORD your God, as He has promised.<verse eid="DEU 26:19"/></para>
-<chapter eid="DEU 26"/>
-<chapter number="27" style="c" sid="DEU 27"/>
+<chapter eid="DEU 26" />
+<chapter number="27" style="c" sid="DEU 27" />
 <para style="p"><verse number="1" style="v" sid="DEU 27:1"/>Then Moses and the elders of Israel commanded the people: “Keep all the commandments I am giving you today.<verse eid="DEU 27:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 27:2"/>And on the day you cross the Jordan into the land that the LORD your God is giving you, set up large stones and coat them with plaster.<verse eid="DEU 27:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 27:3"/>Write on them all the words of this law when you have crossed over to enter the land that the LORD your God is giving you, a land flowing with milk and honey, just as the LORD, the God of your fathers, has promised you.<verse eid="DEU 27:3"/></para>
@@ -777,8 +777,8 @@
 <para style="p"><verse number="24" style="v" sid="DEU 27:24"/>‘Cursed is he who strikes down his neighbor in secret.’ And let all the people say, ‘Amen!’<verse eid="DEU 27:24"/></para>
 <para style="p"><verse number="25" style="v" sid="DEU 27:25"/>‘Cursed is he who accepts a bribe to kill an innocent person.’ And let all the people say, ‘Amen!’<verse eid="DEU 27:25"/></para>
 <para style="p"><verse number="26" style="v" sid="DEU 27:26"/>‘Cursed is he who does not put the words of this law into practice.’ And let all the people say, ‘Amen!’<verse eid="DEU 27:26"/></para>
-<chapter eid="DEU 27"/>
-<chapter number="28" style="c" sid="DEU 28"/>
+<chapter eid="DEU 27" />
+<chapter number="28" style="c" sid="DEU 28" />
 <para style="p"><verse number="1" style="v" sid="DEU 28:1"/>“Now if you faithfully obey the voice of the LORD your God and are careful to follow all His commandments I am giving you today, the LORD your God will set you high above all the nations of the earth.<verse eid="DEU 28:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 28:2"/>And all these blessings will come upon you and overtake you, if you will obey the voice of the LORD your God:<verse eid="DEU 28:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 28:3"/>You will be blessed in the city and blessed in the country.<verse eid="DEU 28:3"/></para>
@@ -847,8 +847,8 @@
 <para style="p"><verse number="66" style="v" sid="DEU 28:66"/>So your life will hang in doubt before you, and you will be afraid night and day, never certain of survival.<verse eid="DEU 28:66"/></para>
 <para style="p"><verse number="67" style="v" sid="DEU 28:67"/>In the morning you will say, ‘If only it were evening!’ and in the evening you will say, ‘If only it were morning!’—because of the dread in your hearts of the terrifying sights you will see.<verse eid="DEU 28:67"/></para>
 <para style="p"><verse number="68" style="v" sid="DEU 28:68"/>The LORD will return you to Egypt in ships by a route that I said you should never see again. There you will sell yourselves to your enemies as male and female slaves, but no one will buy you.”<verse eid="DEU 28:68"/></para>
-<chapter eid="DEU 28"/>
-<chapter number="29" style="c" sid="DEU 29"/>
+<chapter eid="DEU 28" />
+<chapter number="29" style="c" sid="DEU 29" />
 <para style="p"><verse number="1" style="v" sid="DEU 29:1"/>These are the words of the covenant that the LORD commanded Moses to make with the Israelites in the land of Moab, in addition to the covenant He had made with them at Horeb.<verse eid="DEU 29:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 29:2"/>Moses summoned all Israel and proclaimed to them, “You have seen with your own eyes everything the LORD did in Egypt to Pharaoh, to all his officials, and to all his land.<verse eid="DEU 29:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 29:3"/>You saw with your own eyes the great trials, and those miraculous signs and wonders.<verse eid="DEU 29:3"/></para>
@@ -878,8 +878,8 @@
 <para style="p"><verse number="27" style="v" sid="DEU 29:27"/>Therefore the anger of the LORD burned against this land, and He brought upon it every curse written in this book.<verse eid="DEU 29:27"/></para>
 <para style="p"><verse number="28" style="v" sid="DEU 29:28"/>The LORD uprooted them from their land in His anger, rage, and great wrath, and He cast them into another land, where they are today.’<verse eid="DEU 29:28"/></para>
 <para style="p"><verse number="29" style="v" sid="DEU 29:29"/>The secret things belong to the LORD our God, but the things revealed belong to us and to our children forever, so that we may follow all the words of this law.<verse eid="DEU 29:29"/></para>
-<chapter eid="DEU 29"/>
-<chapter number="30" style="c" sid="DEU 30"/>
+<chapter eid="DEU 29" />
+<chapter number="30" style="c" sid="DEU 30" />
 <para style="p"><verse number="1" style="v" sid="DEU 30:1"/>“When all these things come upon you—the blessings and curses I have set before you—and you call them to mind in all the nations to which the LORD your God has banished you,<verse eid="DEU 30:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 30:2"/>and when you and your children return to the LORD your God and obey His voice with all your heart and all your soul according to everything I am giving you today,<verse eid="DEU 30:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 30:3"/>then He will restore you from captivity and have compassion on you and gather you from all the nations to which the LORD your God has scattered you.<verse eid="DEU 30:3"/></para>
@@ -900,8 +900,8 @@
 <para style="p"><verse number="18" style="v" sid="DEU 30:18"/>I declare to you today that you will surely perish; you shall not prolong your days in the land that you are crossing the Jordan to possess.<verse eid="DEU 30:18"/></para>
 <para style="p"><verse number="19" style="v" sid="DEU 30:19"/>I call heaven and earth as witnesses against you today that I have set before you life and death, blessing and cursing. Therefore choose life, so that you and your descendants may live,<verse eid="DEU 30:19"/></para>
 <para style="p"><verse number="20" style="v" sid="DEU 30:20"/>and that you may love the LORD your God, obey Him, and hold fast to Him. For He is your life, and He will prolong your life in the land that the LORD swore to give to your fathers, to Abraham, Isaac, and Jacob.”<verse eid="DEU 30:20"/></para>
-<chapter eid="DEU 30"/>
-<chapter number="31" style="c" sid="DEU 31"/>
+<chapter eid="DEU 30" />
+<chapter number="31" style="c" sid="DEU 31" />
 <para style="p"><verse number="1" style="v" sid="DEU 31:1"/>When Moses had finished speaking these words to all Israel,<verse eid="DEU 31:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 31:2"/>he said to them, “I am now a hundred and twenty years old; I am no longer able to come and go, and the LORD has said to me, ‘You shall not cross the Jordan.’<verse eid="DEU 31:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 31:3"/>The LORD your God Himself will cross over ahead of you. He will destroy these nations before you, and you will dispossess them. Joshua will cross ahead of you, as the LORD has said.<verse eid="DEU 31:3"/></para>
@@ -932,8 +932,8 @@
 <para style="p"><verse number="28" style="v" sid="DEU 31:28"/>Assemble before me all the elders of your tribes and all your officers so that I may speak these words in their hearing and call heaven and earth to witness against them.<verse eid="DEU 31:28"/></para>
 <para style="p"><verse number="29" style="v" sid="DEU 31:29"/>For I know that after my death you will become utterly corrupt and turn from the path I have commanded you. And in the days to come, disaster will befall you because you will do evil in the sight of the LORD to provoke Him to anger by the work of your hands.”<verse eid="DEU 31:29"/></para>
 <para style="p"><verse number="30" style="v" sid="DEU 31:30"/>Then Moses recited aloud to the whole assembly of Israel the words of this song from beginning to end:<verse eid="DEU 31:30"/></para>
-<chapter eid="DEU 31"/>
-<chapter number="32" style="c" sid="DEU 32"/>
+<chapter eid="DEU 31" />
+<chapter number="32" style="c" sid="DEU 32" />
 <para style="p"><verse number="1" style="v" sid="DEU 32:1"/>Give ear, O heavens, and I will speak; hear, O earth, the words of my mouth.<verse eid="DEU 32:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 32:2"/>Let my teaching fall like rain and my speech settle like dew, like gentle rain on new grass, like showers on tender plants.<verse eid="DEU 32:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 32:3"/>For I will proclaim the name of the LORD. Ascribe greatness to our God!<verse eid="DEU 32:3"/></para>
@@ -986,8 +986,8 @@
 <para style="p"><verse number="50" style="v" sid="DEU 32:50"/>And there on the mountain that you climb, you will die and be gathered to your people, just as your brother Aaron died on Mount Hor and was gathered to his people.<verse eid="DEU 32:50"/></para>
 <para style="p"><verse number="51" style="v" sid="DEU 32:51"/>For at the waters of Meribah-kadesh in the Wilderness of Zin, both of you broke faith with Me among the Israelites by failing to treat Me as holy in their presence.<verse eid="DEU 32:51"/></para>
 <para style="p"><verse number="52" style="v" sid="DEU 32:52"/>Although you shall see from a distance the land that I am giving the Israelites, you shall not enter it.”<verse eid="DEU 32:52"/></para>
-<chapter eid="DEU 32"/>
-<chapter number="33" style="c" sid="DEU 33"/>
+<chapter eid="DEU 32" />
+<chapter number="33" style="c" sid="DEU 33" />
 <para style="p"><verse number="1" style="v" sid="DEU 33:1"/>This is the blessing that Moses the man of God pronounced upon the Israelites before his death.<verse eid="DEU 33:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 33:2"/>He said: “The LORD came from Sinai and dawned upon us from Seir; He shone forth from Mount Paran and came with myriads of holy ones, with flaming fire at His right hand.<verse eid="DEU 33:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 33:3"/>Surely You love the people; all the holy ones are in Your hand, and they sit down at Your feet; each receives Your words—<verse eid="DEU 33:3"/></para>
@@ -1017,8 +1017,8 @@
 <para style="p"><verse number="27" style="v" sid="DEU 33:27"/>The eternal God is your dwelling place, and underneath are the everlasting arms. He drives out the enemy before you, giving the command, ‘Destroy him!’<verse eid="DEU 33:27"/></para>
 <para style="p"><verse number="28" style="v" sid="DEU 33:28"/>So Israel dwells securely; the fountain of Jacob lives untroubled in a land of grain and new wine, where even the heavens drip with dew.<verse eid="DEU 33:28"/></para>
 <para style="p"><verse number="29" style="v" sid="DEU 33:29"/>Blessed are you, O Israel! Who is like you, a people saved by the LORD? He is the shield that protects you, the sword in which you boast. Your enemies will cower before you, and you shall trample their high places.”<verse eid="DEU 33:29"/></para>
-<chapter eid="DEU 33"/>
-<chapter number="34" style="c" sid="DEU 34"/>
+<chapter eid="DEU 33" />
+<chapter number="34" style="c" sid="DEU 34" />
 <para style="p"><verse number="1" style="v" sid="DEU 34:1"/>Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, which faces Jericho. And the LORD showed him the whole land—from Gilead as far as Dan,<verse eid="DEU 34:1"/></para>
 <para style="p"><verse number="2" style="v" sid="DEU 34:2"/>all of Naphtali, the land of Ephraim and Manasseh, all the land of Judah as far as the Western Sea,<verse eid="DEU 34:2"/></para>
 <para style="p"><verse number="3" style="v" sid="DEU 34:3"/>the Negev, and the region from the Valley of Jericho (the City of Palms) all the way to Zoar.<verse eid="DEU 34:3"/></para>
@@ -1031,5 +1031,5 @@
 <para style="p"><verse number="10" style="v" sid="DEU 34:10"/>Since that time, no prophet has risen in Israel like Moses, whom the LORD knew face to face—<verse eid="DEU 34:10"/></para>
 <para style="p"><verse number="11" style="v" sid="DEU 34:11"/>no prophet who did all the signs and wonders that the LORD sent Moses to do in the land of Egypt to Pharaoh and to all his officials and all his land,<verse eid="DEU 34:11"/></para>
 <para style="p"><verse number="12" style="v" sid="DEU 34:12"/>and no prophet who performed all the mighty acts of power and awesome deeds that Moses did in the sight of all Israel.<verse eid="DEU 34:12"/></para>
-<chapter eid="DEU 34"/>
+<chapter eid="DEU 34" />
 </usx>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="LUK" style="id">- Berean Standard Bible -</book>
+<book code="LUK" style="id">- Luke -</book>
 <para style="h">Luke</para>
 <para style="toc1">Luke</para>
 <para style="toc2">Luke</para>
 <para style="mt1">Luke</para>
-<chapter number="1" style="c" sid="LUK 1"/>
+<chapter number="1" style="c" sid="LUK 1" />
 <para style="p"><verse number="1" style="v" sid="LUK 1:1"/>Many have undertaken to compose an account of the things that have been fulfilled among us,<verse eid="LUK 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 1:2"/>just as they were handed down to us by the initial eyewitnesses and servants of the word.<verse eid="LUK 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 1:3"/>Therefore, having carefully investigated everything from the beginning, it seemed good also to me to write an orderly account for you, most excellent Theophilus,<verse eid="LUK 1:3"/></para>
@@ -86,8 +86,8 @@
 <para style="p"><verse number="78" style="v" sid="LUK 1:78"/>because of the tender mercy of our God, by which the Dawn will visit us from on high,<verse eid="LUK 1:78"/></para>
 <para style="p"><verse number="79" style="v" sid="LUK 1:79"/>to shine on those who live in darkness and in the shadow of death, to guide our feet into the path of peace.”<verse eid="LUK 1:79"/></para>
 <para style="p"><verse number="80" style="v" sid="LUK 1:80"/>And the child grew and became strong in spirit; and he lived in the wilderness until the time of his public appearance to Israel.<verse eid="LUK 1:80"/></para>
-<chapter eid="LUK 1"/>
-<chapter number="2" style="c" sid="LUK 2"/>
+<chapter eid="LUK 1" />
+<chapter number="2" style="c" sid="LUK 2" />
 <para style="p"><verse number="1" style="v" sid="LUK 2:1"/>Now in those days a decree went out from Caesar Augustus that a census should be taken of the whole empire.<verse eid="LUK 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 2:2"/>This was the first census to take place while Quirinius was governor of Syria.<verse eid="LUK 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 2:3"/>And everyone went to his own town to register.<verse eid="LUK 2:3"/></para>
@@ -140,8 +140,8 @@
 <para style="p"><verse number="50" style="v" sid="LUK 2:50"/>But they did not understand the statement He was making to them.<verse eid="LUK 2:50"/></para>
 <para style="p"><verse number="51" style="v" sid="LUK 2:51"/>Then He went down to Nazareth with them and was obedient to them. But His mother treasured up all these things in her heart.<verse eid="LUK 2:51"/></para>
 <para style="p"><verse number="52" style="v" sid="LUK 2:52"/>And Jesus grew in wisdom and stature, and in favor with God and man.<verse eid="LUK 2:52"/></para>
-<chapter eid="LUK 2"/>
-<chapter number="3" style="c" sid="LUK 3"/>
+<chapter eid="LUK 2" />
+<chapter number="3" style="c" sid="LUK 3" />
 <para style="p"><verse number="1" style="v" sid="LUK 3:1"/>In the fifteenth year of the reign of Tiberius Caesar, while Pontius Pilate was governor of Judea, Herod tetrarch of Galilee, his brother Philip tetrarch of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene,<verse eid="LUK 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 3:2"/>during the high priesthood of Annas and Caiaphas, the word of God came to John son of Zechariah in the wilderness.<verse eid="LUK 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 3:3"/>He went into all the region around the Jordan, preaching a baptism of repentance for the forgiveness of sins,<verse eid="LUK 3:3"/></para>
@@ -180,8 +180,8 @@
 <para style="p"><verse number="36" style="v" sid="LUK 3:36"/>the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,<verse eid="LUK 3:36"/></para>
 <para style="p"><verse number="37" style="v" sid="LUK 3:37"/>the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalalel, the son of Cainan,<verse eid="LUK 3:37"/></para>
 <para style="p"><verse number="38" style="v" sid="LUK 3:38"/>the son of Enosh, the son of Seth, the son of Adam, the son of God.<verse eid="LUK 3:38"/></para>
-<chapter eid="LUK 3"/>
-<chapter number="4" style="c" sid="LUK 4"/>
+<chapter eid="LUK 3" />
+<chapter number="4" style="c" sid="LUK 4" />
 <para style="p"><verse number="1" style="v" sid="LUK 4:1"/>Then Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit into the wilderness,<verse eid="LUK 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 4:2"/>where for forty days He was tempted by the devil. He ate nothing during those days, and when they had ended, He was hungry.<verse eid="LUK 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 4:3"/>The devil said to Him, “If You are the Son of God, tell this stone to become bread.”<verse eid="LUK 4:3"/></para>
@@ -226,8 +226,8 @@
 <para style="p"><verse number="42" style="v" sid="LUK 4:42"/>At daybreak, Jesus went out to a solitary place, and the crowds were looking for Him. They came to Him and tried to keep Him from leaving.<verse eid="LUK 4:42"/></para>
 <para style="p"><verse number="43" style="v" sid="LUK 4:43"/>But Jesus told them, “I must preach the good news of the kingdom of God to the other towns as well, because that is why I was sent.”<verse eid="LUK 4:43"/></para>
 <para style="p"><verse number="44" style="v" sid="LUK 4:44"/>And He continued to preach in the synagogues of Judea.<verse eid="LUK 4:44"/></para>
-<chapter eid="LUK 4"/>
-<chapter number="5" style="c" sid="LUK 5"/>
+<chapter eid="LUK 4" />
+<chapter number="5" style="c" sid="LUK 5" />
 <para style="p"><verse number="1" style="v" sid="LUK 5:1"/>On one occasion, while Jesus was standing by the Lake of Gennesaret with the crowd pressing in on Him to hear the word of God,<verse eid="LUK 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 5:2"/>He saw two boats at the edge of the lake. The fishermen had left them and were washing their nets.<verse eid="LUK 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 5:3"/>Jesus got into the boat belonging to Simon and asked him to put out a little from shore. And sitting down, He taught the people from the boat.<verse eid="LUK 5:3"/></para>
@@ -267,8 +267,8 @@
 <para style="p"><verse number="37" style="v" sid="LUK 5:37"/>And no one pours new wine into old wineskins. If he does, the new wine will burst the skins, the wine will spill, and the wineskins will be ruined.<verse eid="LUK 5:37"/></para>
 <para style="p"><verse number="38" style="v" sid="LUK 5:38"/>Instead, new wine is poured into new wineskins.<verse eid="LUK 5:38"/></para>
 <para style="p"><verse number="39" style="v" sid="LUK 5:39"/>And no one after drinking old wine wants new, for he says, ‘The old is better.’”<verse eid="LUK 5:39"/></para>
-<chapter eid="LUK 5"/>
-<chapter number="6" style="c" sid="LUK 6"/>
+<chapter eid="LUK 5" />
+<chapter number="6" style="c" sid="LUK 6" />
 <para style="p"><verse number="1" style="v" sid="LUK 6:1"/>One Sabbath Jesus was passing through the grainfields, and His disciples began to pick the heads of grain, rub them in their hands, and eat them.<verse eid="LUK 6:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 6:2"/>But some of the Pharisees asked, “Why are you doing what is unlawful on the Sabbath?”<verse eid="LUK 6:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 6:3"/>Jesus replied, “Have you not read what David did when he and his companions were hungry?<verse eid="LUK 6:3"/></para>
@@ -318,8 +318,8 @@
 <para style="p"><verse number="47" style="v" sid="LUK 6:47"/>I will show you what he is like who comes to Me and hears My words and acts on them:<verse eid="LUK 6:47"/></para>
 <para style="p"><verse number="48" style="v" sid="LUK 6:48"/>He is like a man building a house, who dug down deep and laid his foundation on the rock. When the flood came, the torrent crashed against that house but could not shake it, because it was well built.<verse eid="LUK 6:48"/></para>
 <para style="p"><verse number="49" style="v" sid="LUK 6:49"/>But the one who hears My words and does not act on them is like a man who built his house on ground without a foundation. The torrent crashed against that house, and immediately it fell—and great was its destruction!”<verse eid="LUK 6:49"/></para>
-<chapter eid="LUK 6"/>
-<chapter number="7" style="c" sid="LUK 7"/>
+<chapter eid="LUK 6" />
+<chapter number="7" style="c" sid="LUK 7" />
 <para style="p"><verse number="1" style="v" sid="LUK 7:1"/>When Jesus had concluded His discourse in the hearing of the people, He went to Capernaum.<verse eid="LUK 7:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 7:2"/>There a highly valued servant of a centurion was sick and about to die.<verse eid="LUK 7:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 7:3"/>When the centurion heard about Jesus, he sent some Jewish elders to ask Him to come and heal his servant.<verse eid="LUK 7:3"/></para>
@@ -370,8 +370,8 @@
 <para style="p"><verse number="48" style="v" sid="LUK 7:48"/>Then Jesus said to her, “Your sins are forgiven.”<verse eid="LUK 7:48"/></para>
 <para style="p"><verse number="49" style="v" sid="LUK 7:49"/>But those at the table began to say to themselves, “Who is this who even forgives sins?”<verse eid="LUK 7:49"/></para>
 <para style="p"><verse number="50" style="v" sid="LUK 7:50"/>And Jesus told the woman, “Your faith has saved you; go in peace.”<verse eid="LUK 7:50"/></para>
-<chapter eid="LUK 7"/>
-<chapter number="8" style="c" sid="LUK 8"/>
+<chapter eid="LUK 7" />
+<chapter number="8" style="c" sid="LUK 8" />
 <para style="p"><verse number="1" style="v" sid="LUK 8:1"/>Soon afterward, Jesus traveled from one town and village to another, preaching and proclaiming the good news of the kingdom of God. The Twelve were with Him,<verse eid="LUK 8:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 8:2"/>as well as some women who had been healed of evil spirits and infirmities: Mary called Magdalene, from whom seven demons had gone out,<verse eid="LUK 8:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 8:3"/>Joanna the wife of Herod’s household manager Chuza, Susanna, and many others. These women were ministering to them out of their own means.<verse eid="LUK 8:3"/></para>
@@ -428,8 +428,8 @@
 <para style="p"><verse number="54" style="v" sid="LUK 8:54"/>But Jesus took her by the hand and called out, “Child, get up!”<verse eid="LUK 8:54"/></para>
 <para style="p"><verse number="55" style="v" sid="LUK 8:55"/>Her spirit returned, and at once she got up. And He directed that she be given something to eat.<verse eid="LUK 8:55"/></para>
 <para style="p"><verse number="56" style="v" sid="LUK 8:56"/>Her parents were astounded, but Jesus ordered them not to tell anyone what had happened.<verse eid="LUK 8:56"/></para>
-<chapter eid="LUK 8"/>
-<chapter number="9" style="c" sid="LUK 9"/>
+<chapter eid="LUK 8" />
+<chapter number="9" style="c" sid="LUK 9" />
 <para style="p"><verse number="1" style="v" sid="LUK 9:1"/>Then Jesus called the Twelve together and gave them power and authority over all demons, and power to cure diseases.<verse eid="LUK 9:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 9:2"/>And He sent them out to proclaim the kingdom of God and to heal the sick.<verse eid="LUK 9:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 9:3"/>“Take nothing for the journey,” He told them, “no staff, no bag, no bread, no money, no second tunic.<verse eid="LUK 9:3"/></para>
@@ -492,8 +492,8 @@
 <para style="p"><verse number="60" style="v" sid="LUK 9:60"/>But Jesus told him, “Let the dead bury their own dead. You, however, go and proclaim the kingdom of God.”<verse eid="LUK 9:60"/></para>
 <para style="p"><verse number="61" style="v" sid="LUK 9:61"/>Still another said, “I will follow You, Lord; but first let me bid farewell to my family.”<verse eid="LUK 9:61"/></para>
 <para style="p"><verse number="62" style="v" sid="LUK 9:62"/>Then Jesus declared, “No one who puts his hand to the plow and then looks back is fit for the kingdom of God.”<verse eid="LUK 9:62"/></para>
-<chapter eid="LUK 9"/>
-<chapter number="10" style="c" sid="LUK 10"/>
+<chapter eid="LUK 9" />
+<chapter number="10" style="c" sid="LUK 10" />
 <para style="p"><verse number="1" style="v" sid="LUK 10:1"/>After this, the Lord appointed seventy-two others and sent them two by two ahead of Him to every town and place He was about to visit.<verse eid="LUK 10:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 10:2"/>And He told them, “The harvest is plentiful, but the workers are few. Ask the Lord of the harvest, therefore, to send out workers into His harvest.<verse eid="LUK 10:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 10:3"/>Go! I am sending you out like lambs among wolves.<verse eid="LUK 10:3"/></para>
@@ -536,8 +536,8 @@
 <para style="p"><verse number="40" style="v" sid="LUK 10:40"/>But Martha was distracted by all the preparations to be made. She came to Jesus and said, “Lord, do You not care that my sister has left me to serve alone? Tell her to help me!”<verse eid="LUK 10:40"/></para>
 <para style="p"><verse number="41" style="v" sid="LUK 10:41"/>“Martha, Martha,” the Lord replied, “you are worried and upset about many things.<verse eid="LUK 10:41"/></para>
 <para style="p"><verse number="42" style="v" sid="LUK 10:42"/>But only one thing is necessary. Mary has chosen the good portion, and it will not be taken away from her.”<verse eid="LUK 10:42"/></para>
-<chapter eid="LUK 10"/>
-<chapter number="11" style="c" sid="LUK 11"/>
+<chapter eid="LUK 10" />
+<chapter number="11" style="c" sid="LUK 11" />
 <para style="p"><verse number="1" style="v" sid="LUK 11:1"/>One day in a place where Jesus had just finished praying, one of His disciples requested, “Lord, teach us to pray, just as John taught his disciples.”<verse eid="LUK 11:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 11:2"/>So Jesus told them, “When you pray, say: ‘Father, hallowed be Your name. Your kingdom come.<verse eid="LUK 11:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 11:3"/>Give us each day our daily bread.<verse eid="LUK 11:3"/></para>
@@ -592,8 +592,8 @@
 <para style="p"><verse number="52" style="v" sid="LUK 11:52"/>Woe to you experts in the law! For you have taken away the key to knowledge. You yourselves have not entered, and you have hindered those who were entering.”<verse eid="LUK 11:52"/></para>
 <para style="p"><verse number="53" style="v" sid="LUK 11:53"/>As Jesus went on from there, the scribes and Pharisees began to oppose Him bitterly and to ply Him with questions about many things,<verse eid="LUK 11:53"/></para>
 <para style="p"><verse number="54" style="v" sid="LUK 11:54"/>waiting to catch Him in something He might say.<verse eid="LUK 11:54"/></para>
-<chapter eid="LUK 11"/>
-<chapter number="12" style="c" sid="LUK 12"/>
+<chapter eid="LUK 11" />
+<chapter number="12" style="c" sid="LUK 12" />
 <para style="p"><verse number="1" style="v" sid="LUK 12:1"/>In the meantime, a crowd of many thousands had gathered, so that they were trampling one another. Jesus began to speak first to His disciples: “Beware of the leaven of the Pharisees, which is hypocrisy.<verse eid="LUK 12:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 12:2"/>There is nothing concealed that will not be disclosed, and nothing hidden that will not be made known.<verse eid="LUK 12:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 12:3"/>What you have spoken in the dark will be heard in the daylight, and what you have whispered in the inner rooms will be proclaimed from the housetops.<verse eid="LUK 12:3"/></para>
@@ -653,8 +653,8 @@
 <para style="p"><verse number="57" style="v" sid="LUK 12:57"/>And why don’t you judge for yourselves what is right?<verse eid="LUK 12:57"/></para>
 <para style="p"><verse number="58" style="v" sid="LUK 12:58"/>Make every effort to reconcile with your adversary while you are on your way to the magistrate. Otherwise, he may drag you off to the judge, and the judge may hand you over to the officer, and the officer may throw you into prison.<verse eid="LUK 12:58"/></para>
 <para style="p"><verse number="59" style="v" sid="LUK 12:59"/>I tell you, you will not get out until you have paid the very last penny.”<verse eid="LUK 12:59"/></para>
-<chapter eid="LUK 12"/>
-<chapter number="13" style="c" sid="LUK 13"/>
+<chapter eid="LUK 12" />
+<chapter number="13" style="c" sid="LUK 13" />
 <para style="p"><verse number="1" style="v" sid="LUK 13:1"/>At that time some of those present told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices.<verse eid="LUK 13:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 13:2"/>To this He replied, “Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered this way?<verse eid="LUK 13:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 13:3"/>No, I tell you. But unless you repent, you too will all perish.<verse eid="LUK 13:3"/></para>
@@ -690,8 +690,8 @@
 <para style="p"><verse number="33" style="v" sid="LUK 13:33"/>Nevertheless, I must keep going today and tomorrow and the next day, for it is not admissible for a prophet to perish outside of Jerusalem.<verse eid="LUK 13:33"/></para>
 <para style="p"><verse number="34" style="v" sid="LUK 13:34"/>O Jerusalem, Jerusalem, who kills the prophets and stones those sent to her, how often I have longed to gather your children together as a hen gathers her chicks under her wings, but you were unwilling!<verse eid="LUK 13:34"/></para>
 <para style="p"><verse number="35" style="v" sid="LUK 13:35"/>Look, your house is left to you desolate. And I tell you that you will not see Me again until you say, ‘Blessed is He who comes in the name of the Lord.’”<verse eid="LUK 13:35"/></para>
-<chapter eid="LUK 13"/>
-<chapter number="14" style="c" sid="LUK 14"/>
+<chapter eid="LUK 13" />
+<chapter number="14" style="c" sid="LUK 14" />
 <para style="p"><verse number="1" style="v" sid="LUK 14:1"/>One Sabbath, Jesus went to eat in the home of a leading Pharisee, and those in attendance were watching Him closely.<verse eid="LUK 14:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 14:2"/>Right there before Him was a man with dropsy.<verse eid="LUK 14:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 14:3"/>So Jesus asked the experts in the law and the Pharisees, “Is it lawful to heal on the Sabbath or not?”<verse eid="LUK 14:3"/></para>
@@ -727,8 +727,8 @@
 <para style="p"><verse number="33" style="v" sid="LUK 14:33"/>In the same way, any one of you who does not give up everything he has cannot be My disciple.<verse eid="LUK 14:33"/></para>
 <para style="p"><verse number="34" style="v" sid="LUK 14:34"/>Salt is good, but if the salt loses its savor, with what will it be seasoned?<verse eid="LUK 14:34"/></para>
 <para style="p"><verse number="35" style="v" sid="LUK 14:35"/>It is fit neither for the soil nor for the manure pile, and it is thrown out. He who has ears to hear, let him hear.”<verse eid="LUK 14:35"/></para>
-<chapter eid="LUK 14"/>
-<chapter number="15" style="c" sid="LUK 15"/>
+<chapter eid="LUK 14" />
+<chapter number="15" style="c" sid="LUK 15" />
 <para style="p"><verse number="1" style="v" sid="LUK 15:1"/>Now all the tax collectors and sinners were gathering around to listen to Jesus.<verse eid="LUK 15:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 15:2"/>So the Pharisees and scribes began to grumble: “This man welcomes sinners and eats with them.”<verse eid="LUK 15:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 15:3"/>Then Jesus told them this parable:<verse eid="LUK 15:3"/></para>
@@ -761,8 +761,8 @@
 <para style="p"><verse number="30" style="v" sid="LUK 15:30"/>But when this son of yours returns from squandering your wealth with prostitutes, you kill the fattened calf for him!’<verse eid="LUK 15:30"/></para>
 <para style="p"><verse number="31" style="v" sid="LUK 15:31"/>‘Son, you are always with me,’ the father said, ‘and all that is mine is yours.<verse eid="LUK 15:31"/></para>
 <para style="p"><verse number="32" style="v" sid="LUK 15:32"/>But it was fitting to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”<verse eid="LUK 15:32"/></para>
-<chapter eid="LUK 15"/>
-<chapter number="16" style="c" sid="LUK 16"/>
+<chapter eid="LUK 15" />
+<chapter number="16" style="c" sid="LUK 16" />
 <para style="p"><verse number="1" style="v" sid="LUK 16:1"/>Jesus also said to His disciples, “There was a rich man whose manager was accused of wasting his possessions.<verse eid="LUK 16:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 16:2"/>So he called him in to ask, ‘What is this I hear about you? Turn in an account of your management, for you cannot be manager any longer.’<verse eid="LUK 16:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 16:3"/>The manager said to himself, ‘What shall I do, now that my master is taking away my position? I am too weak to dig and too ashamed to beg.<verse eid="LUK 16:3"/></para>
@@ -794,8 +794,8 @@
 <para style="p"><verse number="29" style="v" sid="LUK 16:29"/>But Abraham replied, ‘They have Moses and the Prophets; let your brothers listen to them.’<verse eid="LUK 16:29"/></para>
 <para style="p"><verse number="30" style="v" sid="LUK 16:30"/>‘No, father Abraham,’ he said, ‘but if someone is sent to them from the dead, they will repent.’<verse eid="LUK 16:30"/></para>
 <para style="p"><verse number="31" style="v" sid="LUK 16:31"/>Then Abraham said to him, ‘If they do not listen to Moses and the Prophets, they will not be persuaded even if someone rises from the dead.’”<verse eid="LUK 16:31"/></para>
-<chapter eid="LUK 16"/>
-<chapter number="17" style="c" sid="LUK 17"/>
+<chapter eid="LUK 16" />
+<chapter number="17" style="c" sid="LUK 17" />
 <para style="p"><verse number="1" style="v" sid="LUK 17:1"/>Jesus said to His disciples, “It is inevitable that stumbling blocks will come, but woe to the one through whom they come!<verse eid="LUK 17:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 17:2"/>It would be better for him to have a millstone hung around his neck and to be thrown into the sea than to cause one of these little ones to stumble.<verse eid="LUK 17:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 17:3"/>Watch yourselves. If your brother sins, rebuke him; and if he repents, forgive him.<verse eid="LUK 17:3"/></para>
@@ -832,8 +832,8 @@
 <para style="p"><verse number="34" style="v" sid="LUK 17:34"/>I tell you, on that night two people will be in one bed: one will be taken and the other left.<verse eid="LUK 17:34"/></para>
 <para style="p"><verse number="35" style="v" sid="LUK 17:35"/>Two women will be grinding grain together: one will be taken and the other left.”<verse eid="LUK 17:35"/></para>
 <para style="p"><verse number="37" style="v" sid="LUK 17:37"/>“Where, Lord?” they asked. Jesus answered, “Wherever there is a carcass, there the vultures will gather.”<verse eid="LUK 17:37"/></para>
-<chapter eid="LUK 17"/>
-<chapter number="18" style="c" sid="LUK 18"/>
+<chapter eid="LUK 17" />
+<chapter number="18" style="c" sid="LUK 18" />
 <para style="p"><verse number="1" style="v" sid="LUK 18:1"/>Then Jesus told them a parable about their need to pray at all times and not lose heart:<verse eid="LUK 18:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 18:2"/>“In a certain town there was a judge who neither feared God nor respected men.<verse eid="LUK 18:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 18:3"/>And there was a widow in that town who kept appealing to him, ‘Give me justice against my adversary.’<verse eid="LUK 18:3"/></para>
@@ -877,8 +877,8 @@
 <para style="p"><verse number="41" style="v" sid="LUK 18:41"/>“What do you want Me to do for you?” “Lord,” he said, “let me see again.”<verse eid="LUK 18:41"/></para>
 <para style="p"><verse number="42" style="v" sid="LUK 18:42"/>“Receive your sight!” Jesus replied. “Your faith has healed you.”<verse eid="LUK 18:42"/></para>
 <para style="p"><verse number="43" style="v" sid="LUK 18:43"/>Immediately he received his sight and followed Jesus, glorifying God. And all the people, when they saw it, gave praise to God.<verse eid="LUK 18:43"/></para>
-<chapter eid="LUK 18"/>
-<chapter number="19" style="c" sid="LUK 19"/>
+<chapter eid="LUK 18" />
+<chapter number="19" style="c" sid="LUK 19" />
 <para style="p"><verse number="1" style="v" sid="LUK 19:1"/>Then Jesus entered Jericho and was passing through.<verse eid="LUK 19:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 19:2"/>And there was a man named Zacchaeus, a chief tax collector, who was very wealthy.<verse eid="LUK 19:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 19:3"/>He was trying to see who Jesus was, but could not see over the crowd because he was small in stature.<verse eid="LUK 19:3"/></para>
@@ -927,8 +927,8 @@
 <para style="p"><verse number="46" style="v" sid="LUK 19:46"/>He declared to them, “It is written: ‘My house will be a house of prayer.’ But you have made it ‘a den of robbers.’”<verse eid="LUK 19:46"/></para>
 <para style="p"><verse number="47" style="v" sid="LUK 19:47"/>Jesus was teaching at the temple every day, but the chief priests, scribes, and leaders of the people were intent on killing Him.<verse eid="LUK 19:47"/></para>
 <para style="p"><verse number="48" style="v" sid="LUK 19:48"/>Yet they could not find a way to do so, because all the people hung on His words.<verse eid="LUK 19:48"/></para>
-<chapter eid="LUK 19"/>
-<chapter number="20" style="c" sid="LUK 20"/>
+<chapter eid="LUK 19" />
+<chapter number="20" style="c" sid="LUK 20" />
 <para style="p"><verse number="1" style="v" sid="LUK 20:1"/>One day as Jesus was teaching the people in the temple courts and proclaiming the gospel, the chief priests and scribes, together with the elders, came up to Him.<verse eid="LUK 20:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 20:2"/>“Tell us,” they said, “by what authority are You doing these things, and who gave You this authority?”<verse eid="LUK 20:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 20:3"/>“I will also ask you a question,” Jesus replied. “Tell Me:<verse eid="LUK 20:3"/></para>
@@ -976,8 +976,8 @@
 <para style="p"><verse number="45" style="v" sid="LUK 20:45"/>In the hearing of all the people, Jesus said to His disciples,<verse eid="LUK 20:45"/></para>
 <para style="p"><verse number="46" style="v" sid="LUK 20:46"/>“Beware of the scribes. They like to walk around in long robes, and they love the greetings in the marketplaces, the chief seats in the synagogues, and the places of honor at banquets.<verse eid="LUK 20:46"/></para>
 <para style="p"><verse number="47" style="v" sid="LUK 20:47"/>They defraud widows of their houses, and for a show make lengthy prayers. These men will receive greater condemnation.”<verse eid="LUK 20:47"/></para>
-<chapter eid="LUK 20"/>
-<chapter number="21" style="c" sid="LUK 21"/>
+<chapter eid="LUK 20" />
+<chapter number="21" style="c" sid="LUK 21" />
 <para style="p"><verse number="1" style="v" sid="LUK 21:1"/>Then Jesus looked up and saw the rich putting their gifts into the treasury,<verse eid="LUK 21:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 21:2"/>and He saw a poor widow put in two small copper coins.<verse eid="LUK 21:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 21:3"/>“Truly I tell you,” He said, “this poor widow has put in more than all the others.<verse eid="LUK 21:3"/></para>
@@ -1016,8 +1016,8 @@
 <para style="p"><verse number="36" style="v" sid="LUK 21:36"/>So keep watch at all times, and pray that you may have the strength to escape all that is about to happen and to stand before the Son of Man.”<verse eid="LUK 21:36"/></para>
 <para style="p"><verse number="37" style="v" sid="LUK 21:37"/>Every day Jesus taught at the temple, but every evening He went out to spend the night on the Mount of Olives.<verse eid="LUK 21:37"/></para>
 <para style="p"><verse number="38" style="v" sid="LUK 21:38"/>And early in the morning all the people would come to hear Him at the temple.<verse eid="LUK 21:38"/></para>
-<chapter eid="LUK 21"/>
-<chapter number="22" style="c" sid="LUK 22"/>
+<chapter eid="LUK 21" />
+<chapter number="22" style="c" sid="LUK 22" />
 <para style="p"><verse number="1" style="v" sid="LUK 22:1"/>Now the Feast of Unleavened Bread, called the Passover, was approaching,<verse eid="LUK 22:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 22:2"/>and the chief priests and scribes were looking for a way to put Jesus to death, for they feared the people.<verse eid="LUK 22:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 22:3"/>Then Satan entered Judas Iscariot, who was one of the Twelve.<verse eid="LUK 22:3"/></para>
@@ -1089,8 +1089,8 @@
 <para style="p"><verse number="69" style="v" sid="LUK 22:69"/>But from now on the Son of Man will be seated at the right hand of the power of God.”<verse eid="LUK 22:69"/></para>
 <para style="p"><verse number="70" style="v" sid="LUK 22:70"/>So they all asked, “Are You then the Son of God?” He replied, “You say that I am.”<verse eid="LUK 22:70"/></para>
 <para style="p"><verse number="71" style="v" sid="LUK 22:71"/>“Why do we need any more testimony?” they declared. “We have heard it for ourselves from His own lips.”<verse eid="LUK 22:71"/></para>
-<chapter eid="LUK 22"/>
-<chapter number="23" style="c" sid="LUK 23"/>
+<chapter eid="LUK 22" />
+<chapter number="23" style="c" sid="LUK 23" />
 <para style="p"><verse number="1" style="v" sid="LUK 23:1"/>Then the whole council rose and led Jesus away to Pilate.<verse eid="LUK 23:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 23:2"/>And they began to accuse Him, saying, “We found this man subverting our nation, forbidding payment of taxes to Caesar, and proclaiming Himself to be Christ, a King.”<verse eid="LUK 23:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 23:3"/>So Pilate asked Him, “Are You the King of the Jews?” “You have said so,” Jesus replied.<verse eid="LUK 23:3"/></para>
@@ -1146,8 +1146,8 @@
 <para style="p"><verse number="54" style="v" sid="LUK 23:54"/>It was Preparation Day, and the Sabbath was beginning.<verse eid="LUK 23:54"/></para>
 <para style="p"><verse number="55" style="v" sid="LUK 23:55"/>The women who had come with Jesus from Galilee followed, and they saw the tomb and how His body was placed.<verse eid="LUK 23:55"/></para>
 <para style="p"><verse number="56" style="v" sid="LUK 23:56"/>Then they returned to prepare spices and perfumes. And they rested on the Sabbath, according to the commandment.<verse eid="LUK 23:56"/></para>
-<chapter eid="LUK 23"/>
-<chapter number="24" style="c" sid="LUK 24"/>
+<chapter eid="LUK 23" />
+<chapter number="24" style="c" sid="LUK 24" />
 <para style="p"><verse number="1" style="v" sid="LUK 24:1"/>On the first day of the week, very early in the morning, the women came to the tomb, bringing the spices they had prepared.<verse eid="LUK 24:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LUK 24:2"/>They found the stone rolled away from the tomb,<verse eid="LUK 24:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LUK 24:3"/>but when they entered, they did not find the body of the Lord Jesus.<verse eid="LUK 24:3"/></para>
@@ -1201,5 +1201,5 @@
 <para style="p"><verse number="51" style="v" sid="LUK 24:51"/>While He was blessing them, He left them and was carried up into heaven.<verse eid="LUK 24:51"/></para>
 <para style="p"><verse number="52" style="v" sid="LUK 24:52"/>And they worshiped Him and returned to Jerusalem with great joy,<verse eid="LUK 24:52"/></para>
 <para style="p"><verse number="53" style="v" sid="LUK 24:53"/>praising God continually in the temple.<verse eid="LUK 24:53"/></para>
-<chapter eid="LUK 24"/>
+<chapter eid="LUK 24" />
 </usx>

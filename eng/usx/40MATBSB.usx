@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="MAT" style="id">- Berean Standard Bible -</book>
+<book code="MAT" style="id">- Matthew -</book>
 <para style="h">Matthew</para>
 <para style="toc1">Matthew</para>
 <para style="toc2">Matthew</para>
 <para style="mt1">Matthew</para>
-<chapter number="1" style="c" sid="MAT 1"/>
+<chapter number="1" style="c" sid="MAT 1" />
 <para style="p"><verse number="1" style="v" sid="MAT 1:1"/>This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:<verse eid="MAT 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 1:2"/>Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.<verse eid="MAT 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 1:3"/>Judah was the father of Perez and Zerah by Tamar, Perez the father of Hezron, and Hezron the father of Ram.<verse eid="MAT 1:3"/></para>
@@ -31,8 +31,8 @@
 <para style="p"><verse number="23" style="v" sid="MAT 1:23"/>“Behold, the virgin will be with child and will give birth to a son, and they will call Him Immanuel” (which means, “God with us”).<verse eid="MAT 1:23"/></para>
 <para style="p"><verse number="24" style="v" sid="MAT 1:24"/>When Joseph woke up, he did as the angel of the Lord had commanded him and embraced Mary as his wife.<verse eid="MAT 1:24"/></para>
 <para style="p"><verse number="25" style="v" sid="MAT 1:25"/>But he had no union with her until she gave birth to a Son. And he gave Him the name Jesus.<verse eid="MAT 1:25"/></para>
-<chapter eid="MAT 1"/>
-<chapter number="2" style="c" sid="MAT 2"/>
+<chapter eid="MAT 1" />
+<chapter number="2" style="c" sid="MAT 2" />
 <para style="p"><verse number="1" style="v" sid="MAT 2:1"/>After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi from the east arrived in Jerusalem,<verse eid="MAT 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 2:2"/>asking, “Where is the One who has been born King of the Jews? We saw His star in the east and have come to worship Him.”<verse eid="MAT 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 2:3"/>When King Herod heard this, he was disturbed, and all Jerusalem with him.<verse eid="MAT 2:3"/></para>
@@ -56,8 +56,8 @@
 <para style="p"><verse number="21" style="v" sid="MAT 2:21"/>So Joseph got up, took the Child and His mother, and went to the land of Israel.<verse eid="MAT 2:21"/></para>
 <para style="p"><verse number="22" style="v" sid="MAT 2:22"/>But when he learned that Archelaus was reigning in Judea in place of his father Herod, he was afraid to go there. And having been warned in a dream, he withdrew to the district of Galilee,<verse eid="MAT 2:22"/></para>
 <para style="p"><verse number="23" style="v" sid="MAT 2:23"/>and he went and lived in a town called Nazareth. So was fulfilled what was spoken through the prophets: “He will be called a Nazarene.”<verse eid="MAT 2:23"/></para>
-<chapter eid="MAT 2"/>
-<chapter number="3" style="c" sid="MAT 3"/>
+<chapter eid="MAT 2" />
+<chapter number="3" style="c" sid="MAT 3" />
 <para style="p"><verse number="1" style="v" sid="MAT 3:1"/>In those days John the Baptist came, preaching in the wilderness of Judea<verse eid="MAT 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 3:2"/>and saying, “Repent, for the kingdom of heaven is near.”<verse eid="MAT 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 3:3"/>This is he who was spoken of through the prophet Isaiah: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for Him.’”<verse eid="MAT 3:3"/></para>
@@ -75,8 +75,8 @@
 <para style="p"><verse number="15" style="v" sid="MAT 3:15"/>“Let it be so now,” Jesus replied. “It is fitting for us to fulfill all righteousness in this way.” Then John permitted Him.<verse eid="MAT 3:15"/></para>
 <para style="p"><verse number="16" style="v" sid="MAT 3:16"/>As soon as Jesus was baptized, He went up out of the water. Suddenly the heavens were opened, and He saw the Spirit of God descending like a dove and resting on Him.<verse eid="MAT 3:16"/></para>
 <para style="p"><verse number="17" style="v" sid="MAT 3:17"/>And a voice from heaven said, “This is My beloved Son, in whom I am well pleased!”<verse eid="MAT 3:17"/></para>
-<chapter eid="MAT 3"/>
-<chapter number="4" style="c" sid="MAT 4"/>
+<chapter eid="MAT 3" />
+<chapter number="4" style="c" sid="MAT 4" />
 <para style="p"><verse number="1" style="v" sid="MAT 4:1"/>Then Jesus was led by the Spirit into the wilderness to be tempted by the devil.<verse eid="MAT 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 4:2"/>After fasting forty days and forty nights, He was hungry.<verse eid="MAT 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 4:3"/>The tempter came to Him and said, “If You are the Son of God, tell these stones to become bread.”<verse eid="MAT 4:3"/></para>
@@ -102,8 +102,8 @@
 <para style="p"><verse number="23" style="v" sid="MAT 4:23"/>Jesus went throughout Galilee, teaching in their synagogues, preaching the gospel of the kingdom, and healing every disease and sickness among the people.<verse eid="MAT 4:23"/></para>
 <para style="p"><verse number="24" style="v" sid="MAT 4:24"/>News about Him spread all over Syria, and people brought to Him all who were ill with various diseases, those suffering acute pain, the demon-possessed, those having seizures, and the paralyzed, and He healed them.<verse eid="MAT 4:24"/></para>
 <para style="p"><verse number="25" style="v" sid="MAT 4:25"/>Large crowds followed Him, having come from Galilee, the Decapolis, Jerusalem, Judea, and beyond the Jordan.<verse eid="MAT 4:25"/></para>
-<chapter eid="MAT 4"/>
-<chapter number="5" style="c" sid="MAT 5"/>
+<chapter eid="MAT 4" />
+<chapter number="5" style="c" sid="MAT 5" />
 <para style="p"><verse number="1" style="v" sid="MAT 5:1"/>When Jesus saw the crowds, He went up on the mountain and sat down. His disciples came to Him,<verse eid="MAT 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 5:2"/>and He began to teach them, saying:<verse eid="MAT 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 5:3"/>“Blessed are the poor in spirit, for theirs is the kingdom of heaven.<verse eid="MAT 5:3"/></para>
@@ -152,8 +152,8 @@
 <para style="p"><verse number="46" style="v" sid="MAT 5:46"/>If you love those who love you, what reward will you get? Do not even tax collectors do the same?<verse eid="MAT 5:46"/></para>
 <para style="p"><verse number="47" style="v" sid="MAT 5:47"/>And if you greet only your brothers, what are you doing more than others? Do not even Gentiles do the same?<verse eid="MAT 5:47"/></para>
 <para style="p"><verse number="48" style="v" sid="MAT 5:48"/>Be perfect, therefore, as your heavenly Father is perfect.<verse eid="MAT 5:48"/></para>
-<chapter eid="MAT 5"/>
-<chapter number="6" style="c" sid="MAT 6"/>
+<chapter eid="MAT 5" />
+<chapter number="6" style="c" sid="MAT 6" />
 <para style="p"><verse number="1" style="v" sid="MAT 6:1"/>“Be careful not to perform your righteous acts before men to be seen by them. If you do, you will have no reward from your Father in heaven.<verse eid="MAT 6:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 6:2"/>So when you give to the needy, do not sound a trumpet before you, as the hypocrites do in the synagogues and on the streets, to be honored by men. Truly I tell you, they already have their full reward.<verse eid="MAT 6:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 6:3"/>But when you give to the needy, do not let your left hand know what your right hand is doing,<verse eid="MAT 6:3"/></para>
@@ -188,8 +188,8 @@
 <para style="p"><verse number="32" style="v" sid="MAT 6:32"/>For the Gentiles strive after all these things, and your heavenly Father knows that you need them.<verse eid="MAT 6:32"/></para>
 <para style="p"><verse number="33" style="v" sid="MAT 6:33"/>But seek first the kingdom of God and His righteousness, and all these things will be added unto you.<verse eid="MAT 6:33"/></para>
 <para style="p"><verse number="34" style="v" sid="MAT 6:34"/>Therefore do not worry about tomorrow, for tomorrow will worry about itself. Today has enough trouble of its own.<verse eid="MAT 6:34"/></para>
-<chapter eid="MAT 6"/>
-<chapter number="7" style="c" sid="MAT 7"/>
+<chapter eid="MAT 6" />
+<chapter number="7" style="c" sid="MAT 7" />
 <para style="p"><verse number="1" style="v" sid="MAT 7:1"/>“Do not judge, or you will be judged.<verse eid="MAT 7:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 7:2"/>For with the same judgment you pronounce, you will be judged, and with the measure you use, it will be measured to you.<verse eid="MAT 7:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 7:3"/>Why do you look at the speck in your brother’s eye but fail to notice the beam in your own eye?<verse eid="MAT 7:3"/></para>
@@ -219,8 +219,8 @@
 <para style="p"><verse number="27" style="v" sid="MAT 7:27"/>The rain fell, the torrents raged, and the winds blew and beat against that house, and it fell—and great was its collapse!”<verse eid="MAT 7:27"/></para>
 <para style="p"><verse number="28" style="v" sid="MAT 7:28"/>When Jesus had finished saying these things, the crowds were astonished at His teaching,<verse eid="MAT 7:28"/></para>
 <para style="p"><verse number="29" style="v" sid="MAT 7:29"/>because He taught as one who had authority, and not as their scribes.<verse eid="MAT 7:29"/></para>
-<chapter eid="MAT 7"/>
-<chapter number="8" style="c" sid="MAT 8"/>
+<chapter eid="MAT 7" />
+<chapter number="8" style="c" sid="MAT 8" />
 <para style="p"><verse number="1" style="v" sid="MAT 8:1"/>When Jesus came down from the mountain, large crowds followed Him.<verse eid="MAT 8:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 8:2"/>Suddenly a leper came and knelt before Him, saying, “Lord, if You are willing, You can make me clean.”<verse eid="MAT 8:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 8:3"/>Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!” And immediately his leprosy was cleansed.<verse eid="MAT 8:3"/></para>
@@ -255,8 +255,8 @@
 <para style="p"><verse number="32" style="v" sid="MAT 8:32"/>“Go!” He told them. So they came out and went into the pigs, and the whole herd rushed down the steep bank into the sea and died in the waters.<verse eid="MAT 8:32"/></para>
 <para style="p"><verse number="33" style="v" sid="MAT 8:33"/>Those tending the pigs ran off into the town and reported all this, including the account of the demon-possessed men.<verse eid="MAT 8:33"/></para>
 <para style="p"><verse number="34" style="v" sid="MAT 8:34"/>Then the whole town went out to meet Jesus. And when they saw Him, they begged Him to leave their region.<verse eid="MAT 8:34"/></para>
-<chapter eid="MAT 8"/>
-<chapter number="9" style="c" sid="MAT 9"/>
+<chapter eid="MAT 8" />
+<chapter number="9" style="c" sid="MAT 9" />
 <para style="p"><verse number="1" style="v" sid="MAT 9:1"/>Jesus got into a boat, crossed over, and came to His own town.<verse eid="MAT 9:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 9:2"/>Just then some men brought to Him a paralytic lying on a mat. When Jesus saw their faith, He said to the paralytic, “Take courage, son; your sins are forgiven.”<verse eid="MAT 9:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 9:3"/>On seeing this, some of the scribes said to themselves, “This man is blaspheming!”<verse eid="MAT 9:3"/></para>
@@ -295,8 +295,8 @@
 <para style="p"><verse number="36" style="v" sid="MAT 9:36"/>When He saw the crowds, He was moved with compassion for them, because they were harassed and helpless, like sheep without a shepherd.<verse eid="MAT 9:36"/></para>
 <para style="p"><verse number="37" style="v" sid="MAT 9:37"/>Then He said to His disciples, “The harvest is plentiful, but the workers are few.<verse eid="MAT 9:37"/></para>
 <para style="p"><verse number="38" style="v" sid="MAT 9:38"/>Ask the Lord of the harvest, therefore, to send out workers into His harvest.”<verse eid="MAT 9:38"/></para>
-<chapter eid="MAT 9"/>
-<chapter number="10" style="c" sid="MAT 10"/>
+<chapter eid="MAT 9" />
+<chapter number="10" style="c" sid="MAT 10" />
 <para style="p"><verse number="1" style="v" sid="MAT 10:1"/>And calling His twelve disciples to Him, Jesus gave them authority over unclean spirits, so that they could drive them out and heal every disease and sickness.<verse eid="MAT 10:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 10:2"/>These are the names of the twelve apostles: first Simon, called Peter, and his brother Andrew; James son of Zebedee, and his brother John;<verse eid="MAT 10:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 10:3"/>Philip and Bartholomew; Thomas and Matthew the tax collector; James son of Alphaeus, and Thaddaeus;<verse eid="MAT 10:3"/></para>
@@ -339,8 +339,8 @@
 <para style="p"><verse number="40" style="v" sid="MAT 10:40"/>He who receives you receives Me, and he who receives Me receives the One who sent Me.<verse eid="MAT 10:40"/></para>
 <para style="p"><verse number="41" style="v" sid="MAT 10:41"/>Whoever receives a prophet because he is a prophet will receive a prophet’s reward, and whoever receives a righteous man because he is a righteous man will receive a righteous man’s reward.<verse eid="MAT 10:41"/></para>
 <para style="p"><verse number="42" style="v" sid="MAT 10:42"/>And if anyone gives even a cup of cold water to one of these little ones because he is My disciple, truly I tell you, he will never lose his reward.”<verse eid="MAT 10:42"/></para>
-<chapter eid="MAT 10"/>
-<chapter number="11" style="c" sid="MAT 11"/>
+<chapter eid="MAT 10" />
+<chapter number="11" style="c" sid="MAT 11" />
 <para style="p"><verse number="1" style="v" sid="MAT 11:1"/>After Jesus had finished instructing His twelve disciples, He went on from there to teach and preach in their cities.<verse eid="MAT 11:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 11:2"/>Meanwhile John heard in prison about the works of Christ, and he sent his disciples<verse eid="MAT 11:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 11:3"/>to ask Him, “Are You the One who was to come, or should we look for someone else?”<verse eid="MAT 11:3"/></para>
@@ -371,8 +371,8 @@
 <para style="p"><verse number="28" style="v" sid="MAT 11:28"/>Come to Me, all you who are weary and burdened, and I will give you rest.<verse eid="MAT 11:28"/></para>
 <para style="p"><verse number="29" style="v" sid="MAT 11:29"/>Take My yoke upon you and learn from Me, for I am gentle and humble in heart, and you will find rest for your souls.<verse eid="MAT 11:29"/></para>
 <para style="p"><verse number="30" style="v" sid="MAT 11:30"/>For My yoke is easy and My burden is light.”<verse eid="MAT 11:30"/></para>
-<chapter eid="MAT 11"/>
-<chapter number="12" style="c" sid="MAT 12"/>
+<chapter eid="MAT 11" />
+<chapter number="12" style="c" sid="MAT 12" />
 <para style="p"><verse number="1" style="v" sid="MAT 12:1"/>At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry and began to pick the heads of grain and eat them.<verse eid="MAT 12:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 12:2"/>When the Pharisees saw this, they said to Him, “Look, Your disciples are doing what is unlawful on the Sabbath.”<verse eid="MAT 12:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 12:3"/>Jesus replied, “Have you not read what David did when he and his companions were hungry?<verse eid="MAT 12:3"/></para>
@@ -423,8 +423,8 @@
 <para style="p"><verse number="48" style="v" sid="MAT 12:48"/>But Jesus replied, “Who is My mother, and who are My brothers?”<verse eid="MAT 12:48"/></para>
 <para style="p"><verse number="49" style="v" sid="MAT 12:49"/>Pointing to His disciples, He said, “Here are My mother and My brothers.<verse eid="MAT 12:49"/></para>
 <para style="p"><verse number="50" style="v" sid="MAT 12:50"/>For whoever does the will of My Father in heaven is My brother and sister and mother.”<verse eid="MAT 12:50"/></para>
-<chapter eid="MAT 12"/>
-<chapter number="13" style="c" sid="MAT 13"/>
+<chapter eid="MAT 12" />
+<chapter number="13" style="c" sid="MAT 13" />
 <para style="p"><verse number="1" style="v" sid="MAT 13:1"/>That same day Jesus went out of the house and sat by the sea.<verse eid="MAT 13:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 13:2"/>Such large crowds gathered around Him that He got into a boat and sat down, while all the people stood on the shore.<verse eid="MAT 13:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 13:3"/>And He told them many things in parables, saying, “A farmer went out to sow his seed.<verse eid="MAT 13:3"/></para>
@@ -483,8 +483,8 @@
 <para style="p"><verse number="56" style="v" sid="MAT 13:56"/>Aren’t all His sisters with us as well? Where then did this man get all these things?”<verse eid="MAT 13:56"/></para>
 <para style="p"><verse number="57" style="v" sid="MAT 13:57"/>And they took offense at Him. But Jesus said to them, “Only in his hometown and in his own household is a prophet without honor.”<verse eid="MAT 13:57"/></para>
 <para style="p"><verse number="58" style="v" sid="MAT 13:58"/>And He did not do many miracles there, because of their unbelief.<verse eid="MAT 13:58"/></para>
-<chapter eid="MAT 13"/>
-<chapter number="14" style="c" sid="MAT 14"/>
+<chapter eid="MAT 13" />
+<chapter number="14" style="c" sid="MAT 14" />
 <para style="p"><verse number="1" style="v" sid="MAT 14:1"/>At that time Herod the tetrarch heard the reports about Jesus<verse eid="MAT 14:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 14:2"/>and said to his servants, “This is John the Baptist; he has risen from the dead! That is why miraculous powers are at work in him.”<verse eid="MAT 14:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 14:3"/>Now Herod had arrested John and bound him and put him in prison on account of Herodias, his brother Philip’s wife,<verse eid="MAT 14:3"/></para>
@@ -521,8 +521,8 @@
 <para style="p"><verse number="34" style="v" sid="MAT 14:34"/>When they had crossed over, they landed at Gennesaret.<verse eid="MAT 14:34"/></para>
 <para style="p"><verse number="35" style="v" sid="MAT 14:35"/>And when the men of that place recognized Jesus, they sent word to all the surrounding region. People brought all the sick to Him<verse eid="MAT 14:35"/></para>
 <para style="p"><verse number="36" style="v" sid="MAT 14:36"/>and begged Him just to let them touch the fringe of His cloak. And all who touched Him were healed.<verse eid="MAT 14:36"/></para>
-<chapter eid="MAT 14"/>
-<chapter number="15" style="c" sid="MAT 15"/>
+<chapter eid="MAT 14" />
+<chapter number="15" style="c" sid="MAT 15" />
 <para style="p"><verse number="1" style="v" sid="MAT 15:1"/>Then some Pharisees and scribes came to Jesus from Jerusalem and asked,<verse eid="MAT 15:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 15:2"/>“Why do Your disciples break the tradition of the elders? They do not wash their hands before they eat.”<verse eid="MAT 15:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 15:3"/>Jesus replied, “And why do you break the command of God for the sake of your tradition?<verse eid="MAT 15:3"/></para>
@@ -562,8 +562,8 @@
 <para style="p"><verse number="37" style="v" sid="MAT 15:37"/>They all ate and were satisfied, and the disciples picked up seven basketfuls of broken pieces that were left over.<verse eid="MAT 15:37"/></para>
 <para style="p"><verse number="38" style="v" sid="MAT 15:38"/>A total of four thousand men were fed, besides women and children.<verse eid="MAT 15:38"/></para>
 <para style="p"><verse number="39" style="v" sid="MAT 15:39"/>After Jesus had dismissed the crowds, He got into the boat and went to the region of Magadan.<verse eid="MAT 15:39"/></para>
-<chapter eid="MAT 15"/>
-<chapter number="16" style="c" sid="MAT 16"/>
+<chapter eid="MAT 15" />
+<chapter number="16" style="c" sid="MAT 16" />
 <para style="p"><verse number="1" style="v" sid="MAT 16:1"/>Then the Pharisees and Sadducees came and tested Jesus by asking Him to show them a sign from heaven.<verse eid="MAT 16:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 16:2"/>But He replied, “When evening comes, you say, ‘The weather will be fair, for the sky is red,’<verse eid="MAT 16:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 16:3"/>and in the morning, ‘Today it will be stormy, for the sky is red and overcast.’ You know how to interpret the appearance of the sky, but not the signs of the times.<verse eid="MAT 16:3"/></para>
@@ -592,8 +592,8 @@
 <para style="p"><verse number="26" style="v" sid="MAT 16:26"/>What will it profit a man if he gains the whole world, yet forfeits his soul? Or what can a man give in exchange for his soul?<verse eid="MAT 16:26"/></para>
 <para style="p"><verse number="27" style="v" sid="MAT 16:27"/>For the Son of Man will come in His Father’s glory with His angels, and then He will repay each one according to what he has done.<verse eid="MAT 16:27"/></para>
 <para style="p"><verse number="28" style="v" sid="MAT 16:28"/>Truly I tell you, some who are standing here will not taste death before they see the Son of Man coming in His kingdom.”<verse eid="MAT 16:28"/></para>
-<chapter eid="MAT 16"/>
-<chapter number="17" style="c" sid="MAT 17"/>
+<chapter eid="MAT 16" />
+<chapter number="17" style="c" sid="MAT 17" />
 <para style="p"><verse number="1" style="v" sid="MAT 17:1"/>After six days Jesus took with Him Peter, James, and John the brother of James, and led them up a high mountain by themselves.<verse eid="MAT 17:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 17:2"/>There He was transfigured before them. His face shone like the sun, and His clothes became as white as the light.<verse eid="MAT 17:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 17:3"/>Suddenly Moses and Elijah appeared before them, talking with Jesus.<verse eid="MAT 17:3"/></para>
@@ -620,8 +620,8 @@
 <para style="p"><verse number="25" style="v" sid="MAT 17:25"/>“Yes,” he answered. When Peter entered the house, Jesus preempted him. “What do you think, Simon?” He asked. “From whom do the kings of the earth collect customs and taxes: from their own sons, or from others?”<verse eid="MAT 17:25"/></para>
 <para style="p"><verse number="26" style="v" sid="MAT 17:26"/>“From others,” Peter answered. “Then the sons are exempt,” Jesus said to him.<verse eid="MAT 17:26"/></para>
 <para style="p"><verse number="27" style="v" sid="MAT 17:27"/>“But so that we may not offend them, go to the sea, cast a hook, and take the first fish you catch. When you open its mouth, you will find a four-drachma coin. Take it and give it to them for My tax and yours.”<verse eid="MAT 17:27"/></para>
-<chapter eid="MAT 17"/>
-<chapter number="18" style="c" sid="MAT 18"/>
+<chapter eid="MAT 17" />
+<chapter number="18" style="c" sid="MAT 18" />
 <para style="p"><verse number="1" style="v" sid="MAT 18:1"/>At that time the disciples came to Jesus and asked, “Who then is the greatest in the kingdom of heaven?”<verse eid="MAT 18:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 18:2"/>Jesus invited a little child to stand among them.<verse eid="MAT 18:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 18:3"/>“Truly I tell you,” He said, “unless you change and become like little children, you will never enter the kingdom of heaven.<verse eid="MAT 18:3"/></para>
@@ -656,8 +656,8 @@
 <para style="p"><verse number="33" style="v" sid="MAT 18:33"/>Shouldn’t you have had mercy on your fellow servant, just as I had on you?’<verse eid="MAT 18:33"/></para>
 <para style="p"><verse number="34" style="v" sid="MAT 18:34"/>In anger his master turned him over to the jailers to be tortured, until he should repay all that he owed.<verse eid="MAT 18:34"/></para>
 <para style="p"><verse number="35" style="v" sid="MAT 18:35"/>That is how My heavenly Father will treat each of you unless you forgive your brother from your heart.”<verse eid="MAT 18:35"/></para>
-<chapter eid="MAT 18"/>
-<chapter number="19" style="c" sid="MAT 19"/>
+<chapter eid="MAT 18" />
+<chapter number="19" style="c" sid="MAT 19" />
 <para style="p"><verse number="1" style="v" sid="MAT 19:1"/>When Jesus had finished saying these things, He left Galilee and went into the region of Judea beyond the Jordan.<verse eid="MAT 19:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 19:2"/>Large crowds followed Him, and He healed them there.<verse eid="MAT 19:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 19:3"/>Then some Pharisees came and tested Him by asking, “Is it lawful for a man to divorce his wife for any reason?”<verse eid="MAT 19:3"/></para>
@@ -688,8 +688,8 @@
 <para style="p"><verse number="28" style="v" sid="MAT 19:28"/>Jesus said to them, “Truly I tell you, in the renewal of all things, when the Son of Man sits on His glorious throne, you who have followed Me will also sit on twelve thrones, judging the twelve tribes of Israel.<verse eid="MAT 19:28"/></para>
 <para style="p"><verse number="29" style="v" sid="MAT 19:29"/>And everyone who has left houses or brothers or sisters or father or mother or wife or children or fields for the sake of My name will receive a hundredfold and will inherit eternal life.<verse eid="MAT 19:29"/></para>
 <para style="p"><verse number="30" style="v" sid="MAT 19:30"/>But many who are first will be last, and the last will be first.<verse eid="MAT 19:30"/></para>
-<chapter eid="MAT 19"/>
-<chapter number="20" style="c" sid="MAT 20"/>
+<chapter eid="MAT 19" />
+<chapter number="20" style="c" sid="MAT 20" />
 <para style="p"><verse number="1" style="v" sid="MAT 20:1"/>“For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard.<verse eid="MAT 20:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 20:2"/>He agreed to pay them a denarius for the day and sent them into his vineyard.<verse eid="MAT 20:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 20:3"/>About the third hour he went out and saw others standing in the marketplace doing nothing.<verse eid="MAT 20:3"/></para>
@@ -724,8 +724,8 @@
 <para style="p"><verse number="32" style="v" sid="MAT 20:32"/>Jesus stopped and called them. “What do you want Me to do for you?” He asked.<verse eid="MAT 20:32"/></para>
 <para style="p"><verse number="33" style="v" sid="MAT 20:33"/>“Lord,” they answered, “let our eyes be opened.”<verse eid="MAT 20:33"/></para>
 <para style="p"><verse number="34" style="v" sid="MAT 20:34"/>Moved with compassion, Jesus touched their eyes, and at once they received their sight and followed Him.<verse eid="MAT 20:34"/></para>
-<chapter eid="MAT 20"/>
-<chapter number="21" style="c" sid="MAT 21"/>
+<chapter eid="MAT 20" />
+<chapter number="21" style="c" sid="MAT 21" />
 <para style="p"><verse number="1" style="v" sid="MAT 21:1"/>As they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent out two disciples,<verse eid="MAT 21:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 21:2"/>saying to them, “Go into the village ahead of you, and at once you will find a donkey tied there, with her colt beside her. Untie them and bring them to Me.<verse eid="MAT 21:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 21:3"/>If anyone questions you, tell him that the Lord needs them, and he will send them right away.”<verse eid="MAT 21:3"/></para>
@@ -772,8 +772,8 @@
 <para style="p"><verse number="44" style="v" sid="MAT 21:44"/>He who falls on this stone will be broken to pieces, but he on whom it falls will be crushed.”<verse eid="MAT 21:44"/></para>
 <para style="p"><verse number="45" style="v" sid="MAT 21:45"/>When the chief priests and Pharisees heard His parables, they knew that Jesus was speaking about them.<verse eid="MAT 21:45"/></para>
 <para style="p"><verse number="46" style="v" sid="MAT 21:46"/>Although they wanted to arrest Him, they were afraid of the crowds, because the people regarded Him as a prophet.<verse eid="MAT 21:46"/></para>
-<chapter eid="MAT 21"/>
-<chapter number="22" style="c" sid="MAT 22"/>
+<chapter eid="MAT 21" />
+<chapter number="22" style="c" sid="MAT 22" />
 <para style="p"><verse number="1" style="v" sid="MAT 22:1"/>Once again, Jesus spoke to them in parables:<verse eid="MAT 22:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 22:2"/>“The kingdom of heaven is like a king who prepared a wedding banquet for his son.<verse eid="MAT 22:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 22:3"/>He sent his servants to call those he had invited to the banquet, but they refused to come.<verse eid="MAT 22:3"/></para>
@@ -820,8 +820,8 @@
 <para style="p"><verse number="44" style="v" sid="MAT 22:44"/>‘The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”’<verse eid="MAT 22:44"/></para>
 <para style="p"><verse number="45" style="v" sid="MAT 22:45"/>So if David calls Him ‘Lord,’ how can He be David’s son?”<verse eid="MAT 22:45"/></para>
 <para style="p"><verse number="46" style="v" sid="MAT 22:46"/>No one was able to answer a word, and from that day on no one dared to question Him any further.<verse eid="MAT 22:46"/></para>
-<chapter eid="MAT 22"/>
-<chapter number="23" style="c" sid="MAT 23"/>
+<chapter eid="MAT 22" />
+<chapter number="23" style="c" sid="MAT 23" />
 <para style="p"><verse number="1" style="v" sid="MAT 23:1"/>Then Jesus spoke to the crowds and to His disciples:<verse eid="MAT 23:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 23:2"/>“The scribes and Pharisees sit in Moses’ seat.<verse eid="MAT 23:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 23:3"/>So practice and observe everything they tell you. But do not do what they do, for they do not practice what they preach.<verse eid="MAT 23:3"/></para>
@@ -860,8 +860,8 @@
 <para style="p"><verse number="37" style="v" sid="MAT 23:37"/>O Jerusalem, Jerusalem, who kills the prophets and stones those sent to her, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, but you were unwilling!<verse eid="MAT 23:37"/></para>
 <para style="p"><verse number="38" style="v" sid="MAT 23:38"/>Look, your house is left to you desolate.<verse eid="MAT 23:38"/></para>
 <para style="p"><verse number="39" style="v" sid="MAT 23:39"/>For I tell you that you will not see Me again until you say, ‘Blessed is He who comes in the name of the Lord.’”<verse eid="MAT 23:39"/></para>
-<chapter eid="MAT 23"/>
-<chapter number="24" style="c" sid="MAT 24"/>
+<chapter eid="MAT 23" />
+<chapter number="24" style="c" sid="MAT 24" />
 <para style="p"><verse number="1" style="v" sid="MAT 24:1"/>As Jesus left the temple and was walking away, His disciples came up to Him to point out its buildings.<verse eid="MAT 24:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 24:2"/>“Do you see all these things?” He replied. “Truly I tell you, not one stone here will be left on another; every one will be thrown down.”<verse eid="MAT 24:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 24:3"/>While Jesus was sitting on the Mount of Olives, the disciples came to Him privately. “Tell us,” they said, “when will these things happen, and what will be the sign of Your coming and of the end of the age?”<verse eid="MAT 24:3"/></para>
@@ -913,8 +913,8 @@
 <para style="p"><verse number="49" style="v" sid="MAT 24:49"/>And he begins to beat his fellow servants and to eat and drink with drunkards.<verse eid="MAT 24:49"/></para>
 <para style="p"><verse number="50" style="v" sid="MAT 24:50"/>The master of that servant will come on a day he does not expect and at an hour he does not anticipate.<verse eid="MAT 24:50"/></para>
 <para style="p"><verse number="51" style="v" sid="MAT 24:51"/>Then he will cut him to pieces and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.<verse eid="MAT 24:51"/></para>
-<chapter eid="MAT 24"/>
-<chapter number="25" style="c" sid="MAT 25"/>
+<chapter eid="MAT 24" />
+<chapter number="25" style="c" sid="MAT 25" />
 <para style="p"><verse number="1" style="v" sid="MAT 25:1"/>“At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom.<verse eid="MAT 25:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 25:2"/>Five of them were foolish, and five were wise.<verse eid="MAT 25:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 25:3"/>The foolish ones took their lamps but did not take along any extra oil.<verse eid="MAT 25:3"/></para>
@@ -961,8 +961,8 @@
 <para style="p"><verse number="44" style="v" sid="MAT 25:44"/>And they too will reply, ‘Lord, when did we see You hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to You?’<verse eid="MAT 25:44"/></para>
 <para style="p"><verse number="45" style="v" sid="MAT 25:45"/>Then the King will answer, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for Me.’<verse eid="MAT 25:45"/></para>
 <para style="p"><verse number="46" style="v" sid="MAT 25:46"/>And they will go away into eternal punishment, but the righteous into eternal life.”<verse eid="MAT 25:46"/></para>
-<chapter eid="MAT 25"/>
-<chapter number="26" style="c" sid="MAT 26"/>
+<chapter eid="MAT 25" />
+<chapter number="26" style="c" sid="MAT 26" />
 <para style="p"><verse number="1" style="v" sid="MAT 26:1"/>When Jesus had finished saying all these things, He told His disciples,<verse eid="MAT 26:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 26:2"/>“You know that the Passover is two days away, and the Son of Man will be handed over to be crucified.”<verse eid="MAT 26:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 26:3"/>At that time the chief priests and elders of the people assembled in the courtyard of the high priest, whose name was Caiaphas,<verse eid="MAT 26:3"/></para>
@@ -1038,8 +1038,8 @@
 <para style="p"><verse number="73" style="v" sid="MAT 26:73"/>After a little while, those standing nearby came up to Peter. “Surely you are one of them,” they said, “for your accent gives you away.”<verse eid="MAT 26:73"/></para>
 <para style="p"><verse number="74" style="v" sid="MAT 26:74"/>At that he began to curse and swear to them, “I do not know the man!” And immediately a rooster crowed.<verse eid="MAT 26:74"/></para>
 <para style="p"><verse number="75" style="v" sid="MAT 26:75"/>Then Peter remembered the word that Jesus had spoken: “Before the rooster crows, you will deny Me three times.” And he went outside and wept bitterly.<verse eid="MAT 26:75"/></para>
-<chapter eid="MAT 26"/>
-<chapter number="27" style="c" sid="MAT 27"/>
+<chapter eid="MAT 26" />
+<chapter number="27" style="c" sid="MAT 27" />
 <para style="p"><verse number="1" style="v" sid="MAT 27:1"/>When morning came, all the chief priests and elders of the people conspired against Jesus to put Him to death.<verse eid="MAT 27:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 27:2"/>They bound Him, led Him away, and handed Him over to Pilate the governor.<verse eid="MAT 27:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 27:3"/>When Judas, who had betrayed Him, saw that Jesus was condemned, he was filled with remorse and returned the thirty pieces of silver to the chief priests and elders.<verse eid="MAT 27:3"/></para>
@@ -1106,8 +1106,8 @@
 <para style="p"><verse number="64" style="v" sid="MAT 27:64"/>So give the order that the tomb be secured until the third day. Otherwise, His disciples may come and steal Him away and tell the people He has risen from the dead. And this last deception would be worse than the first.”<verse eid="MAT 27:64"/></para>
 <para style="p"><verse number="65" style="v" sid="MAT 27:65"/>“You have a guard,” Pilate said. “Go, make the tomb as secure as you know how.”<verse eid="MAT 27:65"/></para>
 <para style="p"><verse number="66" style="v" sid="MAT 27:66"/>So they went and secured the tomb by sealing the stone and posting the guard.<verse eid="MAT 27:66"/></para>
-<chapter eid="MAT 27"/>
-<chapter number="28" style="c" sid="MAT 28"/>
+<chapter eid="MAT 27" />
+<chapter number="28" style="c" sid="MAT 28" />
 <para style="p"><verse number="1" style="v" sid="MAT 28:1"/>After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to see the tomb.<verse eid="MAT 28:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAT 28:2"/>Suddenly there was a great earthquake, for an angel of the Lord descended from heaven, rolled away the stone, and sat on it.<verse eid="MAT 28:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAT 28:3"/>His appearance was like lightning, and his clothes were white as snow.<verse eid="MAT 28:3"/></para>
@@ -1128,5 +1128,5 @@
 <para style="p"><verse number="18" style="v" sid="MAT 28:18"/>Then Jesus came to them and said, “All authority in heaven and on earth has been given to Me.<verse eid="MAT 28:18"/></para>
 <para style="p"><verse number="19" style="v" sid="MAT 28:19"/>Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,<verse eid="MAT 28:19"/></para>
 <para style="p"><verse number="20" style="v" sid="MAT 28:20"/>and teaching them to obey all that I have commanded you. And surely I am with you always, even to the end of the age.”<verse eid="MAT 28:20"/></para>
-<chapter eid="MAT 28"/>
+<chapter eid="MAT 28" />
 </usx>
