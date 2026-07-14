@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="2SA" style="id">- Berean Standard Bible -</book>
+<book code="2SA" style="id">- 2 Samuel -</book>
 <para style="h">2 Samuel</para>
 <para style="toc1">2 Samuel</para>
 <para style="toc2">2 Samuel</para>
 <para style="mt1">2 Samuel</para>
-<chapter number="1" style="c" sid="2SA 1"/>
+<chapter number="1" style="c" sid="2SA 1" />
 <para style="p"><verse number="1" style="v" sid="2SA 1:1"/>After the death of Saul, David returned from the slaughter of the Amalekites and stayed in Ziklag two days.<verse eid="2SA 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 1:2"/>On the third day a man with torn clothes and dust on his head arrived from Saul’s camp. When he came to David, he fell to the ground to pay him homage.<verse eid="2SA 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 1:3"/>“Where have you come from?” David asked. “I have escaped from the Israelite camp,” he replied.<verse eid="2SA 1:3"/></para>
@@ -33,8 +33,8 @@
 <para style="p"><verse number="25" style="v" sid="2SA 1:25"/>How the mighty have fallen in the thick of battle! Jonathan lies slain on your heights.<verse eid="2SA 1:25"/></para>
 <para style="p"><verse number="26" style="v" sid="2SA 1:26"/>I grieve for you, Jonathan, my brother. You were delightful to me; your love to me was extraordinary, surpassing the love of women.<verse eid="2SA 1:26"/></para>
 <para style="p"><verse number="27" style="v" sid="2SA 1:27"/>How the mighty have fallen, and the weapons of war have perished!”<verse eid="2SA 1:27"/></para>
-<chapter eid="2SA 1"/>
-<chapter number="2" style="c" sid="2SA 2"/>
+<chapter eid="2SA 1" />
+<chapter number="2" style="c" sid="2SA 2" />
 <para style="p"><verse number="1" style="v" sid="2SA 2:1"/>Some time later, David inquired of the LORD, “Should I go up to one of the towns of Judah?” “Go up,” the LORD answered. Then David asked, “Where should I go?” “To Hebron,” replied the LORD.<verse eid="2SA 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 2:2"/>So David went there with his two wives, Ahinoam of Jezreel and Abigail the widow of Nabal of Carmel.<verse eid="2SA 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 2:3"/>David also took the men who were with him, each with his household, and they settled in the towns near Hebron.<verse eid="2SA 2:3"/></para>
@@ -67,8 +67,8 @@
 <para style="p"><verse number="30" style="v" sid="2SA 2:30"/>When Joab returned from pursuing Abner, he gathered all the troops. In addition to Asahel, nineteen of David’s servants were missing,<verse eid="2SA 2:30"/></para>
 <para style="p"><verse number="31" style="v" sid="2SA 2:31"/>but they had struck down 360 Benjamites who were with Abner.<verse eid="2SA 2:31"/></para>
 <para style="p"><verse number="32" style="v" sid="2SA 2:32"/>And they took Asahel and buried him in his father’s tomb in Bethlehem. Then Joab and his men marched all night and reached Hebron at daybreak.<verse eid="2SA 2:32"/></para>
-<chapter eid="2SA 2"/>
-<chapter number="3" style="c" sid="2SA 3"/>
+<chapter eid="2SA 2" />
+<chapter number="3" style="c" sid="2SA 3" />
 <para style="p"><verse number="1" style="v" sid="2SA 3:1"/>Now the war between the house of Saul and the house of David was protracted. And David grew stronger and stronger, while the house of Saul grew weaker and weaker.<verse eid="2SA 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 3:2"/>And sons were born to David in Hebron: His firstborn was Amnon, by Ahinoam of Jezreel;<verse eid="2SA 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 3:3"/>his second was Chileab, by Abigail the widow of Nabal of Carmel; his third was Absalom, the son of Maacah daughter of King Talmai of Geshur;<verse eid="2SA 3:3"/></para>
@@ -108,8 +108,8 @@
 <para style="p"><verse number="37" style="v" sid="2SA 3:37"/>So on that day all the troops and all Israel were convinced that the king had no part in the murder of Abner son of Ner.<verse eid="2SA 3:37"/></para>
 <para style="p"><verse number="38" style="v" sid="2SA 3:38"/>Then the king said to his servants, “Do you not realize that a great prince has fallen today in Israel?<verse eid="2SA 3:38"/></para>
 <para style="p"><verse number="39" style="v" sid="2SA 3:39"/>And I am weak this day, though anointed as king, and these men, the sons of Zeruiah, are too fierce for me. May the LORD repay the evildoer according to his evil!”<verse eid="2SA 3:39"/></para>
-<chapter eid="2SA 3"/>
-<chapter number="4" style="c" sid="2SA 4"/>
+<chapter eid="2SA 3" />
+<chapter number="4" style="c" sid="2SA 4" />
 <para style="p"><verse number="1" style="v" sid="2SA 4:1"/>Now when Ish-bosheth son of Saul heard that Abner had died in Hebron, he lost courage, and all Israel was dismayed.<verse eid="2SA 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 4:2"/>Saul’s son had two men who were leaders of raiding parties. One was named Baanah and the other Rechab; they were sons of Rimmon the Beerothite of the tribe of Benjamin—Beeroth is considered part of Benjamin,<verse eid="2SA 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 4:3"/>because the Beerothites fled to Gittaim and have lived there as foreigners to this day.<verse eid="2SA 4:3"/></para>
@@ -122,8 +122,8 @@
 <para style="p"><verse number="10" style="v" sid="2SA 4:10"/>when someone told me, ‘Look, Saul is dead,’ and thought he was a bearer of good news, I seized him and put him to death at Ziklag. That was his reward for his news!<verse eid="2SA 4:10"/></para>
 <para style="p"><verse number="11" style="v" sid="2SA 4:11"/>How much more, when wicked men kill a righteous man in his own house and on his own bed, shall I not now require his blood from your hands and remove you from the earth!”<verse eid="2SA 4:11"/></para>
 <para style="p"><verse number="12" style="v" sid="2SA 4:12"/>So David commanded his young men, and they killed Rechab and Baanah. They cut off their hands and feet and hung their bodies by the pool in Hebron, but they took the head of Ish-bosheth and buried it in Abner’s tomb in Hebron.<verse eid="2SA 4:12"/></para>
-<chapter eid="2SA 4"/>
-<chapter number="5" style="c" sid="2SA 5"/>
+<chapter eid="2SA 4" />
+<chapter number="5" style="c" sid="2SA 5" />
 <para style="p"><verse number="1" style="v" sid="2SA 5:1"/>Then all the tribes of Israel came to David at Hebron and said, “Here we are, your own flesh and blood.<verse eid="2SA 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 5:2"/>Even in times past, while Saul was king over us, you were the one who led Israel out and brought them back. And to you the LORD said, ‘You will shepherd My people Israel, and you will be ruler over them.’”<verse eid="2SA 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 5:3"/>So all the elders of Israel came to the king at Hebron, where King David made with them a covenant before the LORD. And they anointed him king over Israel.<verse eid="2SA 5:3"/></para>
@@ -149,8 +149,8 @@
 <para style="p"><verse number="23" style="v" sid="2SA 5:23"/>So David inquired of the LORD, who answered, “Do not march straight up, but circle around behind them and attack them in front of the balsam trees.<verse eid="2SA 5:23"/></para>
 <para style="p"><verse number="24" style="v" sid="2SA 5:24"/>As soon as you hear the sound of marching in the tops of the balsam trees, move quickly, because this will mean that the LORD has gone out before you to strike the camp of the Philistines.”<verse eid="2SA 5:24"/></para>
 <para style="p"><verse number="25" style="v" sid="2SA 5:25"/>So David did as the LORD had commanded him, and he struck down the Philistines all the way from Gibeon to Gezer.<verse eid="2SA 5:25"/></para>
-<chapter eid="2SA 5"/>
-<chapter number="6" style="c" sid="2SA 6"/>
+<chapter eid="2SA 5" />
+<chapter number="6" style="c" sid="2SA 6" />
 <para style="p"><verse number="1" style="v" sid="2SA 6:1"/>David again assembled the chosen men of Israel, thirty thousand in all.<verse eid="2SA 6:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 6:2"/>And he and all his troops set out for Baale of Judah to bring up from there the ark of God, which is called by the Name—the name of the LORD of Hosts, who is enthroned between the cherubim that are on it.<verse eid="2SA 6:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 6:3"/>They set the ark of God on a new cart and brought it from the house of Abinadab, which was on the hill. Uzzah and Ahio, the sons of Abinadab, were guiding the new cart,<verse eid="2SA 6:3"/></para>
@@ -174,8 +174,8 @@
 <para style="p"><verse number="21" style="v" sid="2SA 6:21"/>But David said to Michal, “I was dancing before the LORD, who chose me over your father and all his house when He appointed me ruler over the LORD’s people Israel. I will celebrate before the LORD,<verse eid="2SA 6:21"/></para>
 <para style="p"><verse number="22" style="v" sid="2SA 6:22"/>and I will humiliate and humble myself even more than this. Yet I will be honored by the maidservants of whom you have spoken.”<verse eid="2SA 6:22"/></para>
 <para style="p"><verse number="23" style="v" sid="2SA 6:23"/>And Michal the daughter of Saul had no children to the day of her death.<verse eid="2SA 6:23"/></para>
-<chapter eid="2SA 6"/>
-<chapter number="7" style="c" sid="2SA 7"/>
+<chapter eid="2SA 6" />
+<chapter number="7" style="c" sid="2SA 7" />
 <para style="p"><verse number="1" style="v" sid="2SA 7:1"/>After the king had settled into his palace and the LORD had given him rest from all his enemies around him,<verse eid="2SA 7:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 7:2"/>he said to Nathan the prophet, “Here I am, living in a house of cedar, while the ark of God remains in a tent.”<verse eid="2SA 7:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 7:3"/>And Nathan replied to the king, “Go and do all that is in your heart, for the LORD is with you.”<verse eid="2SA 7:3"/></para>
@@ -205,8 +205,8 @@
 <para style="p"><verse number="27" style="v" sid="2SA 7:27"/>For You, O LORD of Hosts, the God of Israel, have revealed this to Your servant when You said, ‘I will build a house for you.’ Therefore Your servant has found the courage to offer this prayer to You.<verse eid="2SA 7:27"/></para>
 <para style="p"><verse number="28" style="v" sid="2SA 7:28"/>And now, O Lord GOD, You are God! Your words are true, and You have promised this goodness to Your servant.<verse eid="2SA 7:28"/></para>
 <para style="p"><verse number="29" style="v" sid="2SA 7:29"/>Now therefore, may it please You to bless the house of Your servant, that it may continue forever before You. For You, O Lord GOD, have spoken, and with Your blessing the house of Your servant will be blessed forever.”<verse eid="2SA 7:29"/></para>
-<chapter eid="2SA 7"/>
-<chapter number="8" style="c" sid="2SA 8"/>
+<chapter eid="2SA 7" />
+<chapter number="8" style="c" sid="2SA 8" />
 <para style="p"><verse number="1" style="v" sid="2SA 8:1"/>Some time later, David defeated the Philistines, subdued them, and took Metheg-ammah from the hand of the Philistines.<verse eid="2SA 8:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 8:2"/>David also defeated the Moabites, made them lie down on the ground, and measured them off with a cord. He measured off with two lengths those to be put to death, and with one length those to be spared. So the Moabites became subject to David and brought him tribute.<verse eid="2SA 8:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 8:3"/>David also defeated Hadadezer son of Rehob, king of Zobah, who had marched out to restore his dominion along the Euphrates River.<verse eid="2SA 8:3"/></para>
@@ -225,8 +225,8 @@
 <para style="p"><verse number="16" style="v" sid="2SA 8:16"/>Joab son of Zeruiah was over the army; Jehoshaphat son of Ahilud was the recorder;<verse eid="2SA 8:16"/></para>
 <para style="p"><verse number="17" style="v" sid="2SA 8:17"/>Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was the scribe;<verse eid="2SA 8:17"/></para>
 <para style="p"><verse number="18" style="v" sid="2SA 8:18"/>Benaiah son of Jehoiada was over the Cherethites and Pelethites; and David’s sons were priestly leaders.<verse eid="2SA 8:18"/></para>
-<chapter eid="2SA 8"/>
-<chapter number="9" style="c" sid="2SA 9"/>
+<chapter eid="2SA 8" />
+<chapter number="9" style="c" sid="2SA 9" />
 <para style="p"><verse number="1" style="v" sid="2SA 9:1"/>Then David asked, “Is there anyone left from the house of Saul to whom I can show kindness for the sake of Jonathan?”<verse eid="2SA 9:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 9:2"/>And there was a servant of the house of Saul named Ziba. They summoned him to David, and the king inquired, “Are you Ziba?” “I am your servant,” he replied.<verse eid="2SA 9:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 9:3"/>So the king asked, “Is there anyone left of the house of Saul to whom I can show the kindness of God?” Ziba answered, “There is still Jonathan’s son, who is lame in both feet.”<verse eid="2SA 9:3"/></para>
@@ -240,8 +240,8 @@
 <para style="p"><verse number="11" style="v" sid="2SA 9:11"/>And Ziba said to the king, “Your servant will do all that my lord the king has commanded.” So Mephibosheth ate at David’s table like one of the king’s own sons.<verse eid="2SA 9:11"/></para>
 <para style="p"><verse number="12" style="v" sid="2SA 9:12"/>And Mephibosheth had a young son named Mica, and all who dwelt in the house of Ziba were servants of Mephibosheth.<verse eid="2SA 9:12"/></para>
 <para style="p"><verse number="13" style="v" sid="2SA 9:13"/>So Mephibosheth lived in Jerusalem, because he always ate at the king’s table, and he was lame in both feet.<verse eid="2SA 9:13"/></para>
-<chapter eid="2SA 9"/>
-<chapter number="10" style="c" sid="2SA 10"/>
+<chapter eid="2SA 9" />
+<chapter number="10" style="c" sid="2SA 10" />
 <para style="p"><verse number="1" style="v" sid="2SA 10:1"/>Some time later, the king of the Ammonites died and was succeeded by his son Hanun.<verse eid="2SA 10:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 10:2"/>And David said, “I will show kindness to Hanun son of Nahash, just as his father showed kindness to me.” So David sent some of his servants to console Hanun concerning his father. But when they arrived in the land of the Ammonites,<verse eid="2SA 10:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 10:3"/>the princes of the Ammonites said to Hanun their lord, “Just because David has sent you comforters, do you really believe he is showing respect for your father? Has not David instead sent his servants to explore the city, spy it out, and overthrow it?”<verse eid="2SA 10:3"/></para>
@@ -261,8 +261,8 @@
 <para style="p"><verse number="17" style="v" sid="2SA 10:17"/>When this was reported to David, he gathered all Israel, crossed the Jordan, and went to Helam. Then the Arameans arrayed themselves against David and fought against him.<verse eid="2SA 10:17"/></para>
 <para style="p"><verse number="18" style="v" sid="2SA 10:18"/>But the Arameans fled before Israel, and David killed seven hundred charioteers and forty thousand foot soldiers. He also struck down Shobach the commander of their army, who died there.<verse eid="2SA 10:18"/></para>
 <para style="p"><verse number="19" style="v" sid="2SA 10:19"/>When all the kings who were subject to Hadadezer saw that they had been defeated by Israel, they made peace with Israel and became subject to them. So the Arameans were afraid to help the Ammonites anymore.<verse eid="2SA 10:19"/></para>
-<chapter eid="2SA 10"/>
-<chapter number="11" style="c" sid="2SA 11"/>
+<chapter eid="2SA 10" />
+<chapter number="11" style="c" sid="2SA 11" />
 <para style="p"><verse number="1" style="v" sid="2SA 11:1"/>In the spring, at the time when kings march out to war, David sent out Joab and his servants with the whole army of Israel. They destroyed the Ammonites and besieged Rabbah, but David remained in Jerusalem.<verse eid="2SA 11:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 11:2"/>One evening David got up from his bed and strolled around on the roof of the palace. And from the roof he saw a woman bathing—a very beautiful woman.<verse eid="2SA 11:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 11:3"/>So David sent and inquired about the woman, and he was told, “This is Bathsheba, the daughter of Eliam and the wife of Uriah the Hittite.”<verse eid="2SA 11:3"/></para>
@@ -290,8 +290,8 @@
 <para style="p"><verse number="25" style="v" sid="2SA 11:25"/>Then David told the messenger, “Say this to Joab: ‘Do not let this matter upset you, for the sword devours one as well as another. Strengthen your attack against the city and demolish it.’ Encourage him with these words.”<verse eid="2SA 11:25"/></para>
 <para style="p"><verse number="26" style="v" sid="2SA 11:26"/>When Uriah’s wife heard that her husband was dead, she mourned for him.<verse eid="2SA 11:26"/></para>
 <para style="p"><verse number="27" style="v" sid="2SA 11:27"/>And when the time of mourning was over, David had her brought to his house, and she became his wife and bore him a son. But the thing that David had done was evil in the sight of the LORD.<verse eid="2SA 11:27"/></para>
-<chapter eid="2SA 11"/>
-<chapter number="12" style="c" sid="2SA 12"/>
+<chapter eid="2SA 11" />
+<chapter number="12" style="c" sid="2SA 12" />
 <para style="p"><verse number="1" style="v" sid="2SA 12:1"/>Then the LORD sent Nathan to David, and when he arrived, he said, “There were two men in a certain city, one rich and the other poor.<verse eid="2SA 12:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 12:2"/>The rich man had a great number of sheep and cattle,<verse eid="2SA 12:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 12:3"/>but the poor man had nothing except one small ewe lamb that he had bought. He raised it, and it grew up with him and his children. It shared his food and drank from his cup; it slept in his arms and was like a daughter to him.<verse eid="2SA 12:3"/></para>
@@ -323,8 +323,8 @@
 <para style="p"><verse number="29" style="v" sid="2SA 12:29"/>So David assembled all the troops and went to Rabbah; and he fought against it and captured it.<verse eid="2SA 12:29"/></para>
 <para style="p"><verse number="30" style="v" sid="2SA 12:30"/>Then he took the crown from the head of their king. It weighed a talent of gold and was set with precious stones, and it was placed on David’s head. And David took a great amount of plunder from the city.<verse eid="2SA 12:30"/></para>
 <para style="p"><verse number="31" style="v" sid="2SA 12:31"/>David brought out the people who were there and put them to work with saws, iron picks, and axes, and he made them work at the brick kilns. He did the same to all the Ammonite cities. Then David and all his troops returned to Jerusalem.<verse eid="2SA 12:31"/></para>
-<chapter eid="2SA 12"/>
-<chapter number="13" style="c" sid="2SA 13"/>
+<chapter eid="2SA 12" />
+<chapter number="13" style="c" sid="2SA 13" />
 <para style="p"><verse number="1" style="v" sid="2SA 13:1"/>After some time, David’s son Amnon fell in love with Tamar, the beautiful sister of David’s son Absalom.<verse eid="2SA 13:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 13:2"/>Amnon was sick with frustration over his sister Tamar, for she was a virgin, and it seemed implausible for him to do anything to her.<verse eid="2SA 13:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 13:3"/>Now Amnon had a friend named Jonadab, the son of David’s brother Shimeah. Jonadab was a very shrewd man,<verse eid="2SA 13:3"/></para>
@@ -364,8 +364,8 @@
 <para style="p"><verse number="37" style="v" sid="2SA 13:37"/>Now Absalom fled and went to Talmai son of Ammihud, the king of Geshur. But David mourned for his son every day.<verse eid="2SA 13:37"/></para>
 <para style="p"><verse number="38" style="v" sid="2SA 13:38"/>After Absalom had fled and gone to Geshur, he stayed there three years.<verse eid="2SA 13:38"/></para>
 <para style="p"><verse number="39" style="v" sid="2SA 13:39"/>And King David longed to go to Absalom, for he had been consoled over Amnon’s death.<verse eid="2SA 13:39"/></para>
-<chapter eid="2SA 13"/>
-<chapter number="14" style="c" sid="2SA 14"/>
+<chapter eid="2SA 13" />
+<chapter number="14" style="c" sid="2SA 14" />
 <para style="p"><verse number="1" style="v" sid="2SA 14:1"/>Now Joab son of Zeruiah perceived that the king’s heart longed for Absalom.<verse eid="2SA 14:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 14:2"/>So Joab sent to Tekoa to bring a wise woman from there. He told her, “Please pretend to be a mourner; put on clothes for mourning and do not anoint yourself with oil. Act like a woman who has mourned for the dead a long time.<verse eid="2SA 14:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 14:3"/>Then go to the king and speak these words to him.” And Joab put the words in her mouth.<verse eid="2SA 14:3"/></para>
@@ -399,8 +399,8 @@
 <para style="p"><verse number="31" style="v" sid="2SA 14:31"/>Then Joab came to Absalom’s house and demanded, “Why did your servants set my field on fire?”<verse eid="2SA 14:31"/></para>
 <para style="p"><verse number="32" style="v" sid="2SA 14:32"/>“Look,” said Absalom, “I sent for you and said, ‘Come here. I want to send you to the king to ask: Why have I come back from Geshur? It would be better for me if I were still there.’ So now, let me see the king’s face, and if there is iniquity in me, let him kill me.”<verse eid="2SA 14:32"/></para>
 <para style="p"><verse number="33" style="v" sid="2SA 14:33"/>So Joab went and told the king, and David summoned Absalom, who came to him and bowed facedown before him. Then the king kissed Absalom.<verse eid="2SA 14:33"/></para>
-<chapter eid="2SA 14"/>
-<chapter number="15" style="c" sid="2SA 15"/>
+<chapter eid="2SA 14" />
+<chapter number="15" style="c" sid="2SA 15" />
 <para style="p"><verse number="1" style="v" sid="2SA 15:1"/>Some time later, Absalom provided for himself a chariot with horses and fifty men to run ahead of him.<verse eid="2SA 15:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 15:2"/>He would get up early and stand beside the road leading to the city gate. Whenever anyone had a grievance to bring before the king for a decision, Absalom would call out and ask, “What city are you from?” And if he replied, “Your servant is from one of the tribes of Israel,”<verse eid="2SA 15:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 15:3"/>Absalom would say, “Look, your claims are good and right, but the king has no deputy to hear you.”<verse eid="2SA 15:3"/></para>
@@ -438,8 +438,8 @@
 <para style="p"><verse number="35" style="v" sid="2SA 15:35"/>Will not Zadok and Abiathar the priests be there with you? Report to them everything you hear from the king’s palace.<verse eid="2SA 15:35"/></para>
 <para style="p"><verse number="36" style="v" sid="2SA 15:36"/>Indeed, their two sons, Ahimaaz son of Zadok and Jonathan son of Abiathar, are there with them. Send them to me with everything you hear.”<verse eid="2SA 15:36"/></para>
 <para style="p"><verse number="37" style="v" sid="2SA 15:37"/>So David’s friend Hushai arrived in Jerusalem just as Absalom was entering the city.<verse eid="2SA 15:37"/></para>
-<chapter eid="2SA 15"/>
-<chapter number="16" style="c" sid="2SA 16"/>
+<chapter eid="2SA 15" />
+<chapter number="16" style="c" sid="2SA 16" />
 <para style="p"><verse number="1" style="v" sid="2SA 16:1"/>When David had gone a little beyond the summit, Ziba the servant of Mephibosheth was there to meet him. He had a pair of saddled donkeys loaded with two hundred loaves of bread, a hundred clusters of raisins, a hundred summer fruits, and a skin of wine.<verse eid="2SA 16:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 16:2"/>“Why do you have these?” asked the king. Ziba replied, “The donkeys are for the king’s household to ride, the bread and summer fruit are for the young men to eat, and the wine is to refresh those who become exhausted in the wilderness.”<verse eid="2SA 16:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 16:3"/>“Where is your master’s grandson?” asked the king. And Ziba answered, “Indeed, he is staying in Jerusalem, for he has said, ‘Today, the house of Israel will restore to me the kingdom of my grandfather.’”<verse eid="2SA 16:3"/></para>
@@ -463,8 +463,8 @@
 <para style="p"><verse number="21" style="v" sid="2SA 16:21"/>Ahithophel replied, “Sleep with your father’s concubines, whom he has left to take care of the palace. When all Israel hears that you have become a stench to your father, then the hands of all who are with you will be strengthened.”<verse eid="2SA 16:21"/></para>
 <para style="p"><verse number="22" style="v" sid="2SA 16:22"/>So they pitched a tent for Absalom on the roof, and he slept with his father’s concubines in the sight of all Israel.<verse eid="2SA 16:22"/></para>
 <para style="p"><verse number="23" style="v" sid="2SA 16:23"/>Now in those days the advice of Ahithophel was like the consultation of the word of God. Such was the regard that both David and Absalom had for Ahithophel’s advice.<verse eid="2SA 16:23"/></para>
-<chapter eid="2SA 16"/>
-<chapter number="17" style="c" sid="2SA 17"/>
+<chapter eid="2SA 16" />
+<chapter number="17" style="c" sid="2SA 17" />
 <para style="p"><verse number="1" style="v" sid="2SA 17:1"/>Furthermore, Ahithophel said to Absalom, “Let me choose twelve thousand men and set out tonight in pursuit of David.<verse eid="2SA 17:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 17:2"/>I will attack him while he is weak and weary; I will throw him into a panic, and all the people with him will flee; I will strike down only the king<verse eid="2SA 17:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 17:3"/>and bring all the people back to you as a bride returning to her husband. You seek the life of only one man; then all the people will be at peace.”<verse eid="2SA 17:3"/></para>
@@ -494,8 +494,8 @@
 <para style="p"><verse number="27" style="v" sid="2SA 17:27"/>When David came to Mahanaim, he was met by Shobi son of Nahash from Rabbah of the Ammonites, Machir son of Ammiel from Lo-debar, and Barzillai the Gileadite from Rogelim.<verse eid="2SA 17:27"/></para>
 <para style="p"><verse number="28" style="v" sid="2SA 17:28"/>They brought beds, basins, and earthen vessels, as well as wheat, barley, flour, roasted grain, beans, lentils,<verse eid="2SA 17:28"/></para>
 <para style="p"><verse number="29" style="v" sid="2SA 17:29"/>honey, curds, sheep, and cheese from the herd for David and his people to eat. For they said, “The people have become hungry, exhausted, and thirsty in the wilderness.”<verse eid="2SA 17:29"/></para>
-<chapter eid="2SA 17"/>
-<chapter number="18" style="c" sid="2SA 18"/>
+<chapter eid="2SA 17" />
+<chapter number="18" style="c" sid="2SA 18" />
 <para style="p"><verse number="1" style="v" sid="2SA 18:1"/>Then David reviewed his troops and appointed over them commanders of thousands and of hundreds.<verse eid="2SA 18:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 18:2"/>He sent out the troops, a third under Joab, a third under Joab’s brother Abishai son of Zeruiah, and a third under Ittai the Gittite. And the king said to the troops, “I will surely march out with you as well.”<verse eid="2SA 18:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 18:3"/>But the people pleaded, “You must not go out! For if we have to flee, they will not care about us. Even if half of us die, they will not care. But you are worth ten thousand of us. It is better now if you support us from the city.”<verse eid="2SA 18:3"/></para>
@@ -529,8 +529,8 @@
 <para style="p"><verse number="31" style="v" sid="2SA 18:31"/>Just then the Cushite came and said, “May my lord the king hear the good news: Today the LORD has avenged you of all who rose up against you!”<verse eid="2SA 18:31"/></para>
 <para style="p"><verse number="32" style="v" sid="2SA 18:32"/>The king asked the Cushite, “Is the young man Absalom all right?” And the Cushite replied, “May the enemies of my lord the king and all who rise up against you to harm you be like that young man.”<verse eid="2SA 18:32"/></para>
 <para style="p"><verse number="33" style="v" sid="2SA 18:33"/>The king was shaken and went up to the chamber over the gate and wept. And as he walked, he cried out, “O my son Absalom! My son, my son Absalom! If only I had died instead of you, O Absalom, my son, my son!”<verse eid="2SA 18:33"/></para>
-<chapter eid="2SA 18"/>
-<chapter number="19" style="c" sid="2SA 19"/>
+<chapter eid="2SA 18" />
+<chapter number="19" style="c" sid="2SA 19" />
 <para style="p"><verse number="1" style="v" sid="2SA 19:1"/>Then it was reported to Joab, “The king is weeping and mourning over Absalom.”<verse eid="2SA 19:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 19:2"/>And that day’s victory was turned into mourning for all the people, because on that day they were told, “The king is grieving over his son.”<verse eid="2SA 19:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 19:3"/>So they returned to the city quietly that day, as people steal away in humiliation after fleeing a battle.<verse eid="2SA 19:3"/></para>
@@ -574,8 +574,8 @@
 <para style="p"><verse number="41" style="v" sid="2SA 19:41"/>Soon all the men of Israel came to the king and asked, “Why did our brothers, the men of Judah, take you away secretly and bring the king and his household across the Jordan, together with all of David’s men?”<verse eid="2SA 19:41"/></para>
 <para style="p"><verse number="42" style="v" sid="2SA 19:42"/>And all the men of Judah replied to the men of Israel, “We did this because the king is our relative. Why does this anger you? Have we ever eaten at the king’s expense or received anything for ourselves?”<verse eid="2SA 19:42"/></para>
 <para style="p"><verse number="43" style="v" sid="2SA 19:43"/>“We have ten shares in the king,” answered the men of Israel, “so we have more claim to David than you. Why then do you despise us? Were we not the first to speak of restoring our king?” But the men of Judah spoke more fiercely than the men of Israel.<verse eid="2SA 19:43"/></para>
-<chapter eid="2SA 19"/>
-<chapter number="20" style="c" sid="2SA 20"/>
+<chapter eid="2SA 19" />
+<chapter number="20" style="c" sid="2SA 20" />
 <para style="p"><verse number="1" style="v" sid="2SA 20:1"/>Now a worthless man named Sheba son of Bichri, a Benjamite, happened to be there, and he blew the ram’s horn and shouted: “We have no share in David, no inheritance in Jesse’s son. Every man to his tent, O Israel!”<verse eid="2SA 20:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 20:2"/>So all the men of Israel deserted David to follow Sheba son of Bichri. But the men of Judah stayed by their king all the way from the Jordan to Jerusalem.<verse eid="2SA 20:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 20:3"/>When David returned to his palace in Jerusalem, he took the ten concubines he had left to take care of the palace, and he placed them in a house under guard. He provided for them, but he no longer slept with them. They were confined until the day of their death, living as widows.<verse eid="2SA 20:3"/></para>
@@ -602,8 +602,8 @@
 <para style="p"><verse number="24" style="v" sid="2SA 20:24"/>Adoram was in charge of the forced labor; Jehoshaphat son of Ahilud was the recorder;<verse eid="2SA 20:24"/></para>
 <para style="p"><verse number="25" style="v" sid="2SA 20:25"/>Sheva was the scribe; Zadok and Abiathar were priests;<verse eid="2SA 20:25"/></para>
 <para style="p"><verse number="26" style="v" sid="2SA 20:26"/>and Ira the Jairite was David’s priest.<verse eid="2SA 20:26"/></para>
-<chapter eid="2SA 20"/>
-<chapter number="21" style="c" sid="2SA 21"/>
+<chapter eid="2SA 20" />
+<chapter number="21" style="c" sid="2SA 21" />
 <para style="p"><verse number="1" style="v" sid="2SA 21:1"/>During the reign of David there was a famine for three successive years, and David sought the face of the LORD. And the LORD said, “It is because of the blood shed by Saul and his family, because he killed the Gibeonites.”<verse eid="2SA 21:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 21:2"/>At this, David summoned the Gibeonites and spoke to them. (Now the Gibeonites were not Israelites, but a remnant of the Amorites. The Israelites had taken an oath concerning them, but in his zeal for Israel and Judah, Saul had sought to kill them.)<verse eid="2SA 21:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 21:3"/>So David asked the Gibeonites, “What shall I do for you? How can I make amends so that you may bless the inheritance of the LORD?”<verse eid="2SA 21:3"/></para>
@@ -626,8 +626,8 @@
 <para style="p"><verse number="20" style="v" sid="2SA 21:20"/>And there was also a battle at Gath, where there was a man of great stature with six fingers on each hand and six toes on each foot—twenty-four in all. He too was descended from Rapha,<verse eid="2SA 21:20"/></para>
 <para style="p"><verse number="21" style="v" sid="2SA 21:21"/>and when he taunted Israel, Jonathan the son of David’s brother Shimei killed him.<verse eid="2SA 21:21"/></para>
 <para style="p"><verse number="22" style="v" sid="2SA 21:22"/>So these four descendants of Rapha in Gath fell at the hands of David and his servants.<verse eid="2SA 21:22"/></para>
-<chapter eid="2SA 21"/>
-<chapter number="22" style="c" sid="2SA 22"/>
+<chapter eid="2SA 21" />
+<chapter number="22" style="c" sid="2SA 22" />
 <para style="p"><verse number="1" style="v" sid="2SA 22:1"/>And David sang this song to the LORD on the day the LORD had delivered him from the hand of all his enemies and from the hand of Saul.<verse eid="2SA 22:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 22:2"/>He said: “The LORD is my rock, my fortress, and my deliverer.<verse eid="2SA 22:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 22:3"/>My God is my rock, in whom I take refuge, my shield, and the horn of my salvation. My stronghold, my refuge, and my Savior, You save me from violence.<verse eid="2SA 22:3"/></para>
@@ -679,8 +679,8 @@
 <para style="p"><verse number="49" style="v" sid="2SA 22:49"/>who frees me from my enemies. You exalt me above my foes; You rescue me from violent men.<verse eid="2SA 22:49"/></para>
 <para style="p"><verse number="50" style="v" sid="2SA 22:50"/>Therefore I will praise You, O LORD, among the nations; I will sing praises to Your name.<verse eid="2SA 22:50"/></para>
 <para style="p"><verse number="51" style="v" sid="2SA 22:51"/>Great salvation He brings to His king. He shows loving devotion to His anointed, to David and his descendants forever.”<verse eid="2SA 22:51"/></para>
-<chapter eid="2SA 22"/>
-<chapter number="23" style="c" sid="2SA 23"/>
+<chapter eid="2SA 22" />
+<chapter number="23" style="c" sid="2SA 23" />
 <para style="p"><verse number="1" style="v" sid="2SA 23:1"/>These are the last words of David: “The oracle of David son of Jesse, the oracle of the man raised on high, the one anointed by the God of Jacob, and the sweet psalmist of Israel:<verse eid="2SA 23:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 23:2"/>The Spirit of the LORD spoke through me; His word was on my tongue.<verse eid="2SA 23:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 23:3"/>The God of Israel spoke; the Rock of Israel said to me, ‘He who rules the people with justice, who rules in the fear of God,<verse eid="2SA 23:3"/></para>
@@ -720,8 +720,8 @@
 <para style="p"><verse number="37" style="v" sid="2SA 23:37"/>Zelek the Ammonite, Naharai the Beerothite, the armor-bearer of Joab son of Zeruiah,<verse eid="2SA 23:37"/></para>
 <para style="p"><verse number="38" style="v" sid="2SA 23:38"/>Ira the Ithrite, Gareb the Ithrite,<verse eid="2SA 23:38"/></para>
 <para style="p"><verse number="39" style="v" sid="2SA 23:39"/>and Uriah the Hittite. There were thirty-seven in all.<verse eid="2SA 23:39"/></para>
-<chapter eid="2SA 23"/>
-<chapter number="24" style="c" sid="2SA 24"/>
+<chapter eid="2SA 23" />
+<chapter number="24" style="c" sid="2SA 24" />
 <para style="p"><verse number="1" style="v" sid="2SA 24:1"/>Again the anger of the LORD burned against Israel, and He stirred up David against them, saying, “Go and take a census of Israel and Judah.”<verse eid="2SA 24:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2SA 24:2"/>So the king said to Joab the commander of his army, who was with him, “Go now throughout the tribes of Israel from Dan to Beersheba and register the troops, so that I may know their number.”<verse eid="2SA 24:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2SA 24:3"/>But Joab replied to the king, “May the LORD your God multiply the troops a hundred times over, and may the eyes of my lord the king see it. But why does my lord the king want to do such a thing?”<verse eid="2SA 24:3"/></para>
@@ -747,5 +747,5 @@
 <para style="p"><verse number="23" style="v" sid="2SA 24:23"/>O king, Araunah gives all these to the king.” He also said to the king, “May the LORD your God accept you.”<verse eid="2SA 24:23"/></para>
 <para style="p"><verse number="24" style="v" sid="2SA 24:24"/>“No,” replied the king, “I insist on paying a price, for I will not offer to the LORD my God burnt offerings that cost me nothing.” So David bought the threshing floor and the oxen for fifty shekels of silver.<verse eid="2SA 24:24"/></para>
 <para style="p"><verse number="25" style="v" sid="2SA 24:25"/>And there he built an altar to the LORD and offered burnt offerings and peace offerings. Then the LORD answered the prayers on behalf of the land, and the plague upon Israel was halted.<verse eid="2SA 24:25"/></para>
-<chapter eid="2SA 24"/>
+<chapter eid="2SA 24" />
 </usx>

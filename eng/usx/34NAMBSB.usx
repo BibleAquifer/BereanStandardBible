@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="NAM" style="id">- Berean Standard Bible -</book>
+<book code="NAM" style="id">- Nahum -</book>
 <para style="h">Nahum</para>
 <para style="toc1">Nahum</para>
 <para style="toc2">Nahum</para>
 <para style="mt1">Nahum</para>
-<chapter number="1" style="c" sid="NAM 1"/>
+<chapter number="1" style="c" sid="NAM 1" />
 <para style="p"><verse number="1" style="v" sid="NAM 1:1"/>This is the burden against Nineveh, the book of the vision of Nahum the Elkoshite:<verse eid="NAM 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="NAM 1:2"/>The LORD is a jealous and avenging God; the LORD is avenging and full of wrath. The LORD takes vengeance on His foes and reserves wrath for His enemies.<verse eid="NAM 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="NAM 1:3"/>The LORD is slow to anger and great in power; the LORD will by no means leave the guilty unpunished. His path is in the whirlwind and storm, and clouds are the dust beneath His feet.<verse eid="NAM 1:3"/></para>
@@ -21,8 +21,8 @@
 <para style="p"><verse number="13" style="v" sid="NAM 1:13"/>For I will now break their yoke from your neck and tear away your shackles.”<verse eid="NAM 1:13"/></para>
 <para style="p"><verse number="14" style="v" sid="NAM 1:14"/>The LORD has issued a command concerning you, O Nineveh: “There will be no descendants to carry on your name. I will cut off the carved image and cast idol from the house of your gods; I will prepare your grave, for you are contemptible.”<verse eid="NAM 1:14"/></para>
 <para style="p"><verse number="15" style="v" sid="NAM 1:15"/>Look to the mountains—the feet of one who brings good news, who proclaims peace! Celebrate your feasts, O Judah; fulfill your vows. For the wicked will never again march through you; they will be utterly cut off.<verse eid="NAM 1:15"/></para>
-<chapter eid="NAM 1"/>
-<chapter number="2" style="c" sid="NAM 2"/>
+<chapter eid="NAM 1" />
+<chapter number="2" style="c" sid="NAM 2" />
 <para style="p"><verse number="1" style="v" sid="NAM 2:1"/>One who scatters advances against you, O Nineveh. Guard the fortress! Watch the road! Brace yourselves! Summon all your strength!<verse eid="NAM 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="NAM 2:2"/>For the LORD will restore the splendor of Jacob like the splendor of Israel, though destroyers have laid them waste and ruined the branches of their vine.<verse eid="NAM 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="NAM 2:3"/>The shields of his mighty men are red; the valiant warriors are dressed in scarlet. The fittings of the chariots flash like fire on the day they are prepared, and the spears of cypress have been brandished.<verse eid="NAM 2:3"/></para>
@@ -36,8 +36,8 @@
 <para style="p"><verse number="11" style="v" sid="NAM 2:11"/>Where is the lions’ lair or the feeding ground of the young lions, where the lion and lioness prowled with their cubs, with nothing to frighten them away?<verse eid="NAM 2:11"/></para>
 <para style="p"><verse number="12" style="v" sid="NAM 2:12"/>The lion mauled enough for its cubs and strangled prey for the lioness. It filled its dens with the kill, and its lairs with mauled prey.<verse eid="NAM 2:12"/></para>
 <para style="p"><verse number="13" style="v" sid="NAM 2:13"/>“Behold, I am against you,” declares the LORD of Hosts. “I will reduce your chariots to cinders, and the sword will devour your young lions. I will cut off your prey from the earth, and the voices of your messengers will no longer be heard.”<verse eid="NAM 2:13"/></para>
-<chapter eid="NAM 2"/>
-<chapter number="3" style="c" sid="NAM 3"/>
+<chapter eid="NAM 2" />
+<chapter number="3" style="c" sid="NAM 3" />
 <para style="p"><verse number="1" style="v" sid="NAM 3:1"/>Woe to the city of blood, full of lies, full of plunder, never without prey.<verse eid="NAM 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="NAM 3:2"/>The crack of the whip, the rumble of the wheel, galloping horse and bounding chariot!<verse eid="NAM 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="NAM 3:3"/>Charging horseman, flashing sword, shining spear; heaps of slain, mounds of corpses, dead bodies without end—they stumble over their dead—<verse eid="NAM 3:3"/></para>
@@ -57,5 +57,5 @@
 <para style="p"><verse number="17" style="v" sid="NAM 3:17"/>Your guards are like the swarming locust, and your scribes like clouds of locusts that settle on the walls on a cold day. When the sun rises, they fly away, and no one knows where.<verse eid="NAM 3:17"/></para>
 <para style="p"><verse number="18" style="v" sid="NAM 3:18"/>O king of Assyria, your shepherds slumber; your officers sleep. Your people are scattered on the mountains with no one to gather them.<verse eid="NAM 3:18"/></para>
 <para style="p"><verse number="19" style="v" sid="NAM 3:19"/>There is no healing for your injury; your wound is severe. All who hear the news of you applaud your downfall, for who has not experienced your constant cruelty?<verse eid="NAM 3:19"/></para>
-<chapter eid="NAM 3"/>
+<chapter eid="NAM 3" />
 </usx>

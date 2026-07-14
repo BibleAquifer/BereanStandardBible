@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="SNG" style="id">- Berean Standard Bible -</book>
-<para style="h">Song of Solomon</para>
-<para style="toc1">Song of Solomon</para>
-<para style="toc2">Song of Solomon</para>
-<para style="mt1">Song of Solomon</para>
-<chapter number="1" style="c" sid="SNG 1"/>
+<book code="SNG" style="id">- Song of Songs -</book>
+<para style="h">Song of Songs</para>
+<para style="toc1">Song of Songs</para>
+<para style="toc2">Song of Songs</para>
+<para style="mt1">Song of Songs</para>
+<chapter number="1" style="c" sid="SNG 1" />
 <para style="p"><verse number="1" style="v" sid="SNG 1:1"/>This is Solomon’s Song of Songs.<verse eid="SNG 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="SNG 1:2"/>Let him kiss me with the kisses of his mouth! For your love is more delightful than wine.<verse eid="SNG 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="SNG 1:3"/>The fragrance of your perfume is pleasing; your name is like perfume poured out. No wonder the maidens adore you.<verse eid="SNG 1:3"/></para>
@@ -23,8 +23,8 @@
 <para style="p"><verse number="15" style="v" sid="SNG 1:15"/>How beautiful you are, my darling! Oh, how very beautiful! Your eyes are like doves.<verse eid="SNG 1:15"/></para>
 <para style="p"><verse number="16" style="v" sid="SNG 1:16"/>How handsome you are, my beloved! Oh, how delightful! The soft grass is our bed.<verse eid="SNG 1:16"/></para>
 <para style="p"><verse number="17" style="v" sid="SNG 1:17"/>The beams of our house are cedars; our rafters are fragrant firs.<verse eid="SNG 1:17"/></para>
-<chapter eid="SNG 1"/>
-<chapter number="2" style="c" sid="SNG 2"/>
+<chapter eid="SNG 1" />
+<chapter number="2" style="c" sid="SNG 2" />
 <para style="p"><verse number="1" style="v" sid="SNG 2:1"/>I am a rose of Sharon, a lily of the valley.<verse eid="SNG 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="SNG 2:2"/>Like a lily among the thorns is my darling among the maidens.<verse eid="SNG 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="SNG 2:3"/>Like an apple tree among the trees of the forest is my beloved among the young men. I delight to sit in his shade, and his fruit is sweet to my taste.<verse eid="SNG 2:3"/></para>
@@ -42,8 +42,8 @@
 <para style="p"><verse number="15" style="v" sid="SNG 2:15"/>Catch for us the foxes—the little foxes that ruin the vineyards—for our vineyards are in bloom.<verse eid="SNG 2:15"/></para>
 <para style="p"><verse number="16" style="v" sid="SNG 2:16"/>My beloved is mine and I am his; he pastures his flock among the lilies.<verse eid="SNG 2:16"/></para>
 <para style="p"><verse number="17" style="v" sid="SNG 2:17"/>Before the day breaks and shadows flee, turn, my beloved, and be like a gazelle or a young stag on the mountains of Bether.<verse eid="SNG 2:17"/></para>
-<chapter eid="SNG 2"/>
-<chapter number="3" style="c" sid="SNG 3"/>
+<chapter eid="SNG 2" />
+<chapter number="3" style="c" sid="SNG 3" />
 <para style="p"><verse number="1" style="v" sid="SNG 3:1"/>On my bed at night I sought the one I love; I sought him, but did not find him.<verse eid="SNG 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="SNG 3:2"/>I will arise now and go about the city, through the streets and squares. I will seek the one I love. So I sought him but did not find him.<verse eid="SNG 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="SNG 3:3"/>I encountered the watchmen on their rounds of the city: “Have you seen the one I love?”<verse eid="SNG 3:3"/></para>
@@ -55,8 +55,8 @@
 <para style="p"><verse number="9" style="v" sid="SNG 3:9"/>King Solomon has made his carriage out of the timber of Lebanon.<verse eid="SNG 3:9"/></para>
 <para style="p"><verse number="10" style="v" sid="SNG 3:10"/>He has made its posts of silver, its base of gold, its seat of purple fabric. Its interior is inlaid with love by the daughters of Jerusalem.<verse eid="SNG 3:10"/></para>
 <para style="p"><verse number="11" style="v" sid="SNG 3:11"/>Come out, O daughters of Zion, and gaze at King Solomon, wearing the crown with which his mother crowned him on the day of his wedding—the day of his heart’s rejoicing.<verse eid="SNG 3:11"/></para>
-<chapter eid="SNG 3"/>
-<chapter number="4" style="c" sid="SNG 4"/>
+<chapter eid="SNG 3" />
+<chapter number="4" style="c" sid="SNG 4" />
 <para style="p"><verse number="1" style="v" sid="SNG 4:1"/>How beautiful you are, my darling—how very beautiful! Your eyes are like doves behind your veil. Your hair is like a flock of goats streaming down Mount Gilead.<verse eid="SNG 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="SNG 4:2"/>Your teeth are like a flock of newly shorn sheep coming up from the washing; each has its twin, and not one of them is lost.<verse eid="SNG 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="SNG 4:3"/>Your lips are like a scarlet ribbon, and your mouth is lovely. Your brow behind your veil is like a slice of pomegranate.<verse eid="SNG 4:3"/></para>
@@ -73,8 +73,8 @@
 <para style="p"><verse number="14" style="v" sid="SNG 4:14"/>with nard and saffron, with calamus and cinnamon, with every kind of frankincense tree, with myrrh and aloes, with all the finest spices.<verse eid="SNG 4:14"/></para>
 <para style="p"><verse number="15" style="v" sid="SNG 4:15"/>You are a garden spring, a well of fresh water flowing down from Lebanon.<verse eid="SNG 4:15"/></para>
 <para style="p"><verse number="16" style="v" sid="SNG 4:16"/>Awake, O north wind, and come, O south wind. Breathe on my garden and spread the fragrance of its spices. Let my beloved come into his garden and taste its choicest fruits.<verse eid="SNG 4:16"/></para>
-<chapter eid="SNG 4"/>
-<chapter number="5" style="c" sid="SNG 5"/>
+<chapter eid="SNG 4" />
+<chapter number="5" style="c" sid="SNG 5" />
 <para style="p"><verse number="1" style="v" sid="SNG 5:1"/>I have come to my garden, my sister, my bride; I have gathered my myrrh with my spice. I have eaten my honeycomb with my honey; I have drunk my wine with my milk. Eat, O friends, and drink; drink freely, O beloved.<verse eid="SNG 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="SNG 5:2"/>I sleep, but my heart is awake. A sound! My beloved is knocking: “Open to me, my sister, my darling, my dove, my flawless one. My head is drenched with dew, my hair with the dampness of the night.”<verse eid="SNG 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="SNG 5:3"/>I have taken off my robe—must I put it back on? I have washed my feet—must I soil them again?<verse eid="SNG 5:3"/></para>
@@ -91,8 +91,8 @@
 <para style="p"><verse number="14" style="v" sid="SNG 5:14"/>His arms are rods of gold set with beryl. His body is polished ivory bedecked with sapphires.<verse eid="SNG 5:14"/></para>
 <para style="p"><verse number="15" style="v" sid="SNG 5:15"/>His legs are pillars of marble set on bases of pure gold. His appearance is like Lebanon, as majestic as the cedars.<verse eid="SNG 5:15"/></para>
 <para style="p"><verse number="16" style="v" sid="SNG 5:16"/>His mouth is most sweet; he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem.<verse eid="SNG 5:16"/></para>
-<chapter eid="SNG 5"/>
-<chapter number="6" style="c" sid="SNG 6"/>
+<chapter eid="SNG 5" />
+<chapter number="6" style="c" sid="SNG 6" />
 <para style="p"><verse number="1" style="v" sid="SNG 6:1"/>Where has your beloved gone, O most beautiful among women? Which way has he turned? We will seek him with you.<verse eid="SNG 6:1"/></para>
 <para style="p"><verse number="2" style="v" sid="SNG 6:2"/>My beloved has gone down to his garden, to the beds of spices, to pasture his flock in the gardens and to gather lilies.<verse eid="SNG 6:2"/></para>
 <para style="p"><verse number="3" style="v" sid="SNG 6:3"/>I belong to my beloved and he belongs to me; he pastures his flock among the lilies.<verse eid="SNG 6:3"/></para>
@@ -106,8 +106,8 @@
 <para style="p"><verse number="11" style="v" sid="SNG 6:11"/>I went down to the walnut grove to see the blossoms of the valley, to see if the vines were budding or the pomegranates were in bloom.<verse eid="SNG 6:11"/></para>
 <para style="p"><verse number="12" style="v" sid="SNG 6:12"/>Before I realized it, my desire had set me among the royal chariots of my people.<verse eid="SNG 6:12"/></para>
 <para style="p"><verse number="13" style="v" sid="SNG 6:13"/>Come back, come back, O Shulammite! Come back, come back, that we may gaze upon you. Why do you look at the Shulammite, as on the dance of Mahanaim?<verse eid="SNG 6:13"/></para>
-<chapter eid="SNG 6"/>
-<chapter number="7" style="c" sid="SNG 7"/>
+<chapter eid="SNG 6" />
+<chapter number="7" style="c" sid="SNG 7" />
 <para style="p"><verse number="1" style="v" sid="SNG 7:1"/>How beautiful are your sandaled feet, O daughter of the prince! The curves of your thighs are like jewels, the handiwork of a master.<verse eid="SNG 7:1"/></para>
 <para style="p"><verse number="2" style="v" sid="SNG 7:2"/>Your navel is a rounded goblet; it never lacks blended wine. Your waist is a mound of wheat encircled by the lilies.<verse eid="SNG 7:2"/></para>
 <para style="p"><verse number="3" style="v" sid="SNG 7:3"/>Your breasts are like two fawns, twins of a gazelle.<verse eid="SNG 7:3"/></para>
@@ -121,8 +121,8 @@
 <para style="p"><verse number="11" style="v" sid="SNG 7:11"/>Come, my beloved, let us go to the countryside; let us spend the night among the wildflowers.<verse eid="SNG 7:11"/></para>
 <para style="p"><verse number="12" style="v" sid="SNG 7:12"/>Let us go early to the vineyards to see if the vine has budded, if the blossom has opened, if the pomegranates are in bloom—there I will give you my love.<verse eid="SNG 7:12"/></para>
 <para style="p"><verse number="13" style="v" sid="SNG 7:13"/>The mandrakes send forth a fragrance, and at our door is every delicacy, new as well as old, that I have treasured up for you, my beloved.<verse eid="SNG 7:13"/></para>
-<chapter eid="SNG 7"/>
-<chapter number="8" style="c" sid="SNG 8"/>
+<chapter eid="SNG 7" />
+<chapter number="8" style="c" sid="SNG 8" />
 <para style="p"><verse number="1" style="v" sid="SNG 8:1"/>O that you were to me like a brother who nursed at my mother’s breasts! If I found you outdoors, I would kiss you, and no one would despise me.<verse eid="SNG 8:1"/></para>
 <para style="p"><verse number="2" style="v" sid="SNG 8:2"/>I would lead you and bring you to the house of my mother who taught me. I would give you spiced wine to drink, the nectar of my pomegranates.<verse eid="SNG 8:2"/></para>
 <para style="p"><verse number="3" style="v" sid="SNG 8:3"/>His left hand is under my head, and his right arm embraces me.<verse eid="SNG 8:3"/></para>
@@ -137,5 +137,5 @@
 <para style="p"><verse number="12" style="v" sid="SNG 8:12"/>But my own vineyard is mine to give; the thousand shekels are for you, O Solomon, and two hundred are for those who tend its fruit.<verse eid="SNG 8:12"/></para>
 <para style="p"><verse number="13" style="v" sid="SNG 8:13"/>You who dwell in the gardens, my companions are listening for your voice. Let me hear it!<verse eid="SNG 8:13"/></para>
 <para style="p"><verse number="14" style="v" sid="SNG 8:14"/>Come away, my beloved, and be like a gazelle or a young stag on the mountains of spices.<verse eid="SNG 8:14"/></para>
-<chapter eid="SNG 8"/>
+<chapter eid="SNG 8" />
 </usx>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="RUT" style="id">- Berean Standard Bible -</book>
+<book code="RUT" style="id">- Ruth -</book>
 <para style="h">Ruth</para>
 <para style="toc1">Ruth</para>
 <para style="toc2">Ruth</para>
 <para style="mt1">Ruth</para>
-<chapter number="1" style="c" sid="RUT 1"/>
+<chapter number="1" style="c" sid="RUT 1" />
 <para style="p"><verse number="1" style="v" sid="RUT 1:1"/>In the days when the judges ruled, there was a famine in the land. And a certain man from Bethlehem in Judah, with his wife and two sons, went to reside in the land of Moab.<verse eid="RUT 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="RUT 1:2"/>The man’s name was Elimelech, his wife’s name was Naomi, and the names of his two sons were Mahlon and Chilion. They were Ephrathites from Bethlehem in Judah, and they entered the land of Moab and settled there.<verse eid="RUT 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="RUT 1:3"/>Then Naomi’s husband Elimelech died, and she was left with her two sons,<verse eid="RUT 1:3"/></para>
@@ -28,8 +28,8 @@
 <para style="p"><verse number="20" style="v" sid="RUT 1:20"/>“Do not call me Naomi,” she replied. “Call me Mara, because the Almighty has dealt quite bitterly with me.<verse eid="RUT 1:20"/></para>
 <para style="p"><verse number="21" style="v" sid="RUT 1:21"/>I went away full, but the LORD has brought me back empty. Why call me Naomi? After all, the LORD has testified against me, and the Almighty has afflicted me.”<verse eid="RUT 1:21"/></para>
 <para style="p"><verse number="22" style="v" sid="RUT 1:22"/>So Naomi returned from the land of Moab with her daughter-in-law Ruth the Moabitess. And they arrived in Bethlehem at the beginning of the barley harvest.<verse eid="RUT 1:22"/></para>
-<chapter eid="RUT 1"/>
-<chapter number="2" style="c" sid="RUT 2"/>
+<chapter eid="RUT 1" />
+<chapter number="2" style="c" sid="RUT 2" />
 <para style="p"><verse number="1" style="v" sid="RUT 2:1"/>Now Naomi had a relative on her husband’s side, a prominent man of noble character from the clan of Elimelech, whose name was Boaz.<verse eid="RUT 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="RUT 2:2"/>And Ruth the Moabitess said to Naomi, “Please let me go into the fields and glean heads of grain after someone in whose sight I may find favor.” “Go ahead, my daughter,” Naomi replied.<verse eid="RUT 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="RUT 2:3"/>So Ruth departed and went out into the field and gleaned after the harvesters. And she happened to come to the part of the field belonging to Boaz, who was from the clan of Elimelech.<verse eid="RUT 2:3"/></para>
@@ -53,8 +53,8 @@
 <para style="p"><verse number="21" style="v" sid="RUT 2:21"/>Then Ruth the Moabitess said, “He also told me, ‘Stay with my young men until they have finished gathering all my harvest.’”<verse eid="RUT 2:21"/></para>
 <para style="p"><verse number="22" style="v" sid="RUT 2:22"/>And Naomi said to her daughter-in-law Ruth, “My daughter, it is good for you to work with his young women, so that nothing will happen to you in another field.”<verse eid="RUT 2:22"/></para>
 <para style="p"><verse number="23" style="v" sid="RUT 2:23"/>So Ruth stayed close to the servant girls of Boaz to glean grain until the barley and wheat harvests were finished. And she lived with her mother-in-law.<verse eid="RUT 2:23"/></para>
-<chapter eid="RUT 2"/>
-<chapter number="3" style="c" sid="RUT 3"/>
+<chapter eid="RUT 2" />
+<chapter number="3" style="c" sid="RUT 3" />
 <para style="p"><verse number="1" style="v" sid="RUT 3:1"/>One day Ruth’s mother-in-law Naomi said to her, “My daughter, should I not seek a resting place for you, that it may be well with you?<verse eid="RUT 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="RUT 3:2"/>Now is not Boaz, with whose servant girls you have been working, a relative of ours? In fact, tonight he is winnowing barley on the threshing floor.<verse eid="RUT 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="RUT 3:3"/>Therefore wash yourself, put on perfume, and wear your best clothes. Go down to the threshing floor, but do not let the man know you are there until he has finished eating and drinking.<verse eid="RUT 3:3"/></para>
@@ -73,8 +73,8 @@
 <para style="p"><verse number="16" style="v" sid="RUT 3:16"/>When Ruth returned to her mother-in-law, Naomi asked her, “How did it go, my daughter?” Then Ruth told her all that Boaz had done for her.<verse eid="RUT 3:16"/></para>
 <para style="p"><verse number="17" style="v" sid="RUT 3:17"/>And she said, “He gave me these six measures of barley, for he said, ‘Do not go back to your mother-in-law empty-handed.’”<verse eid="RUT 3:17"/></para>
 <para style="p"><verse number="18" style="v" sid="RUT 3:18"/>“Wait, my daughter,” said Naomi, “until you find out how things go, for he will not rest unless he has resolved the matter today.”<verse eid="RUT 3:18"/></para>
-<chapter eid="RUT 3"/>
-<chapter number="4" style="c" sid="RUT 4"/>
+<chapter eid="RUT 3" />
+<chapter number="4" style="c" sid="RUT 4" />
 <para style="p"><verse number="1" style="v" sid="RUT 4:1"/>Meanwhile, Boaz went to the gate and sat down there. Soon the kinsman-redeemer of whom he had spoken came along, and Boaz said, “Come over here, my friend, and sit down.” So he went over and sat down.<verse eid="RUT 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="RUT 4:2"/>Then Boaz took ten of the elders of the city and said, “Sit here,” and they did so.<verse eid="RUT 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="RUT 4:3"/>And he said to the kinsman-redeemer, “Naomi, who has returned from the land of Moab, is selling the piece of land that belonged to our brother Elimelech.<verse eid="RUT 4:3"/></para>
@@ -97,5 +97,5 @@
 <para style="p"><verse number="20" style="v" sid="RUT 4:20"/>Amminadab was the father of Nahshon, Nahshon was the father of Salmon,<verse eid="RUT 4:20"/></para>
 <para style="p"><verse number="21" style="v" sid="RUT 4:21"/>Salmon was the father of Boaz, Boaz was the father of Obed,<verse eid="RUT 4:21"/></para>
 <para style="p"><verse number="22" style="v" sid="RUT 4:22"/>Obed was the father of Jesse, and Jesse was the father of David.<verse eid="RUT 4:22"/></para>
-<chapter eid="RUT 4"/>
+<chapter eid="RUT 4" />
 </usx>

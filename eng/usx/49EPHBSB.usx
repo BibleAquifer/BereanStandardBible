@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="EPH" style="id">- Berean Standard Bible -</book>
+<book code="EPH" style="id">- Ephesians -</book>
 <para style="h">Ephesians</para>
 <para style="toc1">Ephesians</para>
 <para style="toc2">Ephesians</para>
 <para style="mt1">Ephesians</para>
-<chapter number="1" style="c" sid="EPH 1"/>
+<chapter number="1" style="c" sid="EPH 1" />
 <para style="p"><verse number="1" style="v" sid="EPH 1:1"/>Paul, an apostle of Christ Jesus by the will of God, To the saints in Ephesus, the faithful in Christ Jesus:<verse eid="EPH 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="EPH 1:2"/>Grace and peace to you from God our Father and the Lord Jesus Christ.<verse eid="EPH 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="EPH 1:3"/>Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly realms.<verse eid="EPH 1:3"/></para>
@@ -29,8 +29,8 @@
 <para style="p"><verse number="21" style="v" sid="EPH 1:21"/>far above all rule and authority, power and dominion, and every name that is named, not only in the present age but also in the one to come.<verse eid="EPH 1:21"/></para>
 <para style="p"><verse number="22" style="v" sid="EPH 1:22"/>And God put everything under His feet and made Him head over everything for the church,<verse eid="EPH 1:22"/></para>
 <para style="p"><verse number="23" style="v" sid="EPH 1:23"/>which is His body, the fullness of Him who fills all in all.<verse eid="EPH 1:23"/></para>
-<chapter eid="EPH 1"/>
-<chapter number="2" style="c" sid="EPH 2"/>
+<chapter eid="EPH 1" />
+<chapter number="2" style="c" sid="EPH 2" />
 <para style="p"><verse number="1" style="v" sid="EPH 2:1"/>And you were dead in your trespasses and sins,<verse eid="EPH 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="EPH 2:2"/>in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience.<verse eid="EPH 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="EPH 2:3"/>All of us also lived among them at one time, fulfilling the cravings of our flesh and indulging its desires and thoughts. Like the rest, we were by nature children of wrath.<verse eid="EPH 2:3"/></para>
@@ -53,8 +53,8 @@
 <para style="p"><verse number="20" style="v" sid="EPH 2:20"/>built on the foundation of the apostles and prophets, with Christ Jesus Himself as the cornerstone.<verse eid="EPH 2:20"/></para>
 <para style="p"><verse number="21" style="v" sid="EPH 2:21"/>In Him the whole building is fitted together and grows into a holy temple in the Lord.<verse eid="EPH 2:21"/></para>
 <para style="p"><verse number="22" style="v" sid="EPH 2:22"/>And in Him you too are being built together into a dwelling place for God in His Spirit.<verse eid="EPH 2:22"/></para>
-<chapter eid="EPH 2"/>
-<chapter number="3" style="c" sid="EPH 3"/>
+<chapter eid="EPH 2" />
+<chapter number="3" style="c" sid="EPH 3" />
 <para style="p"><verse number="1" style="v" sid="EPH 3:1"/>For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles...<verse eid="EPH 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="EPH 3:2"/>Surely you have heard about the stewardship of God’s grace that was given to me for you,<verse eid="EPH 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="EPH 3:3"/>that is, the mystery made known to me by revelation, as I have already written briefly.<verse eid="EPH 3:3"/></para>
@@ -76,8 +76,8 @@
 <para style="p"><verse number="19" style="v" sid="EPH 3:19"/>of the love of Christ, and to know this love that surpasses knowledge, that you may be filled with all the fullness of God.<verse eid="EPH 3:19"/></para>
 <para style="p"><verse number="20" style="v" sid="EPH 3:20"/>Now to Him who is able to do immeasurably more than all we ask or imagine, according to His power that is at work within us,<verse eid="EPH 3:20"/></para>
 <para style="p"><verse number="21" style="v" sid="EPH 3:21"/>to Him be the glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.<verse eid="EPH 3:21"/></para>
-<chapter eid="EPH 3"/>
-<chapter number="4" style="c" sid="EPH 4"/>
+<chapter eid="EPH 3" />
+<chapter number="4" style="c" sid="EPH 4" />
 <para style="p"><verse number="1" style="v" sid="EPH 4:1"/>As a prisoner in the Lord, then, I urge you to walk in a manner worthy of the calling you have received:<verse eid="EPH 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="EPH 4:2"/>with all humility and gentleness, with patience, bearing with one another in love,<verse eid="EPH 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="EPH 4:3"/>and with diligence to preserve the unity of the Spirit through the bond of peace.<verse eid="EPH 4:3"/></para>
@@ -110,8 +110,8 @@
 <para style="p"><verse number="30" style="v" sid="EPH 4:30"/>And do not grieve the Holy Spirit of God, in whom you were sealed for the day of redemption.<verse eid="EPH 4:30"/></para>
 <para style="p"><verse number="31" style="v" sid="EPH 4:31"/>Get rid of all bitterness, rage and anger, outcry and slander, along with every form of malice.<verse eid="EPH 4:31"/></para>
 <para style="p"><verse number="32" style="v" sid="EPH 4:32"/>Be kind and tenderhearted to one another, forgiving each other just as in Christ God forgave you.<verse eid="EPH 4:32"/></para>
-<chapter eid="EPH 4"/>
-<chapter number="5" style="c" sid="EPH 5"/>
+<chapter eid="EPH 4" />
+<chapter number="5" style="c" sid="EPH 5" />
 <para style="p"><verse number="1" style="v" sid="EPH 5:1"/>Be imitators of God, therefore, as beloved children,<verse eid="EPH 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="EPH 5:2"/>and walk in love, just as Christ loved us and gave Himself up for us as a fragrant sacrificial offering to God.<verse eid="EPH 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="EPH 5:3"/>But among you, as is proper among the saints, there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed.<verse eid="EPH 5:3"/></para>
@@ -145,8 +145,8 @@
 <para style="p"><verse number="31" style="v" sid="EPH 5:31"/>“For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.”<verse eid="EPH 5:31"/></para>
 <para style="p"><verse number="32" style="v" sid="EPH 5:32"/>This mystery is profound, but I am speaking about Christ and the church.<verse eid="EPH 5:32"/></para>
 <para style="p"><verse number="33" style="v" sid="EPH 5:33"/>Nevertheless, each one of you also must love his wife as he loves himself, and the wife must respect her husband.<verse eid="EPH 5:33"/></para>
-<chapter eid="EPH 5"/>
-<chapter number="6" style="c" sid="EPH 6"/>
+<chapter eid="EPH 5" />
+<chapter number="6" style="c" sid="EPH 6" />
 <para style="p"><verse number="1" style="v" sid="EPH 6:1"/>Children, obey your parents in the Lord, for this is right.<verse eid="EPH 6:1"/></para>
 <para style="p"><verse number="2" style="v" sid="EPH 6:2"/>“Honor your father and mother” (which is the first commandment with a promise),<verse eid="EPH 6:2"/></para>
 <para style="p"><verse number="3" style="v" sid="EPH 6:3"/>“that it may go well with you and that you may have a long life on the earth.”<verse eid="EPH 6:3"/></para>
@@ -171,5 +171,5 @@
 <para style="p"><verse number="22" style="v" sid="EPH 6:22"/>I have sent him to you for this very purpose, that you may know about us, and that he may encourage your hearts.<verse eid="EPH 6:22"/></para>
 <para style="p"><verse number="23" style="v" sid="EPH 6:23"/>Peace to the brothers and love with faith from God the Father and the Lord Jesus Christ.<verse eid="EPH 6:23"/></para>
 <para style="p"><verse number="24" style="v" sid="EPH 6:24"/>Grace to all who love our Lord Jesus Christ with an undying love.<verse eid="EPH 6:24"/></para>
-<chapter eid="EPH 6"/>
+<chapter eid="EPH 6" />
 </usx>

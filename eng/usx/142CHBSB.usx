@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="2CH" style="id">- Berean Standard Bible -</book>
+<book code="2CH" style="id">- 2 Chronicles -</book>
 <para style="h">2 Chronicles</para>
 <para style="toc1">2 Chronicles</para>
 <para style="toc2">2 Chronicles</para>
 <para style="mt1">2 Chronicles</para>
-<chapter number="1" style="c" sid="2CH 1"/>
+<chapter number="1" style="c" sid="2CH 1" />
 <para style="p"><verse number="1" style="v" sid="2CH 1:1"/>Now Solomon son of David established himself securely over his kingdom, and the LORD his God was with him and highly exalted him.<verse eid="2CH 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 1:2"/>Then Solomon spoke to all Israel, to the commanders of thousands and of hundreds, to the judges, and to every leader in all Israel—the heads of the families.<verse eid="2CH 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 1:3"/>And Solomon and the whole assembly went to the high place at Gibeon because it was the location of God’s Tent of Meeting, which Moses the servant of the LORD had made in the wilderness.<verse eid="2CH 1:3"/></para>
@@ -23,8 +23,8 @@
 <para style="p"><verse number="15" style="v" sid="2CH 1:15"/>The king made silver and gold as common in Jerusalem as stones, and cedar as abundant as sycamore in the foothills.<verse eid="2CH 1:15"/></para>
 <para style="p"><verse number="16" style="v" sid="2CH 1:16"/>Solomon’s horses were imported from Egypt and Kue; the royal merchants purchased them from Kue.<verse eid="2CH 1:16"/></para>
 <para style="p"><verse number="17" style="v" sid="2CH 1:17"/>A chariot could be imported from Egypt for six hundred shekels of silver, and a horse for a hundred and fifty. Likewise, they exported them to all the kings of the Hittites and to the kings of Aram.<verse eid="2CH 1:17"/></para>
-<chapter eid="2CH 1"/>
-<chapter number="2" style="c" sid="2CH 2"/>
+<chapter eid="2CH 1" />
+<chapter number="2" style="c" sid="2CH 2" />
 <para style="p"><verse number="1" style="v" sid="2CH 2:1"/>Now Solomon purposed to build a house for the Name of the LORD and a royal palace for himself.<verse eid="2CH 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 2:2"/>So he conscripted 70,000 porters, 80,000 stonecutters in the mountains, and 3,600 supervisors.<verse eid="2CH 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 2:3"/>Then Solomon sent word to Hiram king of Tyre: “Do for me as you did for my father David when you sent him cedars to build himself a house to live in.<verse eid="2CH 2:3"/></para>
@@ -43,8 +43,8 @@
 <para style="p"><verse number="16" style="v" sid="2CH 2:16"/>We will cut logs from Lebanon, as many as you need, and we will float them to you as rafts by sea down to Joppa. Then you can take them up to Jerusalem.”<verse eid="2CH 2:16"/></para>
 <para style="p"><verse number="17" style="v" sid="2CH 2:17"/>Solomon numbered all the foreign men in the land of Israel following the census his father David had conducted, and there were found to be 153,600 in all.<verse eid="2CH 2:17"/></para>
 <para style="p"><verse number="18" style="v" sid="2CH 2:18"/>Solomon made 70,000 of them porters, 80,000 stonecutters in the mountains, and 3,600 supervisors.<verse eid="2CH 2:18"/></para>
-<chapter eid="2CH 2"/>
-<chapter number="3" style="c" sid="2CH 3"/>
+<chapter eid="2CH 2" />
+<chapter number="3" style="c" sid="2CH 3" />
 <para style="p"><verse number="1" style="v" sid="2CH 3:1"/>Then Solomon began to build the house of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to his father David. This was the place that David had prepared on the threshing floor of Ornan the Jebusite.<verse eid="2CH 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 3:2"/>Solomon began construction on the second day of the second month in the fourth year of his reign.<verse eid="2CH 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 3:3"/>The foundation that Solomon laid for the house of God was sixty cubits long and twenty cubits wide, according to the old standard.<verse eid="2CH 3:3"/></para>
@@ -62,8 +62,8 @@
 <para style="p"><verse number="15" style="v" sid="2CH 3:15"/>In front of the temple he made two pillars, which together were thirty-five cubits high, each with a capital on top measuring five cubits.<verse eid="2CH 3:15"/></para>
 <para style="p"><verse number="16" style="v" sid="2CH 3:16"/>He made interwoven chains and put them on top of the pillars. He made a hundred pomegranates and fastened them into the chainwork.<verse eid="2CH 3:16"/></para>
 <para style="p"><verse number="17" style="v" sid="2CH 3:17"/>Then he set up the pillars in front of the temple, one on the south and one on the north. The pillar on the south he named Jachin, and the pillar on the north he named Boaz.<verse eid="2CH 3:17"/></para>
-<chapter eid="2CH 3"/>
-<chapter number="4" style="c" sid="2CH 4"/>
+<chapter eid="2CH 3" />
+<chapter number="4" style="c" sid="2CH 4" />
 <para style="p"><verse number="1" style="v" sid="2CH 4:1"/>He made a bronze altar twenty cubits long, twenty cubits wide, and ten cubits high.<verse eid="2CH 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 4:2"/>He also made the Sea of cast metal. It was circular in shape, measuring ten cubits from rim to rim, five cubits in height, and thirty cubits in circumference.<verse eid="2CH 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 4:3"/>Below the rim, figures of oxen encircled it, ten per cubit all the way around the Sea, cast in two rows as a part of the Sea.<verse eid="2CH 4:3"/></para>
@@ -86,8 +86,8 @@
 <para style="p"><verse number="20" style="v" sid="2CH 4:20"/>the lampstands of pure gold and their lamps, to burn in front of the inner sanctuary as prescribed;<verse eid="2CH 4:20"/></para>
 <para style="p"><verse number="21" style="v" sid="2CH 4:21"/>the flowers, lamps, and tongs of gold—of purest gold;<verse eid="2CH 4:21"/></para>
 <para style="p"><verse number="22" style="v" sid="2CH 4:22"/>the wick trimmers, sprinkling bowls, ladles, and censers of pure gold; and the gold doors of the temple: the inner doors to the Most Holy Place as well as the doors of the main hall.<verse eid="2CH 4:22"/></para>
-<chapter eid="2CH 4"/>
-<chapter number="5" style="c" sid="2CH 5"/>
+<chapter eid="2CH 4" />
+<chapter number="5" style="c" sid="2CH 5" />
 <para style="p"><verse number="1" style="v" sid="2CH 5:1"/>So all the work that Solomon had performed for the house of the LORD was completed. Then Solomon brought in the items his father David had dedicated—the silver, the gold, and all the furnishings—and he placed them in the treasuries of the house of God.<verse eid="2CH 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 5:2"/>At that time Solomon assembled in Jerusalem the elders of Israel—all the tribal heads and family leaders of the Israelites—to bring up the ark of the covenant of the LORD from Zion, the City of David.<verse eid="2CH 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 5:3"/>So all the men of Israel came together to the king at the feast in the seventh month.<verse eid="2CH 5:3"/></para>
@@ -102,8 +102,8 @@
 <para style="p"><verse number="12" style="v" sid="2CH 5:12"/>all the Levitical singers—Asaph, Heman, Jeduthun, and their sons and relatives—stood on the east side of the altar, dressed in fine linen and playing cymbals, harps, and lyres, accompanied by 120 priests sounding trumpets.<verse eid="2CH 5:12"/></para>
 <para style="p"><verse number="13" style="v" sid="2CH 5:13"/>The trumpeters and singers joined together to praise and thank the LORD with one voice. They lifted up their voices, accompanied by trumpets, cymbals, and musical instruments, in praise to the LORD: “For He is good; His loving devotion endures forever.” And the temple, the house of the LORD, was filled with a cloud<verse eid="2CH 5:13"/></para>
 <para style="p"><verse number="14" style="v" sid="2CH 5:14"/>so that the priests could not stand there to minister because of the cloud. For the glory of the LORD filled the house of God.<verse eid="2CH 5:14"/></para>
-<chapter eid="2CH 5"/>
-<chapter number="6" style="c" sid="2CH 6"/>
+<chapter eid="2CH 5" />
+<chapter number="6" style="c" sid="2CH 6" />
 <para style="p"><verse number="1" style="v" sid="2CH 6:1"/>Then Solomon declared: “The LORD has said that He would dwell in the thick cloud.<verse eid="2CH 6:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 6:2"/>But I have built You an exalted house, a place for You to dwell forever.”<verse eid="2CH 6:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 6:3"/>And as the whole assembly of Israel stood there, the king turned around and blessed them all<verse eid="2CH 6:3"/></para>
@@ -146,8 +146,8 @@
 <para style="p"><verse number="40" style="v" sid="2CH 6:40"/>Now, my God, may Your eyes be open and Your ears attentive to the prayer offered in this place.<verse eid="2CH 6:40"/></para>
 <para style="p"><verse number="41" style="v" sid="2CH 6:41"/>Now therefore, arise, O LORD God, and enter Your resting place, You and the ark of Your might. May Your priests, O LORD God, be clothed with salvation, and may Your godly ones rejoice in goodness.<verse eid="2CH 6:41"/></para>
 <para style="p"><verse number="42" style="v" sid="2CH 6:42"/>O LORD God, do not reject Your anointed one. Remember Your loving devotion to Your servant David.”<verse eid="2CH 6:42"/></para>
-<chapter eid="2CH 6"/>
-<chapter number="7" style="c" sid="2CH 7"/>
+<chapter eid="2CH 6" />
+<chapter number="7" style="c" sid="2CH 7" />
 <para style="p"><verse number="1" style="v" sid="2CH 7:1"/>When Solomon had finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the LORD filled the temple.<verse eid="2CH 7:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 7:2"/>The priests were unable to enter the house of the LORD, because the glory of the LORD had filled it.<verse eid="2CH 7:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 7:3"/>When all the Israelites saw the fire coming down and the glory of the LORD above the temple, they bowed down on the pavement with their faces to the ground, and they worshiped and gave thanks to the LORD: “For He is good; His loving devotion endures forever.”<verse eid="2CH 7:3"/></para>
@@ -170,8 +170,8 @@
 <para style="p"><verse number="20" style="v" sid="2CH 7:20"/>then I will uproot Israel from the soil I have given them, and I will banish from My presence this temple I have sanctified for My Name. I will make it an object of scorn and ridicule among all the peoples.<verse eid="2CH 7:20"/></para>
 <para style="p"><verse number="21" style="v" sid="2CH 7:21"/>And when this temple has become a heap of rubble, all who pass by it will be appalled and say, ‘Why has the LORD done such a thing to this land and to this temple?’<verse eid="2CH 7:21"/></para>
 <para style="p"><verse number="22" style="v" sid="2CH 7:22"/>And others will answer, ‘Because they have forsaken the LORD, the God of their fathers, who brought them out of the land of Egypt, and have embraced other gods, worshiping and serving them—because of this, He has brought all this disaster upon them.’”<verse eid="2CH 7:22"/></para>
-<chapter eid="2CH 7"/>
-<chapter number="8" style="c" sid="2CH 8"/>
+<chapter eid="2CH 7" />
+<chapter number="8" style="c" sid="2CH 8" />
 <para style="p"><verse number="1" style="v" sid="2CH 8:1"/>Now at the end of the twenty years during which Solomon had built the house of the LORD and his own palace,<verse eid="2CH 8:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 8:2"/>Solomon rebuilt the cities Hiram had given him and settled Israelites there.<verse eid="2CH 8:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 8:3"/>Then Solomon went to Hamath-zobah and captured it.<verse eid="2CH 8:3"/></para>
@@ -190,8 +190,8 @@
 <para style="p"><verse number="16" style="v" sid="2CH 8:16"/>Thus all the work of Solomon was carried out, from the day the foundation was laid for the house of the LORD until it was finished. So the house of the LORD was completed.<verse eid="2CH 8:16"/></para>
 <para style="p"><verse number="17" style="v" sid="2CH 8:17"/>Then Solomon went to Ezion-geber and to Eloth on the coast of Edom.<verse eid="2CH 8:17"/></para>
 <para style="p"><verse number="18" style="v" sid="2CH 8:18"/>So Hiram sent him ships captained by his servants, along with crews of experienced sailors. They went with Solomon’s servants to Ophir and acquired from there 450 talents of gold, which they delivered to King Solomon.<verse eid="2CH 8:18"/></para>
-<chapter eid="2CH 8"/>
-<chapter number="9" style="c" sid="2CH 9"/>
+<chapter eid="2CH 8" />
+<chapter number="9" style="c" sid="2CH 9" />
 <para style="p"><verse number="1" style="v" sid="2CH 9:1"/>Now when the queen of Sheba heard about the fame of Solomon, she came to test him with difficult questions. She arrived in Jerusalem with a very large caravan—with camels bearing spices, gold in abundance, and precious stones. And she came to Solomon and spoke with him about all that was on her mind.<verse eid="2CH 9:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 9:2"/>And Solomon answered all her questions; nothing was too difficult for him to explain.<verse eid="2CH 9:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 9:3"/>When the queen of Sheba saw the wisdom of Solomon, the palace he had built,<verse eid="2CH 9:3"/></para>
@@ -223,8 +223,8 @@
 <para style="p"><verse number="29" style="v" sid="2CH 9:29"/>As for the rest of the acts of Solomon, from beginning to end, are they not written in the Records of Nathan the Prophet, in the Prophecy of Ahijah the Shilonite, and in the Visions of Iddo the Seer concerning Jeroboam son of Nebat?<verse eid="2CH 9:29"/></para>
 <para style="p"><verse number="30" style="v" sid="2CH 9:30"/>Solomon reigned in Jerusalem over all Israel forty years.<verse eid="2CH 9:30"/></para>
 <para style="p"><verse number="31" style="v" sid="2CH 9:31"/>And Solomon rested with his fathers and was buried in the city of his father David. And his son Rehoboam reigned in his place.<verse eid="2CH 9:31"/></para>
-<chapter eid="2CH 9"/>
-<chapter number="10" style="c" sid="2CH 10"/>
+<chapter eid="2CH 9" />
+<chapter number="10" style="c" sid="2CH 10" />
 <para style="p"><verse number="1" style="v" sid="2CH 10:1"/>Then Rehoboam went to Shechem, for all Israel had gone there to make him king.<verse eid="2CH 10:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 10:2"/>When Jeroboam son of Nebat heard about this, he returned from Egypt, where he had fled from King Solomon.<verse eid="2CH 10:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 10:3"/>So they sent for Jeroboam, and he and all Israel came to Rehoboam and said,<verse eid="2CH 10:3"/></para>
@@ -244,8 +244,8 @@
 <para style="p"><verse number="17" style="v" sid="2CH 10:17"/>but Rehoboam still reigned over the Israelites living in the cities of Judah.<verse eid="2CH 10:17"/></para>
 <para style="p"><verse number="18" style="v" sid="2CH 10:18"/>Then King Rehoboam sent out Hadoram, who was in charge of the forced labor, but the Israelites stoned him to death. And King Rehoboam mounted his chariot in haste and escaped to Jerusalem.<verse eid="2CH 10:18"/></para>
 <para style="p"><verse number="19" style="v" sid="2CH 10:19"/>So to this day Israel has been in rebellion against the house of David.<verse eid="2CH 10:19"/></para>
-<chapter eid="2CH 10"/>
-<chapter number="11" style="c" sid="2CH 11"/>
+<chapter eid="2CH 10" />
+<chapter number="11" style="c" sid="2CH 11" />
 <para style="p"><verse number="1" style="v" sid="2CH 11:1"/>When Rehoboam arrived in Jerusalem, he mobilized the house of Judah and Benjamin—180,000 chosen warriors—to fight against Israel and restore the kingdom to Rehoboam.<verse eid="2CH 11:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 11:2"/>But the word of the LORD came to Shemaiah the man of God:<verse eid="2CH 11:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 11:3"/>“Tell Rehoboam son of Solomon king of Judah and all the Israelites in Judah and Benjamin<verse eid="2CH 11:3"/></para>
@@ -269,8 +269,8 @@
 <para style="p"><verse number="21" style="v" sid="2CH 11:21"/>Rehoboam loved Maacah daughter of Absalom more than all his wives and concubines. In all, he had eighteen wives and sixty concubines, and he was the father of twenty-eight sons and sixty daughters.<verse eid="2CH 11:21"/></para>
 <para style="p"><verse number="22" style="v" sid="2CH 11:22"/>Rehoboam appointed Abijah son of Maacah as chief prince among his brothers, intending to make him king.<verse eid="2CH 11:22"/></para>
 <para style="p"><verse number="23" style="v" sid="2CH 11:23"/>Rehoboam also acted wisely by dispersing some of his sons throughout the districts of Judah and Benjamin, and to all the fortified cities. He gave them abundant provisions and sought many wives for them.<verse eid="2CH 11:23"/></para>
-<chapter eid="2CH 11"/>
-<chapter number="12" style="c" sid="2CH 12"/>
+<chapter eid="2CH 11" />
+<chapter number="12" style="c" sid="2CH 12" />
 <para style="p"><verse number="1" style="v" sid="2CH 12:1"/>After Rehoboam had established his sovereignty and royal power, he and all Israel with him forsook the Law of the LORD.<verse eid="2CH 12:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 12:2"/>In the fifth year of Rehoboam’s reign, because they had been unfaithful to the LORD, Shishak king of Egypt attacked Jerusalem<verse eid="2CH 12:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 12:3"/>with 1,200 chariots, 60,000 horsemen, and countless troops who came with him out of Egypt—Libyans, Sukkites, and Cushites.<verse eid="2CH 12:3"/></para>
@@ -287,8 +287,8 @@
 <para style="p"><verse number="14" style="v" sid="2CH 12:14"/>And Rehoboam did evil because he did not set his heart to seek the LORD.<verse eid="2CH 12:14"/></para>
 <para style="p"><verse number="15" style="v" sid="2CH 12:15"/>Now the acts of Rehoboam, from first to last, are they not written in the records of Shemaiah the Prophet and of Iddo the Seer concerning the genealogies? There was war between Rehoboam and Jeroboam throughout their days.<verse eid="2CH 12:15"/></para>
 <para style="p"><verse number="16" style="v" sid="2CH 12:16"/>And Rehoboam rested with his fathers and was buried in the City of David. And his son Abijah reigned in his place.<verse eid="2CH 12:16"/></para>
-<chapter eid="2CH 12"/>
-<chapter number="13" style="c" sid="2CH 13"/>
+<chapter eid="2CH 12" />
+<chapter number="13" style="c" sid="2CH 13" />
 <para style="p"><verse number="1" style="v" sid="2CH 13:1"/>In the eighteenth year of Jeroboam’s reign, Abijah became king of Judah,<verse eid="2CH 13:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 13:2"/>and he reigned in Jerusalem three years. His mother’s name was Micaiah daughter of Uriel; she was from Gibeah. And there was war between Abijah and Jeroboam.<verse eid="2CH 13:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 13:3"/>Abijah went into battle with an army of 400,000 chosen men, while Jeroboam drew up in formation against him with 800,000 chosen and mighty men of valor.<verse eid="2CH 13:3"/></para>
@@ -311,8 +311,8 @@
 <para style="p"><verse number="20" style="v" sid="2CH 13:20"/>Jeroboam did not again recover his power during the days of Abijah, and the LORD struck him down and he died.<verse eid="2CH 13:20"/></para>
 <para style="p"><verse number="21" style="v" sid="2CH 13:21"/>But Abijah grew strong, married fourteen wives, and became the father of twenty-two sons and sixteen daughters.<verse eid="2CH 13:21"/></para>
 <para style="p"><verse number="22" style="v" sid="2CH 13:22"/>Now the rest of the acts of Abijah, along with his ways and his words, are written in the Treatise of the Prophet Iddo.<verse eid="2CH 13:22"/></para>
-<chapter eid="2CH 13"/>
-<chapter number="14" style="c" sid="2CH 14"/>
+<chapter eid="2CH 13" />
+<chapter number="14" style="c" sid="2CH 14" />
 <para style="p"><verse number="1" style="v" sid="2CH 14:1"/>Then Abijah rested with his fathers and was buried in the City of David. And his son Asa reigned in his place, and in his days the land was at peace for ten years.<verse eid="2CH 14:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 14:2"/>And Asa did what was good and right in the eyes of the LORD his God.<verse eid="2CH 14:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 14:3"/>He removed the foreign altars and high places, shattered the sacred pillars, and chopped down the Asherah poles.<verse eid="2CH 14:3"/></para>
@@ -328,8 +328,8 @@
 <para style="p"><verse number="13" style="v" sid="2CH 14:13"/>Then Asa and his army pursued them as far as Gerar. The Cushites fell and could not recover, for they were crushed before the LORD and His army. So the people of Judah carried off a great amount of plunder<verse eid="2CH 14:13"/></para>
 <para style="p"><verse number="14" style="v" sid="2CH 14:14"/>and attacked all the cities around Gerar, because the terror of the LORD had fallen upon them. They plundered all the cities, since there was much plunder there.<verse eid="2CH 14:14"/></para>
 <para style="p"><verse number="15" style="v" sid="2CH 14:15"/>They also attacked the tents of the herdsmen and carried off many sheep and camels. Then they returned to Jerusalem.<verse eid="2CH 14:15"/></para>
-<chapter eid="2CH 14"/>
-<chapter number="15" style="c" sid="2CH 15"/>
+<chapter eid="2CH 14" />
+<chapter number="15" style="c" sid="2CH 15" />
 <para style="p"><verse number="1" style="v" sid="2CH 15:1"/>Now the Spirit of God came upon Azariah son of Oded.<verse eid="2CH 15:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 15:2"/>So he went out to meet Asa and said to him, “Listen to me, Asa and all Judah and Benjamin. The LORD is with you when you are with Him. If you seek Him, He will be found by you, but if you forsake Him, He will forsake you.<verse eid="2CH 15:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 15:3"/>For many years Israel has been without the true God, without a priest to instruct them, and without the law.<verse eid="2CH 15:3"/></para>
@@ -349,8 +349,8 @@
 <para style="p"><verse number="17" style="v" sid="2CH 15:17"/>The high places were not removed from Israel, but Asa’s heart was fully devoted all his days.<verse eid="2CH 15:17"/></para>
 <para style="p"><verse number="18" style="v" sid="2CH 15:18"/>And he brought into the house of God the silver and gold and the articles that he and his father had dedicated.<verse eid="2CH 15:18"/></para>
 <para style="p"><verse number="19" style="v" sid="2CH 15:19"/>And there was no war until the thirty-fifth year of Asa’s reign.<verse eid="2CH 15:19"/></para>
-<chapter eid="2CH 15"/>
-<chapter number="16" style="c" sid="2CH 16"/>
+<chapter eid="2CH 15" />
+<chapter number="16" style="c" sid="2CH 16" />
 <para style="p"><verse number="1" style="v" sid="2CH 16:1"/>In the thirty-sixth year of Asa’s reign, Baasha king of Israel went up against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah.<verse eid="2CH 16:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 16:2"/>So Asa withdrew the silver and gold from the treasuries of the house of the LORD and the royal palace, and he sent it with this message to Ben-hadad king of Aram, who was ruling in Damascus:<verse eid="2CH 16:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 16:3"/>“Let there be a treaty between me and you as there was between my father and your father. See, I have sent you silver and gold. Now go and break your treaty with Baasha king of Israel, so that he will withdraw from me.”<verse eid="2CH 16:3"/></para>
@@ -365,8 +365,8 @@
 <para style="p"><verse number="12" style="v" sid="2CH 16:12"/>In the thirty-ninth year of his reign, Asa became diseased in his feet, and his disease became increasingly severe. Yet even in his illness he did not seek the LORD, but only the physicians.<verse eid="2CH 16:12"/></para>
 <para style="p"><verse number="13" style="v" sid="2CH 16:13"/>So in the forty-first year of his reign, Asa died and rested with his fathers.<verse eid="2CH 16:13"/></para>
 <para style="p"><verse number="14" style="v" sid="2CH 16:14"/>And he was buried in the tomb that he had cut out for himself in the City of David. They laid him on a bier that was full of spices and various blended perfumes; then they made a great fire in his honor.<verse eid="2CH 16:14"/></para>
-<chapter eid="2CH 16"/>
-<chapter number="17" style="c" sid="2CH 17"/>
+<chapter eid="2CH 16" />
+<chapter number="17" style="c" sid="2CH 17" />
 <para style="p"><verse number="1" style="v" sid="2CH 17:1"/>Asa’s son Jehoshaphat reigned in his place, and he strengthened himself against Israel.<verse eid="2CH 17:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 17:2"/>He stationed troops in every fortified city of Judah and put garrisons in the land of Judah and in the cities of Ephraim that his father Asa had captured.<verse eid="2CH 17:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 17:3"/>Now the LORD was with Jehoshaphat because he walked in the earlier ways of his father David. He did not seek the Baals,<verse eid="2CH 17:3"/></para>
@@ -386,8 +386,8 @@
 <para style="p"><verse number="17" style="v" sid="2CH 17:17"/>From Benjamin: Eliada, a mighty man of valor, and with him 200,000 armed with bows and shields;<verse eid="2CH 17:17"/></para>
 <para style="p"><verse number="18" style="v" sid="2CH 17:18"/>and next to him, Jehozabad, and with him 180,000 armed for battle.<verse eid="2CH 17:18"/></para>
 <para style="p"><verse number="19" style="v" sid="2CH 17:19"/>These were the men who served the king, besides those he stationed in the fortified cities throughout Judah.<verse eid="2CH 17:19"/></para>
-<chapter eid="2CH 17"/>
-<chapter number="18" style="c" sid="2CH 18"/>
+<chapter eid="2CH 17" />
+<chapter number="18" style="c" sid="2CH 18" />
 <para style="p"><verse number="1" style="v" sid="2CH 18:1"/>Now Jehoshaphat had an abundance of riches and honor, and he allied himself with Ahab by marriage.<verse eid="2CH 18:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 18:2"/>And some years later he went down to visit Ahab in Samaria, where Ahab sacrificed many sheep and cattle for him and the people with him and urged him to march up to Ramoth-gilead.<verse eid="2CH 18:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 18:3"/>Ahab king of Israel asked Jehoshaphat king of Judah, “Will you go with me against Ramoth-gilead?” And Jehoshaphat replied, “I am as you are, and my people are your people; we will join you in the war.”<verse eid="2CH 18:3"/></para>
@@ -422,8 +422,8 @@
 <para style="p"><verse number="32" style="v" sid="2CH 18:32"/>And when the chariot commanders saw that he was not the king of Israel, they turned back from pursuing him.<verse eid="2CH 18:32"/></para>
 <para style="p"><verse number="33" style="v" sid="2CH 18:33"/>However, a certain man drew his bow without taking special aim, and he struck the king of Israel between the joints of his armor. So the king said to his charioteer, “Turn around and take me out of the battle, for I am badly wounded!”<verse eid="2CH 18:33"/></para>
 <para style="p"><verse number="34" style="v" sid="2CH 18:34"/>The battle raged throughout that day, and the king of Israel propped himself up in his chariot facing the Arameans until evening. And at sunset he died.<verse eid="2CH 18:34"/></para>
-<chapter eid="2CH 18"/>
-<chapter number="19" style="c" sid="2CH 19"/>
+<chapter eid="2CH 18" />
+<chapter number="19" style="c" sid="2CH 19" />
 <para style="p"><verse number="1" style="v" sid="2CH 19:1"/>When Jehoshaphat king of Judah had returned safely to his home in Jerusalem,<verse eid="2CH 19:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 19:2"/>Jehu son of Hanani the seer went out to confront him and said to King Jehoshaphat, “Should you help the wicked and love those who hate the LORD? Because of this, the wrath of the LORD is upon you.<verse eid="2CH 19:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 19:3"/>However, some good is found in you, for you have removed the Asherah poles from the land and have set your heart on seeking God.”<verse eid="2CH 19:3"/></para>
@@ -435,8 +435,8 @@
 <para style="p"><verse number="9" style="v" sid="2CH 19:9"/>He commanded them, saying, “You must serve faithfully and wholeheartedly in the fear of the LORD.<verse eid="2CH 19:9"/></para>
 <para style="p"><verse number="10" style="v" sid="2CH 19:10"/>For every dispute that comes before you from your brothers who dwell in their cities—whether it regards bloodshed or some other violation of law, commandments, statutes, or ordinances—you are to warn them, so that they will not incur guilt before the LORD and wrath will not come upon you and your brothers. Do this, and you will not incur guilt.<verse eid="2CH 19:10"/></para>
 <para style="p"><verse number="11" style="v" sid="2CH 19:11"/>Note that Amariah, the chief priest, will be over you in all that pertains to the LORD, and Zebadiah son of Ishmael, the ruler of the house of Judah, in all that pertains to the king. And the Levites will serve as officers before you. Act resolutely; may the LORD be with the upright!”<verse eid="2CH 19:11"/></para>
-<chapter eid="2CH 19"/>
-<chapter number="20" style="c" sid="2CH 20"/>
+<chapter eid="2CH 19" />
+<chapter number="20" style="c" sid="2CH 20" />
 <para style="p"><verse number="1" style="v" sid="2CH 20:1"/>After this, the Moabites and Ammonites, together with some of the Meunites, came to make war against Jehoshaphat.<verse eid="2CH 20:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 20:2"/>Then some men came and told Jehoshaphat, “A vast army is coming against you from Edom, from beyond the Sea; they are already in Hazazon-tamar” (that is, En-gedi).<verse eid="2CH 20:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 20:3"/>Jehoshaphat was alarmed and set his face to seek the LORD. And he proclaimed a fast throughout Judah.<verse eid="2CH 20:3"/></para>
@@ -474,8 +474,8 @@
 <para style="p"><verse number="35" style="v" sid="2CH 20:35"/>Later, Jehoshaphat king of Judah made an alliance with Ahaziah king of Israel, who acted wickedly.<verse eid="2CH 20:35"/></para>
 <para style="p"><verse number="36" style="v" sid="2CH 20:36"/>They agreed to make ships to go to Tarshish, and these were built in Ezion-geber.<verse eid="2CH 20:36"/></para>
 <para style="p"><verse number="37" style="v" sid="2CH 20:37"/>Then Eliezer son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying, “Because you have allied yourself with Ahaziah, the LORD has destroyed your works.” So the ships were wrecked and were unable to sail to Tarshish.<verse eid="2CH 20:37"/></para>
-<chapter eid="2CH 20"/>
-<chapter number="21" style="c" sid="2CH 21"/>
+<chapter eid="2CH 20" />
+<chapter number="21" style="c" sid="2CH 21" />
 <para style="p"><verse number="1" style="v" sid="2CH 21:1"/>And Jehoshaphat rested with his fathers and was buried with them in the City of David. And his son Jehoram reigned in his place.<verse eid="2CH 21:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 21:2"/>Jehoram’s brothers, the sons of Jehoshaphat, were Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah; these were all sons of Jehoshaphat king of Israel.<verse eid="2CH 21:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 21:3"/>Their father had given them many gifts of silver and gold and precious things, as well as the fortified cities in Judah; but he gave the kingdom to Jehoram because he was the firstborn.<verse eid="2CH 21:3"/></para>
@@ -496,8 +496,8 @@
 <para style="p"><verse number="18" style="v" sid="2CH 21:18"/>After all this, the LORD afflicted Jehoram with an incurable disease of the bowels.<verse eid="2CH 21:18"/></para>
 <para style="p"><verse number="19" style="v" sid="2CH 21:19"/>This continued day after day until two full years had passed. Finally, his intestines came out because of his disease, and he died in severe pain. And his people did not make a fire in his honor as they had done for his fathers.<verse eid="2CH 21:19"/></para>
 <para style="p"><verse number="20" style="v" sid="2CH 21:20"/>Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years. He died, to no one’s regret, and was buried in the City of David, but not in the tombs of the kings.<verse eid="2CH 21:20"/></para>
-<chapter eid="2CH 21"/>
-<chapter number="22" style="c" sid="2CH 22"/>
+<chapter eid="2CH 21" />
+<chapter number="22" style="c" sid="2CH 22" />
 <para style="p"><verse number="1" style="v" sid="2CH 22:1"/>Then the people of Jerusalem made Ahaziah, the youngest son of Jehoram, king in his place, since the raiders who had come into the camp with the Arabs had killed all the older sons. So Ahaziah son of Jehoram became king of Judah.<verse eid="2CH 22:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 22:2"/>Ahaziah was twenty-two years old when he became king, and he reigned in Jerusalem one year. His mother’s name was Athaliah, the granddaughter of Omri.<verse eid="2CH 22:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 22:3"/>Ahaziah also walked in the ways of the house of Ahab, for his mother was his counselor in wickedness.<verse eid="2CH 22:3"/></para>
@@ -510,8 +510,8 @@
 <para style="p"><verse number="10" style="v" sid="2CH 22:10"/>When Athaliah the mother of Ahaziah saw that her son was dead, she proceeded to annihilate all the royal heirs of the house of Judah.<verse eid="2CH 22:10"/></para>
 <para style="p"><verse number="11" style="v" sid="2CH 22:11"/>But Jehoshabeath daughter of King Jehoram took Joash son of Ahaziah and stole him away from among the sons of the king who were being murdered, and she put him and his nurse in a bedroom. Because Jehoshabeath, the daughter of King Jehoram and the wife of Jehoiada the priest, was Ahaziah’s sister, she hid Joash from Athaliah so that she could not kill him.<verse eid="2CH 22:11"/></para>
 <para style="p"><verse number="12" style="v" sid="2CH 22:12"/>And Joash remained hidden with them in the house of God for six years while Athaliah ruled the land.<verse eid="2CH 22:12"/></para>
-<chapter eid="2CH 22"/>
-<chapter number="23" style="c" sid="2CH 23"/>
+<chapter eid="2CH 22" />
+<chapter number="23" style="c" sid="2CH 23" />
 <para style="p"><verse number="1" style="v" sid="2CH 23:1"/>Then in the seventh year, Jehoiada strengthened himself and made a covenant with the commanders of hundreds—with Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri.<verse eid="2CH 23:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 23:2"/>So they went throughout Judah and gathered the Levites from all the cities of Judah and the heads of the families of Israel. And when they came to Jerusalem,<verse eid="2CH 23:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 23:3"/>the whole assembly made a covenant with the king in the house of God. “Behold, the king’s son!” said Jehoiada. “He must reign, just as the LORD promised concerning the descendants of David.<verse eid="2CH 23:3"/></para>
@@ -533,8 +533,8 @@
 <para style="p"><verse number="19" style="v" sid="2CH 23:19"/>He stationed gatekeepers at the gates of the house of the LORD, so that no one who was in any way unclean could enter.<verse eid="2CH 23:19"/></para>
 <para style="p"><verse number="20" style="v" sid="2CH 23:20"/>And he took with him the commanders of hundreds, the nobles, the rulers of the people, and all the people of the land, and they brought the king down from the house of the LORD and entered the royal palace through the Upper Gate. They seated King Joash on the royal throne,<verse eid="2CH 23:20"/></para>
 <para style="p"><verse number="21" style="v" sid="2CH 23:21"/>and all the people of the land rejoiced. And the city was quiet, because Athaliah had been put to the sword.<verse eid="2CH 23:21"/></para>
-<chapter eid="2CH 23"/>
-<chapter number="24" style="c" sid="2CH 24"/>
+<chapter eid="2CH 23" />
+<chapter number="24" style="c" sid="2CH 24" />
 <para style="p"><verse number="1" style="v" sid="2CH 24:1"/>Joash was seven years old when he became king, and he reigned in Jerusalem forty years. His mother’s name was Zibiah; she was from Beersheba.<verse eid="2CH 24:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 24:2"/>And Joash did what was right in the eyes of the LORD all the days of Jehoiada the priest.<verse eid="2CH 24:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 24:3"/>Jehoiada took for him two wives, and he had sons and daughters.<verse eid="2CH 24:3"/></para>
@@ -562,8 +562,8 @@
 <para style="p"><verse number="25" style="v" sid="2CH 24:25"/>And when the Arameans had withdrawn, they left Joash severely wounded. His own servants conspired against him for shedding the blood of the son of Jehoiada the priest, and they killed him on his bed. So he died and was buried in the City of David, but not in the tombs of the kings.<verse eid="2CH 24:25"/></para>
 <para style="p"><verse number="26" style="v" sid="2CH 24:26"/>Those who conspired against Joash were Zabad son of Shimeath the Ammonitess and Jehozabad son of Shimrith the Moabitess.<verse eid="2CH 24:26"/></para>
 <para style="p"><verse number="27" style="v" sid="2CH 24:27"/>The accounts of the sons of Joash and the many pronouncements about him, and of the restoration of the house of God, are indeed written in the Treatise of the Book of the Kings. And his son Amaziah reigned in his place.<verse eid="2CH 24:27"/></para>
-<chapter eid="2CH 24"/>
-<chapter number="25" style="c" sid="2CH 25"/>
+<chapter eid="2CH 24" />
+<chapter number="25" style="c" sid="2CH 25" />
 <para style="p"><verse number="1" style="v" sid="2CH 25:1"/>Amaziah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Jehoaddan; she was from Jerusalem.<verse eid="2CH 25:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 25:2"/>And he did what was right in the eyes of the LORD, but not wholeheartedly.<verse eid="2CH 25:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 25:3"/>As soon as the kingdom was firmly in his grasp, Amaziah executed the servants who had murdered his father the king.<verse eid="2CH 25:3"/></para>
@@ -592,8 +592,8 @@
 <para style="p"><verse number="26" style="v" sid="2CH 25:26"/>As for the rest of the acts of Amaziah, from beginning to end, are they not written in the Book of the Kings of Judah and Israel?<verse eid="2CH 25:26"/></para>
 <para style="p"><verse number="27" style="v" sid="2CH 25:27"/>From the time that Amaziah turned from following the LORD, a conspiracy was formed against him in Jerusalem, and he fled to Lachish. But men were sent after him to Lachish, and they killed him there.<verse eid="2CH 25:27"/></para>
 <para style="p"><verse number="28" style="v" sid="2CH 25:28"/>They carried him back on horses and buried him with his fathers in the City of Judah.<verse eid="2CH 25:28"/></para>
-<chapter eid="2CH 25"/>
-<chapter number="26" style="c" sid="2CH 26"/>
+<chapter eid="2CH 25" />
+<chapter number="26" style="c" sid="2CH 26" />
 <para style="p"><verse number="1" style="v" sid="2CH 26:1"/>All the people of Judah took Uzziah, who was sixteen years old, and made him king in place of his father Amaziah.<verse eid="2CH 26:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 26:2"/>Uzziah was the one who rebuilt Eloth and restored it to Judah after King Amaziah rested with his fathers.<verse eid="2CH 26:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 26:3"/>Uzziah was sixteen years old when he became king, and he reigned in Jerusalem fifty-two years. His mother’s name was Jecoliah; she was from Jerusalem.<verse eid="2CH 26:3"/></para>
@@ -617,8 +617,8 @@
 <para style="p"><verse number="21" style="v" sid="2CH 26:21"/>So King Uzziah was a leper until the day of his death. He lived in isolation, leprous and cut off from the house of the LORD, while his son Jotham had charge of the royal palace and governed the people of the land.<verse eid="2CH 26:21"/></para>
 <para style="p"><verse number="22" style="v" sid="2CH 26:22"/>As for the rest of the acts of Uzziah, from beginning to end, they are recorded by the prophet Isaiah son of Amoz.<verse eid="2CH 26:22"/></para>
 <para style="p"><verse number="23" style="v" sid="2CH 26:23"/>And Uzziah rested with his fathers and was buried near them in a field of burial that belonged to the kings, for the people said, “He was a leper.” And his son Jotham reigned in his place.<verse eid="2CH 26:23"/></para>
-<chapter eid="2CH 26"/>
-<chapter number="27" style="c" sid="2CH 27"/>
+<chapter eid="2CH 26" />
+<chapter number="27" style="c" sid="2CH 27" />
 <para style="p"><verse number="1" style="v" sid="2CH 27:1"/>Jotham was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. His mother’s name was Jerushah daughter of Zadok.<verse eid="2CH 27:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 27:2"/>And he did what was right in the eyes of the LORD, just as his father Uzziah had done. In addition, he did not enter the temple of the LORD. But the people still behaved corruptly.<verse eid="2CH 27:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 27:3"/>Jotham rebuilt the Upper Gate of the house of the LORD, and he worked extensively on the wall at the hill of Ophel.<verse eid="2CH 27:3"/></para>
@@ -628,8 +628,8 @@
 <para style="p"><verse number="7" style="v" sid="2CH 27:7"/>As for the rest of the acts of Jotham, along with all his wars and his ways, they are indeed written in the Book of the Kings of Israel and Judah.<verse eid="2CH 27:7"/></para>
 <para style="p"><verse number="8" style="v" sid="2CH 27:8"/>He was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years.<verse eid="2CH 27:8"/></para>
 <para style="p"><verse number="9" style="v" sid="2CH 27:9"/>And Jotham rested with his fathers and was buried in the City of David. And his son Ahaz reigned in his place.<verse eid="2CH 27:9"/></para>
-<chapter eid="2CH 27"/>
-<chapter number="28" style="c" sid="2CH 28"/>
+<chapter eid="2CH 27" />
+<chapter number="28" style="c" sid="2CH 28" />
 <para style="p"><verse number="1" style="v" sid="2CH 28:1"/>Ahaz was twenty years old when he became king, and he reigned in Jerusalem sixteen years. And unlike David his father, he did not do what was right in the eyes of the LORD.<verse eid="2CH 28:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 28:2"/>Instead, he walked in the ways of the kings of Israel and even made cast images of the Baals.<verse eid="2CH 28:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 28:3"/>Moreover, Ahaz burned incense in the Valley of Ben-hinnom and sacrificed his sons in the fire, according to the abominations of the nations that the LORD had driven out before the Israelites.<verse eid="2CH 28:3"/></para>
@@ -657,8 +657,8 @@
 <para style="p"><verse number="25" style="v" sid="2CH 28:25"/>In every city of Judah he built high places to offer incense to other gods, and so he provoked the LORD, the God of his fathers.<verse eid="2CH 28:25"/></para>
 <para style="p"><verse number="26" style="v" sid="2CH 28:26"/>As for the rest of the acts of Ahaz and all his ways, from beginning to end, they are indeed written in the Book of the Kings of Judah and Israel.<verse eid="2CH 28:26"/></para>
 <para style="p"><verse number="27" style="v" sid="2CH 28:27"/>And Ahaz rested with his fathers and was buried in the city of Jerusalem, but he was not placed in the tombs of the kings of Israel. And his son Hezekiah reigned in his place.<verse eid="2CH 28:27"/></para>
-<chapter eid="2CH 28"/>
-<chapter number="29" style="c" sid="2CH 29"/>
+<chapter eid="2CH 28" />
+<chapter number="29" style="c" sid="2CH 29" />
 <para style="p"><verse number="1" style="v" sid="2CH 29:1"/>Hezekiah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Abijah, the daughter of Zechariah.<verse eid="2CH 29:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 29:2"/>And he did what was right in the eyes of the LORD, just as his father David had done.<verse eid="2CH 29:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 29:3"/>In the first month of the first year of his reign, Hezekiah opened and repaired the doors of the house of the LORD.<verse eid="2CH 29:3"/></para>
@@ -695,8 +695,8 @@
 <para style="p"><verse number="34" style="v" sid="2CH 29:34"/>However, since there were not enough priests to skin all the burnt offerings, their Levite brothers helped them until the work was finished and until the priests had consecrated themselves. For the Levites had been more diligent in consecrating themselves than the priests had been.<verse eid="2CH 29:34"/></para>
 <para style="p"><verse number="35" style="v" sid="2CH 29:35"/>Furthermore, the burnt offerings were abundant, along with the fat of the peace offerings and the drink offerings for the burnt offerings. So the service of the house of the LORD was established.<verse eid="2CH 29:35"/></para>
 <para style="p"><verse number="36" style="v" sid="2CH 29:36"/>Then Hezekiah and all the people rejoiced at what God had prepared for the people, because everything had been accomplished so quickly.<verse eid="2CH 29:36"/></para>
-<chapter eid="2CH 29"/>
-<chapter number="30" style="c" sid="2CH 30"/>
+<chapter eid="2CH 29" />
+<chapter number="30" style="c" sid="2CH 30" />
 <para style="p"><verse number="1" style="v" sid="2CH 30:1"/>Then Hezekiah sent word throughout all Israel and Judah, and he also wrote letters to Ephraim and Manasseh inviting them to come to the house of the LORD in Jerusalem to keep the Passover of the LORD, the God of Israel.<verse eid="2CH 30:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 30:2"/>For the king and his officials and the whole assembly in Jerusalem had decided to keep the Passover in the second month,<verse eid="2CH 30:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 30:3"/>since they had been unable to keep it at the regular time, because not enough priests had consecrated themselves and the people had not been gathered in Jerusalem.<verse eid="2CH 30:3"/></para>
@@ -724,8 +724,8 @@
 <para style="p"><verse number="25" style="v" sid="2CH 30:25"/>Then the whole assembly of Judah rejoiced along with the priests and Levites and the whole assembly that had come from Israel, including the foreigners who had come from Israel and those who lived in Judah.<verse eid="2CH 30:25"/></para>
 <para style="p"><verse number="26" style="v" sid="2CH 30:26"/>So there was great rejoicing in Jerusalem, for nothing like this had happened there since the days of Solomon son of David king of Israel.<verse eid="2CH 30:26"/></para>
 <para style="p"><verse number="27" style="v" sid="2CH 30:27"/>Then the priests and the Levites stood to bless the people, and God heard their voice, and their prayer came into His holy dwelling place in heaven.<verse eid="2CH 30:27"/></para>
-<chapter eid="2CH 30"/>
-<chapter number="31" style="c" sid="2CH 31"/>
+<chapter eid="2CH 30" />
+<chapter number="31" style="c" sid="2CH 31" />
 <para style="p"><verse number="1" style="v" sid="2CH 31:1"/>When all this had ended, the Israelites in attendance went out to the cities of Judah and broke up the sacred pillars, chopped down the Asherah poles, and tore down the high places and altars throughout Judah and Benjamin, as well as in Ephraim and Manasseh, until they had utterly destroyed them all. Then all the Israelites returned to their cities, each to his own property.<verse eid="2CH 31:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 31:2"/>Hezekiah reestablished the divisions of the priests and Levites—each of them according to their duties as priests or Levites—for the burnt offerings and peace offerings, for ministry, for giving thanks, and for singing praises at the gates of the LORD’s dwelling.<verse eid="2CH 31:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 31:3"/>The king contributed from his own possessions for the regular morning and evening burnt offerings and for the burnt offerings on the Sabbaths, New Moons, and appointed feasts, as written in the Law of the LORD.<verse eid="2CH 31:3"/></para>
@@ -747,8 +747,8 @@
 <para style="p"><verse number="19" style="v" sid="2CH 31:19"/>As for the priests, the descendants of Aaron, who lived on the farmlands around each of their cities or in any other city, men were designated by name to distribute a portion to every male among the priests and to every Levite listed by the genealogies.<verse eid="2CH 31:19"/></para>
 <para style="p"><verse number="20" style="v" sid="2CH 31:20"/>So this is what Hezekiah did throughout Judah. He did what was good and upright and true before the LORD his God.<verse eid="2CH 31:20"/></para>
 <para style="p"><verse number="21" style="v" sid="2CH 31:21"/>He acted with all his heart in every work that he began in the service of the house of God, and in the law and the commandments, in order to seek his God. And so he prospered.<verse eid="2CH 31:21"/></para>
-<chapter eid="2CH 31"/>
-<chapter number="32" style="c" sid="2CH 32"/>
+<chapter eid="2CH 31" />
+<chapter number="32" style="c" sid="2CH 32" />
 <para style="p"><verse number="1" style="v" sid="2CH 32:1"/>After all these acts of faithfulness, Sennacherib king of Assyria came and invaded Judah. He laid siege to the fortified cities, intending to conquer them for himself.<verse eid="2CH 32:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 32:2"/>When Hezekiah saw that Sennacherib had come to make war against Jerusalem,<verse eid="2CH 32:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 32:3"/>he consulted with his leaders and mighty men about stopping up the waters of the springs outside the city, and they helped him carry it out.<verse eid="2CH 32:3"/></para>
@@ -782,8 +782,8 @@
 <para style="p"><verse number="31" style="v" sid="2CH 32:31"/>And so when ambassadors of the rulers of Babylon were sent to him to inquire about the wonder that had happened in the land, God left him alone to test him, that He might know all that was in Hezekiah’s heart.<verse eid="2CH 32:31"/></para>
 <para style="p"><verse number="32" style="v" sid="2CH 32:32"/>As for the rest of the acts of Hezekiah and his deeds of loving devotion, they are indeed written in the vision of the prophet Isaiah son of Amoz in the Book of the Kings of Judah and Israel.<verse eid="2CH 32:32"/></para>
 <para style="p"><verse number="33" style="v" sid="2CH 32:33"/>And Hezekiah rested with his fathers and was buried in the upper tombs of David’s descendants. All Judah and the people of Jerusalem paid him honor at his death. And his son Manasseh reigned in his place.<verse eid="2CH 32:33"/></para>
-<chapter eid="2CH 32"/>
-<chapter number="33" style="c" sid="2CH 33"/>
+<chapter eid="2CH 32" />
+<chapter number="33" style="c" sid="2CH 33" />
 <para style="p"><verse number="1" style="v" sid="2CH 33:1"/>Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years.<verse eid="2CH 33:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 33:2"/>And he did evil in the sight of the LORD by following the abominations of the nations that the LORD had driven out before the Israelites.<verse eid="2CH 33:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 33:3"/>For he rebuilt the high places that his father Hezekiah had torn down, and he raised up altars for the Baals and made Asherah poles. And he worshiped and served all the host of heaven.<verse eid="2CH 33:3"/></para>
@@ -809,8 +809,8 @@
 <para style="p"><verse number="23" style="v" sid="2CH 33:23"/>but he did not humble himself before the LORD as his father Manasseh had done; instead, Amon increased his guilt.<verse eid="2CH 33:23"/></para>
 <para style="p"><verse number="24" style="v" sid="2CH 33:24"/>Then the servants of Amon conspired against him and killed him in his palace.<verse eid="2CH 33:24"/></para>
 <para style="p"><verse number="25" style="v" sid="2CH 33:25"/>But the people of the land killed all those who had conspired against King Amon, and they made his son Josiah king in his place.<verse eid="2CH 33:25"/></para>
-<chapter eid="2CH 33"/>
-<chapter number="34" style="c" sid="2CH 34"/>
+<chapter eid="2CH 33" />
+<chapter number="34" style="c" sid="2CH 34" />
 <para style="p"><verse number="1" style="v" sid="2CH 34:1"/>Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years.<verse eid="2CH 34:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 34:2"/>And he did what was right in the eyes of the LORD and walked in the ways of his father David; he did not turn aside to the right or to the left.<verse eid="2CH 34:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 34:3"/>In the eighth year of his reign, while he was still young, Josiah began to seek the God of his father David, and in the twelfth year he began to cleanse Judah and Jerusalem of the high places, the Asherah poles, the carved idols, and the cast images.<verse eid="2CH 34:3"/></para>
@@ -844,8 +844,8 @@
 <para style="p"><verse number="31" style="v" sid="2CH 34:31"/>So the king stood by the pillar and made a covenant before the LORD to follow the LORD and to keep His commandments, decrees, and statutes with all his heart and all his soul, and to carry out the words of the covenant that were written in this book.<verse eid="2CH 34:31"/></para>
 <para style="p"><verse number="32" style="v" sid="2CH 34:32"/>Then he had everyone in Jerusalem and Benjamin take a stand in agreement to it. So all the people of Jerusalem carried out the covenant of God, the God of their fathers.<verse eid="2CH 34:32"/></para>
 <para style="p"><verse number="33" style="v" sid="2CH 34:33"/>And Josiah removed all the abominations from all the lands belonging to the Israelites, and he required everyone in Israel to serve the LORD their God. Throughout his reign they did not turn aside from following the LORD, the God of their fathers.<verse eid="2CH 34:33"/></para>
-<chapter eid="2CH 34"/>
-<chapter number="35" style="c" sid="2CH 35"/>
+<chapter eid="2CH 34" />
+<chapter number="35" style="c" sid="2CH 35" />
 <para style="p"><verse number="1" style="v" sid="2CH 35:1"/>Then Josiah kept the Passover to the LORD in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month.<verse eid="2CH 35:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 35:2"/>He appointed the priests to their duties and encouraged them in the service of the house of the LORD.<verse eid="2CH 35:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 35:3"/>To the Levites who taught all Israel and were holy to the LORD, Josiah said: “Put the holy ark in the temple built by Solomon son of David king of Israel. It is not to be carried around on your shoulders. Now serve the LORD your God and His people Israel.<verse eid="2CH 35:3"/></para>
@@ -873,8 +873,8 @@
 <para style="p"><verse number="25" style="v" sid="2CH 35:25"/>Then Jeremiah lamented over Josiah, and to this day all the male and female singers recite laments over Josiah. They established them as a statute for Israel, and indeed they are written in the Book of Laments.<verse eid="2CH 35:25"/></para>
 <para style="p"><verse number="26" style="v" sid="2CH 35:26"/>As for the rest of the acts of Josiah and his deeds of loving devotion according to what is written in the Law of the LORD—<verse eid="2CH 35:26"/></para>
 <para style="p"><verse number="27" style="v" sid="2CH 35:27"/>his acts from beginning to end—they are indeed written in the Book of the Kings of Israel and Judah.<verse eid="2CH 35:27"/></para>
-<chapter eid="2CH 35"/>
-<chapter number="36" style="c" sid="2CH 36"/>
+<chapter eid="2CH 35" />
+<chapter number="36" style="c" sid="2CH 36" />
 <para style="p"><verse number="1" style="v" sid="2CH 36:1"/>Then the people of the land took Jehoahaz son of Josiah and made him king in Jerusalem in place of his father.<verse eid="2CH 36:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2CH 36:2"/>Jehoahaz was twenty-three years old when he became king, and he reigned in Jerusalem three months.<verse eid="2CH 36:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2CH 36:3"/>And the king of Egypt dethroned him in Jerusalem and imposed on Judah a levy of a hundred talents of silver and a talent of gold.<verse eid="2CH 36:3"/></para>
@@ -898,5 +898,5 @@
 <para style="p"><verse number="21" style="v" sid="2CH 36:21"/>So the land enjoyed its Sabbath rest all the days of the desolation, until seventy years were completed, in fulfillment of the word of the LORD spoken through Jeremiah.<verse eid="2CH 36:21"/></para>
 <para style="p"><verse number="22" style="v" sid="2CH 36:22"/>In the first year of Cyrus king of Persia, to fulfill the word of the LORD spoken through Jeremiah, the LORD stirred the spirit of Cyrus king of Persia to send a proclamation throughout his kingdom and to put it in writing as follows:<verse eid="2CH 36:22"/></para>
 <para style="p"><verse number="23" style="v" sid="2CH 36:23"/>“This is what Cyrus king of Persia says: ‘The LORD, the God of heaven, who has given me all the kingdoms of the earth, has appointed me to build a house for Him at Jerusalem in Judah. Whoever among you belongs to His people, may the LORD his God be with him, and may he go up.’”<verse eid="2CH 36:23"/></para>
-<chapter eid="2CH 36"/>
+<chapter eid="2CH 36" />
 </usx>

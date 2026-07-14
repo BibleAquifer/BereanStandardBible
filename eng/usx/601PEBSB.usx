@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="1PE" style="id">- Berean Standard Bible -</book>
+<book code="1PE" style="id">- 1 Peter -</book>
 <para style="h">1 Peter</para>
 <para style="toc1">1 Peter</para>
 <para style="toc2">1 Peter</para>
 <para style="mt1">1 Peter</para>
-<chapter number="1" style="c" sid="1PE 1"/>
+<chapter number="1" style="c" sid="1PE 1" />
 <para style="p"><verse number="1" style="v" sid="1PE 1:1"/>Peter, an apostle of Jesus Christ, To the elect who are exiles of the Dispersion throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, chosen<verse eid="1PE 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1PE 1:2"/>according to the foreknowledge of God the Father and sanctified by the Spirit for obedience to Jesus Christ and sprinkling by His blood: Grace and peace be yours in abundance.<verse eid="1PE 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1PE 1:3"/>Blessed be the God and Father of our Lord Jesus Christ! By His great mercy He has given us new birth into a living hope through the resurrection of Jesus Christ from the dead,<verse eid="1PE 1:3"/></para>
@@ -31,8 +31,8 @@
 <para style="p"><verse number="23" style="v" sid="1PE 1:23"/>For you have been born again, not of perishable seed, but of imperishable, through the living and enduring word of God.<verse eid="1PE 1:23"/></para>
 <para style="p"><verse number="24" style="v" sid="1PE 1:24"/>For, “All flesh is like grass, and all its glory like the flowers of the field; the grass withers and the flowers fall,<verse eid="1PE 1:24"/></para>
 <para style="p"><verse number="25" style="v" sid="1PE 1:25"/>but the word of the Lord stands forever.” And this is the word that was proclaimed to you.<verse eid="1PE 1:25"/></para>
-<chapter eid="1PE 1"/>
-<chapter number="2" style="c" sid="1PE 2"/>
+<chapter eid="1PE 1" />
+<chapter number="2" style="c" sid="1PE 2" />
 <para style="p"><verse number="1" style="v" sid="1PE 2:1"/>Rid yourselves, therefore, of all malice, deceit, hypocrisy, envy, and slander.<verse eid="1PE 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1PE 2:2"/>Like newborn babies, crave pure spiritual milk, so that by it you may grow up in your salvation,<verse eid="1PE 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1PE 2:3"/>now that you have tasted that the Lord is good.<verse eid="1PE 2:3"/></para>
@@ -58,8 +58,8 @@
 <para style="p"><verse number="23" style="v" sid="1PE 2:23"/>When they heaped abuse on Him, He did not retaliate; when He suffered, He made no threats, but entrusted Himself to Him who judges justly.<verse eid="1PE 2:23"/></para>
 <para style="p"><verse number="24" style="v" sid="1PE 2:24"/>He Himself bore our sins in His body on the tree, so that we might die to sin and live to righteousness. “By His stripes you are healed.”<verse eid="1PE 2:24"/></para>
 <para style="p"><verse number="25" style="v" sid="1PE 2:25"/>For “you were like sheep going astray,” but now you have returned to the Shepherd and Overseer of your souls.<verse eid="1PE 2:25"/></para>
-<chapter eid="1PE 2"/>
-<chapter number="3" style="c" sid="1PE 3"/>
+<chapter eid="1PE 2" />
+<chapter number="3" style="c" sid="1PE 3" />
 <para style="p"><verse number="1" style="v" sid="1PE 3:1"/>Wives, in the same way, submit yourselves to your husbands, so that even if they refuse to believe the word, they will be won over without words by the behavior of their wives<verse eid="1PE 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1PE 3:2"/>when they see your pure and reverent demeanor.<verse eid="1PE 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1PE 3:3"/>Your beauty should not come from outward adornment, such as braided hair or gold jewelry or fine clothes,<verse eid="1PE 3:3"/></para>
@@ -82,8 +82,8 @@
 <para style="p"><verse number="20" style="v" sid="1PE 3:20"/>who disobeyed long ago when God waited patiently in the days of Noah while the ark was being built. In the ark a few people, only eight souls, were saved through water.<verse eid="1PE 3:20"/></para>
 <para style="p"><verse number="21" style="v" sid="1PE 3:21"/>And this water symbolizes the baptism that now saves you also—not the removal of dirt from the body, but the pledge of a clear conscience toward God—through the resurrection of Jesus Christ,<verse eid="1PE 3:21"/></para>
 <para style="p"><verse number="22" style="v" sid="1PE 3:22"/>who has gone into heaven and is at the right hand of God, with angels, authorities, and powers subject to Him.<verse eid="1PE 3:22"/></para>
-<chapter eid="1PE 3"/>
-<chapter number="4" style="c" sid="1PE 4"/>
+<chapter eid="1PE 3" />
+<chapter number="4" style="c" sid="1PE 4" />
 <para style="p"><verse number="1" style="v" sid="1PE 4:1"/>Therefore, since Christ suffered in His body, arm yourselves with the same resolve, because anyone who has suffered in his body is done with sin.<verse eid="1PE 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1PE 4:2"/>Consequently, he does not live out his remaining time on earth for human passions, but for the will of God.<verse eid="1PE 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1PE 4:3"/>For you have spent enough time in the past carrying out the same desires as the Gentiles: living in debauchery, lust, drunkenness, orgies, carousing, and detestable idolatry.<verse eid="1PE 4:3"/></para>
@@ -103,8 +103,8 @@
 <para style="p"><verse number="17" style="v" sid="1PE 4:17"/>For it is time for judgment to begin with the family of God; and if it begins with us, what will the outcome be for those who disobey the gospel of God?<verse eid="1PE 4:17"/></para>
 <para style="p"><verse number="18" style="v" sid="1PE 4:18"/>And, “If it is hard for the righteous to be saved, what will become of the ungodly and the sinner?”<verse eid="1PE 4:18"/></para>
 <para style="p"><verse number="19" style="v" sid="1PE 4:19"/>So then, those who suffer according to God’s will should entrust their souls to their faithful Creator and continue to do good.<verse eid="1PE 4:19"/></para>
-<chapter eid="1PE 4"/>
-<chapter number="5" style="c" sid="1PE 5"/>
+<chapter eid="1PE 4" />
+<chapter number="5" style="c" sid="1PE 5" />
 <para style="p"><verse number="1" style="v" sid="1PE 5:1"/>As a fellow elder, a witness of Christ’s sufferings, and a partaker of the glory to be revealed, I appeal to the elders among you:<verse eid="1PE 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1PE 5:2"/>Be shepherds of God’s flock that is among you, watching over them not out of compulsion, but willingly, as God would have you; not out of greed, but out of eagerness;<verse eid="1PE 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1PE 5:3"/>not lording it over those entrusted to you, but being examples to the flock.<verse eid="1PE 5:3"/></para>
@@ -119,5 +119,5 @@
 <para style="p"><verse number="12" style="v" sid="1PE 5:12"/>Through Silvanus, whom I regard as a faithful brother, I have written to you briefly, encouraging you and testifying that this is the true grace of God. Stand firm in it.<verse eid="1PE 5:12"/></para>
 <para style="p"><verse number="13" style="v" sid="1PE 5:13"/>The church in Babylon, chosen together with you, sends you greetings, as does my son Mark.<verse eid="1PE 5:13"/></para>
 <para style="p"><verse number="14" style="v" sid="1PE 5:14"/>Greet one another with a kiss of love. Peace to all of you who are in Christ.<verse eid="1PE 5:14"/></para>
-<chapter eid="1PE 5"/>
+<chapter eid="1PE 5" />
 </usx>

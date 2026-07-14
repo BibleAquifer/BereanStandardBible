@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="LAM" style="id">- Berean Standard Bible -</book>
+<book code="LAM" style="id">- Lamentations -</book>
 <para style="h">Lamentations</para>
 <para style="toc1">Lamentations</para>
 <para style="toc2">Lamentations</para>
 <para style="mt1">Lamentations</para>
-<chapter number="1" style="c" sid="LAM 1"/>
+<chapter number="1" style="c" sid="LAM 1" />
 <para style="p"><verse number="1" style="v" sid="LAM 1:1"/>How lonely lies the city, once so full of people! She who was great among the nations has become a widow. The princess of the provinces has become a slave.<verse eid="LAM 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LAM 1:2"/>She weeps aloud in the night, with tears upon her cheeks. Among all her lovers there is no one to comfort her. All her friends have betrayed her; they have become her enemies.<verse eid="LAM 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LAM 1:3"/>Judah has gone into exile under affliction and harsh slavery; she dwells among the nations but finds no place to rest. All her pursuers have overtaken her in the midst of her distress.<verse eid="LAM 1:3"/></para>
@@ -28,8 +28,8 @@
 <para style="p"><verse number="20" style="v" sid="LAM 1:20"/>See, O LORD, how distressed I am! I am churning within; my heart is pounding within me, for I have been most rebellious. Outside, the sword bereaves; inside, there is death.<verse eid="LAM 1:20"/></para>
 <para style="p"><verse number="21" style="v" sid="LAM 1:21"/>People have heard my groaning, but there is no one to comfort me. All my enemies have heard of my trouble; they are glad that You have caused it. May You bring the day You have announced, so that they may become like me.<verse eid="LAM 1:21"/></para>
 <para style="p"><verse number="22" style="v" sid="LAM 1:22"/>Let all their wickedness come before You, and deal with them as You have dealt with me because of all my transgressions. For my groans are many, and my heart is faint.<verse eid="LAM 1:22"/></para>
-<chapter eid="LAM 1"/>
-<chapter number="2" style="c" sid="LAM 2"/>
+<chapter eid="LAM 1" />
+<chapter number="2" style="c" sid="LAM 2" />
 <para style="p"><verse number="1" style="v" sid="LAM 2:1"/>How the Lord has covered the Daughter of Zion with the cloud of His anger! He has cast the glory of Israel from heaven to earth. He has abandoned His footstool in the day of His anger.<verse eid="LAM 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LAM 2:2"/>Without pity the Lord has swallowed up all the dwellings of Jacob. In His wrath He has demolished the fortified cities of the Daughter of Judah. He brought to the ground and defiled her kingdom and its princes.<verse eid="LAM 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LAM 2:3"/>In fierce anger He has cut off every horn of Israel and withdrawn His right hand at the approach of the enemy. He has burned in Jacob like a flaming fire that consumes everything around it.<verse eid="LAM 2:3"/></para>
@@ -52,8 +52,8 @@
 <para style="p"><verse number="20" style="v" sid="LAM 2:20"/>Look, O LORD, and consider: Whom have You ever treated like this? Should women eat their offspring, the infants they have nurtured? Should priests and prophets be killed in the sanctuary of the Lord?<verse eid="LAM 2:20"/></para>
 <para style="p"><verse number="21" style="v" sid="LAM 2:21"/>Both young and old lie together in the dust of the streets. My young men and maidens have fallen by the sword. You have slain them in the day of Your anger; You have slaughtered them without compassion.<verse eid="LAM 2:21"/></para>
 <para style="p"><verse number="22" style="v" sid="LAM 2:22"/>You summoned my terrors on every side, as for the day of an appointed feast. In the day of the LORD’s anger no one escaped or survived; my enemy has destroyed those I nurtured and reared.<verse eid="LAM 2:22"/></para>
-<chapter eid="LAM 2"/>
-<chapter number="3" style="c" sid="LAM 3"/>
+<chapter eid="LAM 2" />
+<chapter number="3" style="c" sid="LAM 3" />
 <para style="p"><verse number="1" style="v" sid="LAM 3:1"/>I am the man who has seen affliction under the rod of God’s wrath.<verse eid="LAM 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LAM 3:2"/>He has driven me away and made me walk in darkness instead of light.<verse eid="LAM 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LAM 3:3"/>Indeed, He keeps turning His hand against me all day long.<verse eid="LAM 3:3"/></para>
@@ -120,8 +120,8 @@
 <para style="p"><verse number="64" style="v" sid="LAM 3:64"/>You will pay them back what they deserve, O LORD, according to the work of their hands.<verse eid="LAM 3:64"/></para>
 <para style="p"><verse number="65" style="v" sid="LAM 3:65"/>Put a veil of anguish over their hearts; may Your curse be upon them!<verse eid="LAM 3:65"/></para>
 <para style="p"><verse number="66" style="v" sid="LAM 3:66"/>You will pursue them in anger and exterminate them from under Your heavens, O LORD.<verse eid="LAM 3:66"/></para>
-<chapter eid="LAM 3"/>
-<chapter number="4" style="c" sid="LAM 4"/>
+<chapter eid="LAM 3" />
+<chapter number="4" style="c" sid="LAM 4" />
 <para style="p"><verse number="1" style="v" sid="LAM 4:1"/>How the gold has become tarnished, the pure gold has become dull! The gems of the temple lie scattered on every street corner.<verse eid="LAM 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LAM 4:2"/>How the precious sons of Zion, once worth their weight in pure gold, are now esteemed as jars of clay, the work of a potter’s hands!<verse eid="LAM 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LAM 4:3"/>Even jackals offer their breasts to nurse their young, but the daughter of my people has become cruel, like an ostrich in the wilderness.<verse eid="LAM 4:3"/></para>
@@ -144,8 +144,8 @@
 <para style="p"><verse number="20" style="v" sid="LAM 4:20"/>The LORD’s anointed, the breath of our life, was captured in their pits. We had said of him, “Under his shadow we will live among the nations.”<verse eid="LAM 4:20"/></para>
 <para style="p"><verse number="21" style="v" sid="LAM 4:21"/>So rejoice and be glad, O Daughter of Edom, you who dwell in the land of Uz. Yet the cup will pass to you as well; you will get drunk and expose yourself.<verse eid="LAM 4:21"/></para>
 <para style="p"><verse number="22" style="v" sid="LAM 4:22"/>O Daughter of Zion, your punishment is complete; He will not prolong your exile. But He will punish your iniquity, O Daughter of Edom; He will expose your sins.<verse eid="LAM 4:22"/></para>
-<chapter eid="LAM 4"/>
-<chapter number="5" style="c" sid="LAM 5"/>
+<chapter eid="LAM 4" />
+<chapter number="5" style="c" sid="LAM 5" />
 <para style="p"><verse number="1" style="v" sid="LAM 5:1"/>Remember, O LORD, what has happened to us. Look and see our disgrace!<verse eid="LAM 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="LAM 5:2"/>Our inheritance has been turned over to strangers, our houses to foreigners.<verse eid="LAM 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="LAM 5:3"/>We have become fatherless orphans; our mothers are widows.<verse eid="LAM 5:3"/></para>
@@ -168,5 +168,5 @@
 <para style="p"><verse number="20" style="v" sid="LAM 5:20"/>Why have You forgotten us forever? Why have You forsaken us for so long?<verse eid="LAM 5:20"/></para>
 <para style="p"><verse number="21" style="v" sid="LAM 5:21"/>Restore us to Yourself, O LORD, so we may return; renew our days as of old,<verse eid="LAM 5:21"/></para>
 <para style="p"><verse number="22" style="v" sid="LAM 5:22"/>unless You have utterly rejected us and remain angry with us beyond measure.<verse eid="LAM 5:22"/></para>
-<chapter eid="LAM 5"/>
+<chapter eid="LAM 5" />
 </usx>

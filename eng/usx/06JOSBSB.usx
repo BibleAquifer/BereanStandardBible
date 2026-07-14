@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="JOS" style="id">- Berean Standard Bible -</book>
+<book code="JOS" style="id">- Joshua -</book>
 <para style="h">Joshua</para>
 <para style="toc1">Joshua</para>
 <para style="toc2">Joshua</para>
 <para style="mt1">Joshua</para>
-<chapter number="1" style="c" sid="JOS 1"/>
+<chapter number="1" style="c" sid="JOS 1" />
 <para style="p"><verse number="1" style="v" sid="JOS 1:1"/>Now after the death of His servant Moses, the LORD spoke to Joshua son of Nun, Moses’ assistant, saying,<verse eid="JOS 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 1:2"/>“Moses My servant is dead. Now therefore arise, you and all these people, and cross over the Jordan into the land that I am giving to the children of Israel.<verse eid="JOS 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 1:3"/>I have given you every place where the sole of your foot will tread, just as I promised to Moses.<verse eid="JOS 1:3"/></para>
@@ -24,8 +24,8 @@
 <para style="p"><verse number="16" style="v" sid="JOS 1:16"/>So they answered Joshua, “Everything you have commanded us we will do, and everywhere you send us we will go.<verse eid="JOS 1:16"/></para>
 <para style="p"><verse number="17" style="v" sid="JOS 1:17"/>Just as we obeyed Moses in all things, so we will obey you. And may the LORD your God be with you, as He was with Moses.<verse eid="JOS 1:17"/></para>
 <para style="p"><verse number="18" style="v" sid="JOS 1:18"/>Anyone who rebels against your order and does not obey your words, all that you command him, will be put to death. Above all, be strong and courageous!”<verse eid="JOS 1:18"/></para>
-<chapter eid="JOS 1"/>
-<chapter number="2" style="c" sid="JOS 2"/>
+<chapter eid="JOS 1" />
+<chapter number="2" style="c" sid="JOS 2" />
 <para style="p"><verse number="1" style="v" sid="JOS 2:1"/>Then Joshua son of Nun secretly sent two spies from Shittim, saying, “Go, inspect the land, especially Jericho.” So they went and entered the house of a prostitute named Rahab and stayed there.<verse eid="JOS 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 2:2"/>And it was reported to the king of Jericho: “Behold, some men of Israel have come here tonight to spy out the land.”<verse eid="JOS 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 2:3"/>So the king of Jericho sent to Rahab and said, “Bring out the men who came to you and entered your house, for they have come to spy out the whole land.”<verse eid="JOS 2:3"/></para>
@@ -50,8 +50,8 @@
 <para style="p"><verse number="22" style="v" sid="JOS 2:22"/>So the spies went out into the hill country and stayed there three days, until their pursuers had returned without finding them, having searched all along the road.<verse eid="JOS 2:22"/></para>
 <para style="p"><verse number="23" style="v" sid="JOS 2:23"/>Then the two men started back, came down from the hill country, and crossed the river. So they came to Joshua son of Nun and reported all that had happened to them.<verse eid="JOS 2:23"/></para>
 <para style="p"><verse number="24" style="v" sid="JOS 2:24"/>“The LORD has surely delivered the entire land into our hands,” they said to Joshua. “Indeed, all who dwell in the land are melting in fear of us.”<verse eid="JOS 2:24"/></para>
-<chapter eid="JOS 2"/>
-<chapter number="3" style="c" sid="JOS 3"/>
+<chapter eid="JOS 2" />
+<chapter number="3" style="c" sid="JOS 3" />
 <para style="p"><verse number="1" style="v" sid="JOS 3:1"/>Early the next morning Joshua got up and left Shittim with all the Israelites. They went as far as the Jordan, where they camped before crossing over.<verse eid="JOS 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 3:2"/>After three days the officers went through the camp<verse eid="JOS 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 3:3"/>and commanded the people: “When you see the ark of the covenant of the LORD your God being carried by the Levitical priests, you are to set out from your positions and follow it.<verse eid="JOS 3:3"/></para>
@@ -69,8 +69,8 @@
 <para style="p"><verse number="15" style="v" sid="JOS 3:15"/>Now the Jordan overflows its banks throughout the harvest season. But as soon as the priests carrying the ark reached the Jordan and their feet touched the water’s edge,<verse eid="JOS 3:15"/></para>
 <para style="p"><verse number="16" style="v" sid="JOS 3:16"/>the flowing water stood still. It backed up as far upstream as Adam, a city in the area of Zarethan, while the water flowing toward the Sea of the Arabah (the Salt Sea) was completely cut off. So the people crossed over opposite Jericho.<verse eid="JOS 3:16"/></para>
 <para style="p"><verse number="17" style="v" sid="JOS 3:17"/>The priests carrying the ark of the covenant of the LORD stood firm on dry ground in the middle of the Jordan, while all Israel crossed over the dry ground, until the entire nation had crossed the Jordan.<verse eid="JOS 3:17"/></para>
-<chapter eid="JOS 3"/>
-<chapter number="4" style="c" sid="JOS 4"/>
+<chapter eid="JOS 3" />
+<chapter number="4" style="c" sid="JOS 4" />
 <para style="p"><verse number="1" style="v" sid="JOS 4:1"/>When the whole nation had finished crossing the Jordan, the LORD said to Joshua,<verse eid="JOS 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 4:2"/>“Choose twelve men from among the people, one from each tribe,<verse eid="JOS 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 4:3"/>and command them: ‘Take up for yourselves twelve stones from the middle of the Jordan where the priests were standing, carry them with you, and set them down in the place where you spend the night.’”<verse eid="JOS 4:3"/></para>
@@ -95,8 +95,8 @@
 <para style="p"><verse number="22" style="v" sid="JOS 4:22"/>you are to tell them, ‘Israel crossed the Jordan on dry ground.’<verse eid="JOS 4:22"/></para>
 <para style="p"><verse number="23" style="v" sid="JOS 4:23"/>For the LORD your God dried up the waters of the Jordan before you until you had crossed over, just as He did to the Red Sea, which He dried up before us until we had crossed over.<verse eid="JOS 4:23"/></para>
 <para style="p"><verse number="24" style="v" sid="JOS 4:24"/>He did this so that all the peoples of the earth may know that the hand of the LORD is mighty, and so that you may always fear the LORD your God.”<verse eid="JOS 4:24"/></para>
-<chapter eid="JOS 4"/>
-<chapter number="5" style="c" sid="JOS 5"/>
+<chapter eid="JOS 4" />
+<chapter number="5" style="c" sid="JOS 5" />
 <para style="p"><verse number="1" style="v" sid="JOS 5:1"/>Now when all the Amorite kings west of the Jordan and all the Canaanite kings along the coast heard how the LORD had dried up the waters of the Jordan before the Israelites until they had crossed over, their hearts melted and their spirits failed for fear of the Israelites.<verse eid="JOS 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 5:2"/>At that time the LORD said to Joshua, “Make flint knives and circumcise the sons of Israel once again.”<verse eid="JOS 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 5:3"/>So Joshua made flint knives and circumcised the sons of Israel at Gibeath-haaraloth.<verse eid="JOS 5:3"/></para>
@@ -112,8 +112,8 @@
 <para style="p"><verse number="13" style="v" sid="JOS 5:13"/>Now when Joshua was near Jericho, he looked up and saw a man standing in front of him with a drawn sword in His hand. Joshua approached Him and asked, “Are You for us or for our enemies?”<verse eid="JOS 5:13"/></para>
 <para style="p"><verse number="14" style="v" sid="JOS 5:14"/>“Neither,” He replied. “I have now come as Commander of the LORD’s army.” Then Joshua fell facedown in reverence and asked Him, “What does my Lord have to say to His servant?”<verse eid="JOS 5:14"/></para>
 <para style="p"><verse number="15" style="v" sid="JOS 5:15"/>The Commander of the LORD’s army replied, “Take off your sandals, for the place where you are standing is holy.” And Joshua did so.<verse eid="JOS 5:15"/></para>
-<chapter eid="JOS 5"/>
-<chapter number="6" style="c" sid="JOS 6"/>
+<chapter eid="JOS 5" />
+<chapter number="6" style="c" sid="JOS 6" />
 <para style="p"><verse number="1" style="v" sid="JOS 6:1"/>Now Jericho was tightly shut up because of the Israelites. No one went out and no one came in.<verse eid="JOS 6:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 6:2"/>And the LORD said to Joshua, “Behold, I have delivered Jericho into your hand, along with its king and its mighty men of valor.<verse eid="JOS 6:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 6:3"/>March around the city with all the men of war, circling the city one time. Do this for six days.<verse eid="JOS 6:3"/></para>
@@ -141,8 +141,8 @@
 <para style="p"><verse number="25" style="v" sid="JOS 6:25"/>And Joshua spared Rahab the prostitute, with her father’s household and all who belonged to her, because she hid the men Joshua had sent to spy out Jericho. So she has lived among the Israelites to this day.<verse eid="JOS 6:25"/></para>
 <para style="p"><verse number="26" style="v" sid="JOS 6:26"/>At that time Joshua invoked this solemn oath: “Cursed before the LORD is the man who rises up and rebuilds this city, Jericho; at the cost of his firstborn he will lay its foundations; at the cost of his youngest he will set up its gates.”<verse eid="JOS 6:26"/></para>
 <para style="p"><verse number="27" style="v" sid="JOS 6:27"/>So the LORD was with Joshua, and his fame spread throughout the land.<verse eid="JOS 6:27"/></para>
-<chapter eid="JOS 6"/>
-<chapter number="7" style="c" sid="JOS 7"/>
+<chapter eid="JOS 6" />
+<chapter number="7" style="c" sid="JOS 7" />
 <para style="p"><verse number="1" style="v" sid="JOS 7:1"/>The Israelites, however, acted unfaithfully regarding the things devoted to destruction. Achan son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took some of what was set apart. So the anger of the LORD burned against the Israelites.<verse eid="JOS 7:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 7:2"/>Meanwhile, Joshua sent men from Jericho to Ai, which is near Beth-aven to the east of Bethel, and told them, “Go up and spy out the land.” So the men went up and spied out Ai.<verse eid="JOS 7:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 7:3"/>On returning to Joshua, they reported, “There is no need to send all the people; two or three thousand men are enough to go up and attack Ai. Since the people of Ai are so few, you need not wear out all our people there.”<verse eid="JOS 7:3"/></para>
@@ -169,8 +169,8 @@
 <para style="p"><verse number="24" style="v" sid="JOS 7:24"/>Then Joshua, together with all Israel, took Achan son of Zerah, the silver, the cloak, the bar of gold, his sons and daughters, his oxen and donkeys and sheep, his tent, and everything else he owned, and brought them to the Valley of Achor.<verse eid="JOS 7:24"/></para>
 <para style="p"><verse number="25" style="v" sid="JOS 7:25"/>“Why have you brought this trouble upon us?” said Joshua. “Today the LORD will bring trouble upon you!” And all Israel stoned him to death. Then they stoned the others and burned their bodies.<verse eid="JOS 7:25"/></para>
 <para style="p"><verse number="26" style="v" sid="JOS 7:26"/>And they heaped over Achan a large pile of rocks that remains to this day. So the LORD turned from His burning anger. Therefore that place is called the Valley of Achor to this day.<verse eid="JOS 7:26"/></para>
-<chapter eid="JOS 7"/>
-<chapter number="8" style="c" sid="JOS 8"/>
+<chapter eid="JOS 7" />
+<chapter number="8" style="c" sid="JOS 8" />
 <para style="p"><verse number="1" style="v" sid="JOS 8:1"/>Then the LORD said to Joshua, “Do not be afraid or discouraged. Take the whole army with you, and go up and attack Ai. See, I have delivered into your hand the king of Ai, his people, his city, and his land.<verse eid="JOS 8:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 8:2"/>And you shall do to Ai and its king as you did to Jericho and its king, except that you may carry off their plunder and livestock for yourselves. Set up an ambush behind the city.”<verse eid="JOS 8:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 8:3"/>So Joshua and the whole army set out to attack Ai. Joshua chose 30,000 mighty men of valor and sent them out at night<verse eid="JOS 8:3"/></para>
@@ -206,8 +206,8 @@
 <para style="p"><verse number="33" style="v" sid="JOS 8:33"/>All Israel, foreigners and citizens alike, with their elders, officers, and judges, stood on both sides of the ark of the covenant of the LORD facing the Levitical priests who carried it. Half of the people stood in front of Mount Gerizim and half of them in front of Mount Ebal, as Moses the servant of the LORD had commanded earlier, to bless the people of Israel.<verse eid="JOS 8:33"/></para>
 <para style="p"><verse number="34" style="v" sid="JOS 8:34"/>Afterward, Joshua read aloud all the words of the law—the blessings and the curses—according to all that is written in the Book of the Law.<verse eid="JOS 8:34"/></para>
 <para style="p"><verse number="35" style="v" sid="JOS 8:35"/>There was not a word of all that Moses had commanded that Joshua failed to read before the whole assembly of Israel, including the women, the little ones, and the foreigners who lived among them.<verse eid="JOS 8:35"/></para>
-<chapter eid="JOS 8"/>
-<chapter number="9" style="c" sid="JOS 9"/>
+<chapter eid="JOS 8" />
+<chapter number="9" style="c" sid="JOS 9" />
 <para style="p"><verse number="1" style="v" sid="JOS 9:1"/>Now when news of this reached all the kings west of the Jordan—those in the hill country, the foothills, and all along the coast of the Great Sea toward Lebanon (the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites)—<verse eid="JOS 9:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 9:2"/>they came together to wage war against Joshua and Israel.<verse eid="JOS 9:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 9:3"/>But the people of Gibeon, having heard what Joshua had done to Jericho and Ai,<verse eid="JOS 9:3"/></para>
@@ -235,8 +235,8 @@
 <para style="p"><verse number="25" style="v" sid="JOS 9:25"/>Now we are in your hands. Do to us whatever seems good and right to you.”<verse eid="JOS 9:25"/></para>
 <para style="p"><verse number="26" style="v" sid="JOS 9:26"/>So Joshua did this and delivered them from the hands of the Israelites, and they did not kill the Gibeonites.<verse eid="JOS 9:26"/></para>
 <para style="p"><verse number="27" style="v" sid="JOS 9:27"/>On that day he made them woodcutters and water carriers, as they are to this day for the congregation of the LORD and for the altar at the place He would choose.<verse eid="JOS 9:27"/></para>
-<chapter eid="JOS 9"/>
-<chapter number="10" style="c" sid="JOS 10"/>
+<chapter eid="JOS 9" />
+<chapter number="10" style="c" sid="JOS 10" />
 <para style="p"><verse number="1" style="v" sid="JOS 10:1"/>Now Adoni-zedek king of Jerusalem heard that Joshua had captured Ai and devoted it to destruction—doing to Ai and its king as he had done to Jericho and its king—and that the people of Gibeon had made peace with Israel and were living near them.<verse eid="JOS 10:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 10:2"/>So Adoni-zedek and his people were greatly alarmed, because Gibeon was a great city, like one of the royal cities; it was larger than Ai, and all its men were mighty.<verse eid="JOS 10:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 10:3"/>Therefore Adoni-zedek king of Jerusalem sent word to Hoham king of Hebron, Piram king of Jarmuth, Japhia king of Lachish, and Debir king of Eglon, saying,<verse eid="JOS 10:3"/></para>
@@ -280,8 +280,8 @@
 <para style="p"><verse number="41" style="v" sid="JOS 10:41"/>Joshua conquered the area from Kadesh-barnea to Gaza, and the whole region of Goshen as far as Gibeon.<verse eid="JOS 10:41"/></para>
 <para style="p"><verse number="42" style="v" sid="JOS 10:42"/>And because the LORD, the God of Israel, fought for Israel, Joshua captured all these kings and their land in one campaign.<verse eid="JOS 10:42"/></para>
 <para style="p"><verse number="43" style="v" sid="JOS 10:43"/>Then Joshua returned with all Israel to the camp at Gilgal.<verse eid="JOS 10:43"/></para>
-<chapter eid="JOS 10"/>
-<chapter number="11" style="c" sid="JOS 11"/>
+<chapter eid="JOS 10" />
+<chapter number="11" style="c" sid="JOS 11" />
 <para style="p"><verse number="1" style="v" sid="JOS 11:1"/>Now when Jabin king of Hazor heard about these things, he sent word to Jobab king of Madon; to the kings of Shimron and Achshaph;<verse eid="JOS 11:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 11:2"/>to the kings of the north in the mountains, in the Arabah south of Chinnereth, in the foothills, and in Naphoth-dor to the west;<verse eid="JOS 11:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 11:3"/>to the Canaanites in the east and west; to the Amorites, Hittites, Perizzites, and Jebusites in the hill country; and to the Hivites at the foot of Hermon in the land of Mizpah.<verse eid="JOS 11:3"/></para>
@@ -305,8 +305,8 @@
 <para style="p"><verse number="21" style="v" sid="JOS 11:21"/>At that time Joshua proceeded to eliminate the Anakim from the hill country of Hebron, Debir, and Anab, and from all the hill country of Judah and of Israel. Joshua devoted them to destruction, along with their cities.<verse eid="JOS 11:21"/></para>
 <para style="p"><verse number="22" style="v" sid="JOS 11:22"/>No Anakim were left in the land of the Israelites; only in Gaza, Gath, and Ashdod did any survive.<verse eid="JOS 11:22"/></para>
 <para style="p"><verse number="23" style="v" sid="JOS 11:23"/>So Joshua took the entire land, in keeping with all that the LORD had spoken to Moses. And Joshua gave it as an inheritance to Israel according to the allotments to their tribes. Then the land had rest from war.<verse eid="JOS 11:23"/></para>
-<chapter eid="JOS 11"/>
-<chapter number="12" style="c" sid="JOS 12"/>
+<chapter eid="JOS 11" />
+<chapter number="12" style="c" sid="JOS 12" />
 <para style="p"><verse number="1" style="v" sid="JOS 12:1"/>Now these are the kings of the land whom the Israelites struck down and whose lands they took beyond the Jordan to the east, from the Arnon Valley to Mount Hermon, including all the Arabah eastward:<verse eid="JOS 12:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 12:2"/>Sihon king of the Amorites, who lived in Heshbon. He ruled from Aroer on the rim of the Arnon Valley, along the middle of the valley, up to the Jabbok River (the border of the Ammonites), that is, half of Gilead,<verse eid="JOS 12:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 12:3"/>as well as the Arabah east of the Sea of Chinnereth to the Sea of the Arabah (the Salt Sea), eastward through Beth-jeshimoth, and southward below the slopes of Pisgah.<verse eid="JOS 12:3"/></para>
@@ -331,8 +331,8 @@
 <para style="p"><verse number="22" style="v" sid="JOS 12:22"/>the king of Kedesh, one; the king of Jokneam in Carmel, one;<verse eid="JOS 12:22"/></para>
 <para style="p"><verse number="23" style="v" sid="JOS 12:23"/>the king of Dor in Naphath-dor, one; the king of Goiim in Gilgal, one;<verse eid="JOS 12:23"/></para>
 <para style="p"><verse number="24" style="v" sid="JOS 12:24"/>and the king of Tirzah, one. So there were thirty-one kings in all.<verse eid="JOS 12:24"/></para>
-<chapter eid="JOS 12"/>
-<chapter number="13" style="c" sid="JOS 13"/>
+<chapter eid="JOS 12" />
+<chapter number="13" style="c" sid="JOS 13" />
 <para style="p"><verse number="1" style="v" sid="JOS 13:1"/>Now Joshua was old and well along in years, and the LORD said to him, “You are old and well along in years, but very much of the land remains to be possessed.<verse eid="JOS 13:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 13:2"/>This is the land that remains: All the territory of the Philistines and the Geshurites,<verse eid="JOS 13:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 13:3"/>from the Shihor east of Egypt to the territory of Ekron on the north (considered to be Canaanite territory)—that of the five Philistine rulers of Gaza, Ashdod, Ashkelon, Gath, and Ekron, as well as that of the Avvites;<verse eid="JOS 13:3"/></para>
@@ -366,8 +366,8 @@
 <para style="p"><verse number="31" style="v" sid="JOS 13:31"/>half of Gilead; and Ashtaroth and Edrei, the royal cities of Og in Bashan. All this was for the clans of the descendants of Machir son of Manasseh, that is, half of the descendants of Machir.<verse eid="JOS 13:31"/></para>
 <para style="p"><verse number="32" style="v" sid="JOS 13:32"/>These were the portions Moses had given them on the plains of Moab beyond the Jordan, east of Jericho.<verse eid="JOS 13:32"/></para>
 <para style="p"><verse number="33" style="v" sid="JOS 13:33"/>To the tribe of Levi, however, Moses had given no inheritance. The LORD, the God of Israel, is their inheritance, just as He had promised them.<verse eid="JOS 13:33"/></para>
-<chapter eid="JOS 13"/>
-<chapter number="14" style="c" sid="JOS 14"/>
+<chapter eid="JOS 13" />
+<chapter number="14" style="c" sid="JOS 14" />
 <para style="p"><verse number="1" style="v" sid="JOS 14:1"/>Now these are the portions that the Israelites inherited in the land of Canaan, as distributed by Eleazar the priest, Joshua son of Nun, and the heads of the families of the tribes of Israel.<verse eid="JOS 14:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 14:2"/>Their inheritance was assigned by lot for the nine and a half tribes, as the LORD had commanded through Moses.<verse eid="JOS 14:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 14:3"/>For Moses had given the inheritance east of the Jordan to the other two and a half tribes. But he granted no inheritance among them to the Levites.<verse eid="JOS 14:3"/></para>
@@ -383,8 +383,8 @@
 <para style="p"><verse number="13" style="v" sid="JOS 14:13"/>Then Joshua blessed Caleb son of Jephunneh and gave him Hebron as his inheritance.<verse eid="JOS 14:13"/></para>
 <para style="p"><verse number="14" style="v" sid="JOS 14:14"/>Therefore Hebron belongs to Caleb son of Jephunneh the Kenizzite as an inheritance to this day, because he wholly followed the LORD, the God of Israel.<verse eid="JOS 14:14"/></para>
 <para style="p"><verse number="15" style="v" sid="JOS 14:15"/>(Hebron used to be called Kiriath-arba, after Arba, the greatest man among the Anakim.) Then the land had rest from war.<verse eid="JOS 14:15"/></para>
-<chapter eid="JOS 14"/>
-<chapter number="15" style="c" sid="JOS 15"/>
+<chapter eid="JOS 14" />
+<chapter number="15" style="c" sid="JOS 15" />
 <para style="p"><verse number="1" style="v" sid="JOS 15:1"/>Now the allotment for the clans of the tribe of Judah extended to the border of Edom, to the Wilderness of Zin at the extreme southern boundary:<verse eid="JOS 15:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 15:2"/>Their southern border started at the bay on the southern tip of the Salt Sea,<verse eid="JOS 15:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 15:3"/>proceeded south of the Ascent of Akrabbim, continued on to Zin, went over to the south of Kadesh-barnea, ran past Hezron up to Addar, and curved toward Karka.<verse eid="JOS 15:3"/></para>
@@ -448,8 +448,8 @@
 <para style="p"><verse number="61" style="v" sid="JOS 15:61"/>These were in the wilderness: Beth-arabah, Middin, Secacah,<verse eid="JOS 15:61"/></para>
 <para style="p"><verse number="62" style="v" sid="JOS 15:62"/>Nibshan, the City of Salt, and En-gedi—six cities, along with their villages.<verse eid="JOS 15:62"/></para>
 <para style="p"><verse number="63" style="v" sid="JOS 15:63"/>But the descendants of Judah could not drive out the Jebusites living in Jerusalem. So to this day the Jebusites live there among the descendants of Judah.<verse eid="JOS 15:63"/></para>
-<chapter eid="JOS 15"/>
-<chapter number="16" style="c" sid="JOS 16"/>
+<chapter eid="JOS 15" />
+<chapter number="16" style="c" sid="JOS 16" />
 <para style="p"><verse number="1" style="v" sid="JOS 16:1"/>The allotment for the descendants of Joseph extended from the Jordan at Jericho to the waters of Jericho on the east, through the wilderness that goes up from Jericho into the hill country of Bethel.<verse eid="JOS 16:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 16:2"/>It went on from Bethel (that is, Luz) and proceeded to the border of the Archites in Ataroth.<verse eid="JOS 16:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 16:3"/>Then it descended westward to the border of the Japhletites as far as the border of Lower Beth-horon and on to Gezer, and it ended at the Sea.<verse eid="JOS 16:3"/></para>
@@ -460,8 +460,8 @@
 <para style="p"><verse number="8" style="v" sid="JOS 16:8"/>From Tappuah the border went westward to the Brook of Kanah and ended at the Sea. This was the inheritance of the clans of the tribe of Ephraim,<verse eid="JOS 16:8"/></para>
 <para style="p"><verse number="9" style="v" sid="JOS 16:9"/>along with all the cities and villages set apart for the descendants of Ephraim within the inheritance of Manasseh.<verse eid="JOS 16:9"/></para>
 <para style="p"><verse number="10" style="v" sid="JOS 16:10"/>But they did not drive out the Canaanites who lived in Gezer. So the Canaanites dwell among the Ephraimites to this day, but they are forced laborers.<verse eid="JOS 16:10"/></para>
-<chapter eid="JOS 16"/>
-<chapter number="17" style="c" sid="JOS 17"/>
+<chapter eid="JOS 16" />
+<chapter number="17" style="c" sid="JOS 17" />
 <para style="p"><verse number="1" style="v" sid="JOS 17:1"/>Now this was the allotment for the tribe of Manasseh as Joseph’s firstborn son, namely for Machir the firstborn of Manasseh and father of the Gileadites, who had received Gilead and Bashan because Machir was a man of war.<verse eid="JOS 17:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 17:2"/>So this allotment was for the rest of the descendants of Manasseh—the clans of Abiezer, Helek, Asriel, Shechem, Hepher, and Shemida. These are the other male descendants of the clans of Manasseh son of Joseph.<verse eid="JOS 17:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 17:3"/>But Zelophehad son of Hepher (the son of Gilead, the son of Machir, the son of Manasseh) had no sons but only daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.<verse eid="JOS 17:3"/></para>
@@ -480,8 +480,8 @@
 <para style="p"><verse number="16" style="v" sid="JOS 17:16"/>“The hill country is not enough for us,” they replied, “and all the Canaanites who live in the valley have iron chariots, both in Beth-shean with its towns and in the Valley of Jezreel.”<verse eid="JOS 17:16"/></para>
 <para style="p"><verse number="17" style="v" sid="JOS 17:17"/>So Joshua said to the house of Joseph—to Ephraim and Manasseh—“You have many people and great strength. You shall not have just one allotment,<verse eid="JOS 17:17"/></para>
 <para style="p"><verse number="18" style="v" sid="JOS 17:18"/>because the hill country will be yours as well. It is a forest; clear it, and its farthest limits will be yours. Although the Canaanites have iron chariots and although they are strong, you can drive them out.”<verse eid="JOS 17:18"/></para>
-<chapter eid="JOS 17"/>
-<chapter number="18" style="c" sid="JOS 18"/>
+<chapter eid="JOS 17" />
+<chapter number="18" style="c" sid="JOS 18" />
 <para style="p"><verse number="1" style="v" sid="JOS 18:1"/>Then the whole congregation of Israel assembled at Shiloh and set up the Tent of Meeting there. And though the land was subdued before them,<verse eid="JOS 18:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 18:2"/>there were still seven tribes of Israel who had not yet received their inheritance.<verse eid="JOS 18:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 18:3"/>So Joshua said to the Israelites, “How long will you put off entering and possessing the land that the LORD, the God of your fathers, has given you?<verse eid="JOS 18:3"/></para>
@@ -510,8 +510,8 @@
 <para style="p"><verse number="26" style="v" sid="JOS 18:26"/>Mizpeh, Chephirah, Mozah,<verse eid="JOS 18:26"/></para>
 <para style="p"><verse number="27" style="v" sid="JOS 18:27"/>Rekem, Irpeel, Taralah,<verse eid="JOS 18:27"/></para>
 <para style="p"><verse number="28" style="v" sid="JOS 18:28"/>Zelah, Haeleph, Jebus (that is, Jerusalem), Gibeah, and Kiriath-jearim—fourteen cities, along with their villages. This was the inheritance of the clans of the tribe of Benjamin.<verse eid="JOS 18:28"/></para>
-<chapter eid="JOS 18"/>
-<chapter number="19" style="c" sid="JOS 19"/>
+<chapter eid="JOS 18" />
+<chapter number="19" style="c" sid="JOS 19" />
 <para style="p"><verse number="1" style="v" sid="JOS 19:1"/>The second lot came out for the clans of the tribe of Simeon: Their inheritance lay within the territory of Judah<verse eid="JOS 19:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 19:2"/>and included Beersheba (or Sheba), Moladah,<verse eid="JOS 19:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 19:3"/>Hazar-shual, Balah, Ezem,<verse eid="JOS 19:3"/></para>
@@ -563,8 +563,8 @@
 <para style="p"><verse number="49" style="v" sid="JOS 19:49"/>When they had finished distributing the land into its territories, the Israelites gave Joshua son of Nun an inheritance among them,<verse eid="JOS 19:49"/></para>
 <para style="p"><verse number="50" style="v" sid="JOS 19:50"/>as the LORD had commanded. They gave him the city of Timnath-serah in the hill country of Ephraim, as he requested. He rebuilt the city and settled in it.<verse eid="JOS 19:50"/></para>
 <para style="p"><verse number="51" style="v" sid="JOS 19:51"/>These are the inheritances that Eleazar the priest, Joshua son of Nun, and the heads of the families distributed by lot to the tribes of Israel at Shiloh before the LORD at the entrance to the Tent of Meeting. So they finished dividing up the land.<verse eid="JOS 19:51"/></para>
-<chapter eid="JOS 19"/>
-<chapter number="20" style="c" sid="JOS 20"/>
+<chapter eid="JOS 19" />
+<chapter number="20" style="c" sid="JOS 20" />
 <para style="p"><verse number="1" style="v" sid="JOS 20:1"/>Then the LORD said to Joshua,<verse eid="JOS 20:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 20:2"/>“Tell the Israelites to designate the cities of refuge, as I instructed you through Moses,<verse eid="JOS 20:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 20:3"/>so that anyone who kills another unintentionally or accidentally may flee there. These will be your refuge from the avenger of blood.<verse eid="JOS 20:3"/></para>
@@ -574,8 +574,8 @@
 <para style="p"><verse number="7" style="v" sid="JOS 20:7"/>So they set apart Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath-arba (that is, Hebron) in the hill country of Judah.<verse eid="JOS 20:7"/></para>
 <para style="p"><verse number="8" style="v" sid="JOS 20:8"/>And beyond the Jordan, east of Jericho, they designated Bezer on the wilderness plateau from the tribe of Reuben, Ramoth in Gilead from the tribe of Gad, and Golan in Bashan from the tribe of Manasseh.<verse eid="JOS 20:8"/></para>
 <para style="p"><verse number="9" style="v" sid="JOS 20:9"/>These are the cities appointed for all the Israelites and foreigners among them, so that anyone who kills a person unintentionally may flee there and not die by the hand of the avenger of blood prior to standing trial before the assembly.<verse eid="JOS 20:9"/></para>
-<chapter eid="JOS 20"/>
-<chapter number="21" style="c" sid="JOS 21"/>
+<chapter eid="JOS 20" />
+<chapter number="21" style="c" sid="JOS 21" />
 <para style="p"><verse number="1" style="v" sid="JOS 21:1"/>Now the family heads of the Levites approached Eleazar the priest, Joshua son of Nun, and the heads of the other tribes of Israel<verse eid="JOS 21:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 21:2"/>at Shiloh in the land of Canaan and said to them, “The LORD commanded through Moses that we be given cities in which to live, together with pasturelands for our livestock.”<verse eid="JOS 21:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 21:3"/>So by the command of the LORD, the Israelites gave the Levites these cities and their pasturelands out of their own inheritance:<verse eid="JOS 21:3"/></para>
@@ -621,8 +621,8 @@
 <para style="p"><verse number="43" style="v" sid="JOS 21:43"/>Thus the LORD gave Israel all the land He had sworn to give their fathers, and they took possession of it and settled in it.<verse eid="JOS 21:43"/></para>
 <para style="p"><verse number="44" style="v" sid="JOS 21:44"/>And the LORD gave them rest on every side, just as He had sworn to their fathers. None of their enemies could stand against them, for the LORD delivered all their enemies into their hand.<verse eid="JOS 21:44"/></para>
 <para style="p"><verse number="45" style="v" sid="JOS 21:45"/>Not one of all the LORD’s good promises to the house of Israel had failed; everything was fulfilled.<verse eid="JOS 21:45"/></para>
-<chapter eid="JOS 21"/>
-<chapter number="22" style="c" sid="JOS 22"/>
+<chapter eid="JOS 21" />
+<chapter number="22" style="c" sid="JOS 22" />
 <para style="p"><verse number="1" style="v" sid="JOS 22:1"/>Then Joshua summoned the Reubenites, the Gadites, and the half-tribe of Manasseh<verse eid="JOS 22:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 22:2"/>and told them, “You have done all that Moses the servant of the LORD commanded you, and you have obeyed my voice in all that I commanded you.<verse eid="JOS 22:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 22:3"/>All this time you have not deserted your brothers, up to this very day, but have kept the charge given you by the LORD your God.<verse eid="JOS 22:3"/></para>
@@ -657,8 +657,8 @@
 <para style="p"><verse number="32" style="v" sid="JOS 22:32"/>Then Phinehas son of Eleazar the priest, together with the other leaders, returned to the Israelites in the land of Canaan and brought back a report regarding the Reubenites and Gadites in the land of Gilead.<verse eid="JOS 22:32"/></para>
 <para style="p"><verse number="33" style="v" sid="JOS 22:33"/>The Israelites were satisfied with the report, and they blessed God and spoke no more about going to war against them to destroy the land where the Reubenites and Gadites lived.<verse eid="JOS 22:33"/></para>
 <para style="p"><verse number="34" style="v" sid="JOS 22:34"/>So the Reubenites and Gadites named the altar Witness, for they said, “It is a witness between us that the LORD is God.”<verse eid="JOS 22:34"/></para>
-<chapter eid="JOS 22"/>
-<chapter number="23" style="c" sid="JOS 23"/>
+<chapter eid="JOS 22" />
+<chapter number="23" style="c" sid="JOS 23" />
 <para style="p"><verse number="1" style="v" sid="JOS 23:1"/>A long time after the LORD had given Israel rest from all the enemies around them, when Joshua was old and well along in years,<verse eid="JOS 23:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 23:2"/>he summoned all Israel, including its elders, leaders, judges, and officers. “I am old and well along in years,” he said,<verse eid="JOS 23:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 23:3"/>“and you have seen everything that the LORD your God has done to all these nations for your sake, because it was the LORD your God who fought for you.<verse eid="JOS 23:3"/></para>
@@ -675,8 +675,8 @@
 <para style="p"><verse number="14" style="v" sid="JOS 23:14"/>Now behold, today I am going the way of all the earth, and you know with all your heart and soul that not one of the good promises the LORD your God made to you has failed. Everything was fulfilled for you; not one promise has failed.<verse eid="JOS 23:14"/></para>
 <para style="p"><verse number="15" style="v" sid="JOS 23:15"/>But just as every good thing the LORD your God promised you has come to pass, likewise the LORD will bring upon you the calamity He has threatened, until He has destroyed you from this good land He has given you.<verse eid="JOS 23:15"/></para>
 <para style="p"><verse number="16" style="v" sid="JOS 23:16"/>If you transgress the covenant of the LORD your God, which He commanded you, and go and serve other gods and bow down to them, then the anger of the LORD will burn against you, and you will quickly perish from this good land He has given you.”<verse eid="JOS 23:16"/></para>
-<chapter eid="JOS 23"/>
-<chapter number="24" style="c" sid="JOS 24"/>
+<chapter eid="JOS 23" />
+<chapter number="24" style="c" sid="JOS 24" />
 <para style="p"><verse number="1" style="v" sid="JOS 24:1"/>Then Joshua assembled all the tribes of Israel at Shechem. He summoned the elders, leaders, judges, and officers of Israel, and they presented themselves before God.<verse eid="JOS 24:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOS 24:2"/>And Joshua said to all the people, “This is what the LORD, the God of Israel, says: ‘Long ago your fathers, including Terah the father of Abraham and Nahor, lived beyond the Euphrates and worshiped other gods.<verse eid="JOS 24:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOS 24:3"/>But I took your father Abraham from beyond the Euphrates and led him through all the land of Canaan, and I multiplied his descendants. I gave him Isaac,<verse eid="JOS 24:3"/></para>
@@ -710,5 +710,5 @@
 <para style="p"><verse number="31" style="v" sid="JOS 24:31"/>Israel had served the LORD throughout the days of Joshua and of the elders who outlived him and who had experienced all the works that the LORD had done for Israel.<verse eid="JOS 24:31"/></para>
 <para style="p"><verse number="32" style="v" sid="JOS 24:32"/>And the bones of Joseph, which the Israelites had brought up out of Egypt, were buried at Shechem in the plot of land that Jacob had purchased from the sons of Hamor, Shechem’s father, for a hundred pieces of silver. So it became an inheritance for Joseph’s descendants.<verse eid="JOS 24:32"/></para>
 <para style="p"><verse number="33" style="v" sid="JOS 24:33"/>Eleazar son of Aaron also died, and they buried him at Gibeah, which had been given to his son Phinehas in the hill country of Ephraim.<verse eid="JOS 24:33"/></para>
-<chapter eid="JOS 24"/>
+<chapter eid="JOS 24" />
 </usx>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="JDG" style="id">- Berean Standard Bible -</book>
+<book code="JDG" style="id">- Judges -</book>
 <para style="h">Judges</para>
 <para style="toc1">Judges</para>
 <para style="toc2">Judges</para>
 <para style="mt1">Judges</para>
-<chapter number="1" style="c" sid="JDG 1"/>
+<chapter number="1" style="c" sid="JDG 1" />
 <para style="p"><verse number="1" style="v" sid="JDG 1:1"/>After the death of Joshua, the Israelites inquired of the LORD, “Who will be the first to go up and fight for us against the Canaanites?”<verse eid="JDG 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 1:2"/>“Judah shall go up,” answered the LORD. “Indeed, I have delivered the land into their hands.”<verse eid="JDG 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 1:3"/>Then the men of Judah said to their brothers the Simeonites, “Come up with us to our allotted territory, and let us fight against the Canaanites. And we likewise will go with you to your territory.” So the Simeonites went with them.<verse eid="JDG 1:3"/></para>
@@ -42,8 +42,8 @@
 <para style="p"><verse number="34" style="v" sid="JDG 1:34"/>The Amorites forced the Danites into the hill country and did not allow them to come down into the plain.<verse eid="JDG 1:34"/></para>
 <para style="p"><verse number="35" style="v" sid="JDG 1:35"/>And the Amorites were determined to dwell in Mount Heres, Aijalon, and Shaalbim. But when the house of Joseph grew in strength, they pressed the Amorites into forced labor.<verse eid="JDG 1:35"/></para>
 <para style="p"><verse number="36" style="v" sid="JDG 1:36"/>And the border of the Amorites extended from the Ascent of Akrabbim to Sela and beyond.<verse eid="JDG 1:36"/></para>
-<chapter eid="JDG 1"/>
-<chapter number="2" style="c" sid="JDG 2"/>
+<chapter eid="JDG 1" />
+<chapter number="2" style="c" sid="JDG 2" />
 <para style="p"><verse number="1" style="v" sid="JDG 2:1"/>Now the angel of the LORD went up from Gilgal to Bochim and said, “I brought you up out of Egypt and led you into the land that I had promised to your fathers, and I said, ‘I will never break My covenant with you,<verse eid="JDG 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 2:2"/>and you are not to make a covenant with the people of this land, but you shall tear down their altars.’ Yet you have not obeyed My voice. What is this you have done?<verse eid="JDG 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 2:3"/>So now I tell you that I will not drive out these people before you; they will be thorns in your sides, and their gods will be a snare to you.”<verse eid="JDG 2:3"/></para>
@@ -67,8 +67,8 @@
 <para style="p"><verse number="21" style="v" sid="JDG 2:21"/>I will no longer drive out before them any of the nations Joshua left when he died.<verse eid="JDG 2:21"/></para>
 <para style="p"><verse number="22" style="v" sid="JDG 2:22"/>In this way I will test whether Israel will keep the way of the LORD by walking in it as their fathers did.”<verse eid="JDG 2:22"/></para>
 <para style="p"><verse number="23" style="v" sid="JDG 2:23"/>That is why the LORD had left those nations in place and had not driven them out immediately by delivering them into the hand of Joshua.<verse eid="JDG 2:23"/></para>
-<chapter eid="JDG 2"/>
-<chapter number="3" style="c" sid="JDG 3"/>
+<chapter eid="JDG 2" />
+<chapter number="3" style="c" sid="JDG 3" />
 <para style="p"><verse number="1" style="v" sid="JDG 3:1"/>These are the nations that the LORD left to test all the Israelites who had not known any of the wars in Canaan,<verse eid="JDG 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 3:2"/>if only to teach warfare to the subsequent generations of Israel, especially to those who had not known it formerly:<verse eid="JDG 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 3:3"/>the five rulers of the Philistines, all the Canaanites, the Sidonians, and the Hivites who lived in the mountains of Lebanon from Mount Baal-hermon to Lebo-hamath.<verse eid="JDG 3:3"/></para>
@@ -100,8 +100,8 @@
 <para style="p"><verse number="29" style="v" sid="JDG 3:29"/>At that time they struck down about ten thousand Moabites, all robust and valiant men. Not one of them escaped.<verse eid="JDG 3:29"/></para>
 <para style="p"><verse number="30" style="v" sid="JDG 3:30"/>So Moab was subdued under the hand of Israel that day, and the land had rest for eighty years.<verse eid="JDG 3:30"/></para>
 <para style="p"><verse number="31" style="v" sid="JDG 3:31"/>After Ehud came Shamgar son of Anath. And he too saved Israel, striking down six hundred Philistines with an oxgoad.<verse eid="JDG 3:31"/></para>
-<chapter eid="JDG 3"/>
-<chapter number="4" style="c" sid="JDG 4"/>
+<chapter eid="JDG 3" />
+<chapter number="4" style="c" sid="JDG 4" />
 <para style="p"><verse number="1" style="v" sid="JDG 4:1"/>After Ehud died, the Israelites again did evil in the sight of the LORD.<verse eid="JDG 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 4:2"/>So the LORD sold them into the hand of Jabin king of Canaan, who reigned in Hazor. The commander of his forces was Sisera, who lived in Harosheth-hagoyim.<verse eid="JDG 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 4:3"/>Then the Israelites cried out to the LORD, because Jabin had nine hundred chariots of iron, and he had harshly oppressed the Israelites for twenty years.<verse eid="JDG 4:3"/></para>
@@ -126,8 +126,8 @@
 <para style="p"><verse number="22" style="v" sid="JDG 4:22"/>When Barak arrived in pursuit of Sisera, Jael went out to greet him and said to him, “Come, and I will show you the man you are seeking.” So he went in with her, and there lay Sisera dead, with a tent peg through his temple.<verse eid="JDG 4:22"/></para>
 <para style="p"><verse number="23" style="v" sid="JDG 4:23"/>On that day God subdued Jabin king of Canaan before the Israelites.<verse eid="JDG 4:23"/></para>
 <para style="p"><verse number="24" style="v" sid="JDG 4:24"/>And the hand of the Israelites grew stronger and stronger against Jabin king of Canaan until they destroyed him.<verse eid="JDG 4:24"/></para>
-<chapter eid="JDG 4"/>
-<chapter number="5" style="c" sid="JDG 5"/>
+<chapter eid="JDG 4" />
+<chapter number="5" style="c" sid="JDG 5" />
 <para style="p"><verse number="1" style="v" sid="JDG 5:1"/>On that day Deborah and Barak son of Abinoam sang this song:<verse eid="JDG 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 5:2"/>“When the princes take the lead in Israel, when the people volunteer, bless the LORD.<verse eid="JDG 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 5:3"/>Listen, O kings! Give ear, O princes! I will sing to the LORD; I will sing praise to the LORD, the God of Israel.<verse eid="JDG 5:3"/></para>
@@ -159,8 +159,8 @@
 <para style="p"><verse number="29" style="v" sid="JDG 5:29"/>Her wisest ladies answer; indeed she keeps telling herself,<verse eid="JDG 5:29"/></para>
 <para style="p"><verse number="30" style="v" sid="JDG 5:30"/>‘Are they not finding and dividing the spoil—a girl or two for each warrior, a plunder of dyed garments for Sisera, the spoil of embroidered garments for the neck of the looter?’<verse eid="JDG 5:30"/></para>
 <para style="p"><verse number="31" style="v" sid="JDG 5:31"/>So may all Your enemies perish, O LORD! But may those who love You shine like the sun at its brightest.” And the land had rest for forty years.<verse eid="JDG 5:31"/></para>
-<chapter eid="JDG 5"/>
-<chapter number="6" style="c" sid="JDG 6"/>
+<chapter eid="JDG 5" />
+<chapter number="6" style="c" sid="JDG 6" />
 <para style="p"><verse number="1" style="v" sid="JDG 6:1"/>Again the Israelites did evil in the sight of the LORD; so He delivered them into the hand of Midian for seven years,<verse eid="JDG 6:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 6:2"/>and the hand of Midian prevailed against Israel. Because of the Midianites, the Israelites prepared shelters for themselves in the mountains, caves, and strongholds.<verse eid="JDG 6:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 6:3"/>Whenever the Israelites planted their crops, the Midianites, Amalekites, and other people of the east would come up and invade them,<verse eid="JDG 6:3"/></para>
@@ -201,8 +201,8 @@
 <para style="p"><verse number="38" style="v" sid="JDG 6:38"/>And that is what happened. When Gideon arose the next morning, he squeezed the fleece and wrung out the dew—a bowlful of water.<verse eid="JDG 6:38"/></para>
 <para style="p"><verse number="39" style="v" sid="JDG 6:39"/>Then Gideon said to God, “Do not be angry with me; let me speak one more time. Please allow me one more test with the fleece. This time let it be dry, and the ground covered with dew.”<verse eid="JDG 6:39"/></para>
 <para style="p"><verse number="40" style="v" sid="JDG 6:40"/>And that night God did so. Only the fleece was dry, and dew covered the ground.<verse eid="JDG 6:40"/></para>
-<chapter eid="JDG 6"/>
-<chapter number="7" style="c" sid="JDG 7"/>
+<chapter eid="JDG 6" />
+<chapter number="7" style="c" sid="JDG 7" />
 <para style="p"><verse number="1" style="v" sid="JDG 7:1"/>Early in the morning Jerubbaal (that is, Gideon) and all the men with him camped beside the spring of Harod. And the camp of Midian was north of them in the valley near the hill of Moreh.<verse eid="JDG 7:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 7:2"/>Then the LORD said to Gideon, “You have too many men for Me to deliver Midian into their hands, lest Israel glorify themselves over Me, saying, ‘My own hand has saved me.’<verse eid="JDG 7:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 7:3"/>Now, therefore, proclaim in the hearing of the men: ‘Whoever is fearful and trembling may turn back and leave Mount Gilead.’” So twenty-two thousand of them turned back, but ten thousand remained.<verse eid="JDG 7:3"/></para>
@@ -228,8 +228,8 @@
 <para style="p"><verse number="23" style="v" sid="JDG 7:23"/>Then the men of Israel were called out from Naphtali, Asher, and all Manasseh, and they pursued the Midianites.<verse eid="JDG 7:23"/></para>
 <para style="p"><verse number="24" style="v" sid="JDG 7:24"/>Gideon sent messengers throughout the hill country of Ephraim to say, “Come down against the Midianites and seize the waters of the Jordan ahead of them as far as Beth-barah.” So all the men of Ephraim were called out, and they captured the waters of the Jordan as far as Beth-barah.<verse eid="JDG 7:24"/></para>
 <para style="p"><verse number="25" style="v" sid="JDG 7:25"/>They also captured Oreb and Zeeb, the two princes of Midian; and they killed Oreb at the rock of Oreb and Zeeb at the winepress of Zeeb. So they pursued the Midianites and brought the heads of Oreb and Zeeb to Gideon on the other side of the Jordan.<verse eid="JDG 7:25"/></para>
-<chapter eid="JDG 7"/>
-<chapter number="8" style="c" sid="JDG 8"/>
+<chapter eid="JDG 7" />
+<chapter number="8" style="c" sid="JDG 8" />
 <para style="p"><verse number="1" style="v" sid="JDG 8:1"/>Then the men of Ephraim said to Gideon, “Why have you done this to us? Why did you fail to call us when you went to fight against Midian?” And they contended with him violently.<verse eid="JDG 8:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 8:2"/>But Gideon answered them, “Now what have I accomplished compared to you? Are not the gleanings of Ephraim better than the grape harvest of Abiezer?<verse eid="JDG 8:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 8:3"/>God has delivered Oreb and Zeeb, the two princes of Midian, into your hand. What was I able to do compared to you?” When he had said this, their anger against him subsided.<verse eid="JDG 8:3"/></para>
@@ -265,8 +265,8 @@
 <para style="p"><verse number="33" style="v" sid="JDG 8:33"/>And as soon as Gideon was dead, the Israelites turned and prostituted themselves with the Baals, and they set up Baal-berith as their god.<verse eid="JDG 8:33"/></para>
 <para style="p"><verse number="34" style="v" sid="JDG 8:34"/>The Israelites failed to remember the LORD their God who had delivered them from the hands of all their enemies on every side.<verse eid="JDG 8:34"/></para>
 <para style="p"><verse number="35" style="v" sid="JDG 8:35"/>They did not show kindness to the house of Jerubbaal (that is, Gideon) for all the good things he had done for Israel.<verse eid="JDG 8:35"/></para>
-<chapter eid="JDG 8"/>
-<chapter number="9" style="c" sid="JDG 9"/>
+<chapter eid="JDG 8" />
+<chapter number="9" style="c" sid="JDG 9" />
 <para style="p"><verse number="1" style="v" sid="JDG 9:1"/>Now Abimelech son of Jerubbaal went to his mother’s brothers at Shechem and said to them and to all the clan of his mother,<verse eid="JDG 9:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 9:2"/>“Please ask all the leaders of Shechem, ‘Is it better for you that seventy men, all the sons of Jerubbaal, rule over you, or just one man?’ Remember that I am your own flesh and blood.”<verse eid="JDG 9:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 9:3"/>And when his mother’s brothers spoke all these words about him in the presence of all the leaders of Shechem, their hearts were inclined to follow Abimelech, for they said, “He is our brother.”<verse eid="JDG 9:3"/></para>
@@ -324,8 +324,8 @@
 <para style="p"><verse number="55" style="v" sid="JDG 9:55"/>And when the Israelites saw that Abimelech was dead, they all went home.<verse eid="JDG 9:55"/></para>
 <para style="p"><verse number="56" style="v" sid="JDG 9:56"/>In this way God repaid the wickedness that Abimelech had done to his father in murdering his seventy brothers.<verse eid="JDG 9:56"/></para>
 <para style="p"><verse number="57" style="v" sid="JDG 9:57"/>And God also brought all the wickedness of the men of Shechem back upon their own heads. So the curse of Jotham son of Jerubbaal came upon them.<verse eid="JDG 9:57"/></para>
-<chapter eid="JDG 9"/>
-<chapter number="10" style="c" sid="JDG 10"/>
+<chapter eid="JDG 9" />
+<chapter number="10" style="c" sid="JDG 10" />
 <para style="p"><verse number="1" style="v" sid="JDG 10:1"/>After the time of Abimelech, a man of Issachar, Tola son of Puah, the son of Dodo, rose up to save Israel. He lived in Shamir, in the hill country of Ephraim.<verse eid="JDG 10:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 10:2"/>Tola judged Israel twenty-three years, and when he died, he was buried in Shamir.<verse eid="JDG 10:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 10:3"/>Tola was followed by Jair the Gileadite, who judged Israel twenty-two years.<verse eid="JDG 10:3"/></para>
@@ -344,8 +344,8 @@
 <para style="p"><verse number="16" style="v" sid="JDG 10:16"/>So they put away the foreign gods from among them and served the LORD, and He could no longer bear the misery of Israel.<verse eid="JDG 10:16"/></para>
 <para style="p"><verse number="17" style="v" sid="JDG 10:17"/>Then the Ammonites were called to arms and camped in Gilead, and the Israelites assembled and camped at Mizpah.<verse eid="JDG 10:17"/></para>
 <para style="p"><verse number="18" style="v" sid="JDG 10:18"/>And the rulers of Gilead said to one another, “Whoever will launch the attack against the Ammonites will be the head of all who live in Gilead.”<verse eid="JDG 10:18"/></para>
-<chapter eid="JDG 10"/>
-<chapter number="11" style="c" sid="JDG 11"/>
+<chapter eid="JDG 10" />
+<chapter number="11" style="c" sid="JDG 11" />
 <para style="p"><verse number="1" style="v" sid="JDG 11:1"/>Now Jephthah the Gileadite was a mighty man of valor; he was the son of a prostitute, and Gilead was his father.<verse eid="JDG 11:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 11:2"/>And Gilead’s wife bore him sons who grew up, drove Jephthah out, and said to him, “You shall have no inheritance in our father’s house, because you are the son of another woman.”<verse eid="JDG 11:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 11:3"/>So Jephthah fled from his brothers and settled in the land of Tob, where worthless men gathered around him and traveled with him.<verse eid="JDG 11:3"/></para>
@@ -386,8 +386,8 @@
 <para style="p"><verse number="38" style="v" sid="JDG 11:38"/>“Go,” he said. And he sent her away for two months. So she left with her friends and mourned her virginity upon the mountains.<verse eid="JDG 11:38"/></para>
 <para style="p"><verse number="39" style="v" sid="JDG 11:39"/>After two months, she returned to her father, and he did to her as he had vowed. And she had never had relations with a man. So it has become a custom in Israel<verse eid="JDG 11:39"/></para>
 <para style="p"><verse number="40" style="v" sid="JDG 11:40"/>that each year the young women of Israel go out for four days to lament the daughter of Jephthah the Gileadite.<verse eid="JDG 11:40"/></para>
-<chapter eid="JDG 11"/>
-<chapter number="12" style="c" sid="JDG 12"/>
+<chapter eid="JDG 11" />
+<chapter number="12" style="c" sid="JDG 12" />
 <para style="p"><verse number="1" style="v" sid="JDG 12:1"/>Then the men of Ephraim assembled and crossed the Jordan to Zaphon. They said to Jephthah, “Why have you crossed over to fight the Ammonites without calling us to go with you? We will burn your house down with you inside!”<verse eid="JDG 12:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 12:2"/>But Jephthah replied, “My people and I had a serious conflict with the Ammonites, and when I called, you did not save me out of their hands.<verse eid="JDG 12:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 12:3"/>When I saw that you would not save me, I risked my life and crossed over to the Ammonites, and the LORD delivered them into my hand. Why then have you come today to fight against me?”<verse eid="JDG 12:3"/></para>
@@ -403,8 +403,8 @@
 <para style="p"><verse number="13" style="v" sid="JDG 12:13"/>After Elon, Abdon son of Hillel, from Pirathon, judged Israel.<verse eid="JDG 12:13"/></para>
 <para style="p"><verse number="14" style="v" sid="JDG 12:14"/>He had forty sons and thirty grandsons, who rode on seventy donkeys. And he judged Israel eight years.<verse eid="JDG 12:14"/></para>
 <para style="p"><verse number="15" style="v" sid="JDG 12:15"/>Then Abdon son of Hillel, from Pirathon, died, and he was buried at Pirathon in Ephraim, in the hill country of the Amalekites.<verse eid="JDG 12:15"/></para>
-<chapter eid="JDG 12"/>
-<chapter number="13" style="c" sid="JDG 13"/>
+<chapter eid="JDG 12" />
+<chapter number="13" style="c" sid="JDG 13" />
 <para style="p"><verse number="1" style="v" sid="JDG 13:1"/>Again the Israelites did evil in the sight of the LORD, so He delivered them into the hand of the Philistines for forty years.<verse eid="JDG 13:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 13:2"/>Now there was a man from Zorah named Manoah, from the clan of the Danites, whose wife was barren and had no children.<verse eid="JDG 13:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 13:3"/>The angel of the LORD appeared to the woman and said to her, “It is true that you are barren and have no children; but you will conceive and give birth to a son.<verse eid="JDG 13:3"/></para>
@@ -430,8 +430,8 @@
 <para style="p"><verse number="23" style="v" sid="JDG 13:23"/>But his wife replied, “If the LORD had intended to kill us, He would not have accepted the burnt offering and the grain offering from our hands, nor would He have shown us all these things or spoken to us this way.”<verse eid="JDG 13:23"/></para>
 <para style="p"><verse number="24" style="v" sid="JDG 13:24"/>So the woman gave birth to a son and named him Samson. The boy grew, and the LORD blessed him.<verse eid="JDG 13:24"/></para>
 <para style="p"><verse number="25" style="v" sid="JDG 13:25"/>And the Spirit of the LORD began to stir him at Mahaneh-dan, between Zorah and Eshtaol.<verse eid="JDG 13:25"/></para>
-<chapter eid="JDG 13"/>
-<chapter number="14" style="c" sid="JDG 14"/>
+<chapter eid="JDG 13" />
+<chapter number="14" style="c" sid="JDG 14" />
 <para style="p"><verse number="1" style="v" sid="JDG 14:1"/>One day Samson went down to Timnah, where he saw a young Philistine woman.<verse eid="JDG 14:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 14:2"/>So he returned and told his father and mother, “I have seen a daughter of the Philistines in Timnah. Now get her for me as a wife.”<verse eid="JDG 14:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 14:3"/>But his father and mother replied, “Can’t you find a young woman among your relatives or among any of our people? Must you go to the uncircumcised Philistines to get a wife?” But Samson told his father, “Get her for me, for she is pleasing to my eyes.”<verse eid="JDG 14:3"/></para>
@@ -452,8 +452,8 @@
 <para style="p"><verse number="18" style="v" sid="JDG 14:18"/>Before sunset on the seventh day, the men of the city said to Samson: “What is sweeter than honey? And what is stronger than a lion?” So he said to them: “If you had not plowed with my heifer, you would not have solved my riddle!”<verse eid="JDG 14:18"/></para>
 <para style="p"><verse number="19" style="v" sid="JDG 14:19"/>Then the Spirit of the LORD came mightily upon him, and he went down to Ashkelon, killed thirty of their men, took their apparel, and gave their clothes to those who had solved the riddle. And burning with anger, Samson returned to his father’s house,<verse eid="JDG 14:19"/></para>
 <para style="p"><verse number="20" style="v" sid="JDG 14:20"/>and his wife was given to one of the men who had accompanied him.<verse eid="JDG 14:20"/></para>
-<chapter eid="JDG 14"/>
-<chapter number="15" style="c" sid="JDG 15"/>
+<chapter eid="JDG 14" />
+<chapter number="15" style="c" sid="JDG 15" />
 <para style="p"><verse number="1" style="v" sid="JDG 15:1"/>Later on, at the time of the wheat harvest, Samson took a young goat and went to visit his wife. “I want to go to my wife in her room,” he said. But her father would not let him enter.<verse eid="JDG 15:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 15:2"/>“I was sure that you thoroughly hated her,” said her father, “so I gave her to one of the men who accompanied you. Is not her younger sister more beautiful than she? Please take her instead.”<verse eid="JDG 15:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 15:3"/>Samson said to them, “This time I will be blameless in doing harm to the Philistines.”<verse eid="JDG 15:3"/></para>
@@ -474,8 +474,8 @@
 <para style="p"><verse number="18" style="v" sid="JDG 15:18"/>And being very thirsty, Samson cried out to the LORD, “You have accomplished this great deliverance through Your servant. Must I now die of thirst and fall into the hands of the uncircumcised?”<verse eid="JDG 15:18"/></para>
 <para style="p"><verse number="19" style="v" sid="JDG 15:19"/>So God opened up the hollow place in Lehi, and water came out of it. When Samson drank, his strength returned, and he was revived. That is why he named it En-hakkore, and it remains in Lehi to this day.<verse eid="JDG 15:19"/></para>
 <para style="p"><verse number="20" style="v" sid="JDG 15:20"/>And Samson judged Israel for twenty years in the days of the Philistines.<verse eid="JDG 15:20"/></para>
-<chapter eid="JDG 15"/>
-<chapter number="16" style="c" sid="JDG 16"/>
+<chapter eid="JDG 15" />
+<chapter number="16" style="c" sid="JDG 16" />
 <para style="p"><verse number="1" style="v" sid="JDG 16:1"/>One day Samson went to Gaza, where he saw a prostitute and went in to spend the night with her.<verse eid="JDG 16:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 16:2"/>When the Gazites heard that Samson was there, they surrounded that place and lay in wait for him all night at the city gate. They were quiet throughout the night, saying, “Let us wait until dawn; then we will kill him.”<verse eid="JDG 16:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 16:3"/>But Samson lay there only until midnight, when he got up, took hold of the doors of the city gate and both gateposts, and pulled them out, bar and all. Then he put them on his shoulders and took them to the top of the mountain overlooking Hebron.<verse eid="JDG 16:3"/></para>
@@ -507,8 +507,8 @@
 <para style="p"><verse number="29" style="v" sid="JDG 16:29"/>And Samson reached out for the two central pillars supporting the temple. Bracing himself against them with his right hand on one pillar and his left hand on the other,<verse eid="JDG 16:29"/></para>
 <para style="p"><verse number="30" style="v" sid="JDG 16:30"/>Samson said, “Let me die with the Philistines.” Then he pushed with all his might, and the temple fell on the lords and all the people in it. So in his death he killed more than he had killed in his life.<verse eid="JDG 16:30"/></para>
 <para style="p"><verse number="31" style="v" sid="JDG 16:31"/>Then Samson’s brothers and his father’s family came down, carried him back, and buried him between Zorah and Eshtaol in the tomb of his father Manoah. And he had judged Israel twenty years.<verse eid="JDG 16:31"/></para>
-<chapter eid="JDG 16"/>
-<chapter number="17" style="c" sid="JDG 17"/>
+<chapter eid="JDG 16" />
+<chapter number="17" style="c" sid="JDG 17" />
 <para style="p"><verse number="1" style="v" sid="JDG 17:1"/>Now a man named Micah from the hill country of Ephraim<verse eid="JDG 17:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 17:2"/>said to his mother, “The eleven hundred shekels of silver that were taken from you and about which I heard you utter a curse—I have the silver here with me; I took it.” Then his mother said, “Blessed be my son by the LORD!”<verse eid="JDG 17:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 17:3"/>And when he had returned the eleven hundred shekels of silver to his mother, she said, “I wholly dedicate the silver to the LORD for my son’s benefit, to make a graven image and a molten idol. Therefore I will now return it to you.”<verse eid="JDG 17:3"/></para>
@@ -522,8 +522,8 @@
 <para style="p"><verse number="11" style="v" sid="JDG 17:11"/>and agreed to stay with him, and the young man became like a son to Micah.<verse eid="JDG 17:11"/></para>
 <para style="p"><verse number="12" style="v" sid="JDG 17:12"/>Micah ordained the Levite, and the young man became his priest and lived in his house.<verse eid="JDG 17:12"/></para>
 <para style="p"><verse number="13" style="v" sid="JDG 17:13"/>Then Micah said, “Now I know that the LORD will be good to me, because a Levite has become my priest.”<verse eid="JDG 17:13"/></para>
-<chapter eid="JDG 17"/>
-<chapter number="18" style="c" sid="JDG 18"/>
+<chapter eid="JDG 17" />
+<chapter number="18" style="c" sid="JDG 18" />
 <para style="p"><verse number="1" style="v" sid="JDG 18:1"/>In those days there was no king in Israel, and the tribe of the Danites was looking for territory to occupy. For up to that time they had not come into an inheritance among the tribes of Israel.<verse eid="JDG 18:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 18:2"/>So the Danites sent out five men from their clans, men of valor from Zorah and Eshtaol, to spy out the land and explore it. “Go and explore the land,” they told them. The men entered the hill country of Ephraim and came to the house of Micah, where they spent the night.<verse eid="JDG 18:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 18:3"/>And while they were near Micah’s house, they recognized the voice of the young Levite; so they went over and asked him, “Who brought you here? What are you doing in this place? Why are you here?”<verse eid="JDG 18:3"/></para>
@@ -555,8 +555,8 @@
 <para style="p"><verse number="29" style="v" sid="JDG 18:29"/>They named it Dan, after their forefather Dan, who was born to Israel—though the city was formerly named Laish.<verse eid="JDG 18:29"/></para>
 <para style="p"><verse number="30" style="v" sid="JDG 18:30"/>The Danites set up idols for themselves, and Jonathan son of Gershom, the son of Moses, and his sons were priests for the tribe of Dan until the day of the captivity of the land.<verse eid="JDG 18:30"/></para>
 <para style="p"><verse number="31" style="v" sid="JDG 18:31"/>So they set up for themselves Micah’s graven image, and it was there the whole time the house of God was in Shiloh.<verse eid="JDG 18:31"/></para>
-<chapter eid="JDG 18"/>
-<chapter number="19" style="c" sid="JDG 19"/>
+<chapter eid="JDG 18" />
+<chapter number="19" style="c" sid="JDG 19" />
 <para style="p"><verse number="1" style="v" sid="JDG 19:1"/>Now in those days, when there was no king in Israel, a Levite who lived in the remote hill country of Ephraim took for himself a concubine from Bethlehem in Judah.<verse eid="JDG 19:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 19:2"/>But she was unfaithful to him and left him to return to her father’s house in Bethlehem in Judah. After she had been there four months,<verse eid="JDG 19:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 19:3"/>her husband got up and went after her to speak kindly to her and bring her back, taking his servant and a pair of donkeys. So the girl brought him into her father’s house, and when her father saw him, he gladly welcomed him.<verse eid="JDG 19:3"/></para>
@@ -587,8 +587,8 @@
 <para style="p"><verse number="28" style="v" sid="JDG 19:28"/>“Get up,” he told her. “Let us go.” But there was no response. So the man put her on his donkey and set out for home.<verse eid="JDG 19:28"/></para>
 <para style="p"><verse number="29" style="v" sid="JDG 19:29"/>When he reached his house, he picked up a knife, took hold of his concubine, cut her limb by limb into twelve pieces, and sent her throughout the territory of Israel.<verse eid="JDG 19:29"/></para>
 <para style="p"><verse number="30" style="v" sid="JDG 19:30"/>And everyone who saw it said, “Nothing like this has been seen or done from the day the Israelites came out of the land of Egypt until this day. Think it over, take counsel, and speak up!”<verse eid="JDG 19:30"/></para>
-<chapter eid="JDG 19"/>
-<chapter number="20" style="c" sid="JDG 20"/>
+<chapter eid="JDG 19" />
+<chapter number="20" style="c" sid="JDG 20" />
 <para style="p"><verse number="1" style="v" sid="JDG 20:1"/>Then all the Israelites from Dan to Beersheba and from the land of Gilead came out, and the congregation assembled as one man before the LORD at Mizpah.<verse eid="JDG 20:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 20:2"/>The leaders of all the people and all the tribes of Israel presented themselves in the assembly of God’s people: 400,000 men on foot, armed with swords.<verse eid="JDG 20:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 20:3"/>(Meanwhile the Benjamites heard that the Israelites had gone up to Mizpah.) And the Israelites asked, “Tell us, how did this wicked thing happen?”<verse eid="JDG 20:3"/></para>
@@ -637,8 +637,8 @@
 <para style="p"><verse number="46" style="v" sid="JDG 20:46"/>That day 25,000 Benjamite swordsmen fell, all men of valor.<verse eid="JDG 20:46"/></para>
 <para style="p"><verse number="47" style="v" sid="JDG 20:47"/>But 600 men turned and fled into the wilderness to the rock of Rimmon, where they stayed four months.<verse eid="JDG 20:47"/></para>
 <para style="p"><verse number="48" style="v" sid="JDG 20:48"/>And the men of Israel turned back against the other Benjamites and put to the sword all the cities, including the animals and everything else they found. And they burned down all the cities in their path.<verse eid="JDG 20:48"/></para>
-<chapter eid="JDG 20"/>
-<chapter number="21" style="c" sid="JDG 21"/>
+<chapter eid="JDG 20" />
+<chapter number="21" style="c" sid="JDG 21" />
 <para style="p"><verse number="1" style="v" sid="JDG 21:1"/>Now the men of Israel had sworn an oath at Mizpah, saying, “Not one of us will give his daughter in marriage to a Benjamite.”<verse eid="JDG 21:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JDG 21:2"/>So the people came to Bethel and sat there before God until evening, lifting up their voices and weeping bitterly.<verse eid="JDG 21:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JDG 21:3"/>“Why, O LORD God of Israel,” they cried out, “has this happened in Israel? Today in Israel one tribe is missing!”<verse eid="JDG 21:3"/></para>
@@ -664,5 +664,5 @@
 <para style="p"><verse number="23" style="v" sid="JDG 21:23"/>The Benjamites did as instructed and carried away the number of women they needed from the dancers they caught. They went back to their own inheritance, rebuilt their cities, and settled in them.<verse eid="JDG 21:23"/></para>
 <para style="p"><verse number="24" style="v" sid="JDG 21:24"/>And at that time, each of the Israelites returned from there to his own tribe and clan, each to his own inheritance.<verse eid="JDG 21:24"/></para>
 <para style="p"><verse number="25" style="v" sid="JDG 21:25"/>In those days there was no king in Israel; everyone did what was right in his own eyes.<verse eid="JDG 21:25"/></para>
-<chapter eid="JDG 21"/>
+<chapter eid="JDG 21" />
 </usx>

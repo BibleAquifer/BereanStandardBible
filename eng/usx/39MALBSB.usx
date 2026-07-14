@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="MAL" style="id">- Berean Standard Bible -</book>
+<book code="MAL" style="id">- Malachi -</book>
 <para style="h">Malachi</para>
 <para style="toc1">Malachi</para>
 <para style="toc2">Malachi</para>
 <para style="mt1">Malachi</para>
-<chapter number="1" style="c" sid="MAL 1"/>
+<chapter number="1" style="c" sid="MAL 1" />
 <para style="p"><verse number="1" style="v" sid="MAL 1:1"/>This is the burden of the word of the LORD to Israel through Malachi:<verse eid="MAL 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAL 1:2"/>“I have loved you,” says the LORD. But you ask, “How have You loved us?” “Was not Esau Jacob’s brother?” declares the LORD. “Yet Jacob I have loved,<verse eid="MAL 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAL 1:3"/>but Esau I have hated, and I have made his mountains a wasteland and left his inheritance to the desert jackals.”<verse eid="MAL 1:3"/></para>
@@ -20,8 +20,8 @@
 <para style="p"><verse number="12" style="v" sid="MAL 1:12"/>“But you profane it when you say, ‘The table of the Lord is defiled, and as for its fruit, its food is contemptible.’<verse eid="MAL 1:12"/></para>
 <para style="p"><verse number="13" style="v" sid="MAL 1:13"/>You also say: ‘Oh, what a nuisance!’ And you turn up your nose at it,” says the LORD of Hosts. “You bring offerings that are stolen, lame, or sick! Should I accept these from your hands?” asks the LORD.<verse eid="MAL 1:13"/></para>
 <para style="p"><verse number="14" style="v" sid="MAL 1:14"/>“But cursed is the deceiver who has an acceptable male in his flock and vows to give it, but sacrifices a defective animal to the Lord. For I am a great King,” says the LORD of Hosts, “and My name is to be feared among the nations.<verse eid="MAL 1:14"/></para>
-<chapter eid="MAL 1"/>
-<chapter number="2" style="c" sid="MAL 2"/>
+<chapter eid="MAL 1" />
+<chapter number="2" style="c" sid="MAL 2" />
 <para style="p"><verse number="1" style="v" sid="MAL 2:1"/>“And now this decree is for you, O priests:<verse eid="MAL 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAL 2:2"/>If you do not listen, and if you do not take it to heart to honor My name,” says the LORD of Hosts, “I will send a curse among you, and I will curse your blessings. Yes, I have already begun to curse them, because you are not taking it to heart.<verse eid="MAL 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAL 2:3"/>Behold, I will rebuke your descendants, and I will spread dung on your faces, the waste from your feasts, and you will be carried off with it.<verse eid="MAL 2:3"/></para>
@@ -39,8 +39,8 @@
 <para style="p"><verse number="15" style="v" sid="MAL 2:15"/>Has not the LORD made them one, having a portion of the Spirit? And why one? Because He seeks godly offspring. So guard yourselves in your spirit and do not break faith with the wife of your youth.<verse eid="MAL 2:15"/></para>
 <para style="p"><verse number="16" style="v" sid="MAL 2:16"/>“For I hate divorce,” says the LORD, the God of Israel. “He who divorces his wife covers his garment with violence,” says the LORD of Hosts. So guard yourselves in your spirit and do not break faith.<verse eid="MAL 2:16"/></para>
 <para style="p"><verse number="17" style="v" sid="MAL 2:17"/>You have wearied the LORD with your words; yet you ask, “How have we wearied Him?” By saying, “All who do evil are good in the sight of the LORD, and in them He delights,” or, “Where is the God of justice?”<verse eid="MAL 2:17"/></para>
-<chapter eid="MAL 2"/>
-<chapter number="3" style="c" sid="MAL 3"/>
+<chapter eid="MAL 2" />
+<chapter number="3" style="c" sid="MAL 3" />
 <para style="p"><verse number="1" style="v" sid="MAL 3:1"/>“Behold, I will send My messenger, who will prepare the way before Me. Then the Lord whom you seek will suddenly come to His temple—the Messenger of the covenant, in whom you delight—see, He is coming,” says the LORD of Hosts.<verse eid="MAL 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAL 3:2"/>But who can endure the day of His coming? And who can stand when He appears? For He will be like a refiner’s fire, like a launderer’s soap.<verse eid="MAL 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAL 3:3"/>And He will sit as a refiner and purifier of silver; He will purify the sons of Levi and refine them like gold and silver. Then they will present offerings to the LORD in righteousness.<verse eid="MAL 3:3"/></para>
@@ -59,13 +59,13 @@
 <para style="p"><verse number="16" style="v" sid="MAL 3:16"/>At that time those who feared the LORD spoke with one another, and the LORD listened and heard them. So a scroll of remembrance was written before Him regarding those who feared the LORD and honored His name.<verse eid="MAL 3:16"/></para>
 <para style="p"><verse number="17" style="v" sid="MAL 3:17"/>“They will be Mine,” says the LORD of Hosts, “on the day when I prepare My treasured possession. And I will spare them as a man spares his own son who serves him.<verse eid="MAL 3:17"/></para>
 <para style="p"><verse number="18" style="v" sid="MAL 3:18"/>So you will again distinguish between the righteous and the wicked, between those who serve God and those who do not.”<verse eid="MAL 3:18"/></para>
-<chapter eid="MAL 3"/>
-<chapter number="4" style="c" sid="MAL 4"/>
+<chapter eid="MAL 3" />
+<chapter number="4" style="c" sid="MAL 4" />
 <para style="p"><verse number="1" style="v" sid="MAL 4:1"/>“For behold, the day is coming, burning like a furnace, when all the arrogant and every evildoer will be stubble; the day is coming when I will set them ablaze,” says the LORD of Hosts. “Not a root or branch will be left to them.”<verse eid="MAL 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="MAL 4:2"/>“But for you who fear My name, the sun of righteousness will rise with healing in its wings, and you will go out and leap like calves from the stall.<verse eid="MAL 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="MAL 4:3"/>Then you will trample the wicked, for they will be ashes under the soles of your feet on the day I am preparing,” says the LORD of Hosts.<verse eid="MAL 4:3"/></para>
 <para style="p"><verse number="4" style="v" sid="MAL 4:4"/>“Remember the law of My servant Moses, the statutes and ordinances I commanded him for all Israel at Horeb.<verse eid="MAL 4:4"/></para>
 <para style="p"><verse number="5" style="v" sid="MAL 4:5"/>Behold, I will send you Elijah the prophet before the coming of the great and awesome Day of the LORD.<verse eid="MAL 4:5"/></para>
 <para style="p"><verse number="6" style="v" sid="MAL 4:6"/>And he will turn the hearts of the fathers to their children, and the hearts of the children to their fathers. Otherwise, I will come and strike the land with a curse.”<verse eid="MAL 4:6"/></para>
-<chapter eid="MAL 4"/>
+<chapter eid="MAL 4" />
 </usx>

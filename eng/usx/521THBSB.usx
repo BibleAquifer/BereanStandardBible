@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="1TH" style="id">- Berean Standard Bible -</book>
+<book code="1TH" style="id">- 1 Thessalonians -</book>
 <para style="h">1 Thessalonians</para>
 <para style="toc1">1 Thessalonians</para>
 <para style="toc2">1 Thessalonians</para>
 <para style="mt1">1 Thessalonians</para>
-<chapter number="1" style="c" sid="1TH 1"/>
+<chapter number="1" style="c" sid="1TH 1" />
 <para style="p"><verse number="1" style="v" sid="1TH 1:1"/>Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace and peace to you.<verse eid="1TH 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1TH 1:2"/>We always thank God for all of you, remembering you in our prayers<verse eid="1TH 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1TH 1:3"/>and continually recalling before our God and Father your work of faith, your labor of love, and your enduring hope in our Lord Jesus Christ.<verse eid="1TH 1:3"/></para>
@@ -16,8 +16,8 @@
 <para style="p"><verse number="8" style="v" sid="1TH 1:8"/>For not only did the message of the Lord ring out from you to Macedonia and Achaia, but your faith in God has gone out to every place, so that we have no need to say anything more.<verse eid="1TH 1:8"/></para>
 <para style="p"><verse number="9" style="v" sid="1TH 1:9"/>For they themselves report what kind of welcome you gave us, and how you turned to God from idols to serve the living and true God<verse eid="1TH 1:9"/></para>
 <para style="p"><verse number="10" style="v" sid="1TH 1:10"/>and to await His Son from heaven, whom He raised from the dead—Jesus our deliverer from the coming wrath.<verse eid="1TH 1:10"/></para>
-<chapter eid="1TH 1"/>
-<chapter number="2" style="c" sid="1TH 2"/>
+<chapter eid="1TH 1" />
+<chapter number="2" style="c" sid="1TH 2" />
 <para style="p"><verse number="1" style="v" sid="1TH 2:1"/>You yourselves know, brothers, that our visit to you was not in vain.<verse eid="1TH 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1TH 2:2"/>As you are aware, we had already endured suffering and shameful treatment in Philippi. But in the face of strong opposition, we were bold in our God to speak to you the gospel of God.<verse eid="1TH 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1TH 2:3"/>For our appeal does not arise from deceit or ulterior motives or trickery.<verse eid="1TH 2:3"/></para>
@@ -38,8 +38,8 @@
 <para style="p"><verse number="18" style="v" sid="1TH 2:18"/>For we wanted to come to you—indeed I, Paul, tried again and again—but Satan obstructed us.<verse eid="1TH 2:18"/></para>
 <para style="p"><verse number="19" style="v" sid="1TH 2:19"/>After all, who is our hope, our joy, our crown of boasting, if it is not you yourselves in the presence of our Lord Jesus at His coming?<verse eid="1TH 2:19"/></para>
 <para style="p"><verse number="20" style="v" sid="1TH 2:20"/>You are indeed our glory and our joy.<verse eid="1TH 2:20"/></para>
-<chapter eid="1TH 2"/>
-<chapter number="3" style="c" sid="1TH 3"/>
+<chapter eid="1TH 2" />
+<chapter number="3" style="c" sid="1TH 3" />
 <para style="p"><verse number="1" style="v" sid="1TH 3:1"/>So when we could bear it no longer, we were willing to be left on our own in Athens.<verse eid="1TH 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1TH 3:2"/>We sent Timothy, our brother and fellow worker for God in the gospel of Christ, to strengthen and encourage you in your faith,<verse eid="1TH 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1TH 3:3"/>so that none of you would be shaken by these trials. For you know that we are destined for this.<verse eid="1TH 3:3"/></para>
@@ -53,8 +53,8 @@
 <para style="p"><verse number="11" style="v" sid="1TH 3:11"/>Now may our God and Father Himself, and our Lord Jesus, direct our way to you.<verse eid="1TH 3:11"/></para>
 <para style="p"><verse number="12" style="v" sid="1TH 3:12"/>And may the Lord cause you to increase and overflow with love for one another and for everyone else, just as our love for you overflows,<verse eid="1TH 3:12"/></para>
 <para style="p"><verse number="13" style="v" sid="1TH 3:13"/>so that He may establish your hearts in blamelessness and holiness before our God and Father at the coming of our Lord Jesus with all His saints. Amen.<verse eid="1TH 3:13"/></para>
-<chapter eid="1TH 3"/>
-<chapter number="4" style="c" sid="1TH 4"/>
+<chapter eid="1TH 3" />
+<chapter number="4" style="c" sid="1TH 4" />
 <para style="p"><verse number="1" style="v" sid="1TH 4:1"/>Finally, brothers, we ask and encourage you in the Lord Jesus to live in a way that is pleasing to God, just as you have received from us. This is how you already live, so you should do so all the more.<verse eid="1TH 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1TH 4:2"/>For you know the instructions we gave you by the authority of the Lord Jesus.<verse eid="1TH 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1TH 4:3"/>For it is God’s will that you should be holy: You must abstain from sexual immorality;<verse eid="1TH 4:3"/></para>
@@ -73,8 +73,8 @@
 <para style="p"><verse number="16" style="v" sid="1TH 4:16"/>For the Lord Himself will descend from heaven with a loud command, with the voice of an archangel, and with the trumpet of God, and the dead in Christ will be the first to rise.<verse eid="1TH 4:16"/></para>
 <para style="p"><verse number="17" style="v" sid="1TH 4:17"/>After that, we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air. And so we will always be with the Lord.<verse eid="1TH 4:17"/></para>
 <para style="p"><verse number="18" style="v" sid="1TH 4:18"/>Therefore encourage one another with these words.<verse eid="1TH 4:18"/></para>
-<chapter eid="1TH 4"/>
-<chapter number="5" style="c" sid="1TH 5"/>
+<chapter eid="1TH 4" />
+<chapter number="5" style="c" sid="1TH 5" />
 <para style="p"><verse number="1" style="v" sid="1TH 5:1"/>Now about the times and seasons, brothers, we do not need to write to you.<verse eid="1TH 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1TH 5:2"/>For you are fully aware that the Day of the Lord will come like a thief in the night.<verse eid="1TH 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1TH 5:3"/>While people are saying, “Peace and security,” destruction will come upon them suddenly, like labor pains on a pregnant woman, and they will not escape.<verse eid="1TH 5:3"/></para>
@@ -103,5 +103,5 @@
 <para style="p"><verse number="26" style="v" sid="1TH 5:26"/>Greet all the brothers with a holy kiss.<verse eid="1TH 5:26"/></para>
 <para style="p"><verse number="27" style="v" sid="1TH 5:27"/>I charge you before the Lord to have this letter read to all the brothers.<verse eid="1TH 5:27"/></para>
 <para style="p"><verse number="28" style="v" sid="1TH 5:28"/>The grace of our Lord Jesus Christ be with you.<verse eid="1TH 5:28"/></para>
-<chapter eid="1TH 5"/>
+<chapter eid="1TH 5" />
 </usx>

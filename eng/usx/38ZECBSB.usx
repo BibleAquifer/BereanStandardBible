@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="ZEC" style="id">- Berean Standard Bible -</book>
+<book code="ZEC" style="id">- Zechariah -</book>
 <para style="h">Zechariah</para>
 <para style="toc1">Zechariah</para>
 <para style="toc2">Zechariah</para>
 <para style="mt1">Zechariah</para>
-<chapter number="1" style="c" sid="ZEC 1"/>
+<chapter number="1" style="c" sid="ZEC 1" />
 <para style="p"><verse number="1" style="v" sid="ZEC 1:1"/>In the eighth month of the second year of Darius, the word of the LORD came to the prophet Zechariah son of Berechiah, the son of Iddo, saying:<verse eid="ZEC 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ZEC 1:2"/>“The LORD was very angry with your fathers.<verse eid="ZEC 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ZEC 1:3"/>So tell the people that this is what the LORD of Hosts says: ‘Return to Me, declares the LORD of Hosts, and I will return to you, says the LORD of Hosts.’<verse eid="ZEC 1:3"/></para>
@@ -27,8 +27,8 @@
 <para style="p"><verse number="19" style="v" sid="ZEC 1:19"/>So I asked the angel who was speaking with me, “What are these?” And he told me, “These are the horns that have scattered Judah, Israel, and Jerusalem.”<verse eid="ZEC 1:19"/></para>
 <para style="p"><verse number="20" style="v" sid="ZEC 1:20"/>Then the LORD showed me four craftsmen.<verse eid="ZEC 1:20"/></para>
 <para style="p"><verse number="21" style="v" sid="ZEC 1:21"/>“What are these coming to do?” I asked. And He replied, “These are the horns that scattered Judah so that no one could raise his head; but the craftsmen have come to terrify them and throw down these horns of the nations that have lifted up their horns against the land of Judah to scatter it.”<verse eid="ZEC 1:21"/></para>
-<chapter eid="ZEC 1"/>
-<chapter number="2" style="c" sid="ZEC 2"/>
+<chapter eid="ZEC 1" />
+<chapter number="2" style="c" sid="ZEC 2" />
 <para style="p"><verse number="1" style="v" sid="ZEC 2:1"/>Then I lifted up my eyes and saw a man with a measuring line in his hand.<verse eid="ZEC 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ZEC 2:2"/>“Where are you going?” I asked. “To measure Jerusalem,” he replied, “and to determine its width and length.”<verse eid="ZEC 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ZEC 2:3"/>Then the angel who was speaking with me went forth, and another angel came forward to meet him<verse eid="ZEC 2:3"/></para>
@@ -42,8 +42,8 @@
 <para style="p"><verse number="11" style="v" sid="ZEC 2:11"/>“On that day many nations will join themselves to the LORD, and they will become My people. I will dwell among you, and you will know that the LORD of Hosts has sent Me to you.<verse eid="ZEC 2:11"/></para>
 <para style="p"><verse number="12" style="v" sid="ZEC 2:12"/>And the LORD will take possession of Judah as His portion in the Holy Land, and He will once again choose Jerusalem.<verse eid="ZEC 2:12"/></para>
 <para style="p"><verse number="13" style="v" sid="ZEC 2:13"/>Be silent before the LORD, all people, for He has roused Himself from His holy dwelling.”<verse eid="ZEC 2:13"/></para>
-<chapter eid="ZEC 2"/>
-<chapter number="3" style="c" sid="ZEC 3"/>
+<chapter eid="ZEC 2" />
+<chapter number="3" style="c" sid="ZEC 3" />
 <para style="p"><verse number="1" style="v" sid="ZEC 3:1"/>Then the angel showed me Joshua the high priest standing before the angel of the LORD, with Satan standing at his right hand to accuse him.<verse eid="ZEC 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ZEC 3:2"/>And the LORD said to Satan: “The LORD rebukes you, Satan! Indeed, the LORD, who has chosen Jerusalem, rebukes you! Is not this man a firebrand snatched from the fire?”<verse eid="ZEC 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ZEC 3:3"/>Now Joshua was dressed in filthy garments as he stood before the angel.<verse eid="ZEC 3:3"/></para>
@@ -54,8 +54,8 @@
 <para style="p"><verse number="8" style="v" sid="ZEC 3:8"/>Hear now, O high priest Joshua, you and your companions seated before you, who are indeed a sign. For behold, I am going to bring My servant, the Branch.<verse eid="ZEC 3:8"/></para>
 <para style="p"><verse number="9" style="v" sid="ZEC 3:9"/>See the stone I have set before Joshua; on that one stone are seven eyes. Behold, I will engrave on it an inscription, declares the LORD of Hosts, and I will remove the iniquity of this land in a single day.<verse eid="ZEC 3:9"/></para>
 <para style="p"><verse number="10" style="v" sid="ZEC 3:10"/>On that day, declares the LORD of Hosts, you will each invite your neighbor to sit under your own vine and fig tree.’”<verse eid="ZEC 3:10"/></para>
-<chapter eid="ZEC 3"/>
-<chapter number="4" style="c" sid="ZEC 4"/>
+<chapter eid="ZEC 3" />
+<chapter number="4" style="c" sid="ZEC 4" />
 <para style="p"><verse number="1" style="v" sid="ZEC 4:1"/>Then the angel who was speaking with me returned and woke me, as a man is awakened from his sleep.<verse eid="ZEC 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ZEC 4:2"/>“What do you see?” he asked. “I see a solid gold lampstand,” I replied, “with a bowl at the top and seven lamps on it, with seven spouts to the lamps.<verse eid="ZEC 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ZEC 4:3"/>There are also two olive trees beside it, one on the right side of the bowl and the other on its left.”<verse eid="ZEC 4:3"/></para>
@@ -70,8 +70,8 @@
 <para style="p"><verse number="12" style="v" sid="ZEC 4:12"/>And I questioned him further, “What are the two olive branches beside the two gold pipes from which the golden oil pours?”<verse eid="ZEC 4:12"/></para>
 <para style="p"><verse number="13" style="v" sid="ZEC 4:13"/>“Do you not know what these are?” he inquired. “No, my lord,” I replied.<verse eid="ZEC 4:13"/></para>
 <para style="p"><verse number="14" style="v" sid="ZEC 4:14"/>So he said, “These are the two anointed ones who are standing beside the Lord of all the earth.”<verse eid="ZEC 4:14"/></para>
-<chapter eid="ZEC 4"/>
-<chapter number="5" style="c" sid="ZEC 5"/>
+<chapter eid="ZEC 4" />
+<chapter number="5" style="c" sid="ZEC 5" />
 <para style="p"><verse number="1" style="v" sid="ZEC 5:1"/>Again I lifted up my eyes and saw before me a flying scroll.<verse eid="ZEC 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ZEC 5:2"/>“What do you see?” asked the angel. “I see a flying scroll,” I replied, “twenty cubits long and ten cubits wide.”<verse eid="ZEC 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ZEC 5:3"/>Then he told me, “This is the curse that is going out over the face of all the land, for according to one side of the scroll, every thief will be removed; and according to the other side, every perjurer will be removed.<verse eid="ZEC 5:3"/></para>
@@ -83,8 +83,8 @@
 <para style="p"><verse number="9" style="v" sid="ZEC 5:9"/>Then I lifted up my eyes and saw two women approaching, with the wind in their wings. Their wings were like those of a stork, and they lifted up the basket between heaven and earth.<verse eid="ZEC 5:9"/></para>
 <para style="p"><verse number="10" style="v" sid="ZEC 5:10"/>“Where are they taking the basket?” I asked the angel who was speaking with me.<verse eid="ZEC 5:10"/></para>
 <para style="p"><verse number="11" style="v" sid="ZEC 5:11"/>“To build a house for it in the land of Shinar,” he told me. “And when it is ready, the basket will be set there on its pedestal.”<verse eid="ZEC 5:11"/></para>
-<chapter eid="ZEC 5"/>
-<chapter number="6" style="c" sid="ZEC 6"/>
+<chapter eid="ZEC 5" />
+<chapter number="6" style="c" sid="ZEC 6" />
 <para style="p"><verse number="1" style="v" sid="ZEC 6:1"/>And again I lifted up my eyes and saw four chariots coming out from between two mountains—mountains of bronze.<verse eid="ZEC 6:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ZEC 6:2"/>The first chariot had red horses, the second black horses,<verse eid="ZEC 6:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ZEC 6:3"/>the third white horses, and the fourth dappled horses—all of them strong.<verse eid="ZEC 6:3"/></para>
@@ -100,8 +100,8 @@
 <para style="p"><verse number="13" style="v" sid="ZEC 6:13"/>Yes, He will build the temple of the LORD; He will be clothed in splendor and will sit on His throne and rule. And He will be a priest on His throne, and there will be peaceful counsel between the two.’<verse eid="ZEC 6:13"/></para>
 <para style="p"><verse number="14" style="v" sid="ZEC 6:14"/>The crown will reside in the temple of the LORD as a memorial to Helem, Tobijah, Jedaiah, and the gracious son of Zephaniah.<verse eid="ZEC 6:14"/></para>
 <para style="p"><verse number="15" style="v" sid="ZEC 6:15"/>Even those far away will come and build the temple of the LORD, and you will know that the LORD of Hosts has sent Me to you. This will happen if you diligently obey the voice of the LORD your God.”<verse eid="ZEC 6:15"/></para>
-<chapter eid="ZEC 6"/>
-<chapter number="7" style="c" sid="ZEC 7"/>
+<chapter eid="ZEC 6" />
+<chapter number="7" style="c" sid="ZEC 7" />
 <para style="p"><verse number="1" style="v" sid="ZEC 7:1"/>In the fourth year of King Darius, the word of the LORD came to Zechariah on the fourth day of the ninth month, the month of Chislev.<verse eid="ZEC 7:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ZEC 7:2"/>Now the people of Bethel had sent Sharezer and Regem-melech, along with their men, to plead before the LORD<verse eid="ZEC 7:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ZEC 7:3"/>by asking the priests of the house of the LORD of Hosts, as well as the prophets, “Should I weep and fast in the fifth month, as I have done these many years?”<verse eid="ZEC 7:3"/></para>
@@ -116,8 +116,8 @@
 <para style="p"><verse number="12" style="v" sid="ZEC 7:12"/>They made their hearts like flint and would not listen to the law or to the words that the LORD of Hosts had sent by His Spirit through the earlier prophets. Therefore great anger came from the LORD of Hosts.<verse eid="ZEC 7:12"/></para>
 <para style="p"><verse number="13" style="v" sid="ZEC 7:13"/>And just as I had called and they would not listen, so when they called I would not listen, says the LORD of Hosts.<verse eid="ZEC 7:13"/></para>
 <para style="p"><verse number="14" style="v" sid="ZEC 7:14"/>But I scattered them with a whirlwind among all the nations that they had not known, and the land was left desolate behind them so that no one could come or go. Thus they turned the pleasant land into a desolation.”<verse eid="ZEC 7:14"/></para>
-<chapter eid="ZEC 7"/>
-<chapter number="8" style="c" sid="ZEC 8"/>
+<chapter eid="ZEC 7" />
+<chapter number="8" style="c" sid="ZEC 8" />
 <para style="p"><verse number="1" style="v" sid="ZEC 8:1"/>Again the word of the LORD of Hosts came to me, saying:<verse eid="ZEC 8:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ZEC 8:2"/>This is what the LORD of Hosts says: “I am jealous for Zion with great zeal; I am jealous for her with great fervor.”<verse eid="ZEC 8:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ZEC 8:3"/>This is what the LORD says: “I will return to Zion and dwell in Jerusalem. Then Jerusalem will be called the City of Truth, and the mountain of the LORD of Hosts will be called the Holy Mountain.”<verse eid="ZEC 8:3"/></para>
@@ -141,8 +141,8 @@
 <para style="p"><verse number="21" style="v" sid="ZEC 8:21"/>and the residents of one city will go to another, saying: ‘Let us go at once to plead before the LORD and to seek the LORD of Hosts. I myself am going.’<verse eid="ZEC 8:21"/></para>
 <para style="p"><verse number="22" style="v" sid="ZEC 8:22"/>And many peoples and strong nations will come to seek the LORD of Hosts in Jerusalem and to plead before the LORD.”<verse eid="ZEC 8:22"/></para>
 <para style="p"><verse number="23" style="v" sid="ZEC 8:23"/>This is what the LORD of Hosts says: “In those days ten men from the nations of every tongue will tightly grasp the robe of a Jew, saying, ‘Let us go with you, for we have heard that God is with you.’”<verse eid="ZEC 8:23"/></para>
-<chapter eid="ZEC 8"/>
-<chapter number="9" style="c" sid="ZEC 9"/>
+<chapter eid="ZEC 8" />
+<chapter number="9" style="c" sid="ZEC 9" />
 <para style="p"><verse number="1" style="v" sid="ZEC 9:1"/>This is the burden of the word of the LORD against the land of Hadrach and Damascus its resting place—for the eyes of men and of all the tribes of Israel are upon the LORD—<verse eid="ZEC 9:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ZEC 9:2"/>and also against Hamath, which borders it, as well as Tyre and Sidon, though they are very shrewd.<verse eid="ZEC 9:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ZEC 9:3"/>Tyre has built herself a fortress; she has heaped up silver like dust, and gold like the dirt of the streets.<verse eid="ZEC 9:3"/></para>
@@ -160,8 +160,8 @@
 <para style="p"><verse number="15" style="v" sid="ZEC 9:15"/>The LORD of Hosts will shield them. They will destroy and conquer with slingstones; they will drink and roar as with wine. And they will be filled like sprinkling bowls, drenched like the corners of the altar.<verse eid="ZEC 9:15"/></para>
 <para style="p"><verse number="16" style="v" sid="ZEC 9:16"/>On that day the LORD their God will save them as the flock of His people; for like jewels in a crown they will sparkle over His land.<verse eid="ZEC 9:16"/></para>
 <para style="p"><verse number="17" style="v" sid="ZEC 9:17"/>How lovely they will be, and how beautiful! Grain will make the young men flourish, and new wine, the young women.<verse eid="ZEC 9:17"/></para>
-<chapter eid="ZEC 9"/>
-<chapter number="10" style="c" sid="ZEC 10"/>
+<chapter eid="ZEC 9" />
+<chapter number="10" style="c" sid="ZEC 10" />
 <para style="p"><verse number="1" style="v" sid="ZEC 10:1"/>Ask the LORD for rain in springtime; the LORD makes the storm clouds, and He will give everyone showers of rain and crops in the field.<verse eid="ZEC 10:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ZEC 10:2"/>For idols speak deceit and diviners see illusions; they tell false dreams and offer empty comfort. Therefore the people wander like sheep, oppressed for lack of a shepherd.<verse eid="ZEC 10:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ZEC 10:3"/>“My anger burns against the shepherds, and I will punish the leaders. For the LORD of Hosts attends to His flock, the house of Judah; He will make them like His royal steed in battle.<verse eid="ZEC 10:3"/></para>
@@ -174,8 +174,8 @@
 <para style="p"><verse number="10" style="v" sid="ZEC 10:10"/>I will bring them back from Egypt and gather them from Assyria. I will bring them to Gilead and Lebanon until no more room is found for them.<verse eid="ZEC 10:10"/></para>
 <para style="p"><verse number="11" style="v" sid="ZEC 10:11"/>They will pass through the sea of distress and strike the waves of the sea; all the depths of the Nile will dry up. The pride of Assyria will be brought down, and the scepter of Egypt will depart.<verse eid="ZEC 10:11"/></para>
 <para style="p"><verse number="12" style="v" sid="ZEC 10:12"/>I will strengthen them in the LORD, and in His name they will walk,” declares the LORD.<verse eid="ZEC 10:12"/></para>
-<chapter eid="ZEC 10"/>
-<chapter number="11" style="c" sid="ZEC 11"/>
+<chapter eid="ZEC 10" />
+<chapter number="11" style="c" sid="ZEC 11" />
 <para style="p"><verse number="1" style="v" sid="ZEC 11:1"/>Open your doors, O Lebanon, that the fire may consume your cedars!<verse eid="ZEC 11:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ZEC 11:2"/>Wail, O cypress, for the cedar has fallen; the majestic trees are ruined! Wail, O oaks of Bashan, for the dense forest has been cut down!<verse eid="ZEC 11:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ZEC 11:3"/>Listen to the wailing of the shepherds, for their glory is in ruins. Listen to the roaring of the young lions, for the thickets of the Jordan are destroyed.<verse eid="ZEC 11:3"/></para>
@@ -193,8 +193,8 @@
 <para style="p"><verse number="15" style="v" sid="ZEC 11:15"/>And the LORD said to me: “Take up once more the equipment of a foolish shepherd.<verse eid="ZEC 11:15"/></para>
 <para style="p"><verse number="16" style="v" sid="ZEC 11:16"/>For behold, I will raise up a shepherd in the land who will neither care for the lost, nor seek the young, nor heal the broken, nor sustain the healthy, but he will devour the flesh of the choice sheep and tear off their hooves.<verse eid="ZEC 11:16"/></para>
 <para style="p"><verse number="17" style="v" sid="ZEC 11:17"/>Woe to the worthless shepherd, who deserts the flock! May a sword strike his arm and his right eye! May his arm be completely withered and his right eye utterly blinded!”<verse eid="ZEC 11:17"/></para>
-<chapter eid="ZEC 11"/>
-<chapter number="12" style="c" sid="ZEC 12"/>
+<chapter eid="ZEC 11" />
+<chapter number="12" style="c" sid="ZEC 12" />
 <para style="p"><verse number="1" style="v" sid="ZEC 12:1"/>This is the burden of the word of the LORD concerning Israel. Thus declares the LORD, who stretches out the heavens and lays the foundation of the earth, who forms the spirit of man within him:<verse eid="ZEC 12:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ZEC 12:2"/>“Behold, I will make Jerusalem a cup of drunkenness to all the surrounding peoples. Judah will be besieged, as well as Jerusalem.<verse eid="ZEC 12:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ZEC 12:3"/>On that day, when all the nations of the earth gather against her, I will make Jerusalem a heavy stone for all the peoples; all who would heave it away will be severely injured.<verse eid="ZEC 12:3"/></para>
@@ -209,8 +209,8 @@
 <para style="p"><verse number="12" style="v" sid="ZEC 12:12"/>The land will mourn, each clan on its own: the clan of the house of David and their wives, the clan of the house of Nathan and their wives,<verse eid="ZEC 12:12"/></para>
 <para style="p"><verse number="13" style="v" sid="ZEC 12:13"/>the clan of the house of Levi and their wives, the clan of Shimei and their wives,<verse eid="ZEC 12:13"/></para>
 <para style="p"><verse number="14" style="v" sid="ZEC 12:14"/>and all the remaining clans and their wives.<verse eid="ZEC 12:14"/></para>
-<chapter eid="ZEC 12"/>
-<chapter number="13" style="c" sid="ZEC 13"/>
+<chapter eid="ZEC 12" />
+<chapter number="13" style="c" sid="ZEC 13" />
 <para style="p"><verse number="1" style="v" sid="ZEC 13:1"/>“On that day a fountain will be opened to the house of David and the people of Jerusalem, to cleanse them from sin and impurity.<verse eid="ZEC 13:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ZEC 13:2"/>And on that day, declares the LORD of Hosts, I will erase the names of the idols from the land, and they will no longer be remembered. I will also remove the prophets and the spirit of impurity from the land.<verse eid="ZEC 13:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ZEC 13:3"/>And if anyone still prophesies, his father and mother who bore him will say to him, ‘You shall not remain alive, because you have spoken falsely in the name of the LORD.’ When he prophesies, his father and mother who bore him will pierce him through.<verse eid="ZEC 13:3"/></para>
@@ -220,8 +220,8 @@
 <para style="p"><verse number="7" style="v" sid="ZEC 13:7"/>Awake, O sword, against My Shepherd, against the man who is My Companion, declares the LORD of Hosts. Strike the Shepherd, and the sheep will be scattered, and I will turn My hand against the little ones.<verse eid="ZEC 13:7"/></para>
 <para style="p"><verse number="8" style="v" sid="ZEC 13:8"/>And in all the land, declares the LORD, two-thirds will be cut off and perish, but a third will be left in it.<verse eid="ZEC 13:8"/></para>
 <para style="p"><verse number="9" style="v" sid="ZEC 13:9"/>This third I will bring through the fire; I will refine them like silver and test them like gold. They will call on My name, and I will answer them. I will say, ‘They are My people,’ and they will say, ‘The LORD is our God.’”<verse eid="ZEC 13:9"/></para>
-<chapter eid="ZEC 13"/>
-<chapter number="14" style="c" sid="ZEC 14"/>
+<chapter eid="ZEC 13" />
+<chapter number="14" style="c" sid="ZEC 14" />
 <para style="p"><verse number="1" style="v" sid="ZEC 14:1"/>Behold, a day of the LORD is coming when your plunder will be divided in your presence.<verse eid="ZEC 14:1"/></para>
 <para style="p"><verse number="2" style="v" sid="ZEC 14:2"/>For I will gather all the nations for battle against Jerusalem, and the city will be captured, the houses looted, and the women ravished. Half of the city will go into exile, but the rest of the people will not be removed from the city.<verse eid="ZEC 14:2"/></para>
 <para style="p"><verse number="3" style="v" sid="ZEC 14:3"/>Then the LORD will go out to fight against those nations, as He fights in the day of battle.<verse eid="ZEC 14:3"/></para>
@@ -243,5 +243,5 @@
 <para style="p"><verse number="19" style="v" sid="ZEC 14:19"/>This will be the punishment of Egypt and of all the nations that do not go up to celebrate the Feast of Tabernacles.<verse eid="ZEC 14:19"/></para>
 <para style="p"><verse number="20" style="v" sid="ZEC 14:20"/>On that day, HOLY TO THE LORD will be inscribed on the bells of the horses, and the cooking pots in the house of the LORD will be like the sprinkling bowls before the altar.<verse eid="ZEC 14:20"/></para>
 <para style="p"><verse number="21" style="v" sid="ZEC 14:21"/>Indeed, every pot in Jerusalem and Judah will be holy to the LORD of Hosts, and all who sacrifice will come and take some pots and cook in them. And on that day there will no longer be a Canaanite in the house of the LORD of Hosts.<verse eid="ZEC 14:21"/></para>
-<chapter eid="ZEC 14"/>
+<chapter eid="ZEC 14" />
 </usx>

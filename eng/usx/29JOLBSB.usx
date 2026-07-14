@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="JOL" style="id">- Berean Standard Bible -</book>
+<book code="JOL" style="id">- Joel -</book>
 <para style="h">Joel</para>
 <para style="toc1">Joel</para>
 <para style="toc2">Joel</para>
 <para style="mt1">Joel</para>
-<chapter number="1" style="c" sid="JOL 1"/>
+<chapter number="1" style="c" sid="JOL 1" />
 <para style="p"><verse number="1" style="v" sid="JOL 1:1"/>This is the word of the LORD that came to Joel son of Pethuel:<verse eid="JOL 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOL 1:2"/>Hear this, O elders; and give ear, all who dwell in the land. Has anything like this ever happened in your days or in the days of your fathers?<verse eid="JOL 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOL 1:3"/>Tell it to your children; let your children tell it to their children, and their children to the next generation.<verse eid="JOL 1:3"/></para>
@@ -26,8 +26,8 @@
 <para style="p"><verse number="18" style="v" sid="JOL 1:18"/>How the cattle groan! The herds wander in confusion because they have no pasture. Even the flocks of sheep are suffering.<verse eid="JOL 1:18"/></para>
 <para style="p"><verse number="19" style="v" sid="JOL 1:19"/>To You, O LORD, I call, for fire has consumed the open pastures and flames have scorched all the trees of the field.<verse eid="JOL 1:19"/></para>
 <para style="p"><verse number="20" style="v" sid="JOL 1:20"/>Even the beasts of the field pant for You, for the streams of water have dried up, and fire has consumed the open pastures.<verse eid="JOL 1:20"/></para>
-<chapter eid="JOL 1"/>
-<chapter number="2" style="c" sid="JOL 2"/>
+<chapter eid="JOL 1" />
+<chapter number="2" style="c" sid="JOL 2" />
 <para style="p"><verse number="1" style="v" sid="JOL 2:1"/>Blow the ram’s horn in Zion; sound the alarm on My holy mountain! Let all who dwell in the land tremble, for the Day of the LORD is coming; indeed, it is near—<verse eid="JOL 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOL 2:2"/>a day of darkness and gloom, a day of clouds and blackness. Like the dawn overspreading the mountains a great and strong army appears, such as never was of old, nor will ever be in ages to come.<verse eid="JOL 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOL 2:3"/>Before them a fire devours, and behind them a flame scorches. The land before them is like the Garden of Eden, but behind them, it is like a desert wasteland—surely nothing will escape them.<verse eid="JOL 2:3"/></para>
@@ -60,8 +60,8 @@
 <para style="p"><verse number="30" style="v" sid="JOL 2:30"/>I will show wonders in the heavens and on the earth, blood and fire and columns of smoke.<verse eid="JOL 2:30"/></para>
 <para style="p"><verse number="31" style="v" sid="JOL 2:31"/>The sun will be turned to darkness and the moon to blood before the coming of the great and awesome Day of the LORD.<verse eid="JOL 2:31"/></para>
 <para style="p"><verse number="32" style="v" sid="JOL 2:32"/>And everyone who calls on the name of the LORD will be saved; for on Mount Zion and in Jerusalem there will be deliverance, as the LORD has promised, among the remnant called by the LORD.<verse eid="JOL 2:32"/></para>
-<chapter eid="JOL 2"/>
-<chapter number="3" style="c" sid="JOL 3"/>
+<chapter eid="JOL 2" />
+<chapter number="3" style="c" sid="JOL 3" />
 <para style="p"><verse number="1" style="v" sid="JOL 3:1"/>“Yes, in those days and at that time, when I restore Judah and Jerusalem from captivity,<verse eid="JOL 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="JOL 3:2"/>I will gather all the nations and bring them down to the Valley of Jehoshaphat. There I will enter into judgment against them concerning My people, My inheritance, Israel, whom they have scattered among the nations as they divided up My land.<verse eid="JOL 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="JOL 3:3"/>They cast lots for My people; they bartered a boy for a prostitute and sold a girl for wine to drink.<verse eid="JOL 3:3"/></para>
@@ -83,5 +83,5 @@
 <para style="p"><verse number="19" style="v" sid="JOL 3:19"/>Egypt will become desolate, and Edom a desert wasteland, because of the violence done to the people of Judah, in whose land they shed innocent blood.<verse eid="JOL 3:19"/></para>
 <para style="p"><verse number="20" style="v" sid="JOL 3:20"/>But Judah will be inhabited forever, and Jerusalem from generation to generation.<verse eid="JOL 3:20"/></para>
 <para style="p"><verse number="21" style="v" sid="JOL 3:21"/>For I will avenge their blood, which I have not yet avenged.” For the LORD dwells in Zion.<verse eid="JOL 3:21"/></para>
-<chapter eid="JOL 3"/>
+<chapter eid="JOL 3" />
 </usx>

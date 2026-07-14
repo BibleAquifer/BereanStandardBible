@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="OBA" style="id">- Berean Standard Bible -</book>
+<book code="OBA" style="id">- Obadiah -</book>
 <para style="h">Obadiah</para>
 <para style="toc1">Obadiah</para>
 <para style="toc2">Obadiah</para>
 <para style="mt1">Obadiah</para>
-<chapter number="1" style="c" sid="OBA 1"/>
+<chapter number="1" style="c" sid="OBA 1" />
 <para style="p"><verse number="1" style="v" sid="OBA 1:1"/>This is the vision of Obadiah: This is what the Lord GOD says about Edom—We have heard a message from the LORD; an envoy has been sent among the nations to say, “Rise up, and let us go to battle against her!”—<verse eid="OBA 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="OBA 1:2"/>“Behold, I will make you small among the nations; you will be deeply despised.<verse eid="OBA 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="OBA 1:3"/>The pride of your heart has deceived you, O dwellers in the clefts of the rocks whose habitation is the heights, who say in your heart, ‘Who can bring me down to the ground?’<verse eid="OBA 1:3"/></para>
@@ -27,5 +27,5 @@
 <para style="p"><verse number="19" style="v" sid="OBA 1:19"/>Those from the Negev will possess the mountains of Esau; those from the foothills will possess the land of the Philistines. They will occupy the fields of Ephraim and Samaria, and Benjamin will possess Gilead.<verse eid="OBA 1:19"/></para>
 <para style="p"><verse number="20" style="v" sid="OBA 1:20"/>And the exiles of this host of the Israelites will possess the land of the Canaanites as far as Zarephath; and the exiles from Jerusalem who are in Sepharad will possess the cities of the Negev.<verse eid="OBA 1:20"/></para>
 <para style="p"><verse number="21" style="v" sid="OBA 1:21"/>The deliverers will ascend Mount Zion to rule over the mountains of Esau. And the kingdom will belong to the LORD.<verse eid="OBA 1:21"/></para>
-<chapter eid="OBA 1"/>
+<chapter eid="OBA 1" />
 </usx>

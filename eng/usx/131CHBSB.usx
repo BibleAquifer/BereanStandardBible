@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="1CH" style="id">- Berean Standard Bible -</book>
+<book code="1CH" style="id">- 1 Chronicles -</book>
 <para style="h">1 Chronicles</para>
 <para style="toc1">1 Chronicles</para>
 <para style="toc2">1 Chronicles</para>
 <para style="mt1">1 Chronicles</para>
-<chapter number="1" style="c" sid="1CH 1"/>
+<chapter number="1" style="c" sid="1CH 1" />
 <para style="p"><verse number="1" style="v" sid="1CH 1:1"/>Adam, Seth, Enosh,<verse eid="1CH 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 1:2"/>Kenan, Mahalalel, Jared,<verse eid="1CH 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 1:3"/>Enoch, Methuselah, Lamech, Noah.<verse eid="1CH 1:3"/></para>
@@ -60,8 +60,8 @@
 <para style="p"><verse number="52" style="v" sid="1CH 1:52"/>Oholibamah, Elah, Pinon,<verse eid="1CH 1:52"/></para>
 <para style="p"><verse number="53" style="v" sid="1CH 1:53"/>Kenaz, Teman, Mibzar,<verse eid="1CH 1:53"/></para>
 <para style="p"><verse number="54" style="v" sid="1CH 1:54"/>Magdiel, and Iram. These were the chiefs of Edom.<verse eid="1CH 1:54"/></para>
-<chapter eid="1CH 1"/>
-<chapter number="2" style="c" sid="1CH 2"/>
+<chapter eid="1CH 1" />
+<chapter number="2" style="c" sid="1CH 2" />
 <para style="p"><verse number="1" style="v" sid="1CH 2:1"/>These were the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,<verse eid="1CH 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 2:2"/>Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.<verse eid="1CH 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 2:3"/>The sons of Judah: Er, Onan, and Shelah. These three were born to him by Bath-shua the Canaanite. Er, Judah’s firstborn, was wicked in the sight of the LORD. So the LORD put him to death.<verse eid="1CH 2:3"/></para>
@@ -117,8 +117,8 @@
 <para style="p"><verse number="53" style="v" sid="1CH 2:53"/>and the clans of Kiriath-jearim—the Ithrites, Puthites, Shumathites, and Mishraites. From these descended the Zorathites and Eshtaolites.<verse eid="1CH 2:53"/></para>
 <para style="p"><verse number="54" style="v" sid="1CH 2:54"/>The descendants of Salma: Bethlehem, the Netophathites, Atroth-beth-joab, half the Manahathites, the Zorites,<verse eid="1CH 2:54"/></para>
 <para style="p"><verse number="55" style="v" sid="1CH 2:55"/>and the clans of the scribes who lived at Jabez—the Tirathites, Shimeathites, and Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab.<verse eid="1CH 2:55"/></para>
-<chapter eid="1CH 2"/>
-<chapter number="3" style="c" sid="1CH 3"/>
+<chapter eid="1CH 2" />
+<chapter number="3" style="c" sid="1CH 3" />
 <para style="p"><verse number="1" style="v" sid="1CH 3:1"/>These were the sons of David who were born to him in Hebron: The firstborn was Amnon by Ahinoam of Jezreel; the second was Daniel by Abigail of Carmel;<verse eid="1CH 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 3:2"/>the third was Absalom the son of Maacah daughter of King Talmai of Geshur; the fourth was Adonijah the son of Haggith;<verse eid="1CH 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 3:3"/>the fifth was Shephatiah by Abital; and the sixth was Ithream by his wife Eglah.<verse eid="1CH 3:3"/></para>
@@ -143,8 +143,8 @@
 <para style="p"><verse number="22" style="v" sid="1CH 3:22"/>The six descendants of Shecaniah were Shemaiah and his sons: Hattush, Igal, Bariah, Neariah, and Shaphat.<verse eid="1CH 3:22"/></para>
 <para style="p"><verse number="23" style="v" sid="1CH 3:23"/>The sons of Neariah: Elioenai, Hizkiah, and Azrikam—three in all.<verse eid="1CH 3:23"/></para>
 <para style="p"><verse number="24" style="v" sid="1CH 3:24"/>The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani—seven in all.<verse eid="1CH 3:24"/></para>
-<chapter eid="1CH 3"/>
-<chapter number="4" style="c" sid="1CH 4"/>
+<chapter eid="1CH 3" />
+<chapter number="4" style="c" sid="1CH 4" />
 <para style="p"><verse number="1" style="v" sid="1CH 4:1"/>The descendants of Judah: Perez, Hezron, Carmi, Hur, and Shobal.<verse eid="1CH 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 4:2"/>Reaiah son of Shobal was the father of Jahath, and Jahath was the father of Ahumai and Lahad. These were the clans of the Zorathites.<verse eid="1CH 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 4:3"/>These were the sons of Etam: Jezreel, Ishma, and Idbash. And their sister was named Hazzelelponi.<verse eid="1CH 4:3"/></para>
@@ -188,8 +188,8 @@
 <para style="p"><verse number="41" style="v" sid="1CH 4:41"/>These who were noted by name came in the days of Hezekiah king of Judah. They attacked the Hamites in their dwellings as well as the Meunites who were there, devoting them to destruction even to this day. Then they settled in their place, because there was pasture for their flocks.<verse eid="1CH 4:41"/></para>
 <para style="p"><verse number="42" style="v" sid="1CH 4:42"/>And five hundred of these Simeonites led by Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi, went to Mount Seir<verse eid="1CH 4:42"/></para>
 <para style="p"><verse number="43" style="v" sid="1CH 4:43"/>and struck down the remnant of the Amalekites who had escaped. And they have lived there to this day.<verse eid="1CH 4:43"/></para>
-<chapter eid="1CH 4"/>
-<chapter number="5" style="c" sid="1CH 5"/>
+<chapter eid="1CH 4" />
+<chapter number="5" style="c" sid="1CH 5" />
 <para style="p"><verse number="1" style="v" sid="1CH 5:1"/>These were the sons of Reuben the firstborn of Israel. Though he was the firstborn, his birthright was given to the sons of Joseph son of Israel, because Reuben defiled his father’s bed. So he is not reckoned according to birthright.<verse eid="1CH 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 5:2"/>And though Judah prevailed over his brothers and a ruler came from him, the birthright belonged to Joseph.<verse eid="1CH 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 5:3"/>The sons of Reuben, the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi.<verse eid="1CH 5:3"/></para>
@@ -216,8 +216,8 @@
 <para style="p"><verse number="24" style="v" sid="1CH 5:24"/>These were the heads of their families: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel. They were mighty men of valor, famous men, and heads of their families.<verse eid="1CH 5:24"/></para>
 <para style="p"><verse number="25" style="v" sid="1CH 5:25"/>But they were unfaithful to the God of their fathers, and they prostituted themselves with the gods of the peoples of the land, whom God had destroyed before them.<verse eid="1CH 5:25"/></para>
 <para style="p"><verse number="26" style="v" sid="1CH 5:26"/>So the God of Israel stirred up the spirit of Pul king of Assyria (that is, Tiglath-pileser king of Assyria) to take the Reubenites, the Gadites, and the half-tribe of Manasseh into exile. And he brought them to Halah, Habor, Hara, and the river of Gozan, where they remain to this day.<verse eid="1CH 5:26"/></para>
-<chapter eid="1CH 5"/>
-<chapter number="6" style="c" sid="1CH 6"/>
+<chapter eid="1CH 5" />
+<chapter number="6" style="c" sid="1CH 6" />
 <para style="p"><verse number="1" style="v" sid="1CH 6:1"/>The sons of Levi: Gershon, Kohath, and Merari.<verse eid="1CH 6:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 6:2"/>The sons of Kohath: Amram, Izhar, Hebron, and Uzziel.<verse eid="1CH 6:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 6:3"/>The children of Amram: Aaron, Moses, and Miriam. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar.<verse eid="1CH 6:3"/></para>
@@ -299,8 +299,8 @@
 <para style="p"><verse number="79" style="v" sid="1CH 6:79"/>Kedemoth, and Mephaath, together with their pasturelands.<verse eid="1CH 6:79"/></para>
 <para style="p"><verse number="80" style="v" sid="1CH 6:80"/>And from the tribe of Gad they were given Ramoth in Gilead, Mahanaim,<verse eid="1CH 6:80"/></para>
 <para style="p"><verse number="81" style="v" sid="1CH 6:81"/>Heshbon, and Jazer, together with their pasturelands.<verse eid="1CH 6:81"/></para>
-<chapter eid="1CH 6"/>
-<chapter number="7" style="c" sid="1CH 7"/>
+<chapter eid="1CH 6" />
+<chapter number="7" style="c" sid="1CH 7" />
 <para style="p"><verse number="1" style="v" sid="1CH 7:1"/>The sons of Issachar: Tola, Puah, Jashub, and Shimron—four in all.<verse eid="1CH 7:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 7:2"/>The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel, the heads of their families. In the days of David, 22,600 descendants of Tola were numbered in their genealogies as mighty men of valor.<verse eid="1CH 7:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 7:3"/>The son of Uzzi: Izrahiah. The sons of Izrahiah: Michael, Obadiah, Joel, and Isshiah. All five of them were chiefs.<verse eid="1CH 7:3"/></para>
@@ -341,8 +341,8 @@
 <para style="p"><verse number="38" style="v" sid="1CH 7:38"/>The sons of Jether: Jephunneh, Pispa, and Ara.<verse eid="1CH 7:38"/></para>
 <para style="p"><verse number="39" style="v" sid="1CH 7:39"/>The sons of Ulla: Arah, Hanniel, and Rizia.<verse eid="1CH 7:39"/></para>
 <para style="p"><verse number="40" style="v" sid="1CH 7:40"/>All these were the descendants of Asher—heads of their families, choice and mighty men of valor, and chiefs among the leaders. The number of men fit for battle, recorded in their genealogies, was 26,000.<verse eid="1CH 7:40"/></para>
-<chapter eid="1CH 7"/>
-<chapter number="8" style="c" sid="1CH 8"/>
+<chapter eid="1CH 7" />
+<chapter number="8" style="c" sid="1CH 8" />
 <para style="p"><verse number="1" style="v" sid="1CH 8:1"/>Benjamin was the father of Bela his firstborn, Ashbel the second, Aharah the third,<verse eid="1CH 8:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 8:2"/>Nohah the fourth, and Rapha the fifth.<verse eid="1CH 8:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 8:3"/>The sons of Bela: Addar, Gera, Abihud,<verse eid="1CH 8:3"/></para>
@@ -383,8 +383,8 @@
 <para style="p"><verse number="38" style="v" sid="1CH 8:38"/>Azel had six sons, and these were their names: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel.<verse eid="1CH 8:38"/></para>
 <para style="p"><verse number="39" style="v" sid="1CH 8:39"/>The sons of his brother Eshek: Ulam was his firstborn, Jeush second, and Eliphelet third.<verse eid="1CH 8:39"/></para>
 <para style="p"><verse number="40" style="v" sid="1CH 8:40"/>The sons of Ulam were mighty men of valor, archers, and they had many sons and grandsons—150 in all. All these were the descendants of Benjamin.<verse eid="1CH 8:40"/></para>
-<chapter eid="1CH 8"/>
-<chapter number="9" style="c" sid="1CH 9"/>
+<chapter eid="1CH 8" />
+<chapter number="9" style="c" sid="1CH 9" />
 <para style="p"><verse number="1" style="v" sid="1CH 9:1"/>So all Israel was recorded in the genealogies written in the Book of the Kings of Israel. But Judah was exiled to Babylon because of their unfaithfulness.<verse eid="1CH 9:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 9:2"/>Now the first to resettle their own property in their cities were Israelites, priests, Levites, and temple servants.<verse eid="1CH 9:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 9:3"/>Some of the descendants of Judah, Benjamin, Ephraim, and Manasseh lived in Jerusalem:<verse eid="1CH 9:3"/></para>
@@ -429,8 +429,8 @@
 <para style="p"><verse number="42" style="v" sid="1CH 9:42"/>Ahaz was the father of Jarah; Jarah was the father of Alemeth, Azmaveth, and Zimri; and Zimri was the father of Moza.<verse eid="1CH 9:42"/></para>
 <para style="p"><verse number="43" style="v" sid="1CH 9:43"/>Moza was the father of Binea. Rephaiah was his son, Elasah his son, and Azel his son.<verse eid="1CH 9:43"/></para>
 <para style="p"><verse number="44" style="v" sid="1CH 9:44"/>And Azel had six sons, and these were their names: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. These were the sons of Azel.<verse eid="1CH 9:44"/></para>
-<chapter eid="1CH 9"/>
-<chapter number="10" style="c" sid="1CH 10"/>
+<chapter eid="1CH 9" />
+<chapter number="10" style="c" sid="1CH 10" />
 <para style="p"><verse number="1" style="v" sid="1CH 10:1"/>Now the Philistines fought against Israel, and the men of Israel fled before them, and many fell slain on Mount Gilboa.<verse eid="1CH 10:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 10:2"/>The Philistines followed hard after Saul and his sons, and they killed Saul’s sons Jonathan, Abinadab, and Malchishua.<verse eid="1CH 10:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 10:3"/>When the battle intensified against Saul, the archers overtook him and wounded him.<verse eid="1CH 10:3"/></para>
@@ -445,8 +445,8 @@
 <para style="p"><verse number="12" style="v" sid="1CH 10:12"/>all their men of valor set out and retrieved the bodies of Saul and his sons and brought them to Jabesh. And they buried their bones under the oak in Jabesh and fasted seven days.<verse eid="1CH 10:12"/></para>
 <para style="p"><verse number="13" style="v" sid="1CH 10:13"/>So Saul died for his unfaithfulness to the LORD, because he did not keep the word of the LORD and even consulted a medium for guidance,<verse eid="1CH 10:13"/></para>
 <para style="p"><verse number="14" style="v" sid="1CH 10:14"/>and he failed to inquire of the LORD. So the LORD put him to death and turned the kingdom over to David son of Jesse.<verse eid="1CH 10:14"/></para>
-<chapter eid="1CH 10"/>
-<chapter number="11" style="c" sid="1CH 11"/>
+<chapter eid="1CH 10" />
+<chapter number="11" style="c" sid="1CH 11" />
 <para style="p"><verse number="1" style="v" sid="1CH 11:1"/>Then all Israel came together to David at Hebron and said, “Here we are, your own flesh and blood.<verse eid="1CH 11:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 11:2"/>Even in times past, while Saul was king, you were the one who led Israel out and brought them back. And the LORD your God said, ‘You will shepherd My people Israel, and you will be ruler over them.’”<verse eid="1CH 11:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 11:3"/>So all the elders of Israel came to the king at Hebron, where David made a covenant with them before the LORD. And they anointed him king over Israel, according to the word of the LORD through Samuel.<verse eid="1CH 11:3"/></para>
@@ -494,8 +494,8 @@
 <para style="p"><verse number="45" style="v" sid="1CH 11:45"/>Jediael son of Shimri and his brother Joha the Tizite,<verse eid="1CH 11:45"/></para>
 <para style="p"><verse number="46" style="v" sid="1CH 11:46"/>Eliel the Mahavite, Jeribai and Joshaviah, the sons of Elnaam, Ithmah the Moabite,<verse eid="1CH 11:46"/></para>
 <para style="p"><verse number="47" style="v" sid="1CH 11:47"/>Eliel, Obed, and Jaasiel the Mezobaite.<verse eid="1CH 11:47"/></para>
-<chapter eid="1CH 11"/>
-<chapter number="12" style="c" sid="1CH 12"/>
+<chapter eid="1CH 11" />
+<chapter number="12" style="c" sid="1CH 12" />
 <para style="p"><verse number="1" style="v" sid="1CH 12:1"/>Now these were the men who came to David at Ziklag, while he was still banished from the presence of Saul son of Kish (they were among the mighty men who helped him in battle;<verse eid="1CH 12:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 12:2"/>they were archers using both the right and left hands to sling stones and shoot arrows; and they were Saul’s kinsmen from Benjamin):<verse eid="1CH 12:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 12:3"/>Ahiezer their chief and Joash, who were the sons of Shemaah the Gibeathite; Jeziel and Pelet, the sons of Azmaveth; Beracah; Jehu the Anathothite;<verse eid="1CH 12:3"/></para>
@@ -536,8 +536,8 @@
 <para style="p"><verse number="38" style="v" sid="1CH 12:38"/>All these men of war, arrayed for battle, came to Hebron fully determined to make David king over all Israel. And all the rest of the Israelites were of one mind to make David king.<verse eid="1CH 12:38"/></para>
 <para style="p"><verse number="39" style="v" sid="1CH 12:39"/>They spent three days there eating and drinking with David, for their relatives had provided for them.<verse eid="1CH 12:39"/></para>
 <para style="p"><verse number="40" style="v" sid="1CH 12:40"/>And their neighbors from as far away as Issachar, Zebulun, and Naphtali came bringing food on donkeys, camels, mules, and oxen—abundant supplies of flour, fig cakes and raisin cakes, wine and oil, oxen and sheep. Indeed, there was joy in Israel.<verse eid="1CH 12:40"/></para>
-<chapter eid="1CH 12"/>
-<chapter number="13" style="c" sid="1CH 13"/>
+<chapter eid="1CH 12" />
+<chapter number="13" style="c" sid="1CH 13" />
 <para style="p"><verse number="1" style="v" sid="1CH 13:1"/>Then David conferred with all his leaders, the commanders of thousands and of hundreds.<verse eid="1CH 13:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 13:2"/>And he said to the whole assembly of Israel, “If it seems good to you, and if this is of the LORD our God, let us send word far and wide to the rest of our brothers in all the land of Israel, and also to the priests and Levites in their cities and pasturelands, so that they may join us.<verse eid="1CH 13:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 13:3"/>Then let us bring back the ark of our God, for we did not inquire of Him in the days of Saul.”<verse eid="1CH 13:3"/></para>
@@ -552,8 +552,8 @@
 <para style="p"><verse number="12" style="v" sid="1CH 13:12"/>That day David feared God and asked, “How can I ever bring the ark of God to me?”<verse eid="1CH 13:12"/></para>
 <para style="p"><verse number="13" style="v" sid="1CH 13:13"/>So he did not move the ark with him to the City of David; instead, he took it aside to the house of Obed-edom the Gittite.<verse eid="1CH 13:13"/></para>
 <para style="p"><verse number="14" style="v" sid="1CH 13:14"/>Thus the ark of God remained with the family of Obed-edom in his house for three months, and the LORD blessed his household and everything he owned.<verse eid="1CH 13:14"/></para>
-<chapter eid="1CH 13"/>
-<chapter number="14" style="c" sid="1CH 14"/>
+<chapter eid="1CH 13" />
+<chapter number="14" style="c" sid="1CH 14" />
 <para style="p"><verse number="1" style="v" sid="1CH 14:1"/>Now Hiram king of Tyre sent envoys to David, along with cedar logs, stonemasons, and carpenters, to build a palace for him.<verse eid="1CH 14:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 14:2"/>And David realized that the LORD had established him as king over Israel and had highly exalted his kingdom for the sake of His people Israel.<verse eid="1CH 14:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 14:3"/>And David took more wives in Jerusalem and became the father of more sons and daughters.<verse eid="1CH 14:3"/></para>
@@ -571,8 +571,8 @@
 <para style="p"><verse number="15" style="v" sid="1CH 14:15"/>As soon as you hear the sound of marching in the tops of the balsam trees, move out to battle, because this will mean that God has gone out before you to strike the camp of the Philistines.”<verse eid="1CH 14:15"/></para>
 <para style="p"><verse number="16" style="v" sid="1CH 14:16"/>So David did as God had commanded him, and they struck down the army of the Philistines all the way from Gibeon to Gezer.<verse eid="1CH 14:16"/></para>
 <para style="p"><verse number="17" style="v" sid="1CH 14:17"/>And David’s fame went out into every land, and the LORD caused all nations to fear him.<verse eid="1CH 14:17"/></para>
-<chapter eid="1CH 14"/>
-<chapter number="15" style="c" sid="1CH 15"/>
+<chapter eid="1CH 14" />
+<chapter number="15" style="c" sid="1CH 15" />
 <para style="p"><verse number="1" style="v" sid="1CH 15:1"/>David constructed buildings for himself in the City of David, and he prepared a place for the ark of God and pitched a tent for it.<verse eid="1CH 15:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 15:2"/>Then David said, “No one but the Levites may carry the ark of God, because the LORD has chosen them to carry the ark of the LORD and to minister before Him forever.”<verse eid="1CH 15:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 15:3"/>And David assembled all Israel in Jerusalem to bring up the ark of the LORD to the place he had prepared for it.<verse eid="1CH 15:3"/></para>
@@ -602,8 +602,8 @@
 <para style="p"><verse number="27" style="v" sid="1CH 15:27"/>Now David was dressed in a robe of fine linen, as were all the Levites who were carrying the ark, as well as the singers and Chenaniah, the director of music for the singers. David also wore a linen ephod.<verse eid="1CH 15:27"/></para>
 <para style="p"><verse number="28" style="v" sid="1CH 15:28"/>So all Israel brought up the ark of the covenant of the LORD with shouting, with the sounding of rams’ horns and trumpets, and with cymbals and the music of harps and lyres.<verse eid="1CH 15:28"/></para>
 <para style="p"><verse number="29" style="v" sid="1CH 15:29"/>As the ark of the covenant of the LORD was entering the City of David, Saul’s daughter Michal looked down from a window and saw King David dancing and celebrating, and she despised him in her heart.<verse eid="1CH 15:29"/></para>
-<chapter eid="1CH 15"/>
-<chapter number="16" style="c" sid="1CH 16"/>
+<chapter eid="1CH 15" />
+<chapter number="16" style="c" sid="1CH 16" />
 <para style="p"><verse number="1" style="v" sid="1CH 16:1"/>So they brought the ark of God and placed it inside the tent that David had pitched for it. And they presented burnt offerings and peace offerings before God.<verse eid="1CH 16:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 16:2"/>When David had finished sacrificing the burnt offerings and peace offerings, he blessed the people in the name of the LORD.<verse eid="1CH 16:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 16:3"/>Then he distributed to every man and woman of Israel a loaf of bread, a date cake, and a raisin cake.<verse eid="1CH 16:3"/></para>
@@ -647,8 +647,8 @@
 <para style="p"><verse number="41" style="v" sid="1CH 16:41"/>With them were Heman, Jeduthun, and the rest of those chosen and designated by name to give thanks to the LORD, for “His loving devotion endures forever.”<verse eid="1CH 16:41"/></para>
 <para style="p"><verse number="42" style="v" sid="1CH 16:42"/>Heman and Jeduthun had with them trumpets and cymbals for the music and instruments for the songs of God. And the sons of Jeduthun were stationed at the gate.<verse eid="1CH 16:42"/></para>
 <para style="p"><verse number="43" style="v" sid="1CH 16:43"/>Then all the people departed for their homes, and David returned home to bless his household.<verse eid="1CH 16:43"/></para>
-<chapter eid="1CH 16"/>
-<chapter number="17" style="c" sid="1CH 17"/>
+<chapter eid="1CH 16" />
+<chapter number="17" style="c" sid="1CH 17" />
 <para style="p"><verse number="1" style="v" sid="1CH 17:1"/>After David had settled into his palace, he said to Nathan the prophet, “Here I am, living in a house of cedar, while the ark of the covenant of the LORD is under a tent.”<verse eid="1CH 17:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 17:2"/>And Nathan replied to David, “Do all that is in your heart, for God is with you.”<verse eid="1CH 17:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 17:3"/>But that night the word of God came to Nathan, saying,<verse eid="1CH 17:3"/></para>
@@ -676,8 +676,8 @@
 <para style="p"><verse number="25" style="v" sid="1CH 17:25"/>For You, my God, have revealed to Your servant that You will build a house for him. Therefore Your servant has found the courage to pray before You.<verse eid="1CH 17:25"/></para>
 <para style="p"><verse number="26" style="v" sid="1CH 17:26"/>And now, O LORD, You are God! And You have promised this goodness to Your servant.<verse eid="1CH 17:26"/></para>
 <para style="p"><verse number="27" style="v" sid="1CH 17:27"/>So now You have been pleased to bless the house of Your servant, that it may continue forever before You. For You, O LORD, have blessed it, and it will be blessed forever.”<verse eid="1CH 17:27"/></para>
-<chapter eid="1CH 17"/>
-<chapter number="18" style="c" sid="1CH 18"/>
+<chapter eid="1CH 17" />
+<chapter number="18" style="c" sid="1CH 18" />
 <para style="p"><verse number="1" style="v" sid="1CH 18:1"/>Some time later, David defeated the Philistines, subdued them, and took Gath and its villages from the hand of the Philistines.<verse eid="1CH 18:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 18:2"/>David also defeated the Moabites, and they became subject to David and brought him tribute.<verse eid="1CH 18:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 18:3"/>As far as Hamath, David also defeated King Hadadezer of Zobah, who had marched out to establish his dominion along the Euphrates River.<verse eid="1CH 18:3"/></para>
@@ -695,8 +695,8 @@
 <para style="p"><verse number="15" style="v" sid="1CH 18:15"/>Joab son of Zeruiah was over the army; Jehoshaphat son of Ahilud was the recorder;<verse eid="1CH 18:15"/></para>
 <para style="p"><verse number="16" style="v" sid="1CH 18:16"/>Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Shavsha was the scribe;<verse eid="1CH 18:16"/></para>
 <para style="p"><verse number="17" style="v" sid="1CH 18:17"/>Benaiah son of Jehoiada was over the Cherethites and Pelethites; and David’s sons were chief officials at the king’s side.<verse eid="1CH 18:17"/></para>
-<chapter eid="1CH 18"/>
-<chapter number="19" style="c" sid="1CH 19"/>
+<chapter eid="1CH 18" />
+<chapter number="19" style="c" sid="1CH 19" />
 <para style="p"><verse number="1" style="v" sid="1CH 19:1"/>Some time later, Nahash king of the Ammonites died and was succeeded by his son.<verse eid="1CH 19:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 19:2"/>And David said, “I will show kindness to Hanun son of Nahash, because his father showed kindness to me.” So David sent messengers to console Hanun concerning his father. But when David’s servants arrived in the land of the Ammonites to console him,<verse eid="1CH 19:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 19:3"/>the princes of the Ammonites said to Hanun, “Just because David has sent you comforters, do you really believe he is showing respect for your father? Have not his servants come to you to explore the land, spy it out, and overthrow it?”<verse eid="1CH 19:3"/></para>
@@ -716,8 +716,8 @@
 <para style="p"><verse number="17" style="v" sid="1CH 19:17"/>When this was reported to David, he gathered all Israel, crossed the Jordan, advanced toward the Arameans, and arrayed for battle against them. When David lined up to engage them in battle, they fought against him.<verse eid="1CH 19:17"/></para>
 <para style="p"><verse number="18" style="v" sid="1CH 19:18"/>But the Arameans fled before Israel, and David killed seven thousand of their charioteers and forty thousand foot soldiers. He also killed Shophach the commander of their army.<verse eid="1CH 19:18"/></para>
 <para style="p"><verse number="19" style="v" sid="1CH 19:19"/>When Hadadezer’s subjects saw that they had been defeated by Israel, they made peace with David and became subject to him. So the Arameans were unwilling to help the Ammonites anymore.<verse eid="1CH 19:19"/></para>
-<chapter eid="1CH 19"/>
-<chapter number="20" style="c" sid="1CH 20"/>
+<chapter eid="1CH 19" />
+<chapter number="20" style="c" sid="1CH 20" />
 <para style="p"><verse number="1" style="v" sid="1CH 20:1"/>In the spring, at the time when kings march out to war, Joab led out the army and ravaged the land of the Ammonites. He came to Rabbah and besieged it, but David remained in Jerusalem. And Joab attacked Rabbah and demolished it.<verse eid="1CH 20:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 20:2"/>Then David took the crown from the head of their king. It was found to weigh a talent of gold and was set with precious stones, and it was placed on David’s head. And David took a great amount of plunder from the city.<verse eid="1CH 20:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 20:3"/>David brought out the people who were there and put them to work with saws, iron picks, and axes. And he did the same to all the Ammonite cities. Then David and all his troops returned to Jerusalem.<verse eid="1CH 20:3"/></para>
@@ -726,8 +726,8 @@
 <para style="p"><verse number="6" style="v" sid="1CH 20:6"/>And there was also a battle at Gath, where there was a man of great stature with six fingers on each hand and six toes on each foot—twenty-four in all. He too was descended from Rapha,<verse eid="1CH 20:6"/></para>
 <para style="p"><verse number="7" style="v" sid="1CH 20:7"/>and when he taunted Israel, Jonathan the son of David’s brother Shimei killed him.<verse eid="1CH 20:7"/></para>
 <para style="p"><verse number="8" style="v" sid="1CH 20:8"/>So these descendants of Rapha in Gath fell at the hands of David and his servants.<verse eid="1CH 20:8"/></para>
-<chapter eid="1CH 20"/>
-<chapter number="21" style="c" sid="1CH 21"/>
+<chapter eid="1CH 20" />
+<chapter number="21" style="c" sid="1CH 21" />
 <para style="p"><verse number="1" style="v" sid="1CH 21:1"/>Then Satan rose up against Israel and incited David to take a census of Israel.<verse eid="1CH 21:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 21:2"/>So David said to Joab and the commanders of the troops, “Go and count the Israelites from Beersheba to Dan and bring me a report, so that I may know their number.”<verse eid="1CH 21:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 21:3"/>But Joab replied, “May the LORD multiply His troops a hundred times over. My lord the king, are they not all servants of my lord? Why does my lord want to do this? Why should he bring guilt on Israel?”<verse eid="1CH 21:3"/></para>
@@ -758,8 +758,8 @@
 <para style="p"><verse number="28" style="v" sid="1CH 21:28"/>At that time, when David saw that the LORD had answered him at the threshing floor of Ornan the Jebusite, he offered sacrifices there.<verse eid="1CH 21:28"/></para>
 <para style="p"><verse number="29" style="v" sid="1CH 21:29"/>For the tabernacle of the LORD that Moses had made in the wilderness and the altar of burnt offering were presently at the high place in Gibeon,<verse eid="1CH 21:29"/></para>
 <para style="p"><verse number="30" style="v" sid="1CH 21:30"/>but David could not go before it to inquire of God, because he was afraid of the sword of the angel of the LORD.<verse eid="1CH 21:30"/></para>
-<chapter eid="1CH 21"/>
-<chapter number="22" style="c" sid="1CH 22"/>
+<chapter eid="1CH 21" />
+<chapter number="22" style="c" sid="1CH 22" />
 <para style="p"><verse number="1" style="v" sid="1CH 22:1"/>Then David said, “Here shall be the house of the LORD God, as well as the altar of burnt offering for Israel.”<verse eid="1CH 22:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 22:2"/>So David gave orders to gather the foreigners in the land of Israel, from whom he appointed stonecutters to prepare finished stones for building the house of God.<verse eid="1CH 22:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 22:3"/>David provided a large quantity of iron to make the nails for the doors of the gateways and for the fittings, together with more bronze than could be weighed<verse eid="1CH 22:3"/></para>
@@ -779,8 +779,8 @@
 <para style="p"><verse number="17" style="v" sid="1CH 22:17"/>Then David ordered all the leaders of Israel to help his son Solomon:<verse eid="1CH 22:17"/></para>
 <para style="p"><verse number="18" style="v" sid="1CH 22:18"/>“Is not the LORD your God with you, and has He not granted you rest on every side? For He has given the inhabitants of the land into my hand, and the land has been subdued before the LORD and His people.<verse eid="1CH 22:18"/></para>
 <para style="p"><verse number="19" style="v" sid="1CH 22:19"/>Now set your heart and soul to seek the LORD your God. Begin building the sanctuary of the LORD God, so that you may bring the ark of the covenant of the LORD and the holy articles of God into the temple that will be built for the Name of the LORD.”<verse eid="1CH 22:19"/></para>
-<chapter eid="1CH 22"/>
-<chapter number="23" style="c" sid="1CH 23"/>
+<chapter eid="1CH 22" />
+<chapter number="23" style="c" sid="1CH 23" />
 <para style="p"><verse number="1" style="v" sid="1CH 23:1"/>When David was old and full of years, he installed his son Solomon as king over Israel.<verse eid="1CH 23:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 23:2"/>Then he gathered all the leaders of Israel, as well as the priests and Levites.<verse eid="1CH 23:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 23:3"/>The Levites thirty years of age or older were counted, and the total number of men was 38,000.<verse eid="1CH 23:3"/></para>
@@ -813,8 +813,8 @@
 <para style="p"><verse number="30" style="v" sid="1CH 23:30"/>They were also to stand every morning to give thanks and praise to the LORD, and likewise in the evening.<verse eid="1CH 23:30"/></para>
 <para style="p"><verse number="31" style="v" sid="1CH 23:31"/>Whenever burnt offerings were presented to the LORD on the Sabbaths, New Moons, and appointed feasts, they were to serve regularly before the LORD in the numbers prescribed for them.<verse eid="1CH 23:31"/></para>
 <para style="p"><verse number="32" style="v" sid="1CH 23:32"/>So the Levites were to carry out the responsibilities for the Tent of Meeting and the Holy Place, and, under their brothers the descendants of Aaron, the service of the house of the LORD.<verse eid="1CH 23:32"/></para>
-<chapter eid="1CH 23"/>
-<chapter number="24" style="c" sid="1CH 24"/>
+<chapter eid="1CH 23" />
+<chapter number="24" style="c" sid="1CH 24" />
 <para style="p"><verse number="1" style="v" sid="1CH 24:1"/>These were the divisions of the descendants of Aaron. The sons of Aaron were Nadab, Abihu, Eleazar, and Ithamar.<verse eid="1CH 24:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 24:2"/>But Nadab and Abihu died before their father did, and they had no sons; so Eleazar and Ithamar served as priests.<verse eid="1CH 24:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 24:3"/>With the help of Eleazar’s descendant Zadok and Ithamar’s descendant Ahimelech, David divided them according to the offices of their service.<verse eid="1CH 24:3"/></para>
@@ -846,8 +846,8 @@
 <para style="p"><verse number="29" style="v" sid="1CH 24:29"/>From Kish: Jerahmeel the son of Kish.<verse eid="1CH 24:29"/></para>
 <para style="p"><verse number="30" style="v" sid="1CH 24:30"/>And the sons of Mushi: Mahli, Eder, and Jerimoth. These were the sons of the Levites, according to their families.<verse eid="1CH 24:30"/></para>
 <para style="p"><verse number="31" style="v" sid="1CH 24:31"/>As their brothers the descendants of Aaron did, they also cast lots in the presence of King David and of Zadok, Ahimelech, and the heads of the families of the priests and Levites—the family heads and their younger brothers alike.<verse eid="1CH 24:31"/></para>
-<chapter eid="1CH 24"/>
-<chapter number="25" style="c" sid="1CH 25"/>
+<chapter eid="1CH 24" />
+<chapter number="25" style="c" sid="1CH 25" />
 <para style="p"><verse number="1" style="v" sid="1CH 25:1"/>Additionally, David and the commanders of the army set apart some of the sons of Asaph, Heman, and Jeduthun to prophesy with the accompaniment of lyres, harps, and cymbals. The following is the list of the men who performed this service:<verse eid="1CH 25:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 25:2"/>From the sons of Asaph: Zaccur, Joseph, Nethaniah, and Asarelah. These sons of Asaph were under the direction of Asaph, who prophesied under the direction of the king.<verse eid="1CH 25:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 25:3"/>From the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah—six in all—under the direction of their father Jeduthun, who prophesied with the harp, giving thanks and praise to the LORD.<verse eid="1CH 25:3"/></para>
@@ -879,8 +879,8 @@
 <para style="p"><verse number="29" style="v" sid="1CH 25:29"/>the twenty-second to Giddalti, his sons, and his brothers—12 in all;<verse eid="1CH 25:29"/></para>
 <para style="p"><verse number="30" style="v" sid="1CH 25:30"/>the twenty-third to Mahazioth, his sons, and his brothers—12 in all;<verse eid="1CH 25:30"/></para>
 <para style="p"><verse number="31" style="v" sid="1CH 25:31"/>and the twenty-fourth to Romamti-ezer, his sons, and his brothers—12 in all.<verse eid="1CH 25:31"/></para>
-<chapter eid="1CH 25"/>
-<chapter number="26" style="c" sid="1CH 26"/>
+<chapter eid="1CH 25" />
+<chapter number="26" style="c" sid="1CH 26" />
 <para style="p"><verse number="1" style="v" sid="1CH 26:1"/>These were the divisions of the gatekeepers: From the Korahites: Meshelemiah son of Kore, one of the sons of Asaph.<verse eid="1CH 26:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 26:2"/>Meshelemiah had sons: Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,<verse eid="1CH 26:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 26:3"/>Elam the fifth, Jehohanan the sixth, and Eliehoenai the seventh.<verse eid="1CH 26:3"/></para>
@@ -913,8 +913,8 @@
 <para style="p"><verse number="30" style="v" sid="1CH 26:30"/>From the Hebronites, Hashabiah and his relatives, 1,700 capable men, had charge of the affairs of Israel west of the Jordan for all the work of the LORD and for the service of the king.<verse eid="1CH 26:30"/></para>
 <para style="p"><verse number="31" style="v" sid="1CH 26:31"/>As for the Hebronites, Jerijah was the chief of the Hebronites, according to the genealogies of his ancestors. In the fortieth year of David’s reign the records were searched, and strong, capable men were found among the Hebronites at Jazer in Gilead.<verse eid="1CH 26:31"/></para>
 <para style="p"><verse number="32" style="v" sid="1CH 26:32"/>Among Jerijah’s relatives there were 2,700 capable men who were heads of families. King David appointed them over the Reubenites, the Gadites, and the half-tribe of Manasseh for every matter pertaining to God and for the affairs of the king.<verse eid="1CH 26:32"/></para>
-<chapter eid="1CH 26"/>
-<chapter number="27" style="c" sid="1CH 27"/>
+<chapter eid="1CH 26" />
+<chapter number="27" style="c" sid="1CH 27" />
 <para style="p"><verse number="1" style="v" sid="1CH 27:1"/>This is the list of the Israelites—the heads of families, the commanders of thousands and of hundreds, and their officers who served the king in every matter concerning the divisions on rotating military duty each month throughout the year. There were 24,000 men in each division:<verse eid="1CH 27:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 27:2"/>Jashobeam son of Zabdiel was in charge of the first division, which was assigned the first month. There were 24,000 men in his division.<verse eid="1CH 27:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 27:3"/>He was a descendant of Perez and chief of all the army commanders for the first month.<verse eid="1CH 27:3"/></para>
@@ -949,8 +949,8 @@
 <para style="p"><verse number="32" style="v" sid="1CH 27:32"/>David’s uncle Jonathan was a counselor; he was a man of insight and a scribe. Jehiel son of Hachmoni attended to the sons of the king.<verse eid="1CH 27:32"/></para>
 <para style="p"><verse number="33" style="v" sid="1CH 27:33"/>Ahithophel was the king’s counselor. Hushai the Archite was the king’s friend.<verse eid="1CH 27:33"/></para>
 <para style="p"><verse number="34" style="v" sid="1CH 27:34"/>Ahithophel was succeeded by Jehoiada son of Benaiah, then by Abiathar. Joab was the commander of the king’s army.<verse eid="1CH 27:34"/></para>
-<chapter eid="1CH 27"/>
-<chapter number="28" style="c" sid="1CH 28"/>
+<chapter eid="1CH 27" />
+<chapter number="28" style="c" sid="1CH 28" />
 <para style="p"><verse number="1" style="v" sid="1CH 28:1"/>Now David summoned all the leaders of Israel to Jerusalem: the leaders of the tribes, the leaders of the divisions in the king’s service, the commanders of thousands and of hundreds, and the officials in charge of all the property and cattle of the king and his sons, along with the court officials and mighty men—every mighty man of valor.<verse eid="1CH 28:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 28:2"/>Then King David rose to his feet and said, “Listen to me, my brothers and my people. It was in my heart to build a house as a resting place for the ark of the covenant of the LORD and as a footstool for our God. I had made preparations to build it,<verse eid="1CH 28:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 28:3"/>but God said to me, ‘You are not to build a house for My Name, because you are a man of war who has shed blood.’<verse eid="1CH 28:3"/></para>
@@ -972,8 +972,8 @@
 <para style="p"><verse number="19" style="v" sid="1CH 28:19"/>“All this,” said David, “all the details of this plan, the LORD has made clear to me in writing by His hand upon me.”<verse eid="1CH 28:19"/></para>
 <para style="p"><verse number="20" style="v" sid="1CH 28:20"/>David also said to Solomon his son, “Be strong and courageous, and do it. Do not be afraid or discouraged, for the LORD God, my God, is with you. He will neither fail you nor forsake you before all the work for the service of the house of the LORD is finished.<verse eid="1CH 28:20"/></para>
 <para style="p"><verse number="21" style="v" sid="1CH 28:21"/>The divisions of the priests and Levites are ready for all the service of the house of God, and every willing man of every skill will be at your disposal for the work. The officials and all the people are fully at your command.”<verse eid="1CH 28:21"/></para>
-<chapter eid="1CH 28"/>
-<chapter number="29" style="c" sid="1CH 29"/>
+<chapter eid="1CH 28" />
+<chapter number="29" style="c" sid="1CH 29" />
 <para style="p"><verse number="1" style="v" sid="1CH 29:1"/>Then King David said to the whole assembly, “My son Solomon, the one whom God has chosen, is young and inexperienced. The task is great because this palace is not for man, but for the LORD God.<verse eid="1CH 29:1"/></para>
 <para style="p"><verse number="2" style="v" sid="1CH 29:2"/>Now with all my ability I have made provision for the house of my God—gold for the gold articles, silver for the silver, bronze for the bronze, iron for the iron, and wood for the wood, as well as onyx for the settings, turquoise, stones of various colors, all kinds of precious stones, and slabs of marble—all in abundance.<verse eid="1CH 29:2"/></para>
 <para style="p"><verse number="3" style="v" sid="1CH 29:3"/>Moreover, because of my delight in the house of my God, I now give for it my personal treasures of gold and silver, over and above all that I have provided for this holy temple:<verse eid="1CH 29:3"/></para>
@@ -1004,5 +1004,5 @@
 <para style="p"><verse number="28" style="v" sid="1CH 29:28"/>He died at a ripe old age, full of years, riches, and honor, and his son Solomon reigned in his place.<verse eid="1CH 29:28"/></para>
 <para style="p"><verse number="29" style="v" sid="1CH 29:29"/>Now the acts of King David, from first to last, are indeed written in the Chronicles of Samuel the Seer, the Chronicles of Nathan the Prophet, and the Chronicles of Gad the Seer,<verse eid="1CH 29:29"/></para>
 <para style="p"><verse number="30" style="v" sid="1CH 29:30"/>together with all the details of his reign, his might, and the circumstances that came upon him and Israel and all the kingdoms of the lands.<verse eid="1CH 29:30"/></para>
-<chapter eid="1CH 29"/>
+<chapter eid="1CH 29" />
 </usx>

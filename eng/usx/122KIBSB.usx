@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="2KI" style="id">- Berean Standard Bible -</book>
+<book code="2KI" style="id">- 2 Kings -</book>
 <para style="h">2 Kings</para>
 <para style="toc1">2 Kings</para>
 <para style="toc2">2 Kings</para>
 <para style="mt1">2 Kings</para>
-<chapter number="1" style="c" sid="2KI 1"/>
+<chapter number="1" style="c" sid="2KI 1" />
 <para style="p"><verse number="1" style="v" sid="2KI 1:1"/>After the death of Ahab, Moab rebelled against Israel.<verse eid="2KI 1:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 1:2"/>Now Ahaziah had fallen through the lattice of his upper room in Samaria and injured himself. So he sent messengers and instructed them: “Go inquire of Baal-zebub, the god of Ekron, whether I will recover from this injury.”<verse eid="2KI 1:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 1:3"/>But the angel of the LORD said to Elijah the Tishbite, “Go up to meet the messengers of the king of Samaria and ask them, ‘Is it because there is no God in Israel that you are on your way to inquire of Baal-zebub, the god of Ekron?’<verse eid="2KI 1:3"/></para>
@@ -24,8 +24,8 @@
 <para style="p"><verse number="16" style="v" sid="2KI 1:16"/>And Elijah said to King Ahaziah, “This is what the LORD says: Is there really no God in Israel for you to inquire of His word? Is that why you have sent messengers to inquire of Baal-zebub, the god of Ekron? Therefore you will not get up from the bed on which you are lying. You will surely die.”<verse eid="2KI 1:16"/></para>
 <para style="p"><verse number="17" style="v" sid="2KI 1:17"/>So Ahaziah died according to the word of the LORD that Elijah had spoken. And since he had no son, Jehoram succeeded him in the second year of the reign of Jehoram son of Jehoshaphat over Judah.<verse eid="2KI 1:17"/></para>
 <para style="p"><verse number="18" style="v" sid="2KI 1:18"/>As for the rest of the acts of Ahaziah, along with his accomplishments, are they not written in the Book of the Chronicles of the Kings of Israel?<verse eid="2KI 1:18"/></para>
-<chapter eid="2KI 1"/>
-<chapter number="2" style="c" sid="2KI 2"/>
+<chapter eid="2KI 1" />
+<chapter number="2" style="c" sid="2KI 2" />
 <para style="p"><verse number="1" style="v" sid="2KI 2:1"/>Shortly before the LORD took Elijah up to heaven in a whirlwind, Elijah and Elisha were on their way from Gilgal,<verse eid="2KI 2:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 2:2"/>and Elijah said to Elisha, “Please stay here, for the LORD has sent me on to Bethel.” But Elisha replied, “As surely as the LORD lives and as you yourself live, I will not leave you.” So they went down to Bethel.<verse eid="2KI 2:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 2:3"/>Then the sons of the prophets at Bethel came out to Elisha and said, “Do you know that the LORD will take your master away from you today?” “Yes, I know,” he replied. “Do not speak of it.”<verse eid="2KI 2:3"/></para>
@@ -51,8 +51,8 @@
 <para style="p"><verse number="23" style="v" sid="2KI 2:23"/>From there, Elisha went up to Bethel, and as he was walking up the road, a group of boys came out of the city and jeered at him, chanting, “Go up, you baldhead! Go up, you baldhead!”<verse eid="2KI 2:23"/></para>
 <para style="p"><verse number="24" style="v" sid="2KI 2:24"/>Then he turned around, looked at them, and called down a curse on them in the name of the LORD. Suddenly two female bears came out of the woods and mauled forty-two of the boys.<verse eid="2KI 2:24"/></para>
 <para style="p"><verse number="25" style="v" sid="2KI 2:25"/>And Elisha went on to Mount Carmel, and from there he returned to Samaria.<verse eid="2KI 2:25"/></para>
-<chapter eid="2KI 2"/>
-<chapter number="3" style="c" sid="2KI 3"/>
+<chapter eid="2KI 2" />
+<chapter number="3" style="c" sid="2KI 3" />
 <para style="p"><verse number="1" style="v" sid="2KI 3:1"/>In the eighteenth year of Jehoshaphat’s reign over Judah, Jehoram son of Ahab became king of Israel, and he reigned in Samaria twelve years.<verse eid="2KI 3:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 3:2"/>And he did evil in the sight of the LORD, but not as his father and mother had done. He removed the sacred pillar of Baal that his father had made.<verse eid="2KI 3:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 3:3"/>Nevertheless, he clung to the sins that Jeroboam son of Nebat had caused Israel to commit; he did not turn away from them.<verse eid="2KI 3:3"/></para>
@@ -80,8 +80,8 @@
 <para style="p"><verse number="25" style="v" sid="2KI 3:25"/>They destroyed the cities, and each man threw stones on every good field until it was covered. They stopped up every spring and cut down every good tree. Only Kir-haraseth was left with stones in place, but men with slings surrounded it and attacked it as well.<verse eid="2KI 3:25"/></para>
 <para style="p"><verse number="26" style="v" sid="2KI 3:26"/>When the king of Moab saw that the battle was too fierce for him, he took with him seven hundred swordsmen to break through to the king of Edom, but they could not prevail.<verse eid="2KI 3:26"/></para>
 <para style="p"><verse number="27" style="v" sid="2KI 3:27"/>So he took his firstborn son, who was to succeed him, and offered him as a burnt offering on the city wall. And there was great fury against the Israelites, so they withdrew and returned to their own land.<verse eid="2KI 3:27"/></para>
-<chapter eid="2KI 3"/>
-<chapter number="4" style="c" sid="2KI 4"/>
+<chapter eid="2KI 3" />
+<chapter number="4" style="c" sid="2KI 4" />
 <para style="p"><verse number="1" style="v" sid="2KI 4:1"/>Now the wife of one of the sons of the prophets cried out to Elisha, “Your servant, my husband, is dead, and you know that your servant feared the LORD. And now his creditor is coming to take my two children as his slaves!”<verse eid="2KI 4:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 4:2"/>“How can I help you?” asked Elisha. “Tell me, what do you have in the house?” She answered, “Your servant has nothing in the house but a jar of oil.”<verse eid="2KI 4:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 4:3"/>“Go,” said Elisha, “borrow empty jars from all your neighbors. Do not gather just a few.<verse eid="2KI 4:3"/></para>
@@ -126,8 +126,8 @@
 <para style="p"><verse number="42" style="v" sid="2KI 4:42"/>Now a man from Baal-shalishah came to the man of God with a sack of twenty loaves of barley bread from the first ripe grain. “Give it to the people to eat,” said Elisha.<verse eid="2KI 4:42"/></para>
 <para style="p"><verse number="43" style="v" sid="2KI 4:43"/>But his servant asked, “How am I to set twenty loaves before a hundred men?” “Give it to the people to eat,” said Elisha, “for this is what the LORD says: ‘They will eat and have some left over.’”<verse eid="2KI 4:43"/></para>
 <para style="p"><verse number="44" style="v" sid="2KI 4:44"/>So he set it before them, and they ate and had some left over, according to the word of the LORD.<verse eid="2KI 4:44"/></para>
-<chapter eid="2KI 4"/>
-<chapter number="5" style="c" sid="2KI 5"/>
+<chapter eid="2KI 4" />
+<chapter number="5" style="c" sid="2KI 5" />
 <para style="p"><verse number="1" style="v" sid="2KI 5:1"/>Now Naaman, the commander of the army of the king of Aram, was a great man in his master’s sight and highly regarded, for through him the LORD had given victory to Aram. And he was a mighty man of valor, but he was a leper.<verse eid="2KI 5:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 5:2"/>At this time the Arameans had gone out in bands and had taken a young girl from the land of Israel, and she was serving Naaman’s wife.<verse eid="2KI 5:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 5:3"/>She said to her mistress, “If only my master would go to the prophet who is in Samaria, he would cure him of his leprosy.”<verse eid="2KI 5:3"/></para>
@@ -155,8 +155,8 @@
 <para style="p"><verse number="25" style="v" sid="2KI 5:25"/>When Gehazi went in and stood before his master, Elisha asked him, “Gehazi, where have you been?” “Your servant did not go anywhere,” he replied.<verse eid="2KI 5:25"/></para>
 <para style="p"><verse number="26" style="v" sid="2KI 5:26"/>But Elisha questioned him, “Did not my spirit go with you when the man got down from his chariot to meet you? Is this the time to accept money and clothing, olive groves and vineyards, sheep and oxen, menservants and maidservants?<verse eid="2KI 5:26"/></para>
 <para style="p"><verse number="27" style="v" sid="2KI 5:27"/>Therefore, the leprosy of Naaman will cling to you and your descendants forever!” And as Gehazi left his presence, he was leprous—as white as snow.<verse eid="2KI 5:27"/></para>
-<chapter eid="2KI 5"/>
-<chapter number="6" style="c" sid="2KI 6"/>
+<chapter eid="2KI 5" />
+<chapter number="6" style="c" sid="2KI 6" />
 <para style="p"><verse number="1" style="v" sid="2KI 6:1"/>Now the sons of the prophets said to Elisha, “Please take note that the place where we meet with you is too small for us.<verse eid="2KI 6:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 6:2"/>Please let us go to the Jordan, where each of us can get a log so we can build ourselves a place to live there.” “Go,” said Elisha.<verse eid="2KI 6:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 6:3"/>Then one of them said, “Please come with your servants.” “I will come,” he replied.<verse eid="2KI 6:3"/></para>
@@ -190,8 +190,8 @@
 <para style="p"><verse number="31" style="v" sid="2KI 6:31"/>He announced, “May God punish me, and ever so severely, if the head of Elisha son of Shaphat remains on his shoulders through this day!”<verse eid="2KI 6:31"/></para>
 <para style="p"><verse number="32" style="v" sid="2KI 6:32"/>Now Elisha was sitting in his house, and the elders were sitting with him. The king sent a messenger ahead, but before he arrived, Elisha said to the elders, “Do you see how this murderer has sent someone to cut off my head? Look, when the messenger comes, shut the door to keep him out. Is not the sound of his master’s footsteps behind him?”<verse eid="2KI 6:32"/></para>
 <para style="p"><verse number="33" style="v" sid="2KI 6:33"/>While Elisha was still speaking with them, the messenger came down to him. And the king said, “This calamity is from the LORD. Why should I wait for the LORD any longer?”<verse eid="2KI 6:33"/></para>
-<chapter eid="2KI 6"/>
-<chapter number="7" style="c" sid="2KI 7"/>
+<chapter eid="2KI 6" />
+<chapter number="7" style="c" sid="2KI 7" />
 <para style="p"><verse number="1" style="v" sid="2KI 7:1"/>Then Elisha said, “Hear the word of the LORD! This is what the LORD says: ‘About this time tomorrow at the gate of Samaria, a seah of fine flour will sell for a shekel, and two seahs of barley will sell for a shekel.’”<verse eid="2KI 7:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 7:2"/>But the officer on whose arm the king leaned answered the man of God, “Look, even if the LORD were to make windows in heaven, could this really happen?” “You will see it with your own eyes,” replied Elisha, “but you will not eat any of it.”<verse eid="2KI 7:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 7:3"/>Now there were four men with leprosy at the entrance of the city gate, and they said to one another, “Why just sit here until we die?<verse eid="2KI 7:3"/></para>
@@ -212,8 +212,8 @@
 <para style="p"><verse number="18" style="v" sid="2KI 7:18"/>It happened just as the man of God had told the king: “About this time tomorrow at the gate of Samaria, two seahs of barley will sell for a shekel, and a seah of fine flour will sell for a shekel.”<verse eid="2KI 7:18"/></para>
 <para style="p"><verse number="19" style="v" sid="2KI 7:19"/>And the officer had answered the man of God, “Look, even if the LORD were to make windows in heaven, could this really happen?” So Elisha had replied, “You will see it with your own eyes, but you will not eat any of it!”<verse eid="2KI 7:19"/></para>
 <para style="p"><verse number="20" style="v" sid="2KI 7:20"/>And that is just what happened to him. The people trampled him in the gateway, and he died.<verse eid="2KI 7:20"/></para>
-<chapter eid="2KI 7"/>
-<chapter number="8" style="c" sid="2KI 8"/>
+<chapter eid="2KI 7" />
+<chapter number="8" style="c" sid="2KI 8" />
 <para style="p"><verse number="1" style="v" sid="2KI 8:1"/>Now Elisha had said to the woman whose son he had restored to life, “Arise, you and your household; go and live as a foreigner wherever you can. For the LORD has decreed that a seven-year famine will come to the land.”<verse eid="2KI 8:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 8:2"/>So the woman had proceeded to do as the man of God had instructed. And she and her household lived as foreigners for seven years in the land of the Philistines.<verse eid="2KI 8:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 8:3"/>At the end of seven years, when the woman returned from the land of the Philistines, she went to the king to appeal for her house and her land.<verse eid="2KI 8:3"/></para>
@@ -243,8 +243,8 @@
 <para style="p"><verse number="27" style="v" sid="2KI 8:27"/>And Ahaziah walked in the ways of the house of Ahab and did evil in the sight of the LORD like the house of Ahab, for he was a son-in-law of the house of Ahab.<verse eid="2KI 8:27"/></para>
 <para style="p"><verse number="28" style="v" sid="2KI 8:28"/>Then Ahaziah went with Joram son of Ahab to fight against Hazael king of Aram at Ramoth-gilead, and the Arameans wounded Joram.<verse eid="2KI 8:28"/></para>
 <para style="p"><verse number="29" style="v" sid="2KI 8:29"/>So King Joram returned to Jezreel to recover from the wounds that the Arameans had inflicted on him at Ramah when he fought against Hazael king of Aram. Then Ahaziah son of Jehoram king of Judah went down to Jezreel to visit Joram son of Ahab, because Joram had been wounded.<verse eid="2KI 8:29"/></para>
-<chapter eid="2KI 8"/>
-<chapter number="9" style="c" sid="2KI 9"/>
+<chapter eid="2KI 8" />
+<chapter number="9" style="c" sid="2KI 9" />
 <para style="p"><verse number="1" style="v" sid="2KI 9:1"/>Now Elisha the prophet summoned one of the sons of the prophets and said to him, “Tuck your cloak under your belt, take this flask of oil, and go to Ramoth-gilead.<verse eid="2KI 9:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 9:2"/>When you arrive, look for Jehu son of Jehoshaphat, the son of Nimshi. Go in, get him away from his companions, and take him to an inner room.<verse eid="2KI 9:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 9:3"/>Then take the flask of oil, pour it on his head, and declare, ‘This is what the LORD says: I anoint you king over Israel.’ Then open the door and run. Do not delay!”<verse eid="2KI 9:3"/></para>
@@ -282,8 +282,8 @@
 <para style="p"><verse number="35" style="v" sid="2KI 9:35"/>But when they went out to bury her, they found nothing but her skull, her feet, and the palms of her hands.<verse eid="2KI 9:35"/></para>
 <para style="p"><verse number="36" style="v" sid="2KI 9:36"/>So they went back and told Jehu, who replied, “This is the word of the LORD, which He spoke through His servant Elijah the Tishbite: ‘On the plot of ground at Jezreel the dogs will devour the flesh of Jezebel.<verse eid="2KI 9:36"/></para>
 <para style="p"><verse number="37" style="v" sid="2KI 9:37"/>And Jezebel’s body will lie like dung in the field on the plot of ground at Jezreel, so that no one can say: This is Jezebel.’”<verse eid="2KI 9:37"/></para>
-<chapter eid="2KI 9"/>
-<chapter number="10" style="c" sid="2KI 10"/>
+<chapter eid="2KI 9" />
+<chapter number="10" style="c" sid="2KI 10" />
 <para style="p"><verse number="1" style="v" sid="2KI 10:1"/>Now Ahab had seventy sons in Samaria. So Jehu wrote letters and sent them to Samaria to the officials of Jezreel, to the elders, and to the guardians of the sons of Ahab, saying:<verse eid="2KI 10:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 10:2"/>“When this letter arrives, since your master’s sons are with you and you have chariots and horses, a fortified city and weaponry,<verse eid="2KI 10:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 10:3"/>select the best and most worthy son of your master, set him on his father’s throne, and fight for your master’s house.”<verse eid="2KI 10:3"/></para>
@@ -320,8 +320,8 @@
 <para style="p"><verse number="34" style="v" sid="2KI 10:34"/>As for the rest of the acts of Jehu, along with all his accomplishments and all his might, are they not written in the Book of the Chronicles of the Kings of Israel?<verse eid="2KI 10:34"/></para>
 <para style="p"><verse number="35" style="v" sid="2KI 10:35"/>And Jehu rested with his fathers and was buried in Samaria, and his son Jehoahaz reigned in his place.<verse eid="2KI 10:35"/></para>
 <para style="p"><verse number="36" style="v" sid="2KI 10:36"/>So the duration of Jehu’s reign over Israel in Samaria was twenty-eight years.<verse eid="2KI 10:36"/></para>
-<chapter eid="2KI 10"/>
-<chapter number="11" style="c" sid="2KI 11"/>
+<chapter eid="2KI 10" />
+<chapter number="11" style="c" sid="2KI 11" />
 <para style="p"><verse number="1" style="v" sid="2KI 11:1"/>When Athaliah the mother of Ahaziah saw that her son was dead, she proceeded to annihilate all the royal heirs.<verse eid="2KI 11:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 11:2"/>But Jehosheba daughter of King Joram, the sister of Ahaziah, took Joash son of Ahaziah and stole him away from among the sons of the king who were being murdered. She put him and his nurse in a bedroom to hide him from Athaliah, and he was not killed.<verse eid="2KI 11:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 11:3"/>And Joash remained hidden with his nurse in the house of the LORD for six years while Athaliah ruled the land.<verse eid="2KI 11:3"/></para>
@@ -343,8 +343,8 @@
 <para style="p"><verse number="19" style="v" sid="2KI 11:19"/>He took with him the commanders of hundreds, the Carites, the guards, and all the people of the land, and they brought the king down from the house of the LORD and entered the royal palace by way of the Gate of the Guards. Then Joash took his seat on the royal throne,<verse eid="2KI 11:19"/></para>
 <para style="p"><verse number="20" style="v" sid="2KI 11:20"/>and all the people of the land rejoiced. And the city was quiet, because Athaliah had been put to the sword at the royal palace.<verse eid="2KI 11:20"/></para>
 <para style="p"><verse number="21" style="v" sid="2KI 11:21"/>Joash was seven years old when he became king.<verse eid="2KI 11:21"/></para>
-<chapter eid="2KI 11"/>
-<chapter number="12" style="c" sid="2KI 12"/>
+<chapter eid="2KI 11" />
+<chapter number="12" style="c" sid="2KI 12" />
 <para style="p"><verse number="1" style="v" sid="2KI 12:1"/>In the seventh year of Jehu, Joash became king, and he reigned in Jerusalem forty years. His mother’s name was Zibiah; she was from Beersheba.<verse eid="2KI 12:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 12:2"/>And Joash did what was right in the eyes of the LORD all the days he was instructed by Jehoiada the priest.<verse eid="2KI 12:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 12:3"/>Nevertheless, the high places were not removed; the people continued sacrificing and burning incense there.<verse eid="2KI 12:3"/></para>
@@ -366,8 +366,8 @@
 <para style="p"><verse number="19" style="v" sid="2KI 12:19"/>As for the rest of the acts of Joash, along with all his accomplishments, are they not written in the Book of the Chronicles of the Kings of Judah?<verse eid="2KI 12:19"/></para>
 <para style="p"><verse number="20" style="v" sid="2KI 12:20"/>And the servants of Joash rose up and formed a conspiracy and killed him at Beth-millo, on the road down to Silla.<verse eid="2KI 12:20"/></para>
 <para style="p"><verse number="21" style="v" sid="2KI 12:21"/>His servants Jozabad son of Shimeath and Jehozabad son of Shomer struck him down, and he died. And they buried him with his fathers in the City of David, and his son Amaziah reigned in his place.<verse eid="2KI 12:21"/></para>
-<chapter eid="2KI 12"/>
-<chapter number="13" style="c" sid="2KI 13"/>
+<chapter eid="2KI 12" />
+<chapter number="13" style="c" sid="2KI 13" />
 <para style="p"><verse number="1" style="v" sid="2KI 13:1"/>In the twenty-third year of the reign of Joash son of Ahaziah over Judah, Jehoahaz son of Jehu became king of Israel, and he reigned in Samaria seventeen years.<verse eid="2KI 13:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 13:2"/>And he did evil in the sight of the LORD and followed the sins that Jeroboam son of Nebat had caused Israel to commit; he did not turn away from them.<verse eid="2KI 13:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 13:3"/>So the anger of the LORD burned against Israel, and He delivered them continually into the hands of Hazael king of Aram and his son Ben-hadad.<verse eid="2KI 13:3"/></para>
@@ -393,8 +393,8 @@
 <para style="p"><verse number="23" style="v" sid="2KI 13:23"/>But the LORD was gracious to Israel and had compassion on them, and He turned toward them because of His covenant with Abraham, Isaac, and Jacob. And to this day, the LORD has been unwilling to destroy them or cast them from His presence.<verse eid="2KI 13:23"/></para>
 <para style="p"><verse number="24" style="v" sid="2KI 13:24"/>When Hazael king of Aram died, his son Ben-hadad reigned in his place.<verse eid="2KI 13:24"/></para>
 <para style="p"><verse number="25" style="v" sid="2KI 13:25"/>Then Jehoash son of Jehoahaz took back from Ben-hadad son of Hazael the cities that Hazael had taken in battle from his father Jehoahaz. Jehoash defeated Ben-hadad three times, and so recovered the cities of Israel.<verse eid="2KI 13:25"/></para>
-<chapter eid="2KI 13"/>
-<chapter number="14" style="c" sid="2KI 14"/>
+<chapter eid="2KI 13" />
+<chapter number="14" style="c" sid="2KI 14" />
 <para style="p"><verse number="1" style="v" sid="2KI 14:1"/>In the second year of the reign of Jehoash son of Jehoahaz over Israel, Amaziah son of Joash became king of Judah.<verse eid="2KI 14:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 14:2"/>He was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Jehoaddan; she was from Jerusalem.<verse eid="2KI 14:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 14:3"/>And he did what was right in the eyes of the LORD, but not as his father David had done. He did everything as his father Joash had done.<verse eid="2KI 14:3"/></para>
@@ -424,8 +424,8 @@
 <para style="p"><verse number="27" style="v" sid="2KI 14:27"/>and since the LORD had said that He would not blot out the name of Israel from under heaven, He saved them by the hand of Jeroboam son of Jehoash.<verse eid="2KI 14:27"/></para>
 <para style="p"><verse number="28" style="v" sid="2KI 14:28"/>As for the rest of the acts of Jeroboam, along with all his accomplishments and might, and how he waged war and recovered both Damascus and Hamath for Israel from Judah, are they not written in the Book of the Chronicles of the Kings of Israel?<verse eid="2KI 14:28"/></para>
 <para style="p"><verse number="29" style="v" sid="2KI 14:29"/>And Jeroboam rested with his fathers, the kings of Israel. And his son Zechariah reigned in his place.<verse eid="2KI 14:29"/></para>
-<chapter eid="2KI 14"/>
-<chapter number="15" style="c" sid="2KI 15"/>
+<chapter eid="2KI 14" />
+<chapter number="15" style="c" sid="2KI 15" />
 <para style="p"><verse number="1" style="v" sid="2KI 15:1"/>In the twenty-seventh year of Jeroboam’s reign over Israel, Azariah son of Amaziah became king of Judah.<verse eid="2KI 15:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 15:2"/>He was sixteen years old when he became king, and he reigned in Jerusalem fifty-two years. His mother’s name was Jecoliah; she was from Jerusalem.<verse eid="2KI 15:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 15:3"/>And he did what was right in the eyes of the LORD, just as his father Amaziah had done.<verse eid="2KI 15:3"/></para>
@@ -464,8 +464,8 @@
 <para style="p"><verse number="36" style="v" sid="2KI 15:36"/>As for the rest of the acts of Jotham, along with his accomplishments, are they not written in the Book of the Chronicles of the Kings of Judah?<verse eid="2KI 15:36"/></para>
 <para style="p"><verse number="37" style="v" sid="2KI 15:37"/>(In those days the LORD began to send Rezin king of Aram and Pekah son of Remaliah against Judah.)<verse eid="2KI 15:37"/></para>
 <para style="p"><verse number="38" style="v" sid="2KI 15:38"/>And Jotham rested with his fathers and was buried with them in the City of David his father. And his son Ahaz reigned in his place.<verse eid="2KI 15:38"/></para>
-<chapter eid="2KI 15"/>
-<chapter number="16" style="c" sid="2KI 16"/>
+<chapter eid="2KI 15" />
+<chapter number="16" style="c" sid="2KI 16" />
 <para style="p"><verse number="1" style="v" sid="2KI 16:1"/>In the seventeenth year of Pekah son of Remaliah, Ahaz son of Jotham became king of Judah.<verse eid="2KI 16:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 16:2"/>Ahaz was twenty years old when he became king, and he reigned in Jerusalem sixteen years. And unlike David his father, he did not do what was right in the eyes of the LORD his God.<verse eid="2KI 16:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 16:3"/>Instead, he walked in the ways of the kings of Israel and even sacrificed his son in the fire, according to the abominations of the nations that the LORD had driven out before the Israelites.<verse eid="2KI 16:3"/></para>
@@ -486,8 +486,8 @@
 <para style="p"><verse number="18" style="v" sid="2KI 16:18"/>And on account of the king of Assyria, he removed the Sabbath canopy they had built in the temple and closed the royal entryway outside the house of the LORD.<verse eid="2KI 16:18"/></para>
 <para style="p"><verse number="19" style="v" sid="2KI 16:19"/>As for the rest of the acts of Ahaz, along with his accomplishments, are they not written in the Book of the Chronicles of the Kings of Judah?<verse eid="2KI 16:19"/></para>
 <para style="p"><verse number="20" style="v" sid="2KI 16:20"/>And Ahaz rested with his fathers and was buried with them in the City of David, and his son Hezekiah reigned in his place.<verse eid="2KI 16:20"/></para>
-<chapter eid="2KI 16"/>
-<chapter number="17" style="c" sid="2KI 17"/>
+<chapter eid="2KI 16" />
+<chapter number="17" style="c" sid="2KI 17" />
 <para style="p"><verse number="1" style="v" sid="2KI 17:1"/>In the twelfth year of the reign of Ahaz over Judah, Hoshea son of Elah became king of Israel, and he reigned in Samaria nine years.<verse eid="2KI 17:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 17:2"/>And he did evil in the sight of the LORD, but not like the kings of Israel who preceded him.<verse eid="2KI 17:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 17:3"/>Shalmaneser king of Assyria attacked him, and Hoshea became his vassal and paid him tribute.<verse eid="2KI 17:3"/></para>
@@ -529,8 +529,8 @@
 <para style="p"><verse number="39" style="v" sid="2KI 17:39"/>but worship the LORD your God, and He will deliver you from the hands of all your enemies.”<verse eid="2KI 17:39"/></para>
 <para style="p"><verse number="40" style="v" sid="2KI 17:40"/>But they would not listen, and they persisted in their former customs.<verse eid="2KI 17:40"/></para>
 <para style="p"><verse number="41" style="v" sid="2KI 17:41"/>So these nations worshiped the LORD but also served their idols, and to this day their children and grandchildren continue to do as their fathers did.<verse eid="2KI 17:41"/></para>
-<chapter eid="2KI 17"/>
-<chapter number="18" style="c" sid="2KI 18"/>
+<chapter eid="2KI 17" />
+<chapter number="18" style="c" sid="2KI 18" />
 <para style="p"><verse number="1" style="v" sid="2KI 18:1"/>In the third year of the reign of Hoshea son of Elah over Israel, Hezekiah son of Ahaz became king of Judah.<verse eid="2KI 18:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 18:2"/>He was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Abi, the daughter of Zechariah.<verse eid="2KI 18:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 18:3"/>And he did what was right in the eyes of the LORD, just as his father David had done.<verse eid="2KI 18:3"/></para>
@@ -568,8 +568,8 @@
 <para style="p"><verse number="35" style="v" sid="2KI 18:35"/>Who among all the gods of these lands has delivered his land from my hand? How then can the LORD deliver Jerusalem from my hand?”<verse eid="2KI 18:35"/></para>
 <para style="p"><verse number="36" style="v" sid="2KI 18:36"/>But the people remained silent and did not answer a word, for Hezekiah had commanded, “Do not answer him.”<verse eid="2KI 18:36"/></para>
 <para style="p"><verse number="37" style="v" sid="2KI 18:37"/>Then Hilkiah’s son Eliakim the palace administrator, Shebna the scribe, and Asaph’s son Joah the recorder came to Hezekiah with their clothes torn, and they relayed to him the words of the Rabshakeh.<verse eid="2KI 18:37"/></para>
-<chapter eid="2KI 18"/>
-<chapter number="19" style="c" sid="2KI 19"/>
+<chapter eid="2KI 18" />
+<chapter number="19" style="c" sid="2KI 19" />
 <para style="p"><verse number="1" style="v" sid="2KI 19:1"/>On hearing this report, King Hezekiah tore his clothes, put on sackcloth, and entered the house of the LORD.<verse eid="2KI 19:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 19:2"/>And he sent Eliakim the palace administrator, Shebna the scribe, and the leading priests, all wearing sackcloth, to the prophet Isaiah son of Amoz<verse eid="2KI 19:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 19:3"/>to tell him, “This is what Hezekiah says: Today is a day of distress, rebuke, and disgrace; for children have come to the point of birth, but there is no strength to deliver them.<verse eid="2KI 19:3"/></para>
@@ -607,8 +607,8 @@
 <para style="p"><verse number="35" style="v" sid="2KI 19:35"/>And that very night the angel of the LORD went out and struck down 185,000 men in the camp of the Assyrians. When the people got up the next morning, there were all the dead bodies!<verse eid="2KI 19:35"/></para>
 <para style="p"><verse number="36" style="v" sid="2KI 19:36"/>So Sennacherib king of Assyria broke camp and withdrew. He returned to Nineveh and stayed there.<verse eid="2KI 19:36"/></para>
 <para style="p"><verse number="37" style="v" sid="2KI 19:37"/>One day, while he was worshiping in the temple of his god Nisroch, his sons Adrammelech and Sharezer put him to the sword and escaped to the land of Ararat. And his son Esar-haddon reigned in his place.<verse eid="2KI 19:37"/></para>
-<chapter eid="2KI 19"/>
-<chapter number="20" style="c" sid="2KI 20"/>
+<chapter eid="2KI 19" />
+<chapter number="20" style="c" sid="2KI 20" />
 <para style="p"><verse number="1" style="v" sid="2KI 20:1"/>In those days Hezekiah became mortally ill. The prophet Isaiah son of Amoz came to him and said, “This is what the LORD says: ‘Put your house in order, for you are about to die; you will not recover.’”<verse eid="2KI 20:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 20:2"/>Then Hezekiah turned his face to the wall and prayed to the LORD, saying,<verse eid="2KI 20:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 20:3"/>“Please, O LORD, remember how I have walked before You faithfully and with wholehearted devotion; I have done what is good in Your sight.” And Hezekiah wept bitterly.<verse eid="2KI 20:3"/></para>
@@ -630,8 +630,8 @@
 <para style="p"><verse number="19" style="v" sid="2KI 20:19"/>But Hezekiah said to Isaiah, “The word of the LORD that you have spoken is good.” For he thought, “Will there not at least be peace and security in my lifetime?”<verse eid="2KI 20:19"/></para>
 <para style="p"><verse number="20" style="v" sid="2KI 20:20"/>As for the rest of the acts of Hezekiah, along with all his might and how he constructed the pool and the tunnel to bring water into the city, are they not written in the Book of the Chronicles of the Kings of Judah?<verse eid="2KI 20:20"/></para>
 <para style="p"><verse number="21" style="v" sid="2KI 20:21"/>And Hezekiah rested with his fathers, and his son Manasseh reigned in his place.<verse eid="2KI 20:21"/></para>
-<chapter eid="2KI 20"/>
-<chapter number="21" style="c" sid="2KI 21"/>
+<chapter eid="2KI 20" />
+<chapter number="21" style="c" sid="2KI 21" />
 <para style="p"><verse number="1" style="v" sid="2KI 21:1"/>Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years. His mother’s name was Hephzibah.<verse eid="2KI 21:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 21:2"/>And he did evil in the sight of the LORD by following the abominations of the nations that the LORD had driven out before the Israelites.<verse eid="2KI 21:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 21:3"/>For he rebuilt the high places that his father Hezekiah had destroyed, and he raised up altars for Baal. He made an Asherah pole, as King Ahab of Israel had done, and he worshiped and served all the host of heaven.<verse eid="2KI 21:3"/></para>
@@ -658,8 +658,8 @@
 <para style="p"><verse number="24" style="v" sid="2KI 21:24"/>But the people of the land killed all those who had conspired against King Amon, and they made his son Josiah king in his place.<verse eid="2KI 21:24"/></para>
 <para style="p"><verse number="25" style="v" sid="2KI 21:25"/>As for the rest of the acts of Amon, along with his accomplishments, are they not written in the Book of the Chronicles of the Kings of Judah?<verse eid="2KI 21:25"/></para>
 <para style="p"><verse number="26" style="v" sid="2KI 21:26"/>And he was buried in his tomb in the garden of Uzza, and his son Josiah reigned in his place.<verse eid="2KI 21:26"/></para>
-<chapter eid="2KI 21"/>
-<chapter number="22" style="c" sid="2KI 22"/>
+<chapter eid="2KI 21" />
+<chapter number="22" style="c" sid="2KI 22" />
 <para style="p"><verse number="1" style="v" sid="2KI 22:1"/>Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years. His mother’s name was Jedidah daughter of Adaiah; she was from Bozkath.<verse eid="2KI 22:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 22:2"/>And he did what was right in the eyes of the LORD and walked in all the ways of his father David; he did not turn aside to the right or to the left.<verse eid="2KI 22:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 22:3"/>Now in the eighteenth year of his reign, King Josiah sent the scribe, Shaphan son of Azaliah, the son of Meshullam, to the house of the LORD, saying,<verse eid="2KI 22:3"/></para>
@@ -680,8 +680,8 @@
 <para style="p"><verse number="18" style="v" sid="2KI 22:18"/>But as for the king of Judah, who sent you to inquire of the LORD, tell him that this is what the LORD, the God of Israel, says: ‘As for the words that you heard,<verse eid="2KI 22:18"/></para>
 <para style="p"><verse number="19" style="v" sid="2KI 22:19"/>because your heart was tender and you humbled yourself before the LORD when you heard what I spoke against this place and against its people, that they would become a desolation and a curse, and because you have torn your clothes and wept before Me, I have heard you,’ declares the LORD.<verse eid="2KI 22:19"/></para>
 <para style="p"><verse number="20" style="v" sid="2KI 22:20"/>‘Therefore I will indeed gather you to your fathers, and you will be gathered to your grave in peace. Your eyes will not see all the calamity that I will bring on this place.’” So they brought her answer back to the king.<verse eid="2KI 22:20"/></para>
-<chapter eid="2KI 22"/>
-<chapter number="23" style="c" sid="2KI 23"/>
+<chapter eid="2KI 22" />
+<chapter number="23" style="c" sid="2KI 23" />
 <para style="p"><verse number="1" style="v" sid="2KI 23:1"/>Then the king summoned all the elders of Judah and Jerusalem.<verse eid="2KI 23:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 23:2"/>And he went up to the house of the LORD with all the people of Judah and Jerusalem, as well as the priests and the prophets—all the people small and great—and in their hearing he read all the words of the Book of the Covenant that had been found in the house of the LORD.<verse eid="2KI 23:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 23:3"/>So the king stood by the pillar and made a covenant before the LORD to follow the LORD and to keep His commandments, decrees, and statutes with all his heart and all his soul, and to carry out the words of the covenant that were written in this book. And all the people entered into the covenant.<verse eid="2KI 23:3"/></para>
@@ -719,8 +719,8 @@
 <para style="p"><verse number="35" style="v" sid="2KI 23:35"/>So Jehoiakim paid the silver and gold to Pharaoh Neco, but to meet Pharaoh’s demand he taxed the land and exacted the silver and the gold from the people, each according to his wealth.<verse eid="2KI 23:35"/></para>
 <para style="p"><verse number="36" style="v" sid="2KI 23:36"/>Jehoiakim was twenty-five years old when he became king, and he reigned in Jerusalem eleven years. His mother’s name was Zebidah daughter of Pedaiah; she was from Rumah.<verse eid="2KI 23:36"/></para>
 <para style="p"><verse number="37" style="v" sid="2KI 23:37"/>And he did evil in the sight of the LORD, just as his fathers had done.<verse eid="2KI 23:37"/></para>
-<chapter eid="2KI 23"/>
-<chapter number="24" style="c" sid="2KI 24"/>
+<chapter eid="2KI 23" />
+<chapter number="24" style="c" sid="2KI 24" />
 <para style="p"><verse number="1" style="v" sid="2KI 24:1"/>During Jehoiakim’s reign, Nebuchadnezzar king of Babylon invaded. So Jehoiakim became his vassal for three years, until he turned and rebelled against Nebuchadnezzar.<verse eid="2KI 24:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 24:2"/>And the LORD sent Chaldean, Aramean, Moabite, and Ammonite raiders against Jehoiakim in order to destroy Judah, according to the word that the LORD had spoken through His servants the prophets.<verse eid="2KI 24:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 24:3"/>Surely this happened to Judah at the LORD’s command, to remove them from His presence because of the sins of Manasseh and all that he had done,<verse eid="2KI 24:3"/></para>
@@ -741,8 +741,8 @@
 <para style="p"><verse number="18" style="v" sid="2KI 24:18"/>Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. His mother’s name was Hamutal daughter of Jeremiah; she was from Libnah.<verse eid="2KI 24:18"/></para>
 <para style="p"><verse number="19" style="v" sid="2KI 24:19"/>And Zedekiah did evil in the sight of the LORD, just as Jehoiakim had done.<verse eid="2KI 24:19"/></para>
 <para style="p"><verse number="20" style="v" sid="2KI 24:20"/>For because of the anger of the LORD, all this happened in Jerusalem and Judah, until He finally banished them from His presence. And Zedekiah also rebelled against the king of Babylon.<verse eid="2KI 24:20"/></para>
-<chapter eid="2KI 24"/>
-<chapter number="25" style="c" sid="2KI 25"/>
+<chapter eid="2KI 24" />
+<chapter number="25" style="c" sid="2KI 25" />
 <para style="p"><verse number="1" style="v" sid="2KI 25:1"/>So in the ninth year of Zedekiah’s reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his entire army. They encamped outside the city and built a siege wall all around it.<verse eid="2KI 25:1"/></para>
 <para style="p"><verse number="2" style="v" sid="2KI 25:2"/>And the city was kept under siege until King Zedekiah’s eleventh year.<verse eid="2KI 25:2"/></para>
 <para style="p"><verse number="3" style="v" sid="2KI 25:3"/>By the ninth day of the fourth month, the famine in the city was so severe that the people of the land had no food.<verse eid="2KI 25:3"/></para>
@@ -773,5 +773,5 @@
 <para style="p"><verse number="28" style="v" sid="2KI 25:28"/>And he spoke kindly to Jehoiachin and set his throne above the thrones of the other kings who were with him in Babylon.<verse eid="2KI 25:28"/></para>
 <para style="p"><verse number="29" style="v" sid="2KI 25:29"/>So Jehoiachin changed out of his prison clothes, and he dined regularly at the king’s table for the rest of his life.<verse eid="2KI 25:29"/></para>
 <para style="p"><verse number="30" style="v" sid="2KI 25:30"/>And the king provided Jehoiachin a daily portion for the rest of his life.<verse eid="2KI 25:30"/></para>
-<chapter eid="2KI 25"/>
+<chapter eid="2KI 25" />
 </usx>
